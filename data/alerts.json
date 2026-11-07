@@ -1,11 +1,41 @@
 {
- "updatedAt": "2026-11-07T20:17:42.658Z",
+ "updatedAt": "2026-11-07T21:18:48.638Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "against agsu interest protests public stages statewide where",
+    "type": "arancel",
+    "title": "Where is public interest : AGSU stages statewide protests against electricity tariff hike in Assam",
+    "url": "http://www.indiagazette.com/news/279418497/where-is-public-interest-agsu-stages-statewide-protests-against-electricity-tariff-hike-in-assam",
+    "domain": "indiagazette.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-07T18:30:00Z",
+    "countries": [],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "alcohol companies flying from high midterms stocks tariff",
+    "type": "arancel",
+    "title": "From high - flying AI stocks to tariff - hit alcohol companies , the midterms shook up Wall Street",
+    "url": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
+    "domain": "abcnews.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T18:00:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "back chinese chip european firm past slips through",
     "type": "sancion",
@@ -26,18 +56,18 @@
     "severity": "alta"
    },
    {
-    "id": "alcohol companies flying from high midterms stocks tariff",
+    "id": "lawmakers reverse tariffs trump",
     "type": "arancel",
-    "title": "From high - flying AI stocks to tariff - hit alcohol companies , the midterms shook up Wall Street",
-    "url": "https://www.clickondetroit.com/news/politics/2026/11/07/from-high-flying-ai-stocks-to-tariff-hit-alcohol-companies-the-midterms-shook-up-wall-street/",
-    "domain": "clickondetroit.com",
+    "title": "U . S . lawmakers vow to reverse Trump tariffs",
+    "url": "http://www.torontotelegraph.com/news/279418267/us-lawmakers-vow-to-reverse-trump-tariffs",
+    "domain": "torontotelegraph.com",
     "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-07T17:00:00Z",
-    "countries": [],
-    "sectors": [
-     "tech"
+    "sourceCountry": "Canada",
+    "at": "2026-11-07T16:00:00Z",
+    "countries": [
+     "US"
     ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -51,21 +81,6 @@
     "at": "2026-11-07T16:00:00Z",
     "countries": [
      "IR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "lawmakers reverse tariffs trump",
-    "type": "arancel",
-    "title": "U . S . lawmakers vow to reverse Trump tariffs",
-    "url": "http://www.torontotelegraph.com/news/279418267/us-lawmakers-vow-to-reverse-trump-tariffs",
-    "domain": "torontotelegraph.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-07T16:00:00Z",
-    "countries": [
-     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -294,12 +309,14 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: fetch failed",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: fetch failed",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
