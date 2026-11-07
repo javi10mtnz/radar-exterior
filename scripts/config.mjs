@@ -73,8 +73,11 @@ export const ALERT_QUERIES = {
   logistica: '("port strike" OR "shipping disruption" OR "freight rates" OR "container shipping" OR "red sea shipping" OR "huelga portuaria" OR fletes)',
   regulacion: '("trade agreement" OR "free trade" OR "customs rules" OR "import ban" OR "export ban" OR "acuerdo comercial" OR "prohibición de importación")',
   divisa: '("currency plunges" OR "currency slumps" OR devaluation OR "exchange rate" OR devaluación OR "tipo de cambio")',
-  geo: '("trade war" OR "supply chain" OR blockade OR "guerra comercial" OR "cadena de suministro")',
+  geo: '("trade war" OR "trade tensions" OR "supply chain disruption" OR "trade restrictions" OR blockade OR "guerra comercial" OR "tensiones comerciales")',
 };
+
+// Una alerta solo se publica si el titular habla de comercio, aduanas, logística, sanciones o divisas.
+export const TRADE_KW = ["tariff", "arancel", "export", "import", "trade", "comerci", "sanction", "sancion", "embargo", "customs", "aduan", "duty", "duties", "dumping", "shipping", "freight", "flete", "port ", "ports", "puerto", "cargo", "carga", "supply chain", "suministro", "currency", "divisa", "exchange rate", "tipo de cambio", "devalu", "peso", "lira", "yuan", "rupee", "dólar", "dollar", "wto", "omc", "free trade", "libre comercio", "quota", "cuota", "ban ", "prohib", "veto"];
 
 // Palabras que suben la importancia de una alerta.
 export const HIGH_IMPACT = ["new tariff", "raises tariff", "tariff hike", "eleva los aranceles", "sube los aranceles", "record low", "mínimo histórico", "new sanctions", "nuevas sanciones", "ban", "prohib", "embargo", "sanction", "sancion", "strike", "huelga", "closure", "cierre", "100%", "50%", "25%", "suspend", "suspende", "blockade", "bloqueo", "retaliat", "represalia"];

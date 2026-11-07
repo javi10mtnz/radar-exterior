@@ -1,7 +1,10 @@
 // Alertas de comercio exterior a partir de noticias de todo el mundo (GDELT DOC 2.0). Gratis y sin clave.
 // GDELT se actualiza cada 15 minutos. Pide no lanzar más de una consulta cada 5 segundos.
-import { fetchJson, sleep, detectCountries, detectSectors, severity, titleKey, readJson } from "../lib.mjs";
-import { ALERT_QUERIES } from "../config.mjs";
+import { fetchJson, sleep, detectCountries, detectSectors, severity, titleKey, readJson, makeMatcher } from "../lib.mjs";
+import { ALERT_QUERIES, TRADE_KW } from "../config.mjs";
+
+const isTrade = makeMatcher(TRADE_KW);
+const PER_TYPE = 80;
 
 export const meta = {
   file: "alerts.json",
@@ -79,8 +82,10 @@ export async function run({ dataDir }) {
       seen.add(a.url);
       return true;
     })
-    // Solo nos quedamos con noticias que podemos ubicar en al menos un país o sector.
-    .filter((a) => a.countries.length || a.sectors.length)
+    // Solo noticias de comercio exterior ubicables en un país (o en un sector, salvo geopolítica).
+    .filter((a) => isTrade(a.title) && (a.countries.length || (a.type !== "geo" && a.sectors.length)))
+    // Reparto equilibrado: como mucho PER_TYPE por tipo, para que un tema no tape al resto.
+    .filter(((n) => (a) => (n[a.type] = (n[a.type] || 0) + 1) <= PER_TYPE)({}))
     .slice(0, MAX_ALERTS);
 
   return { items, partialErrors: errors };

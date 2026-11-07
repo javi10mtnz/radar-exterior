@@ -60,6 +60,10 @@ const countryRx = COUNTRIES.map((c) => ({ iso2: c.iso2, rx: c.kw.map(kwRegex) })
 const sectorRx = SECTORS.map((s) => ({ id: s.id, rx: s.kw.map(kwRegex) }));
 const highRx = HIGH_IMPACT.map(kwRegex);
 
+export function makeMatcher(list) {
+  const rx = list.map(kwRegex);
+  return (text) => rx.some((r) => r.test(text));
+}
 export function detectCountries(text) {
   return countryRx.filter((c) => c.rx.some((r) => r.test(text))).map((c) => c.iso2);
 }
