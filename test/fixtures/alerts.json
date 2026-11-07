@@ -1,0 +1,301 @@
+{
+ "updatedAt": "2026-11-06T15:30:45.467Z",
+ "file": "alerts.json",
+ "source": "GDELT Project (noticias de todo el mundo)",
+ "sourceUrl": "https://www.gdeltproject.org/",
+ "refresh": "Cada 15–30 minutos",
+ "data": {
+  "items": [
+   {
+    "id": "european olive olives table tariffs weighs",
+    "type": "arancel",
+    "title": "US weighs new tariffs on European olive oil and table olives",
+    "url": "https://example.com/arancel/0",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T14:42:45Z",
+    "countries": [
+     "US",
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "adopts against package russia sanctions shipping targeting",
+    "type": "sancion",
+    "title": "EU adopts new sanctions package against Russia targeting shipping",
+    "url": "https://example.com/sancion/0",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T14:42:45Z",
+    "countries": [
+     "RU",
+     "EU"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "cargo delays port refrigerated strike tanger",
+    "type": "logistica",
+    "title": "Port strike at Tanger Med delays refrigerated cargo",
+    "url": "https://example.com/logistica/0",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T14:42:45Z",
+    "countries": [
+     "MA"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "agreement clears mercosur trade vote",
+    "type": "regulacion",
+    "title": "EU and Mercosur trade agreement clears key vote",
+    "url": "https://example.com/regulacion/0",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T14:42:45Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "against euro lira record slumps turkish",
+    "type": "divisa",
+    "title": "Turkish lira slumps to record low against euro",
+    "url": "https://example.com/divisa/0",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T14:42:45Z",
+    "countries": [
+     "TR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china chips fears over rise threats trade trade",
+    "type": "geo",
+    "title": "Trade war fears rise as US and China trade threats over chips",
+    "url": "https://example.com/geo/0",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T14:42:45Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "acero aranceles eleva importaciones mexico paises tratado",
+    "type": "arancel",
+    "title": "México eleva los aranceles a importaciones de acero de países sin tratado",
+    "url": "https://example.com/arancel/1",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T09:42:45Z",
+    "countries": [
+     "MX"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "adds iran list ofac over sanctions tankers trade",
+    "type": "sancion",
+    "title": "OFAC adds 18 tankers to sanctions list over Iran oil trade",
+    "url": "https://example.com/sancion/1",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T09:42:45Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "container disruption freight high keeps rates shipping",
+    "type": "logistica",
+    "title": "Red Sea shipping disruption keeps container freight rates high",
+    "url": "https://example.com/logistica/1",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T09:42:45Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "border checks dairy extends imports meat",
+    "type": "regulacion",
+    "title": "UK extends border checks on EU meat and dairy imports",
+    "url": "https://example.com/regulacion/1",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T09:42:45Z",
+    "countries": [
+     "GB",
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "after bank central exchange jumps mexican peso rate",
+    "type": "divisa",
+    "title": "Mexican peso exchange rate jumps after central bank decision",
+    "url": "https://example.com/divisa/1",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T09:42:45Z",
+    "countries": [
+     "MX"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "batteries chain germany lithium supply tightens",
+    "type": "geo",
+    "title": "Supply chain for lithium batteries tightens in Germany",
+    "url": "https://example.com/geo/1",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T09:42:45Z",
+    "countries": [
+     "DE"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "anti china dumping duties extends five more pork",
+    "type": "arancel",
+    "title": "China extends anti-dumping duties on EU pork for five more years",
+    "url": "https://example.com/arancel/2",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T04:42:45Z",
+    "countries": [
+     "CN",
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "china controls expands export gallium germanium",
+    "type": "sancion",
+    "title": "China expands export controls on gallium and germanium",
+    "url": "https://example.com/sancion/2",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T04:42:45Z",
+    "countries": [
+     "CN",
+     "DE"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "amenaza contenedores envios huelga portuaria rotterdam",
+    "type": "logistica",
+    "title": "Huelga portuaria en Rotterdam amenaza los envíos de contenedores",
+    "url": "https://example.com/logistica/2",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T04:42:45Z",
+    "countries": [
+     "NL"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "acuerdo agricolas amplian chile comercial europea productos union",
+    "type": "regulacion",
+    "title": "Chile y la Unión Europea amplían el acuerdo comercial a productos agrícolas",
+    "url": "https://example.com/regulacion/2",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-06T04:42:45Z",
+    "countries": [
+     "CL",
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "considers cutting duty european import india wine",
+    "type": "arancel",
+    "title": "India considers cutting import duty on European wine",
+    "url": "https://example.com/arancel/3",
+    "domain": "example.com",
+    "lang": "en",
+    "sourceCountry": "Spain",
+    "at": "2026-11-05T23:42:45Z",
+    "countries": [
+     "IN",
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "media"
+   }
+  ],
+  "partialErrors": []
+ },
+ "_prueba": "Datos inventados para desarrollo"
+}

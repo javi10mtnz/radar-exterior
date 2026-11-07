@@ -1,0 +1,108 @@
+{
+ "updatedAt": "2026-11-06T15:30:45.469Z",
+ "file": "tenders.json",
+ "source": "TED – Tenders Electronic Daily (Oficina de Publicaciones de la UE)",
+ "sourceUrl": "https://ted.europa.eu/",
+ "refresh": "Diaria (TED publica de lunes a viernes)",
+ "data": {
+  "scanned": 6,
+  "items": [
+   {
+    "id": "700002-2026",
+    "title": "Fourniture de viande et charcuterie",
+    "buyer": "Organismo de prueba",
+    "country": "FRA",
+    "countryName": "Francia",
+    "countryIso2": "FR",
+    "cpv": [
+     "15100000"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-05",
+    "deadline": "2026-12-01",
+    "value": 1200000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/700002-2026"
+   },
+   {
+    "id": "700001-2026",
+    "title": "Suministro de aceite de oliva para comedores escolares",
+    "buyer": "Organismo de prueba",
+    "country": "ESP",
+    "countryName": "España",
+    "countryIso2": null,
+    "cpv": [
+     "15411100"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-05",
+    "deadline": "2026-11-26",
+    "value": 420000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/700001-2026"
+   },
+   {
+    "id": "700005-2026",
+    "title": "Paneles fotovoltaicos para edificios públicos",
+    "buyer": "Organismo de prueba",
+    "country": "PRT",
+    "countryName": "Portugal",
+    "countryIso2": "PT",
+    "cpv": [
+     "09331200"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-05",
+    "deadline": "2026-11-24",
+    "value": 650000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/700005-2026"
+   },
+   {
+    "id": "700003-2026",
+    "title": "Lieferung von Elektrofahrzeugen",
+    "buyer": "Organismo de prueba",
+    "country": "DEU",
+    "countryName": "Alemania",
+    "countryIso2": "DE",
+    "cpv": [
+     "34144900"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-05",
+    "deadline": "2026-12-06",
+    "value": 3500000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/700003-2026"
+   },
+   {
+    "id": "700004-2026",
+    "title": "Servizi di trasporto merci su strada",
+    "buyer": "Organismo de prueba",
+    "country": "ITA",
+    "countryName": "Italia",
+    "countryIso2": "IT",
+    "cpv": [
+     "60161000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-05",
+    "deadline": "2026-11-21",
+    "value": 900000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/700004-2026"
+   }
+  ]
+ },
+ "_prueba": "Datos inventados para desarrollo"
+}

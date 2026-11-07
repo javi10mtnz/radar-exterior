@@ -1,0 +1,20 @@
+{
+  "name": "radar-exterior",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Comercio exterior en tiempo real, en abierto",
+  "scripts": {
+    "fetch": "node scripts/fetch-all.mjs",
+    "build": "node scripts/build.mjs",
+    "update": "node scripts/fetch-all.mjs && node scripts/build.mjs",
+    "demo": "node scripts/build.mjs --fixtures",
+    "serve": "npx --yes serve@14.2.4 dist -l 4321"
+  },
+  "engines": { "node": ">=20" },
+  "devDependencies": {
+    "@fontsource/archivo-narrow": "5.1.0",
+    "@fontsource/ibm-plex-mono": "5.1.0",
+    "@fontsource/ibm-plex-sans": "5.1.0"
+  }
+}
