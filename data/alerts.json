@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T15:21:30.959Z",
+ "updatedAt": "2026-11-07T16:19:52.544Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,8 +7,23 @@
  "data": {
   "items": [
    {
+    "id": "based force iran land launches military restrict task",
+    "type": "geo",
+    "title": "U . S . Military Launches Task Force to Restrict Iran Land - Based Arms Trade",
+    "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-07/ty-article/u-s-military-launches-task-force-to-restrict-irans-land-based-arms-trade/000001a1-b663-d146-ada9-fe7f731f0000",
+    "domain": "haaretz.com",
+    "lang": "en",
+    "sourceCountry": "Israel",
+    "at": "2026-11-07T16:00:00Z",
+    "countries": [
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "alleged chinese cuba firms military over sanctions supplies",
-    "type": "sancion",
+    "type": "geo",
     "title": "US sanctions Chinese firms over alleged military supplies to Cuba",
     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/07/us-sanctions-chinese-firms-over-alleged-military-supplies-to-cuba",
     "domain": "thestar.com.my",
@@ -72,6 +87,36 @@
     "severity": "alta"
    },
    {
+    "id": "driven economy exports federal govt production pushes",
+    "type": "regulacion",
+    "title": "Federal Govt Pushes Production - Driven Economy As Non - Oil Exports Hit $6 . 1bn",
+    "url": "https://leadership.ng/federal-govt-pushes-production-driven-economy-as-non-oil-exports-hit-6-1bn/",
+    "domain": "leadership.ng",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-07T06:00:00Z",
+    "countries": [],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "china free loved started trade until west winning",
+    "type": "regulacion",
+    "title": "The West Loved Free Trade Until China Started Winning",
+    "url": "https://countercurrents.org/2026/11/the-west-loved-free-trade-until-china-started-winning/",
+    "domain": "countercurrents.org",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-07T06:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "alleged canadian eight financial firms iran over sanctions",
     "type": "sancion",
     "title": "US Sanctions Eight Canadian Firms Over Alleged Iran Financial .",
@@ -87,6 +132,23 @@
     ],
     "sectors": [],
     "severity": "alta"
+   },
+   {
+    "id": "canada carney free move restore says trade welcomes",
+    "type": "regulacion",
+    "title": "Carney says Canada welcomes any move to restore free trade after U . S . midterms",
+    "url": "https://www.therecord.com/news/canada/carney-says-canada-welcomes-any-moves-to-restore-free-trade-after-u-s-midterms/article_ba67c321-72e6-54d3-9334-e49385e7d776.html",
+    "domain": "therecord.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-07T02:00:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
    },
    {
     "id": "alleged canadian crypto iran money over sanctions services",
@@ -121,23 +183,6 @@
     "severity": "media"
    },
    {
-    "id": "canada carney free move restore says trade welcomes",
-    "type": "geo",
-    "title": "Carney says Canada welcomes any move to restore free trade after U . S . midterms",
-    "url": "https://www.therecord.com/news/canada/carney-says-canada-welcomes-any-moves-to-restore-free-trade-after-u-s-midterms/article_ba67c321-72e6-54d3-9334-e49385e7d776.html",
-    "domain": "therecord.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-07T02:00:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "announces fresh iran related sanctions says states united",
     "type": "sancion",
     "title": "United States announces fresh Iran - related sanctions , says Treasury Dept",
@@ -156,11 +201,11 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
