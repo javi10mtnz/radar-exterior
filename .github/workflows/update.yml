@@ -1,0 +1,76 @@
+# Cada 30 minutos: descarga los datos, regenera el sitio y lo publica.
+name: Actualizar y publicar
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths-ignore: ["data/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      HAS_FTP: ${{ secrets.FTP_SERVER != '' }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Descargar datos
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: node scripts/fetch-all.mjs
+
+      - name: Guardar datos en el repositorio
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Datos $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push || echo "No se pudo guardar el histórico"
+
+      - name: Generar sitio
+        env:
+          SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+        run: node scripts/build.mjs
+
+      - name: Publicar en el hosting por FTP
+        if: env.HAS_FTP == 'true'
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./dist/
+          server-dir: ${{ vars.FTP_DIR || './public_html/' }}
+
+      - if: env.HAS_FTP != 'true'
+        uses: actions/configure-pages@v5
+      - if: env.HAS_FTP != 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: deploy
+        if: env.HAS_FTP != 'true'
+        uses: actions/deploy-pages@v4
