@@ -1,0 +1,504 @@
+{
+ "updatedAt": "2026-11-07T11:41:38.367Z",
+ "file": "alerts.json",
+ "source": "GDELT Project (noticias de todo el mundo)",
+ "sourceUrl": "https://www.gdeltproject.org/",
+ "refresh": "Cada 15–30 minutos",
+ "data": {
+  "items": [
+   {
+    "id": "cycle have india investment jefferies peaked raises warns",
+    "type": "geo",
+    "title": "AI investment cycle may have peaked , Jefferies warns ; raises India allocation to 14 %",
+    "url": "http://www.hongkongherald.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14",
+    "domain": "hongkongherald.com",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-07T11:30:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "iran leaders mediator proposals strikes targeted tehran weigh",
+    "type": "geo",
+    "title": "US in new targeted strikes on Iran as Tehran leaders weigh mediator proposals",
+    "url": "https://www.naharnet.com/stories/en/323622-us-in-new-targeted-strikes-on-iran-as-tehran-leaders-weigh-mediator-s-proposals",
+    "domain": "naharnet.com",
+    "lang": "en",
+    "sourceCountry": "Syria",
+    "at": "2026-11-07T11:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "across expands leaf network north rail treatment wales",
+    "type": "geo",
+    "title": "Network Rail expands leaf treatment across North Wales | Denbighshire Free Press",
+    "url": "https://www.denbighshirefreepress.co.uk/news/26706327.network-rail-expands-leaf-treatment-across-north-wales/",
+    "domain": "denbighshirefreepress.co.uk",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-07T11:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "amid defense donald iran minute proposal trump weighs",
+    "type": "geo",
+    "title": "Donald Trump weighs Iran proposal amid 15 - minute air defense strikes Details Of Iran New Nuclear Proposal To The United States",
+    "url": "https://www.el-balad.com/17064708",
+    "domain": "el-balad.com",
+    "lang": "en",
+    "sourceCountry": "Egypt",
+    "at": "2026-11-07T11:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "after america midterm rout struggles trumpism trust world",
+    "type": "geo",
+    "title": "After the US midterm rout of Trumpism , the world struggles to trust America again",
+    "url": "https://www.durangoherald.com/articles/associated-press/after-the-us-midterm-rout-of-trumpism-the-world-struggles-to-trust-america-again/",
+    "domain": "durangoherald.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T11:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china destination economic favored long remains term watch",
+    "type": "geo",
+    "title": "Economic Watch : China remains favored destination for long - term foreign investment",
+    "url": "http://www.nepalnational.com/news/279415711/economic-watch-china-remains-favored-destination-for-long-term-foreign-investment",
+    "domain": "nepalnational.com",
+    "lang": "en",
+    "sourceCountry": "Nepal",
+    "at": "2026-11-07T11:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "becoming china ciie global innovation interview markets source",
+    "type": "geo",
+    "title": "( CIIE ) Interview : China becoming key source of innovation for global markets , says executive of German firm",
+    "url": "http://www.bignewsnetwork.com/news/279418389/ciie-interview-china-becoming-key-source-of-innovation-for-global-markets-says-executive-of-german-firm",
+    "domain": "bignewsnetwork.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T11:30:00Z",
+    "countries": [
+     "CN",
+     "DE"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "alucast casting casting deburring exhibit pressure solutions technocrats",
+    "type": "geo",
+    "title": "Technocrats Die Casting to Exhibit Pressure Die Casting , CNC & Deburring Solutions at ALUCAST 2026 in New Delhi",
+    "url": "http://www.bignewsnetwork.com/news/279418325/technocrats-die-casting-to-exhibit-pressure-die-casting-cnc-deburring-solutions-at-alucast-2026-in-new-delhi",
+    "domain": "bignewsnetwork.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T11:30:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "campus emergency event palantir sankar shyam state undeclared",
+    "type": "geo",
+    "title": "Undeclared State of Emergency : In On - Campus Event , Palantir CTO Shyam Sankar 03 Discusses American Military Deterrence , Role of Private Sector in Defense",
+    "url": "https://www.cornellsun.com/article/2026/11/undeclared-state-of-emergency-in-on-campus-event-palantir-cto-shyam-sankar-03-discusses-american-military-deterrence-role-of-private-sector-in-defense",
+    "domain": "cornellsun.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T10:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "between continue efforts escalation iran mediation prevent qatar",
+    "type": "geo",
+    "title": "Mediation efforts between US , Iran continue to prevent escalation : Qatar",
+    "url": "https://www.omanobserver.om/article/1199233/world/region/mediation-efforts-between-us-iran-continue-to-prevent-escalation-qatar",
+    "domain": "omanobserver.om",
+    "lang": "en",
+    "sourceCountry": "Oman",
+    "at": "2026-11-07T10:00:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "27trn cylinders flush investment moves unsafe with",
+    "type": "geo",
+    "title": "FG moves to flush out unsafe gas cylinders with N2 . 27trn investment",
+    "url": "https://thesun.ng/fg-moves-to-flush-out-unsafe-gas-cylinders-with-n2-27trn-investment/",
+    "domain": "thesun.ng",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-07T10:00:00Z",
+    "countries": [],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "hardliners iran more trump want weakened",
+    "type": "geo",
+    "title": "Iran hardliners see a weakened Trump – and want more to end the war",
+    "url": "https://www.egyptindependent.com/irans-hardliners-see-a-weakened-trump-and-want-more-to-end-the-war/",
+    "domain": "egyptindependent.com",
+    "lang": "en",
+    "sourceCountry": "Egypt",
+    "at": "2026-11-07T10:00:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "iran nuclear official progressing ruled says talks",
+    "type": "geo",
+    "title": "UAE official says Iran nuclear talks progressing but war not ruled out",
+    "url": "https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region",
+    "domain": "foxnews.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T10:00:00Z",
+    "countries": [
+     "AE",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "alleged chinese cuba firms military over sanctions supplies",
+    "type": "geo",
+    "title": "US sanctions Chinese firms over alleged military supplies to Cuba",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/07/us-sanctions-chinese-firms-over-alleged-military-supplies-to-cuba",
+    "domain": "thestar.com.my",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-07T10:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "after best diwali fireworks nifty over surges week",
+    "type": "geo",
+    "title": "Diwali Fireworks ! Nifty surges over 8 % in Nov 2 - 6 week , best in 6 yrs after US Midterm Election results ; RIL soars 13 %",
+    "url": "https://www.livemint.com/market/stock-market-news/diwali-fireworks-nifty-surges-over-8-in-nov-2-6-week-best-in-6-yrs-after-us-midterm-election-results-ril-soars-13-11794030783772.html",
+    "domain": "livemint.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-07T09:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "posts revenue rises rossell techsys",
+    "type": "geo",
+    "title": "Rossell Techsys Posts Rs 185 . 5 Cr Q2 Revenue , PBT Rises 89 %",
+    "url": "https://www.businessworld.in/article/rossell-techsys-posts-rs-185-5-cr-q2-revenue-pbt-rises-89-632577",
+    "domain": "businessworld.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-07T07:00:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "carries iran military strikes targeted",
+    "type": "geo",
+    "title": "US military carries out new targeted strikes on Iran",
+    "url": "https://www.wdsu.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
+    "domain": "wdsu.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T07:00:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "arabia iran saudi sinking storm weathering",
+    "type": "geo",
+    "title": "Iran Weathering The Storm , But Saudi Arabia Is Sinking",
+    "url": "http://www.zerohedge.com/geopolitical/iran-weathering-storm-saudi-arabia-sinking",
+    "domain": "zerohedge.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T07:00:00Z",
+    "countries": [
+     "SA",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "avert continues escalation iran mediation qatar says with",
+    "type": "geo",
+    "title": "Qatar says mediation with US , Iran continues to avert escalation",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/07/qatar-says-mediation-with-us-iran-continues-to-avert-escalation",
+    "domain": "freemalaysiatoday.com",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-07T07:00:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "conflict continues iran mediation qatar",
+    "type": "geo",
+    "title": "Qatar continues mediation in US - Iran conflict",
+    "url": "https://www.edenmagnet.com.au/story/9387487/qatar-continues-mediation-in-us-iran-conflict/",
+    "domain": "edenmagnet.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-07T07:00:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "deals fusion fusion japan power proxima signs supply",
+    "type": "geo",
+    "title": "Proxima Fusion signs Japan deals for fusion power supply chain",
+    "url": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
+    "domain": "cnbc.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T07:00:00Z",
+    "countries": [
+     "JP"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "china crisis deepening economic inflicted self wound",
+    "type": "geo",
+    "title": "China Deepening Economic Crisis : A Self - Inflicted Wound",
+    "url": "https://www.chiangraitimes.com/china/chinas-economic-crisis/",
+    "domain": "chiangraitimes.com",
+    "lang": "en",
+    "sourceCountry": "Thailand",
+    "at": "2026-11-07T06:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "between continue efforts iran mediation prevent qatar says",
+    "type": "geo",
+    "title": "Qatar says its mediation efforts between US and Iran continue to prevent escalation",
+    "url": "https://tribune.com.pk/story/2639099/qatar-says-its-mediation-efforts-between-us-and-iran-continue-to-prevent-escalation",
+    "domain": "tribune.com.pk",
+    "lang": "en",
+    "sourceCountry": "Pakistan",
+    "at": "2026-11-07T06:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "iran nuclear proposal qatar reviews revive talks with",
+    "type": "geo",
+    "title": "Iran reviews Qatar proposal to revive nuclear talks with US",
+    "url": "https://www.siasat.com/iran-reviews-qatar-proposal-to-revive-nuclear-talks-with-us-3571101/",
+    "domain": "siasat.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-07T06:00:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "carries iran leaders proposals strikes targeted weigh",
+    "type": "geo",
+    "title": "US carries out targeted strikes as Iran leaders weigh proposals",
+    "url": "https://www.wsbradio.com/news/politics/iran-is-reviewing/DCKLGLLBZAYXHPUEJTEFOOS6FY/",
+    "domain": "wsbradio.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T06:00:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "after again america rout struggles trumpism trust world",
+    "type": "geo",
+    "title": "After rout of Trumpism , world struggles to trust America again",
+    "url": "https://www.wsbradio.com/news/politics/after-us-midterm/F52FTUMJVE3W7AR5H27JQEQAWA/",
+    "domain": "wsbradio.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-07T06:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "carries defense iran strikes system targeted targeting",
+    "type": "geo",
+    "title": "US carries out new targeted strikes on Iran , targeting air defense system",
+    "url": "https://www.hindustantimes.com/world-news/us-news/us-military-carries-out-new-targeted-strikes-on-iran-targeting-air-defense-system-101794018415195.html",
+    "domain": "hindustantimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-07T06:00:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "bottlenecks casstime data driven repair solution tackle unveils",
+    "type": "geo",
+    "title": "CassTime Unveils AI - Driven T+D Solution to Tackle Data and Repair Bottlenecks in the Global Automotive Aftermarket",
+    "url": "https://www.manilatimes.net/2026/11/07/tmt-newswire/pr-newswire/casstime-unveils-ai-driven-td-solution-to-tackle-data-and-repair-bottlenecks-in-the-global-automotive-aftermarket/2464429",
+    "domain": "manilatimes.net",
+    "lang": "en",
+    "sourceCountry": "Philippines",
+    "at": "2026-11-07T05:00:00Z",
+    "countries": [],
+    "sectors": [
+     "industria",
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "after chief hardliner makes miller staff stephen trump",
+    "type": "geo",
+    "title": "Trump makes hardliner Stephen Miller his chief of staff after midterm defeat",
+    "url": "https://bdnews24.com/world/americas/52ofgip6vg",
+    "domain": "bdnews24.com",
+    "lang": "en",
+    "sourceCountry": "Bangladesh",
+    "at": "2026-11-07T05:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "cayo durante internacional negra para precio semana soja",
+    "type": "divisa",
+    "title": "Semana negra para la soja : su precio internacional cayó US$ 15 durante la semana , mientras que el aceite se derrumbó más de US$ 80",
+    "url": "https://www.clarin.com/rural/semana-negra-soja-precio-internacional-cayo-us-15-semana-aceite-derrumbo-us-80_0_xjGxQctrxG.html",
+    "domain": "clarin.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-07T02:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   }
+  ],
+  "partialErrors": [
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+  ]
+ }
+}
