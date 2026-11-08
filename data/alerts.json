@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T08:07:40.248Z",
+ "updatedAt": "2026-11-08T08:57:30.535Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,24 +7,24 @@
  "data": {
   "items": [
    {
-    "id": "iran land looks news restrict trade world",
-    "type": "geo",
-    "title": "World News : US looks to restrict Iran land trade",
-    "url": "https://www.gdnonline.com:443/Details/1412160/US-looks-to-restrict-Iran-land-trade",
+    "id": "ahead business calls china honour international obligations trade",
+    "type": "arancel",
+    "title": "International Business : US calls on China to honour trade obligations ahead of Trump - Xi talks",
+    "url": "https://www.gdnonline.com:443/Details/1412148/US-calls-on-China-to-honour-trade-obligations-ahead-of-Trump-Xi-talks",
     "domain": "gdnonline.com",
     "lang": "en",
     "sourceCountry": "United States",
     "at": "2026-11-08T00:00:00Z",
     "countries": [
      "US",
-     "IR"
+     "CN"
     ],
     "sectors": [],
     "severity": "media"
    },
    {
     "id": "attempting cargo disables gulf military oman says vessel",
-    "type": "geo",
+    "type": "sancion",
     "title": "US military says it disables cargo vessel in Gulf of Oman attempting to violate blockade",
     "url": "http://www.iraqsun.com/news/279418872/us-military-says-it-disables-cargo-vessel-in-gulf-of-oman-attempting-to-violate-blockade",
     "domain": "iraqsun.com",
@@ -40,17 +40,17 @@
     "severity": "media"
    },
    {
-    "id": "ahead business calls china honour international obligations trade",
+    "id": "iran land looks news restrict trade world",
     "type": "geo",
-    "title": "International Business : US calls on China to honour trade obligations ahead of Trump - Xi talks",
-    "url": "https://www.gdnonline.com:443/Details/1412148/US-calls-on-China-to-honour-trade-obligations-ahead-of-Trump-Xi-talks",
+    "title": "World News : US looks to restrict Iran land trade",
+    "url": "https://www.gdnonline.com:443/Details/1412160/US-looks-to-restrict-Iran-land-trade",
     "domain": "gdnonline.com",
     "lang": "en",
     "sourceCountry": "United States",
     "at": "2026-11-08T00:00:00Z",
     "countries": [
      "US",
-     "CN"
+     "IR"
     ],
     "sectors": [],
     "severity": "media"
@@ -121,21 +121,6 @@
     "severity": "alta"
    },
    {
-    "id": "based force iran land launches military restrict task",
-    "type": "geo",
-    "title": "U . S . Military Launches Task Force to Restrict Iran Land - Based Arms Trade",
-    "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-07/ty-article/u-s-military-launches-task-force-to-restrict-irans-land-based-arms-trade/000001a1-b663-d146-ada9-fe7f731f0000",
-    "domain": "haaretz.com",
-    "lang": "en",
-    "sourceCountry": "Israel",
-    "at": "2026-11-07T16:00:00Z",
-    "countries": [
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "lawmakers reverse tariffs trump",
     "type": "arancel",
     "title": "U . S . lawmakers vow to reverse Trump tariffs",
@@ -146,6 +131,21 @@
     "at": "2026-11-07T16:00:00Z",
     "countries": [
      "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "based force iran land launches military restrict task",
+    "type": "geo",
+    "title": "U . S . Military Launches Task Force to Restrict Iran Land - Based Arms Trade",
+    "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-07/ty-article/u-s-military-launches-task-force-to-restrict-irans-land-based-arms-trade/000001a1-b663-d146-ada9-fe7f731f0000",
+    "domain": "haaretz.com",
+    "lang": "en",
+    "sourceCountry": "Israel",
+    "at": "2026-11-07T16:00:00Z",
+    "countries": [
+     "IR"
     ],
     "sectors": [],
     "severity": "baja"
@@ -374,15 +374,12 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: fetch failed",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: fetch failed",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
