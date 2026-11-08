@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T22:45:01.164Z",
+ "updatedAt": "2026-11-08T23:43:36.670Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -23,7 +23,7 @@
    },
    {
     "id": "caspian great iran route significance strategic trade",
-    "type": "geo",
+    "type": "sancion",
     "title": "Iran Caspian Sea trade route is of great strategic significance",
     "url": "http://www.jpost.com/middle-east/iran-news/article-914229",
     "domain": "jpost.com",
@@ -56,7 +56,7 @@
    },
    {
     "id": "banned chinese chips cleared companies empty have nvidia",
-    "type": "regulacion",
+    "type": "sancion",
     "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses investigation reveals businesses have ties to sanctioned Chinese military suppliers",
     "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
     "domain": "tomshardware.com",
@@ -518,14 +518,12 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: fetch failed",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/english: fetch failed"
   ]
  }
 }
