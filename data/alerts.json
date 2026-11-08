@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T13:56:49.507Z",
+ "updatedAt": "2026-11-08T14:46:20.139Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,21 +7,51 @@
  "data": {
   "items": [
    {
-    "id": "cargo disabled gulf military oman says vessel",
-    "type": "geo",
-    "title": "US military says it disabled cargo vessel in Gulf of Oman",
-    "url": "https://www.al-monitor.com/originals/2026/11/us-military-says-it-disabled-cargo-vessel-gulf-oman",
-    "domain": "al-monitor.com",
+    "id": "banned chinese chips cleared companies empty have nvidia",
+    "type": "sancion",
+    "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses investigation reveals businesses have ties to sanctioned Chinese military suppliers",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
+    "domain": "tomshardware.com",
     "lang": "en",
-    "sourceCountry": "Israel",
-    "at": "2026-11-08T09:30:00Z",
+    "sourceCountry": "United States",
+    "at": "2026-11-08T13:30:00Z",
     "countries": [
-     "US"
+     "CN"
     ],
     "sectors": [
-     "transporte"
+     "tech"
     ],
+    "severity": "media"
+   },
+   {
+    "id": "defence driving india partnership poland report trade",
+    "type": "regulacion",
+    "title": "Defence and trade driving India - Poland partnership : Report",
+    "url": "https://ianslive.in/defence-and-trade-driving-india-poland-partnership-report--20261108173756",
+    "domain": "ianslive.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-08T13:30:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "appeals argentina fifa final over sanctions world",
+    "type": "sancion",
+    "title": "Argentina appeals FIFA sanctions over World Cup final",
+    "url": "https://theeagleonline.com.ng/argentina-appeals-fifa-sanctions-over-world-cup-final/",
+    "domain": "theeagleonline.com.ng",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-08T10:30:00Z",
+    "countries": [
+     "AR"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "block deliver democrats lift push trump turkey will",
@@ -40,6 +70,39 @@
     "severity": "alta"
    },
    {
+    "id": "deterrence elections from iran reads relief sanctions",
+    "type": "sancion",
+    "title": "From sanctions relief to deterrence : How Iran reads US elections",
+    "url": "https://www.al-monitor.com/originals/2026/11/sanctions-relief-deterrence-how-iran-reads-us-elections",
+    "domain": "al-monitor.com",
+    "lang": "en",
+    "sourceCountry": "Israel",
+    "at": "2026-11-08T09:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "cargo disabled gulf military oman says vessel",
+    "type": "geo",
+    "title": "US military says it disabled cargo vessel in Gulf of Oman",
+    "url": "https://www.al-monitor.com/originals/2026/11/us-military-says-it-disabled-cargo-vessel-gulf-oman",
+    "domain": "al-monitor.com",
+    "lang": "en",
+    "sourceCountry": "Israel",
+    "at": "2026-11-08T09:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "ahead business calls china honour international obligations trade",
     "type": "arancel",
     "title": "International Business : US calls on China to honour trade obligations ahead of Trump - Xi talks",
@@ -56,6 +119,23 @@
     "severity": "media"
    },
    {
+    "id": "attempting cargo disables gulf military oman says vessel",
+    "type": "sancion",
+    "title": "US military says it disables cargo vessel in Gulf of Oman attempting to violate blockade",
+    "url": "http://www.iraqsun.com/news/279418872/us-military-says-it-disables-cargo-vessel-in-gulf-of-oman-attempting-to-violate-blockade",
+    "domain": "iraqsun.com",
+    "lang": "en",
+    "sourceCountry": "Iraq",
+    "at": "2026-11-08T00:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "media"
+   },
+   {
     "id": "iran land looks news restrict trade world",
     "type": "geo",
     "title": "World News : US looks to restrict Iran land trade",
@@ -69,23 +149,6 @@
      "IR"
     ],
     "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "attempting cargo disables gulf military oman says vessel",
-    "type": "geo",
-    "title": "US military says it disables cargo vessel in Gulf of Oman attempting to violate blockade",
-    "url": "http://www.iraqsun.com/news/279418872/us-military-says-it-disables-cargo-vessel-in-gulf-of-oman-attempting-to-violate-blockade",
-    "domain": "iraqsun.com",
-    "lang": "en",
-    "sourceCountry": "Iraq",
-    "at": "2026-11-08T00:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "transporte"
-    ],
     "severity": "media"
    },
    {
@@ -407,14 +470,9 @@
    }
   ],
   "partialErrors": [
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
