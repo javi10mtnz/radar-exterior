@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T11:40:46.450Z",
+ "updatedAt": "2026-11-08T12:50:26.712Z",
  "file": "electricity.json",
  "source": "Red Eléctrica (REData)",
  "sourceUrl": "https://www.ree.es/es/datos/apidatos",
@@ -13,7 +13,12 @@
    "max": 251.92
   },
   "change1d": -13.976879870904948,
-  "tomorrow": null,
+  "tomorrow": {
+   "date": "2026-11-09",
+   "avg": 179.66937499999992,
+   "min": 69.3,
+   "max": 308.9
+  },
   "days": [
    {
     "date": "2026-11-01",
@@ -62,6 +67,12 @@
     "avg": 200.07302083333323,
     "min": 139.96,
     "max": 251.92
+   },
+   {
+    "date": "2026-11-09",
+    "avg": 179.66937499999992,
+    "min": 69.3,
+    "max": 308.9
    }
   ],
   "hours": [
