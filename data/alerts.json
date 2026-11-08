@@ -1,11 +1,44 @@
 {
- "updatedAt": "2026-11-08T08:57:30.535Z",
+ "updatedAt": "2026-11-08T09:54:28.264Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "block deliver democrats lift push trump turkey will",
+    "type": "sancion",
+    "title": "Will Democrats block Trump push to deliver Turkey F - 35s , lift sanctions ? - AL - MONITOR : The Middle Eastʼs leading independent news source since 2012",
+    "url": "https://www.al-monitor.com/originals/2026/11/will-democrats-block-trumps-push-deliver-turkey-f-35s-lift-sanctions",
+    "domain": "al-monitor.com",
+    "lang": "en",
+    "sourceCountry": "Israel",
+    "at": "2026-11-08T09:30:00Z",
+    "countries": [
+     "US",
+     "TR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "cargo disabled gulf military oman says vessel",
+    "type": "geo",
+    "title": "US military says it disabled cargo vessel in Gulf of Oman",
+    "url": "https://www.al-monitor.com/originals/2026/11/us-military-says-it-disabled-cargo-vessel-gulf-oman",
+    "domain": "al-monitor.com",
+    "lang": "en",
+    "sourceCountry": "Israel",
+    "at": "2026-11-08T09:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "ahead business calls china honour international obligations trade",
     "type": "arancel",
@@ -374,13 +407,9 @@
    }
   ],
   "partialErrors": [
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
