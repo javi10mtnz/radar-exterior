@@ -1,11 +1,27 @@
 {
- "updatedAt": "2026-11-08T03:58:50.970Z",
+ "updatedAt": "2026-11-08T04:59:26.821Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "ahead business calls china honour international obligations trade",
+    "type": "regulacion",
+    "title": "International Business : US calls on China to honour trade obligations ahead of Trump - Xi talks",
+    "url": "https://www.gdnonline.com:443/Details/1412148/US-calls-on-China-to-honour-trade-obligations-ahead-of-Trump-Xi-talks",
+    "domain": "gdnonline.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-08T00:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "iran land looks news restrict trade world",
     "type": "geo",
@@ -37,22 +53,6 @@
     "sectors": [
      "transporte"
     ],
-    "severity": "media"
-   },
-   {
-    "id": "ahead business calls china honour international obligations trade",
-    "type": "geo",
-    "title": "International Business : US calls on China to honour trade obligations ahead of Trump - Xi talks",
-    "url": "https://www.gdnonline.com:443/Details/1412148/US-calls-on-China-to-honour-trade-obligations-ahead-of-Trump-Xi-talks",
-    "domain": "gdnonline.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-08T00:00:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
     "severity": "media"
    },
    {
@@ -375,11 +375,12 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
