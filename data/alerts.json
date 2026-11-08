@@ -1,27 +1,11 @@
 {
- "updatedAt": "2026-11-08T07:02:53.993Z",
+ "updatedAt": "2026-11-08T08:07:40.248Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
-   {
-    "id": "ahead business calls china honour international obligations trade",
-    "type": "arancel",
-    "title": "International Business : US calls on China to honour trade obligations ahead of Trump - Xi talks",
-    "url": "https://www.gdnonline.com:443/Details/1412148/US-calls-on-China-to-honour-trade-obligations-ahead-of-Trump-Xi-talks",
-    "domain": "gdnonline.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-08T00:00:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
    {
     "id": "iran land looks news restrict trade world",
     "type": "geo",
@@ -53,6 +37,22 @@
     "sectors": [
      "transporte"
     ],
+    "severity": "media"
+   },
+   {
+    "id": "ahead business calls china honour international obligations trade",
+    "type": "geo",
+    "title": "International Business : US calls on China to honour trade obligations ahead of Trump - Xi talks",
+    "url": "https://www.gdnonline.com:443/Details/1412148/US-calls-on-China-to-honour-trade-obligations-ahead-of-Trump-Xi-talks",
+    "domain": "gdnonline.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-08T00:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
     "severity": "media"
    },
    {
@@ -121,21 +121,6 @@
     "severity": "alta"
    },
    {
-    "id": "lawmakers reverse tariffs trump",
-    "type": "arancel",
-    "title": "U . S . lawmakers vow to reverse Trump tariffs",
-    "url": "http://www.torontotelegraph.com/news/279418267/us-lawmakers-vow-to-reverse-trump-tariffs",
-    "domain": "torontotelegraph.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-07T16:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "based force iran land launches military restrict task",
     "type": "geo",
     "title": "U . S . Military Launches Task Force to Restrict Iran Land - Based Arms Trade",
@@ -146,6 +131,21 @@
     "at": "2026-11-07T16:00:00Z",
     "countries": [
      "IR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "lawmakers reverse tariffs trump",
+    "type": "arancel",
+    "title": "U . S . lawmakers vow to reverse Trump tariffs",
+    "url": "http://www.torontotelegraph.com/news/279418267/us-lawmakers-vow-to-reverse-trump-tariffs",
+    "domain": "torontotelegraph.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-07T16:00:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -374,13 +374,15 @@
    }
   ],
   "partialErrors": [
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: fetch failed",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
