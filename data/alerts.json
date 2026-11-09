@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T04:44:18.322Z",
+ "updatedAt": "2026-11-09T06:13:08.056Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,8 +7,23 @@
  "data": {
   "items": [
    {
+    "id": "chancay conectividad facilita latinoamericanos llegada productos shanghai triple",
+    "type": "regulacion",
+    "title": "De Chancay a Shanghai : Triple conectividad facilita llegada de productos latinoamericanos a la CIIE y su comercialización en China _ Spanish . china . org . cn _ 中国最权威的西班牙语新闻网站",
+    "url": "http://spanish.china.org.cn/txt/2026-11/09/content_118767183.htm",
+    "domain": "spanish.china.org.cn",
+    "lang": "es",
+    "sourceCountry": "China",
+    "at": "2026-11-09T05:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "canada fighting guys influencer little trade unlikely",
-    "type": "arancel",
+    "type": "geo",
     "title": "Canada unlikely trade war influencer fighting for the little guys",
     "url": "https://www.cbc.ca/player/play/video/9.7412893",
     "domain": "cbc.ca",
@@ -17,6 +32,21 @@
     "at": "2026-11-09T02:00:00Z",
     "countries": [
      "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "amid channel china disputes keep official open trade",
+    "type": "geo",
+    "title": "U . S . and China Keep Official Trade Channel Open Amid Disputes",
+    "url": "https://econotimes.com/U-S-and-China-Keep-Official-Trade-Channel-Open-Amid-Disputes-1773406",
+    "domain": "econotimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-09T01:00:00Z",
+    "countries": [
+     "CN"
     ],
     "sectors": [],
     "severity": "baja"
@@ -36,21 +66,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "amid channel china disputes keep official open trade",
-    "type": "geo",
-    "title": "U . S . and China Keep Official Trade Channel Open Amid Disputes",
-    "url": "https://econotimes.com/U-S-and-China-Keep-Official-Trade-Channel-Open-Amid-Disputes-1773406",
-    "domain": "econotimes.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-09T01:00:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "aranceles duda eeuu envios pausan postales servicios tras",
@@ -84,7 +99,7 @@
    },
    {
     "id": "caspian great iran route significance strategic trade",
-    "type": "sancion",
+    "type": "geo",
     "title": "Iran Caspian Sea trade route is of great strategic significance",
     "url": "http://www.jpost.com/middle-east/iran-news/article-914229",
     "domain": "jpost.com",
@@ -579,13 +594,15 @@
    }
   ],
   "partialErrors": [
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: fetch failed",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: fetch failed",
    "regulacion/english: fetch failed",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
