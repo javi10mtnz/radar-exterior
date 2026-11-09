@@ -1,34 +1,37 @@
 {
  "fx": {
   "ok": true,
-  "updatedAt": "2026-11-09T15:31:41.588Z",
-  "ms": 466
+  "updatedAt": "2026-11-09T16:40:00.479Z",
+  "ms": 519
  },
  "chokepoints": {
   "ok": true,
-  "updatedAt": "2026-11-09T15:31:44.808Z",
-  "ms": 3219
+  "updatedAt": "2026-11-09T16:40:06.041Z",
+  "ms": 5563
  },
  "electricity": {
   "ok": true,
-  "updatedAt": "2026-11-09T15:31:45.963Z",
-  "ms": 1155
+  "updatedAt": "2026-11-09T16:40:07.676Z",
+  "ms": 1634
  },
  "alerts": {
-  "ok": true,
+  "ok": false,
   "updatedAt": "2026-11-09T15:38:04.451Z",
   "ms": 378488,
-  "warnings": 9
+  "warnings": 9,
+  "skipped": false,
+  "error": "GDELT no respondió: arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the | arancel/spanish: fetch failed | sancion/english: H",
+  "failedAt": "2026-11-09T16:46:04.679Z"
  },
  "tenders": {
   "ok": true,
-  "updatedAt": "2026-11-09T15:38:12.370Z",
-  "ms": 7924
+  "updatedAt": "2026-11-09T16:46:14.800Z",
+  "ms": 10122
  },
  "commodities": {
   "ok": false,
   "skipped": true,
   "error": "SKIP: falta FRED_API_KEY (opcional)",
-  "failedAt": "2026-11-09T15:38:12.377Z"
+  "failedAt": "2026-11-09T16:46:14.802Z"
  }
 }
