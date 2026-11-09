@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T03:30:55.866Z",
+ "updatedAt": "2026-11-09T04:44:18.322Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,8 +7,23 @@
  "data": {
   "items": [
    {
+    "id": "canada fighting guys influencer little trade unlikely",
+    "type": "arancel",
+    "title": "Canada unlikely trade war influencer fighting for the little guys",
+    "url": "https://www.cbc.ca/player/play/video/9.7412893",
+    "domain": "cbc.ca",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-09T02:00:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "china defanging dethroning dollar",
-    "type": "sancion",
+    "type": "arancel",
     "title": "China is defanging the US dollar , not dethroning it",
     "url": "https://www.interest.co.nz/currencies/141014/ho-fung-hung-explains-why-renminbi-based-trade-russia-and-iran-could-end",
     "domain": "interest.co.nz",
@@ -23,6 +38,21 @@
     "severity": "media"
    },
    {
+    "id": "amid channel china disputes keep official open trade",
+    "type": "geo",
+    "title": "U . S . and China Keep Official Trade Channel Open Amid Disputes",
+    "url": "https://econotimes.com/U-S-and-China-Keep-Official-Trade-Channel-Open-Amid-Disputes-1773406",
+    "domain": "econotimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-09T01:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "aranceles duda eeuu envios pausan postales servicios tras",
     "type": "arancel",
     "title": "Servicios postales pausan envíos a EEUU tras duda de aranceles – Telemundo McAllen ( 40 )",
@@ -31,6 +61,21 @@
     "lang": "es",
     "sourceCountry": "United States",
     "at": "2026-11-08T20:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "cant democrats news republicans tariffs trump without",
+    "type": "arancel",
+    "title": "Democrats cant end Trump tariffs without Republicans | News",
+    "url": "https://www.wyomingnewsnow.tv/news/national/democrats-can-t-end-trumps-tariffs-without-republicans/article_0de797c7-2b63-53ee-ab7e-c776401f5a96.html",
+    "domain": "wyomingnewsnow.tv",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-08T19:00:00Z",
     "countries": [
      "US"
     ],
@@ -534,16 +579,13 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
