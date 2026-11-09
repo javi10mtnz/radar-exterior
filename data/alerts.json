@@ -1,11 +1,106 @@
 {
- "updatedAt": "2026-11-09T07:36:32.963Z",
+ "updatedAt": "2026-11-09T08:53:58.000Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "china extends imports months suspension tariff",
+    "type": "arancel",
+    "title": "China extends suspension of 24 % tariff on US imports for two months",
+    "url": "https://www.business-standard.com/world-news/china-extends-suspension-of-24-tariff-on-us-imports-for-two-months-126110900120_1.html",
+    "domain": "business-standard.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-09T06:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china extends fees goods port ships suspensions tariff",
+    "type": "arancel",
+    "title": "China extends suspensions of 24 % tariff on US goods , port fees on US ships for two months",
+    "url": "https://www.thedailystar.net/business/news/china-extends-suspensions-24-tariff-us-goods-port-fees-us-ships-two-months-4318946",
+    "domain": "thedailystar.net",
+    "lang": "en",
+    "sourceCountry": "Bangladesh",
+    "at": "2026-11-09T06:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "africa could decision hurt rural south trade trump",
+    "type": "arancel",
+    "title": "South Africa : Trump Trade Decision Could Hurt Rural Families , Warns Azania Movement",
+    "url": "https://allafrica.com/stories/202611090073.html",
+    "domain": "allafrica.com",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-09T06:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "african buoyed ciie economic exporters tariffs watch zero",
+    "type": "arancel",
+    "title": "( CIIE ) Economic Watch : Buoyed by zero tariffs , African exporters eye bigger China market - Xinhua",
+    "url": "https://english.news.cn/20261109/9d06adfacfa54171b78aa2f99ae86760/c.html",
+    "domain": "english.news.cn",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-09T06:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "additional china extends goods months suspension tariff xinhua",
+    "type": "arancel",
+    "title": "China extends suspension of 24 pct additional tariff on U . S . goods for two months - Xinhua",
+    "url": "https://english.news.cn/20261109/4c85025bfdf944c5aab884cc444abb7c/c.html",
+    "domain": "english.news.cn",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-09T06:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "boost could ease india inflows midterm results rupee",
+    "type": "arancel",
+    "title": "US Midterm Results Could Boost India FPI Inflows , Ease Rupee Pressure : Axis MF",
+    "url": "https://www.businessworld.in/article/us-midterm-results-could-boost-india-s-fpi-inflows-ease-rupee-pressure-axis-mf-632702",
+    "domain": "businessworld.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-09T06:00:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "alleged canadian digital eight firms iran over sanctions",
     "type": "sancion",
@@ -24,7 +119,7 @@
    },
    {
     "id": "additional china extends imports months retains suspension tariff",
-    "type": "sancion",
+    "type": "arancel",
     "title": "China extends suspension of 24 % additional tariff on US imports for two months , retains 10 % rate",
     "url": "https://www.globaltimes.cn/page/202611/1373924.shtml",
     "domain": "globaltimes.cn",
@@ -55,7 +150,7 @@
    },
    {
     "id": "canada fighting guys influencer little trade unlikely",
-    "type": "geo",
+    "type": "arancel",
     "title": "Canada unlikely trade war influencer fighting for the little guys",
     "url": "https://www.cbc.ca/player/play/video/9.7412893",
     "domain": "cbc.ca",
@@ -70,7 +165,7 @@
    },
    {
     "id": "china defanging dethroning dollar",
-    "type": "sancion",
+    "type": "arancel",
     "title": "China is defanging the US dollar , not dethroning it",
     "url": "https://www.interest.co.nz/currencies/141014/ho-fung-hung-explains-why-renminbi-based-trade-russia-and-iran-could-end",
     "domain": "interest.co.nz",
@@ -626,12 +721,14 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
-   "logistica/english: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: fetch failed"
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
