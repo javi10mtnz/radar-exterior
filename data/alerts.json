@@ -1,11 +1,43 @@
 {
- "updatedAt": "2026-11-09T06:13:08.056Z",
+ "updatedAt": "2026-11-09T07:36:32.963Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "alleged canadian digital eight firms iran over sanctions",
+    "type": "sancion",
+    "title": "U . S . Sanctions Eight Canadian Firms Over Alleged Iran Digital - Asset Ties",
+    "url": "https://econotimes.com/U-S-Sanctions-Eight-Canadian-Firms-Over-Alleged-Iran-Digital-Asset-Ties-1773525",
+    "domain": "econotimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-09T06:00:00Z",
+    "countries": [
+     "CA",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "additional china extends imports months retains suspension tariff",
+    "type": "sancion",
+    "title": "China extends suspension of 24 % additional tariff on US imports for two months , retains 10 % rate",
+    "url": "https://www.globaltimes.cn/page/202611/1373924.shtml",
+    "domain": "globaltimes.cn",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-09T05:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "chancay conectividad facilita latinoamericanos llegada productos shanghai triple",
     "type": "regulacion",
@@ -37,6 +69,22 @@
     "severity": "baja"
    },
    {
+    "id": "china defanging dethroning dollar",
+    "type": "sancion",
+    "title": "China is defanging the US dollar , not dethroning it",
+    "url": "https://www.interest.co.nz/currencies/141014/ho-fung-hung-explains-why-renminbi-based-trade-russia-and-iran-could-end",
+    "domain": "interest.co.nz",
+    "lang": "en",
+    "sourceCountry": "New Zealand",
+    "at": "2026-11-09T01:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "amid channel china disputes keep official open trade",
     "type": "geo",
     "title": "U . S . and China Keep Official Trade Channel Open Amid Disputes",
@@ -50,22 +98,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "china defanging dethroning dollar",
-    "type": "arancel",
-    "title": "China is defanging the US dollar , not dethroning it",
-    "url": "https://www.interest.co.nz/currencies/141014/ho-fung-hung-explains-why-renminbi-based-trade-russia-and-iran-could-end",
-    "domain": "interest.co.nz",
-    "lang": "en",
-    "sourceCountry": "New Zealand",
-    "at": "2026-11-09T01:00:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "aranceles duda eeuu envios pausan postales servicios tras",
@@ -594,15 +626,12 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: fetch failed",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "logistica/english: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
