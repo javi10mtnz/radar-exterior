@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-10T01:06:44.171Z",
+ "updatedAt": "2026-11-10T02:10:48.671Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "amends beyond extends ottawa program relief steel tariff",
+    "type": "arancel",
+    "title": "Ottawa amends , extends tariff relief program beyond U . S . steel imports",
+    "url": "https://cheknews.ca/ottawa-amends-extends-tariff-relief-program-beyond-u-s-steel-imports-1360193/",
+    "domain": "cheknews.ca",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-10T00:30:00Z",
+    "countries": [],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "chains discuss economic india review security strategic supply",
     "type": "regulacion",
@@ -56,55 +71,6 @@
     "severity": "media"
    },
    {
-    "id": "alleged canadian digital eight firms iran over sanctions",
-    "type": "sancion",
-    "title": "U . S . Sanctions Eight Canadian Firms Over Alleged Iran Digital - Asset Ties",
-    "url": "https://econotimes.com/U-S-Sanctions-Eight-Canadian-Firms-Over-Alleged-Iran-Digital-Asset-Ties-1773525",
-    "domain": "econotimes.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-09T06:00:00Z",
-    "countries": [
-     "CA",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
-    "id": "china extends fees goods port ships suspensions tariff",
-    "type": "arancel",
-    "title": "China extends suspensions of 24 % tariff on US goods , port fees on US ships for two months",
-    "url": "https://www.thedailystar.net/business/news/china-extends-suspensions-24-tariff-us-goods-port-fees-us-ships-two-months-4318946",
-    "domain": "thedailystar.net",
-    "lang": "en",
-    "sourceCountry": "Bangladesh",
-    "at": "2026-11-09T06:00:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "africa could decision hurt rural south trade trump",
-    "type": "arancel",
-    "title": "South Africa : Trump Trade Decision Could Hurt Rural Families , Warns Azania Movement",
-    "url": "https://allafrica.com/stories/202611090073.html",
-    "domain": "allafrica.com",
-    "lang": "en",
-    "sourceCountry": "Nigeria",
-    "at": "2026-11-09T06:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "african buoyed ciie economic exporters tariffs watch zero",
     "type": "arancel",
     "title": "( CIIE ) Economic Watch : Buoyed by zero tariffs , African exporters eye bigger China market - Xinhua",
@@ -151,6 +117,71 @@
     "severity": "media"
    },
    {
+    "id": "china extends fees goods port ships suspensions tariff",
+    "type": "arancel",
+    "title": "China extends suspensions of 24 % tariff on US goods , port fees on US ships for two months",
+    "url": "https://www.thedailystar.net/business/news/china-extends-suspensions-24-tariff-us-goods-port-fees-us-ships-two-months-4318946",
+    "domain": "thedailystar.net",
+    "lang": "en",
+    "sourceCountry": "Bangladesh",
+    "at": "2026-11-09T06:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "africa could decision hurt rural south trade trump",
+    "type": "arancel",
+    "title": "South Africa : Trump Trade Decision Could Hurt Rural Families , Warns Azania Movement",
+    "url": "https://allafrica.com/stories/202611090073.html",
+    "domain": "allafrica.com",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-09T06:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "alleged canadian digital eight firms iran over sanctions",
+    "type": "sancion",
+    "title": "U . S . Sanctions Eight Canadian Firms Over Alleged Iran Digital - Asset Ties",
+    "url": "https://econotimes.com/U-S-Sanctions-Eight-Canadian-Firms-Over-Alleged-Iran-Digital-Asset-Ties-1773525",
+    "domain": "econotimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-09T06:00:00Z",
+    "countries": [
+     "CA",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "additional china extends imports months retains suspension tariff",
+    "type": "arancel",
+    "title": "China extends suspension of 24 % additional tariff on US imports for two months , retains 10 % rate",
+    "url": "https://www.globaltimes.cn/page/202611/1373924.shtml",
+    "domain": "globaltimes.cn",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-09T05:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "chancay conectividad facilita latinoamericanos llegada productos shanghai triple",
     "type": "regulacion",
     "title": "De Chancay a Shanghai : Triple conectividad facilita llegada de productos latinoamericanos a la CIIE y su comercialización en China _ Spanish . china . org . cn _ 中国最权威的西班牙语新闻网站",
@@ -164,22 +195,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "additional china extends imports months retains suspension tariff",
-    "type": "sancion",
-    "title": "China extends suspension of 24 % additional tariff on US imports for two months , retains 10 % rate",
-    "url": "https://www.globaltimes.cn/page/202611/1373924.shtml",
-    "domain": "globaltimes.cn",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-09T05:00:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "canada fighting guys influencer little trade unlikely",
@@ -754,15 +769,15 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
    "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: fetch failed",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/spanish: fetch failed"
   ]
  }
 }
