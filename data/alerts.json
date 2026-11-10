@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-10T20:52:54.294Z",
+ "updatedAt": "2026-11-10T21:49:01.362Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "2026 china october says surpassed surplus trade trillion",
+    "type": "geo",
+    "title": "China says 2026 trade surplus surpassed $1 trillion in October",
+    "url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
+    "domain": "thehindu.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-10T06:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "china exports straight surpasses surplus trade trillion year",
     "type": "arancel",
@@ -22,18 +37,38 @@
     "severity": "baja"
    },
    {
-    "id": "2026 china october says surpassed surplus trade trillion",
+    "id": "boom china exports powers surpasses surplus trade trillion",
     "type": "geo",
-    "title": "China says 2026 trade surplus surpassed $1 trillion in October",
-    "url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
-    "domain": "thehindu.com",
+    "title": "China trade surplus surpasses $1 trillion as AI boom powers exports",
+    "url": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports",
+    "domain": "euronews.com",
     "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-10T06:00:00Z",
+    "sourceCountry": "United States",
+    "at": "2026-11-10T05:30:00Z",
     "countries": [
      "CN"
     ],
-    "sectors": [],
+    "sectors": [
+     "energia",
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "china exports imports narrows stay surge surplus trade",
+    "type": "geo",
+    "title": "China Trade Surplus Narrows to USD 105 . 3B as Imports Surge , AI Exports Stay Strong",
+    "url": "https://www.actionforex.com/live-comments/660367-chinas-trade-surplus-narrows-to-usd-105-3b-as-imports-surge-ai-exports-stay-strong/",
+    "domain": "actionforex.com",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-10T05:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
     "severity": "baja"
    },
    {
@@ -81,41 +116,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "china exports imports narrows stay surge surplus trade",
-    "type": "arancel",
-    "title": "China Trade Surplus Narrows to USD 105 . 3B as Imports Surge , AI Exports Stay Strong",
-    "url": "https://www.actionforex.com/live-comments/660367-chinas-trade-surplus-narrows-to-usd-105-3b-as-imports-surge-ai-exports-stay-strong/",
-    "domain": "actionforex.com",
-    "lang": "en",
-    "sourceCountry": "United Kingdom",
-    "at": "2026-11-10T05:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "boom china exports powers surpasses surplus trade trillion",
-    "type": "geo",
-    "title": "China trade surplus surpasses $1 trillion as AI boom powers exports",
-    "url": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports",
-    "domain": "euronews.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T05:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "energia",
-     "tech"
-    ],
-    "severity": "baja"
    },
    {
     "id": "canadian extend feds firms program relief tariff",
@@ -166,6 +166,23 @@
     "severity": "baja"
    },
    {
+    "id": "china curbs earth export extends months pause rare",
+    "type": "sancion",
+    "title": "China extends pause on rare earth export curbs for two months",
+    "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+    "domain": "thenationalnews.com",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-10T03:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "2027 canada chicken imports tonnes",
     "type": "arancel",
     "title": "Canada chicken imports to dip to 225 , 000 tonnes in 2027",
@@ -181,21 +198,22 @@
     "severity": "baja"
    },
    {
-    "id": "china curbs earth export extends months pause rare",
-    "type": "arancel",
-    "title": "China extends pause on rare earth export curbs for two months",
-    "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
-    "domain": "thenationalnews.com",
+    "id": "collapse dominance expenses faces rising russian shipping sudden",
+    "type": "logistica",
+    "title": "Russian oil dominance faces sudden collapse : rising shipping expenses pushed Indian buyers away",
+    "url": "https://english.pravda.ru/news/business/172158-india-cuts-russian-crude-imports/",
+    "domain": "english.pravda.ru",
     "lang": "en",
-    "sourceCountry": "",
-    "at": "2026-11-10T03:30:00Z",
+    "sourceCountry": "Russia",
+    "at": "2026-11-10T03:00:00Z",
     "countries": [
-     "CN"
+     "IN",
+     "RU"
     ],
     "sectors": [
-     "tech"
+     "transporte"
     ],
-    "severity": "baja"
+    "severity": "media"
    },
    {
     "id": "back cuts democrats medicaid roll stop tariffs will",
@@ -227,24 +245,6 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "collapse dominance expenses faces rising russian shipping sudden",
-    "type": "logistica",
-    "title": "Russian oil dominance faces sudden collapse : rising shipping expenses pushed Indian buyers away",
-    "url": "https://english.pravda.ru/news/business/172158-india-cuts-russian-crude-imports/",
-    "domain": "english.pravda.ru",
-    "lang": "en",
-    "sourceCountry": "Russia",
-    "at": "2026-11-10T03:00:00Z",
-    "countries": [
-     "IN",
-     "RU"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "media"
    },
    {
     "id": "103k bill buses guide import oklahoma tour with",
@@ -1041,14 +1041,10 @@
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
    "regulacion/english: fetch failed",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: fetch failed",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
