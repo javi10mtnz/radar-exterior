@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-10T07:13:41.246Z",
+ "updatedAt": "2026-11-10T08:37:24.347Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "2026 china october says surpassed surplus trade trillion",
+    "type": "geo",
+    "title": "China says 2026 trade surplus surpassed $1 trillion in October",
+    "url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
+    "domain": "thehindu.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-10T06:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "china exports straight surpasses surplus trade trillion year",
     "type": "arancel",
@@ -22,13 +37,13 @@
     "severity": "baja"
    },
    {
-    "id": "china exports jump straight surplus tops trade year",
-    "type": "arancel",
-    "title": "China trade surplus tops $1 trn for 2nd straight year , exports jump 35 %",
-    "url": "https://www.business-standard.com/world-news/china-s-trade-surplus-tops-1-trn-for-2nd-straight-year-exports-jump-35-126111000109_1.html",
-    "domain": "business-standard.com",
+    "id": "access china free hope sihlobo sparks tariff wandile",
+    "type": "regulacion",
+    "title": "WANDILE SIHLOBO | Tariff - free access to China sparks hope",
+    "url": "https://www.businessday.co.za/opinion/2026-11-10-wandile-sihlobo-tariff-free-access-to-china-sparks-hope/",
+    "domain": "businessday.co.za",
     "lang": "en",
-    "sourceCountry": "India",
+    "sourceCountry": "South Africa",
     "at": "2026-11-10T05:30:00Z",
     "countries": [
      "CN"
@@ -37,13 +52,48 @@
     "severity": "baja"
    },
    {
-    "id": "access china free hope sihlobo sparks tariff wandile",
-    "type": "arancel",
-    "title": "WANDILE SIHLOBO | Tariff - free access to China sparks hope",
-    "url": "https://www.businessday.co.za/opinion/2026-11-10-wandile-sihlobo-tariff-free-access-to-china-sparks-hope/",
-    "domain": "businessday.co.za",
+    "id": "boom china exports powers surpasses surplus trade trillion",
+    "type": "geo",
+    "title": "China trade surplus surpasses $1 trillion as AI boom powers exports",
+    "url": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports",
+    "domain": "euronews.com",
     "lang": "en",
-    "sourceCountry": "South Africa",
+    "sourceCountry": "United States",
+    "at": "2026-11-10T05:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "energia",
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "china exports imports narrows stay surge surplus trade",
+    "type": "geo",
+    "title": "China Trade Surplus Narrows to USD 105 . 3B as Imports Surge , AI Exports Stay Strong",
+    "url": "https://www.actionforex.com/live-comments/660367-chinas-trade-surplus-narrows-to-usd-105-3b-as-imports-surge-ai-exports-stay-strong/",
+    "domain": "actionforex.com",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-10T05:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "china exports jump straight surplus tops trade year",
+    "type": "arancel",
+    "title": "China trade surplus tops $1 trn for 2nd straight year , exports jump 35 %",
+    "url": "https://www.business-standard.com/world-news/china-s-trade-surplus-tops-1-trn-for-2nd-straight-year-exports-jump-35-126111000109_1.html",
+    "domain": "business-standard.com",
+    "lang": "en",
+    "sourceCountry": "India",
     "at": "2026-11-10T05:30:00Z",
     "countries": [
      "CN"
@@ -68,23 +118,6 @@
     "severity": "media"
    },
    {
-    "id": "china exports imports narrows stay surge surplus trade",
-    "type": "arancel",
-    "title": "China Trade Surplus Narrows to USD 105 . 3B as Imports Surge , AI Exports Stay Strong",
-    "url": "https://www.actionforex.com/live-comments/660367-chinas-trade-surplus-narrows-to-usd-105-3b-as-imports-surge-ai-exports-stay-strong/",
-    "domain": "actionforex.com",
-    "lang": "en",
-    "sourceCountry": "United Kingdom",
-    "at": "2026-11-10T05:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "canadian extend feds firms program relief tariff",
     "type": "arancel",
     "title": "Feds extend tariff relief program for Canadian firms",
@@ -97,6 +130,21 @@
      "CA"
     ],
     "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "akwa announcement approves deep ibom major makes tinubu",
+    "type": "regulacion",
+    "title": "Tinubu Makes Major Announcement in Akwa Ibom , Approves Deep Sea Port as Flamingos Make World Cup History",
+    "url": "https://www.tell.ng/tinubu-makes-major-announcement-in-akwa-ibom-approves-deep-sea-port-as-flamingos-make-world-cup-history/",
+    "domain": "tell.ng",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-10T04:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
     "severity": "baja"
    },
    {
@@ -118,23 +166,8 @@
     "severity": "media"
    },
    {
-    "id": "akwa announcement approves deep ibom major makes tinubu",
-    "type": "regulacion",
-    "title": "Tinubu Makes Major Announcement in Akwa Ibom , Approves Deep Sea Port as Flamingos Make World Cup History",
-    "url": "https://www.tell.ng/tinubu-makes-major-announcement-in-akwa-ibom-approves-deep-sea-port-as-flamingos-make-world-cup-history/",
-    "domain": "tell.ng",
-    "lang": "en",
-    "sourceCountry": "Nigeria",
-    "at": "2026-11-10T04:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "2027 canada chicken imports tonnes",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "Canada chicken imports to dip to 225 , 000 tonnes in 2027",
     "url": "https://www.thepoultrysite.com/news/2026/11/canada-chicken-imports-to-dip-to-225-000-tonnes-in-2027",
     "domain": "thepoultrysite.com",
@@ -165,21 +198,6 @@
     "severity": "baja"
    },
    {
-    "id": "back cuts democrats medicaid roll stop tariffs will",
-    "type": "arancel",
-    "title": "Democrats will try to roll back Medicaid cuts , stop tariffs , Oregon US Sen . Ron Wyden says",
-    "url": "https://www.ijpr.org/politics-government/2026-11-09/democrats-will-try-to-roll-back-medicaid-cuts-stop-tariffs-oregon-us-sen-ron-wyden-says",
-    "domain": "ijpr.org",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T03:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "adicional arancel china durante meses periodico productos suspendera",
     "type": "arancel",
     "title": "China suspenderá durante dos meses el arancel adicional del 24 % a productos de EU – Periódico Zócalo",
@@ -194,6 +212,21 @@
     ],
     "sectors": [],
     "severity": "alta"
+   },
+   {
+    "id": "back cuts democrats medicaid roll stop tariffs will",
+    "type": "arancel",
+    "title": "Democrats will try to roll back Medicaid cuts , stop tariffs , Oregon US Sen . Ron Wyden says",
+    "url": "https://www.ijpr.org/politics-government/2026-11-09/democrats-will-try-to-roll-back-medicaid-cuts-stop-tariffs-oregon-us-sen-ron-wyden-says",
+    "domain": "ijpr.org",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-10T03:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "collapse dominance expenses faces rising russian shipping sudden",
@@ -1006,15 +1039,12 @@
    }
   ],
   "partialErrors": [
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: fetch failed",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: fetch failed",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: fetch failed",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: fetch failed",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
