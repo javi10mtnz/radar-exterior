@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T21:49:01.362Z",
+ "updatedAt": "2026-11-10T22:50:28.156Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -30,6 +30,21 @@
     "lang": "en",
     "sourceCountry": "United States",
     "at": "2026-11-10T06:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "access china free hope sihlobo sparks tariff wandile",
+    "type": "regulacion",
+    "title": "WANDILE SIHLOBO | Tariff - free access to China sparks hope",
+    "url": "https://www.businessday.co.za/opinion/2026-11-10-wandile-sihlobo-tariff-free-access-to-china-sparks-hope/",
+    "domain": "businessday.co.za",
+    "lang": "en",
+    "sourceCountry": "South Africa",
+    "at": "2026-11-10T05:30:00Z",
     "countries": [
      "CN"
     ],
@@ -87,21 +102,6 @@
     "severity": "baja"
    },
    {
-    "id": "access china free hope sihlobo sparks tariff wandile",
-    "type": "arancel",
-    "title": "WANDILE SIHLOBO | Tariff - free access to China sparks hope",
-    "url": "https://www.businessday.co.za/opinion/2026-11-10-wandile-sihlobo-tariff-free-access-to-china-sparks-hope/",
-    "domain": "businessday.co.za",
-    "lang": "en",
-    "sourceCountry": "South Africa",
-    "at": "2026-11-10T05:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "additional china extends goods months retains suspension tariff",
     "type": "arancel",
     "title": "China extends suspension of 24 % additional tariff on US goods for two months , retains 10 % levy",
@@ -133,6 +133,21 @@
     "severity": "baja"
    },
    {
+    "id": "akwa announcement approves deep ibom major makes tinubu",
+    "type": "regulacion",
+    "title": "Tinubu Makes Major Announcement in Akwa Ibom , Approves Deep Sea Port as Flamingos Make World Cup History",
+    "url": "https://www.tell.ng/tinubu-makes-major-announcement-in-akwa-ibom-approves-deep-sea-port-as-flamingos-make-world-cup-history/",
+    "domain": "tell.ng",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-10T04:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "aluminum canada cuts exemptions expands relief some tariff",
     "type": "arancel",
     "title": "Canada expands US tariff exemptions , cuts some aluminum relief",
@@ -151,18 +166,18 @@
     "severity": "media"
    },
    {
-    "id": "akwa announcement approves deep ibom major makes tinubu",
+    "id": "2027 canada chicken imports tonnes",
     "type": "regulacion",
-    "title": "Tinubu Makes Major Announcement in Akwa Ibom , Approves Deep Sea Port as Flamingos Make World Cup History",
-    "url": "https://www.tell.ng/tinubu-makes-major-announcement-in-akwa-ibom-approves-deep-sea-port-as-flamingos-make-world-cup-history/",
-    "domain": "tell.ng",
+    "title": "Canada chicken imports to dip to 225 , 000 tonnes in 2027",
+    "url": "https://www.thepoultrysite.com/news/2026/11/canada-chicken-imports-to-dip-to-225-000-tonnes-in-2027",
+    "domain": "thepoultrysite.com",
     "lang": "en",
-    "sourceCountry": "Nigeria",
-    "at": "2026-11-10T04:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
+    "sourceCountry": "United States",
+    "at": "2026-11-10T03:30:00Z",
+    "countries": [
+     "CA"
     ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -180,21 +195,6 @@
     "sectors": [
      "tech"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "2027 canada chicken imports tonnes",
-    "type": "arancel",
-    "title": "Canada chicken imports to dip to 225 , 000 tonnes in 2027",
-    "url": "https://www.thepoultrysite.com/news/2026/11/canada-chicken-imports-to-dip-to-225-000-tonnes-in-2027",
-    "domain": "thepoultrysite.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T03:30:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -1040,11 +1040,14 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
+   "sancion/spanish: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: fetch failed",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
