@@ -1,26 +1,11 @@
 {
- "updatedAt": "2026-11-10T18:58:39.537Z",
+ "updatedAt": "2026-11-10T20:00:49.477Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
-   {
-    "id": "2026 china october says surpassed surplus trade trillion",
-    "type": "geo",
-    "title": "China says 2026 trade surplus surpassed $1 trillion in October",
-    "url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
-    "domain": "thehindu.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-10T06:00:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
    {
     "id": "china exports straight surpasses surplus trade trillion year",
     "type": "arancel",
@@ -37,38 +22,18 @@
     "severity": "baja"
    },
    {
-    "id": "boom china exports powers surpasses surplus trade trillion",
+    "id": "2026 china october says surpassed surplus trade trillion",
     "type": "geo",
-    "title": "China trade surplus surpasses $1 trillion as AI boom powers exports",
-    "url": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports",
-    "domain": "euronews.com",
+    "title": "China says 2026 trade surplus surpassed $1 trillion in October",
+    "url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
+    "domain": "thehindu.com",
     "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T05:30:00Z",
+    "sourceCountry": "India",
+    "at": "2026-11-10T06:00:00Z",
     "countries": [
      "CN"
     ],
-    "sectors": [
-     "energia",
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "china exports imports narrows stay surge surplus trade",
-    "type": "geo",
-    "title": "China Trade Surplus Narrows to USD 105 . 3B as Imports Surge , AI Exports Stay Strong",
-    "url": "https://www.actionforex.com/live-comments/660367-chinas-trade-surplus-narrows-to-usd-105-3b-as-imports-surge-ai-exports-stay-strong/",
-    "domain": "actionforex.com",
-    "lang": "en",
-    "sourceCountry": "United Kingdom",
-    "at": "2026-11-10T05:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -116,6 +81,41 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "china exports imports narrows stay surge surplus trade",
+    "type": "arancel",
+    "title": "China Trade Surplus Narrows to USD 105 . 3B as Imports Surge , AI Exports Stay Strong",
+    "url": "https://www.actionforex.com/live-comments/660367-chinas-trade-surplus-narrows-to-usd-105-3b-as-imports-surge-ai-exports-stay-strong/",
+    "domain": "actionforex.com",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-10T05:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "boom china exports powers surpasses surplus trade trillion",
+    "type": "geo",
+    "title": "China trade surplus surpasses $1 trillion as AI boom powers exports",
+    "url": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports",
+    "domain": "euronews.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-10T05:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "energia",
+     "tech"
+    ],
+    "severity": "baja"
    },
    {
     "id": "canadian extend feds firms program relief tariff",
@@ -198,6 +198,21 @@
     "severity": "baja"
    },
    {
+    "id": "back cuts democrats medicaid roll stop tariffs will",
+    "type": "arancel",
+    "title": "Democrats will try to roll back Medicaid cuts , stop tariffs , Oregon US Sen . Ron Wyden says",
+    "url": "https://www.ijpr.org/politics-government/2026-11-09/democrats-will-try-to-roll-back-medicaid-cuts-stop-tariffs-oregon-us-sen-ron-wyden-says",
+    "domain": "ijpr.org",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-10T03:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "adicional arancel china durante meses periodico productos suspendera",
     "type": "arancel",
     "title": "China suspenderá durante dos meses el arancel adicional del 24 % a productos de EU – Periódico Zócalo",
@@ -230,21 +245,6 @@
      "transporte"
     ],
     "severity": "media"
-   },
-   {
-    "id": "back cuts democrats medicaid roll stop tariffs will",
-    "type": "arancel",
-    "title": "Democrats will try to roll back Medicaid cuts , stop tariffs , Oregon US Sen . Ron Wyden says",
-    "url": "https://www.ijpr.org/politics-government/2026-11-09/democrats-will-try-to-roll-back-medicaid-cuts-stop-tariffs-oregon-us-sen-ron-wyden-says",
-    "domain": "ijpr.org",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T03:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "103k bill buses guide import oklahoma tour with",
@@ -1039,11 +1039,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
