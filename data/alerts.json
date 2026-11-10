@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T11:32:18.580Z",
+ "updatedAt": "2026-11-10T12:32:44.157Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -198,19 +198,20 @@
     "severity": "baja"
    },
    {
-    "id": "back cuts democrats medicaid roll stop tariffs will",
+    "id": "adicional arancel china durante meses periodico productos suspendera",
     "type": "arancel",
-    "title": "Democrats will try to roll back Medicaid cuts , stop tariffs , Oregon US Sen . Ron Wyden says",
-    "url": "https://www.ijpr.org/politics-government/2026-11-09/democrats-will-try-to-roll-back-medicaid-cuts-stop-tariffs-oregon-us-sen-ron-wyden-says",
-    "domain": "ijpr.org",
-    "lang": "en",
-    "sourceCountry": "United States",
+    "title": "China suspenderá durante dos meses el arancel adicional del 24 % a productos de EU – Periódico Zócalo",
+    "url": "https://www.zocalo.com.mx/china-suspendera-durante-dos-meses-el-arancel-adicional-del-24-a-productos-de-eu/",
+    "domain": "zocalo.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
     "at": "2026-11-10T03:00:00Z",
     "countries": [
-     "US"
+     "CN",
+     "EU"
     ],
     "sectors": [],
-    "severity": "baja"
+    "severity": "alta"
    },
    {
     "id": "collapse dominance expenses faces rising russian shipping sudden",
@@ -231,20 +232,19 @@
     "severity": "media"
    },
    {
-    "id": "adicional arancel china durante meses periodico productos suspendera",
+    "id": "back cuts democrats medicaid roll stop tariffs will",
     "type": "arancel",
-    "title": "China suspenderá durante dos meses el arancel adicional del 24 % a productos de EU – Periódico Zócalo",
-    "url": "https://www.zocalo.com.mx/china-suspendera-durante-dos-meses-el-arancel-adicional-del-24-a-productos-de-eu/",
-    "domain": "zocalo.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
+    "title": "Democrats will try to roll back Medicaid cuts , stop tariffs , Oregon US Sen . Ron Wyden says",
+    "url": "https://www.ijpr.org/politics-government/2026-11-09/democrats-will-try-to-roll-back-medicaid-cuts-stop-tariffs-oregon-us-sen-ron-wyden-says",
+    "domain": "ijpr.org",
+    "lang": "en",
+    "sourceCountry": "United States",
     "at": "2026-11-10T03:00:00Z",
     "countries": [
-     "CN",
-     "EU"
+     "US"
     ],
     "sectors": [],
-    "severity": "alta"
+    "severity": "baja"
    },
    {
     "id": "103k bill buses guide import oklahoma tour with",
@@ -1040,16 +1040,14 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: fetch failed",
    "divisa/english: fetch failed",
    "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/english: fetch failed"
   ]
  }
 }
