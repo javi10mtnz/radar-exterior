@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T02:10:48.671Z",
+ "updatedAt": "2026-11-10T02:59:57.021Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -166,6 +166,21 @@
     "severity": "alta"
    },
    {
+    "id": "chancay conectividad facilita latinoamericanos llegada productos shanghai triple",
+    "type": "regulacion",
+    "title": "De Chancay a Shanghai : Triple conectividad facilita llegada de productos latinoamericanos a la CIIE y su comercialización en China _ Spanish . china . org . cn _ 中国最权威的西班牙语新闻网站",
+    "url": "http://spanish.china.org.cn/txt/2026-11/09/content_118767183.htm",
+    "domain": "spanish.china.org.cn",
+    "lang": "es",
+    "sourceCountry": "China",
+    "at": "2026-11-09T05:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "additional china extends imports months retains suspension tariff",
     "type": "arancel",
     "title": "China extends suspension of 24 % additional tariff on US imports for two months , retains 10 % rate",
@@ -180,21 +195,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "chancay conectividad facilita latinoamericanos llegada productos shanghai triple",
-    "type": "regulacion",
-    "title": "De Chancay a Shanghai : Triple conectividad facilita llegada de productos latinoamericanos a la CIIE y su comercialización en China _ Spanish . china . org . cn _ 中国最权威的西班牙语新闻网站",
-    "url": "http://spanish.china.org.cn/txt/2026-11/09/content_118767183.htm",
-    "domain": "spanish.china.org.cn",
-    "lang": "es",
-    "sourceCountry": "China",
-    "at": "2026-11-09T05:00:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "canada fighting guys influencer little trade unlikely",
@@ -769,15 +769,14 @@
    }
   ],
   "partialErrors": [
-   "arancel/spanish: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
