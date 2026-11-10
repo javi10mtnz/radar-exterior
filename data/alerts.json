@@ -1,11 +1,122 @@
 {
- "updatedAt": "2026-11-10T06:00:53.412Z",
+ "updatedAt": "2026-11-10T07:13:41.246Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "china exports straight surpasses surplus trade trillion year",
+    "type": "arancel",
+    "title": "China trade surplus surpasses $1 trillion for a 2nd straight year , as exports surge 35 %",
+    "url": "https://mymotherlode.com/news/world/11296137/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35.html",
+    "domain": "mymotherlode.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-10T06:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china exports jump straight surplus tops trade year",
+    "type": "arancel",
+    "title": "China trade surplus tops $1 trn for 2nd straight year , exports jump 35 %",
+    "url": "https://www.business-standard.com/world-news/china-s-trade-surplus-tops-1-trn-for-2nd-straight-year-exports-jump-35-126111000109_1.html",
+    "domain": "business-standard.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-10T05:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "access china free hope sihlobo sparks tariff wandile",
+    "type": "arancel",
+    "title": "WANDILE SIHLOBO | Tariff - free access to China sparks hope",
+    "url": "https://www.businessday.co.za/opinion/2026-11-10-wandile-sihlobo-tariff-free-access-to-china-sparks-hope/",
+    "domain": "businessday.co.za",
+    "lang": "en",
+    "sourceCountry": "South Africa",
+    "at": "2026-11-10T05:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "additional china extends goods months retains suspension tariff",
+    "type": "arancel",
+    "title": "China extends suspension of 24 % additional tariff on US goods for two months , retains 10 % levy",
+    "url": "http://www.bignewsnetwork.com/news/279423108/china-extends-suspension-of-24-additional-tariff-on-us-goods-for-two-months-retains-10-levy",
+    "domain": "bignewsnetwork.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-10T05:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china exports imports narrows stay surge surplus trade",
+    "type": "arancel",
+    "title": "China Trade Surplus Narrows to USD 105 . 3B as Imports Surge , AI Exports Stay Strong",
+    "url": "https://www.actionforex.com/live-comments/660367-chinas-trade-surplus-narrows-to-usd-105-3b-as-imports-surge-ai-exports-stay-strong/",
+    "domain": "actionforex.com",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-10T05:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "canadian extend feds firms program relief tariff",
+    "type": "arancel",
+    "title": "Feds extend tariff relief program for Canadian firms",
+    "url": "https://www.ckom.com/2026/11/09/feds-extend-tariff-relief-program-for-canadian-firms/",
+    "domain": "ckom.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-10T05:00:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aluminum canada cuts exemptions expands relief some tariff",
+    "type": "arancel",
+    "title": "Canada expands US tariff exemptions , cuts some aluminum relief",
+    "url": "https://www.moneycontrol.com/world/canada-expands-us-tariff-exemptions-cuts-some-aluminum-relief-article-14075839.html",
+    "domain": "moneycontrol.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-10T04:30:00Z",
+    "countries": [
+     "US",
+     "CA"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
    {
     "id": "akwa announcement approves deep ibom major makes tinubu",
     "type": "regulacion",
@@ -23,7 +134,7 @@
    },
    {
     "id": "2027 canada chicken imports tonnes",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "Canada chicken imports to dip to 225 , 000 tonnes in 2027",
     "url": "https://www.thepoultrysite.com/news/2026/11/canada-chicken-imports-to-dip-to-225-000-tonnes-in-2027",
     "domain": "thepoultrysite.com",
@@ -32,6 +143,38 @@
     "at": "2026-11-10T03:30:00Z",
     "countries": [
      "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china curbs earth export extends months pause rare",
+    "type": "arancel",
+    "title": "China extends pause on rare earth export curbs for two months",
+    "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
+    "domain": "thenationalnews.com",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-10T03:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "back cuts democrats medicaid roll stop tariffs will",
+    "type": "arancel",
+    "title": "Democrats will try to roll back Medicaid cuts , stop tariffs , Oregon US Sen . Ron Wyden says",
+    "url": "https://www.ijpr.org/politics-government/2026-11-09/democrats-will-try-to-roll-back-medicaid-cuts-stop-tariffs-oregon-us-sen-ron-wyden-says",
+    "domain": "ijpr.org",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-10T03:00:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -71,6 +214,51 @@
     "severity": "media"
    },
    {
+    "id": "103k bill buses guide import oklahoma tour with",
+    "type": "arancel",
+    "title": "Oklahoma tour guide hit with $103K import bill for buses stuck at California port",
+    "url": "https://www.news9.com/oklahoma-city-news/oklahoma-tour-guide-hit-with-103k-import-bill-for-buses-stuck-at-california-port",
+    "domain": "news9.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-10T02:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "amends beyond extends ottawa program relief steel tariff",
+    "type": "arancel",
+    "title": "Ottawa amends , extends tariff relief program beyond U . S . steel imports",
+    "url": "https://www.kelownadailycourier.ca/news/national_news/article_03ca5755-f136-518a-947f-3672ab203ad3.html",
+    "domain": "kelownadailycourier.ca",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-10T02:30:00Z",
+    "countries": [],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "advises ashurst coie denglin hong kong perkins technology",
+    "type": "arancel",
+    "title": "Ashurst Perkins Coie Advises Denglin Technology on Hong Kong IPO Sanctions",
+    "url": "https://www.miragenews.com/ashurst-perkins-coie-advises-denglin-technology-1774540/",
+    "domain": "miragenews.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-10T02:30:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
     "id": "chains discuss economic india review security strategic supply",
     "type": "regulacion",
     "title": "India - EU discuss FTA , supply chains , economic security at 7th Strategic Review Meeting in Delhi",
@@ -85,21 +273,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "amends beyond extends ottawa program relief steel tariff",
-    "type": "arancel",
-    "title": "Ottawa amends , extends tariff relief program beyond U . S . steel imports",
-    "url": "https://cheknews.ca/ottawa-amends-extends-tariff-relief-program-beyond-u-s-steel-imports-1360193/",
-    "domain": "cheknews.ca",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-10T00:30:00Z",
-    "countries": [],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "baja"
    },
    {
     "id": "argentina mejora millones oferta produccion toneladas treparia trigo",
@@ -833,14 +1006,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: fetch failed",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
