@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T17:03:08.455Z",
+ "updatedAt": "2026-11-11T18:02:13.125Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -56,6 +56,21 @@
     "severity": "media"
    },
    {
+    "id": "brasil candidatos desigual elecciones meta sanciona trato",
+    "type": "sancion",
+    "title": "Brasil sanciona a Meta por trato desigual a candidatos en las elecciones",
+    "url": "https://efe.com/ciencia-y-tecnologia/2026-11-11/justicia-brasil-condena-meta-elecciones/",
+    "domain": "efe.com",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "blacklisted chinese chips despite h200 nvidia reached university",
     "type": "sancion",
     "title": "Nvidia H200 chips reached US - blacklisted Chinese university despite export curbs , records show",
@@ -89,21 +104,6 @@
     "sectors": [
      "tech"
     ],
-    "severity": "media"
-   },
-   {
-    "id": "brasil candidatos desigual elecciones meta sanciona trato",
-    "type": "sancion",
-    "title": "Brasil sanciona a Meta por trato desigual a candidatos en las elecciones",
-    "url": "https://efe.com/ciencia-y-tecnologia/2026-11-11/justicia-brasil-condena-meta-elecciones/",
-    "domain": "efe.com",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "BR"
-    ],
-    "sectors": [],
     "severity": "media"
    },
    {
@@ -1462,12 +1462,10 @@
    }
   ],
   "partialErrors": [
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: fetch failed",
    "divisa/spanish: fetch failed",
    "geo/english: fetch failed",
