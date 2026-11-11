@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T15:59:35.609Z",
+ "updatedAt": "2026-11-11T17:03:08.455Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,13 +7,30 @@
  "data": {
   "items": [
    {
-    "id": "continue deal despite india likely republican talks trade",
-    "type": "regulacion",
-    "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
-    "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-likely-to-continue-despite-republican-midterm-setback",
-    "domain": "freepressjournal.in",
+    "id": "australian beef demand despite exports leads market softer",
+    "type": "arancel",
+    "title": "US beef market leads Australian exports despite softer demand | North Queensland Register",
+    "url": "https://www.northqueenslandregister.com.au/story/9388746/us-beef-market-leads-australian-exports-despite-softer-demand/",
+    "domain": "northqueenslandregister.com.au",
     "lang": "en",
-    "sourceCountry": "India",
+    "sourceCountry": "Australia",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "after garment india makers reliance rethink shock tariff",
+    "type": "arancel",
+    "title": "India garment makers rethink reliance on US after tariff shock",
+    "url": "https://ksevradio.com/india-garment-makers-rethink-reliance-on-us-after-tariff-shock/",
+    "domain": "ksevradio.com",
+    "lang": "en",
+    "sourceCountry": "United States",
     "at": "2026-11-11T06:30:00Z",
     "countries": [
      "US",
@@ -23,16 +40,17 @@
     "severity": "media"
    },
    {
-    "id": "brasil candidatos desigual elecciones meta sanciona trato",
-    "type": "sancion",
-    "title": "Brasil sanciona a Meta por trato desigual a candidatos en las elecciones",
-    "url": "https://efe.com/ciencia-y-tecnologia/2026-11-11/justicia-brasil-condena-meta-elecciones/",
-    "domain": "efe.com",
-    "lang": "es",
-    "sourceCountry": "United States",
+    "id": "continue deal despite india likely republican talks trade",
+    "type": "arancel",
+    "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
+    "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-likely-to-continue-despite-republican-midterm-setback",
+    "domain": "freepressjournal.in",
+    "lang": "en",
+    "sourceCountry": "India",
     "at": "2026-11-11T06:30:00Z",
     "countries": [
-     "BR"
+     "US",
+     "IN"
     ],
     "sectors": [],
     "severity": "media"
@@ -74,6 +92,21 @@
     "severity": "media"
    },
    {
+    "id": "brasil candidatos desigual elecciones meta sanciona trato",
+    "type": "sancion",
+    "title": "Brasil sanciona a Meta por trato desigual a candidatos en las elecciones",
+    "url": "https://efe.com/ciencia-y-tecnologia/2026-11-11/justicia-brasil-condena-meta-elecciones/",
+    "domain": "efe.com",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "balanced bessent calls china more scott secretary treasury",
     "type": "geo",
     "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
@@ -105,8 +138,23 @@
     "severity": "baja"
    },
    {
+    "id": "anti dumping duties indian industry jute nepal under",
+    "type": "arancel",
+    "title": "Indian anti - dumping duties put Nepal jute industry under pressure – Asia News Network",
+    "url": "https://asianews.network/indian-anti-dumping-duties-put-nepals-jute-industry-under-pressure/",
+    "domain": "asianews.network",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "china expo headlines import larger story tells xinhua",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "Xinhua Headlines : China import expo tells a larger story of openness , shared opportunities",
     "url": "http://www.zimbabwestar.com/news/279424098/xinhua-headlines-china-import-expo-tells-a-larger-story-of-openness-shared-opportunities",
     "domain": "zimbabwestar.com",
@@ -115,6 +163,37 @@
     "at": "2026-11-11T05:00:00Z",
     "countries": [
      "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china exclusions extends january tariff",
+    "type": "arancel",
+    "title": "US extends 178 China tariff exclusions to January 9",
+    "url": "https://www.prokerala.com/news/articles/a1835330.html",
+    "domain": "prokerala.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "elections from important israel lessons",
+    "type": "sancion",
+    "title": "Important lessons from US and Israel elections",
+    "url": "https://asianews.network/important-lessons-from-us-and-israel-elections/",
+    "domain": "asianews.network",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -151,49 +230,20 @@
     "severity": "baja"
    },
    {
-    "id": "elections from important israel lessons",
-    "type": "sancion",
-    "title": "Important lessons from US and Israel elections",
-    "url": "https://asianews.network/important-lessons-from-us-and-israel-elections/",
-    "domain": "asianews.network",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-11T05:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "anti dumping duties indian industry jute nepal under",
+    "id": "about arctic canada carney decision drilling lifting made",
     "type": "arancel",
-    "title": "Indian anti - dumping duties put Nepal jute industry under pressure – Asia News Network",
-    "url": "https://asianews.network/indian-anti-dumping-duties-put-nepals-jute-industry-under-pressure/",
-    "domain": "asianews.network",
+    "title": "Canada has not made a decision about lifting Arctic drilling ban , Carney says | Peak Oil News and Message Boards",
+    "url": "https://peakoil.com/publicpolicy/canada-has-not-made-a-decision-about-lifting-arctic-drilling-ban-carney-says",
+    "domain": "peakoil.com",
     "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-11T05:00:00Z",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T04:00:00Z",
     "countries": [
-     "IN"
+     "CA"
     ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "china exclusions extends january tariff",
-    "type": "arancel",
-    "title": "US extends 178 China tariff exclusions to January 9",
-    "url": "https://www.prokerala.com/news/articles/a1835330.html",
-    "domain": "prokerala.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-11T05:00:00Z",
-    "countries": [
-     "US",
-     "CN"
+    "sectors": [
+     "alim"
     ],
-    "sectors": [],
     "severity": "media"
    },
    {
@@ -212,23 +262,6 @@
     "severity": "baja"
    },
    {
-    "id": "about arctic canada carney decision drilling lifting made",
-    "type": "arancel",
-    "title": "Canada has not made a decision about lifting Arctic drilling ban , Carney says | Peak Oil News and Message Boards",
-    "url": "https://peakoil.com/publicpolicy/canada-has-not-made-a-decision-about-lifting-arctic-drilling-ban-carney-says",
-    "domain": "peakoil.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T04:00:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "media"
-   },
-   {
     "id": "2017 crude from highest imports july since venezuela",
     "type": "sancion",
     "title": "U . S . Crude Oil Imports From Venezuela In July Highest Since 2017 - Analysis",
@@ -244,8 +277,23 @@
     "severity": "baja"
    },
    {
+    "id": "china exceeds surplus time trade trillion",
+    "type": "arancel",
+    "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
+    "url": "https://www.theepochtimes.com/china/chinas-trade-surplus-exceeds-1-trillion-for-2nd-time-6123268",
+    "domain": "theepochtimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T02:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "accident barge california caused emissions fatal near watch",
-    "type": "logistica",
+    "type": "arancel",
     "title": "Watch : Near - Fatal Accident Caused by Emissions Barge in California Port",
     "url": "https://www.breitbart.com/environment/2026/11/10/watch-near-fatal-accident-caused-by-emissions-barge-in-california-port/",
     "domain": "breitbart.com",
@@ -257,6 +305,23 @@
      "transporte"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "about arctic canada decision drilling lifting made says",
+    "type": "arancel",
+    "title": "Canada has not made a decision about lifting Arctic drilling ban , says Mark Carney",
+    "url": "https://www.thehindu.com/news/international/canada-has-not-made-a-decision-about-lifting-arctic-drilling-ban-says-mark-carney/article71688125.ece",
+    "domain": "thehindu.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-11T02:30:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "media"
    },
    {
     "id": "flat hold market mexico mexico peso stocks weakens",
@@ -287,38 +352,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "china exceeds surplus time trade trillion",
-    "type": "sancion",
-    "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
-    "url": "https://www.theepochtimes.com/china/chinas-trade-surplus-exceeds-1-trillion-for-2nd-time-6123268",
-    "domain": "theepochtimes.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "about arctic canada decision drilling lifting made says",
-    "type": "arancel",
-    "title": "Canada has not made a decision about lifting Arctic drilling ban , says Mark Carney",
-    "url": "https://www.thehindu.com/news/international/canada-has-not-made-a-decision-about-lifting-arctic-drilling-ban-says-mark-carney/article71688125.ece",
-    "domain": "thehindu.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "media"
    },
    {
     "id": "china expo import larger openness shared story tells",
@@ -1429,14 +1462,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: fetch failed",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
+   "divisa/spanish: fetch failed",
    "geo/english: fetch failed",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/spanish: fetch failed"
   ]
  }
 }
