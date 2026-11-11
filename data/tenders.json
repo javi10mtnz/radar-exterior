@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T23:43:47.800Z",
+ "updatedAt": "2026-11-11T01:08:22.135Z",
  "file": "tenders.json",
  "source": "TED – Tenders Electronic Daily (Oficina de Publicaciones de la UE)",
  "sourceUrl": "https://ted.europa.eu/",
@@ -509,28 +509,6 @@
     "url": "https://ted.europa.eu/es/notice/-/detail/775315-2026"
    },
    {
-    "id": "775433-2026",
-    "title": "Rumanía – Material electrónico – „Furnizare echipamente de iluminat scenic, video, sonorizare și IT – 10 loturi”",
-    "buyer": "TEATRUL DE STAT C ONSTANTA",
-    "country": "ROU",
-    "countryName": "Rumanía",
-    "countryIso2": null,
-    "cpv": [
-     "31711000",
-     "31520000",
-     "31527260"
-    ],
-    "sectors": [
-     "energia",
-     "tech"
-    ],
-    "published": "2026-11-09",
-    "deadline": "2026-11-11",
-    "value": 1571652.67,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/775433-2026"
-   },
-   {
     "id": "776064-2026",
     "title": "Alemania – Trabajos de construcción – Modernisierung Wehr Alt-Schadow mit Schleuse und Fischaufstiegsanlage: Los 4: Stahlwasser- und Maschinenbau, Technische Ausrüstung",
     "buyer": "Wasser- und Bodenverband \"Nördlicher Spreewald\"",
@@ -897,6 +875,26 @@
     "value": 80000,
     "currency": "EUR",
     "url": "https://ted.europa.eu/es/notice/-/detail/775216-2026"
+   },
+   {
+    "id": "775424-2026",
+    "title": "España – Gasóleos – Clasificación petición de ofertas y contratación del suministro de gasóleo A biodiésel puro mezcla de gasóleo A y biodiésel y gasóleo C calefacción a la Empresa Municipal de Transportes de Madrid, S.A",
+    "buyer": "Empresa Municipal de Transportes de Madrid, S.A.",
+    "country": "ESP",
+    "countryName": "España",
+    "countryIso2": null,
+    "cpv": [
+     "09134000",
+     "09134000"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-09",
+    "deadline": "",
+    "value": 4032,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/775424-2026"
    },
    {
     "id": "775940-2026",
