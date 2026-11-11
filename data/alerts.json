@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T06:05:29.693Z",
+ "updatedAt": "2026-11-11T07:19:16.055Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -17,6 +17,37 @@
     "at": "2026-11-11T05:30:00Z",
     "countries": [
      "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "bets bound chinese hike range rate remains yuan",
+    "type": "divisa",
+    "title": "Chinese yuan remains range - bound as US rate hike bets strengthen dollar",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinese-yuan-remains-range-bound-as-us-rate-hike-bets-strengthen-dollar/articleshow/135725116.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china exchange market rates xinhua",
+    "type": "divisa",
+    "title": "Market exchange rates in China -- Nov . 11 - Xinhua",
+    "url": "https://english.news.cn/20261111/8429cf7b6c1c475a9d49e3988c9e1848/c.html",
+    "domain": "english.news.cn",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "CN"
     ],
     "sectors": [],
     "severity": "baja"
@@ -85,6 +116,36 @@
     "severity": "media"
    },
    {
+    "id": "flat hold market mexico mexico peso stocks weakens",
+    "type": "divisa",
+    "title": "Mexico Stocks Hold Flat as Peso Weakens 0 . 5 % | Mexico Market Report …",
+    "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-tuesday-november-10-2026/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-11T02:30:00Z",
+    "countries": [
+     "MX"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "colombia colombian dollar market peso report slips",
+    "type": "divisa",
+    "title": "Colombian Peso Slips to 3 , 297 per Dollar | Colombia Market Report …",
+    "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-tuesday-november-10-2026/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-11T02:30:00Z",
+    "countries": [
+     "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "china exceeds surplus time trade trillion",
     "type": "arancel",
     "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
@@ -130,36 +191,6 @@
      "alim"
     ],
     "severity": "media"
-   },
-   {
-    "id": "colombia colombian dollar market peso report slips",
-    "type": "divisa",
-    "title": "Colombian Peso Slips to 3 , 297 per Dollar | Colombia Market Report …",
-    "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-tuesday-november-10-2026/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "flat hold market mexico mexico peso stocks weakens",
-    "type": "divisa",
-    "title": "Mexico Stocks Hold Flat as Peso Weakens 0 . 5 % | Mexico Market Report …",
-    "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-tuesday-november-10-2026/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "MX"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "china expo import larger openness shared story tells",
@@ -1270,17 +1301,15 @@
    }
   ],
   "partialErrors": [
-   "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: fetch failed",
-   "regulacion/english: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
