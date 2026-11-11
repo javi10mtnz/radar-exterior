@@ -1,11 +1,63 @@
 {
- "updatedAt": "2026-11-11T07:19:16.055Z",
+ "updatedAt": "2026-11-11T08:39:58.645Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "blacklisted chinese chips despite h200 nvidia reached university",
+    "type": "sancion",
+    "title": "Nvidia H200 chips reached US - blacklisted Chinese university despite export curbs , records show",
+    "url": "https://www.moneycontrol.com/news/business/nvidia-s-h200-chips-reached-us-blacklisted-chinese-university-despite-export-curbs-records-show-14076908.html",
+    "domain": "moneycontrol.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "china chip curbs export nvidia tightens",
+    "type": "sancion",
+    "title": "Nvidia Spy Row : US tightens AI chip export curbs for China",
+    "url": "https://organiser.org/2026/11/11/425612/international/us-lawmakers-push-tighter-china-chip-curbs-in-defence-bill-after-nvidia-spy-scandal-raises-security-concerns/",
+    "domain": "organiser.org",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "balanced bessent calls china more scott secretary treasury",
+    "type": "geo",
+    "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
+    "url": "http://www.cecildaily.com/ap/nation/treasury-secretary-scott-bessent-calls-for-more-balanced-us-china-trade-ties-ahead-of-trump/article_f0b5c6af-43c8-5dce-a2a5-0a286f8fe201.html",
+    "domain": "cecildaily.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "cant democrats local news republicans tariffs trump without",
     "type": "arancel",
@@ -15,6 +67,21 @@
     "lang": "en",
     "sourceCountry": "United States",
     "at": "2026-11-11T05:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "elections from important israel lessons",
+    "type": "sancion",
+    "title": "Important lessons from US and Israel elections",
+    "url": "https://asianews.network/important-lessons-from-us-and-israel-elections/",
+    "domain": "asianews.network",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-11T05:00:00Z",
     "countries": [
      "US"
     ],
@@ -99,6 +166,21 @@
     "severity": "media"
    },
    {
+    "id": "affair huang into jensen looking nvidia probe security",
+    "type": "sancion",
+    "title": "Nvidia security probe looking into Jensen Huang affair , Chinese intelligence allegations and potential export control changes",
+    "url": "https://www.afr.com/technology/jensen-huang-s-love-life-could-throw-the-global-chip-trade-into-chaos-20261111-p61cyz",
+    "domain": "afr.com",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-11T04:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "about arctic canada carney decision drilling lifting made",
     "type": "arancel",
     "title": "Canada has not made a decision about lifting Arctic drilling ban , Carney says | Peak Oil News and Message Boards",
@@ -114,6 +196,36 @@
      "alim"
     ],
     "severity": "media"
+   },
+   {
+    "id": "2017 crude from highest imports july since venezuela",
+    "type": "sancion",
+    "title": "U . S . Crude Oil Imports From Venezuela In July Highest Since 2017 - Analysis",
+    "url": "https://www.eurasiareview.com/11112026-u-s-crude-oil-imports-from-venezuela-in-july-highest-since-2017-analysis/",
+    "domain": "eurasiareview.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T03:00:00Z",
+    "countries": [],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "china exceeds surplus time trade trillion",
+    "type": "sancion",
+    "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
+    "url": "https://www.theepochtimes.com/china/chinas-trade-surplus-exceeds-1-trillion-for-2nd-time-6123268",
+    "domain": "theepochtimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T02:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "flat hold market mexico mexico peso stocks weakens",
@@ -141,21 +253,6 @@
     "at": "2026-11-11T02:30:00Z",
     "countries": [
      "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "china exceeds surplus time trade trillion",
-    "type": "arancel",
-    "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
-    "url": "https://www.theepochtimes.com/china/chinas-trade-surplus-exceeds-1-trillion-for-2nd-time-6123268",
-    "domain": "theepochtimes.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "CN"
     ],
     "sectors": [],
     "severity": "baja"
@@ -1302,14 +1399,11 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
