@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T09:38:08.262Z",
+ "updatedAt": "2026-11-11T10:39:51.585Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -74,21 +74,6 @@
     "severity": "baja"
    },
    {
-    "id": "elections from important israel lessons",
-    "type": "sancion",
-    "title": "Important lessons from US and Israel elections",
-    "url": "https://asianews.network/important-lessons-from-us-and-israel-elections/",
-    "domain": "asianews.network",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-11T05:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "bets bound chinese hike range rate remains yuan",
     "type": "divisa",
     "title": "Chinese yuan remains range - bound as US rate hike bets strengthen dollar",
@@ -115,6 +100,21 @@
     "at": "2026-11-11T05:00:00Z",
     "countries": [
      "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "elections from important israel lessons",
+    "type": "sancion",
+    "title": "Important lessons from US and Israel elections",
+    "url": "https://asianews.network/important-lessons-from-us-and-israel-elections/",
+    "domain": "asianews.network",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -213,18 +213,18 @@
     "severity": "baja"
    },
    {
-    "id": "china exceeds surplus time trade trillion",
-    "type": "sancion",
-    "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
-    "url": "https://www.theepochtimes.com/china/chinas-trade-surplus-exceeds-1-trillion-for-2nd-time-6123268",
-    "domain": "theepochtimes.com",
+    "id": "accident barge california caused emissions fatal near watch",
+    "type": "logistica",
+    "title": "Watch : Near - Fatal Accident Caused by Emissions Barge in California Port",
+    "url": "https://www.breitbart.com/environment/2026/11/10/watch-near-fatal-accident-caused-by-emissions-barge-in-california-port/",
+    "domain": "breitbart.com",
     "lang": "en",
     "sourceCountry": "United States",
     "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "CN"
+    "countries": [],
+    "sectors": [
+     "transporte"
     ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -258,18 +258,18 @@
     "severity": "baja"
    },
    {
-    "id": "accident barge california caused emissions fatal near watch",
-    "type": "arancel",
-    "title": "Watch : Near - Fatal Accident Caused by Emissions Barge in California Port",
-    "url": "https://www.breitbart.com/environment/2026/11/10/watch-near-fatal-accident-caused-by-emissions-barge-in-california-port/",
-    "domain": "breitbart.com",
+    "id": "china exceeds surplus time trade trillion",
+    "type": "sancion",
+    "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
+    "url": "https://www.theepochtimes.com/china/chinas-trade-surplus-exceeds-1-trillion-for-2nd-time-6123268",
+    "domain": "theepochtimes.com",
     "lang": "en",
     "sourceCountry": "United States",
     "at": "2026-11-11T02:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
+    "countries": [
+     "CN"
     ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -1402,12 +1402,10 @@
    "arancel/spanish: fetch failed",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
