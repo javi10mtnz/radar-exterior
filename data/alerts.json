@@ -1,11 +1,27 @@
 {
- "updatedAt": "2026-11-11T08:39:58.645Z",
+ "updatedAt": "2026-11-11T09:38:08.262Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "balanced bessent calls china more scott secretary treasury",
+    "type": "geo",
+    "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
+    "url": "http://www.cecildaily.com/ap/nation/treasury-secretary-scott-bessent-calls-for-more-balanced-us-china-trade-ties-ahead-of-trump/article_f0b5c6af-43c8-5dce-a2a5-0a286f8fe201.html",
+    "domain": "cecildaily.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "blacklisted chinese chips despite h200 nvidia reached university",
     "type": "sancion",
@@ -40,22 +56,6 @@
     "sectors": [
      "tech"
     ],
-    "severity": "media"
-   },
-   {
-    "id": "balanced bessent calls china more scott secretary treasury",
-    "type": "geo",
-    "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
-    "url": "http://www.cecildaily.com/ap/nation/treasury-secretary-scott-bessent-calls-for-more-balanced-us-china-trade-ties-ahead-of-trump/article_f0b5c6af-43c8-5dce-a2a5-0a286f8fe201.html",
-    "domain": "cecildaily.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
     "severity": "media"
    },
    {
@@ -1399,11 +1399,16 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: fetch failed",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
