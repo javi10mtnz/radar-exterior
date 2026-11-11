@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T21:43:21.918Z",
+ "updatedAt": "2026-11-11T22:57:40.946Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -56,22 +56,6 @@
     "severity": "media"
    },
    {
-    "id": "balanced bessent calls china more scott secretary treasury",
-    "type": "geo",
-    "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
-    "url": "http://www.cecildaily.com/ap/nation/treasury-secretary-scott-bessent-calls-for-more-balanced-us-china-trade-ties-ahead-of-trump/article_f0b5c6af-43c8-5dce-a2a5-0a286f8fe201.html",
-    "domain": "cecildaily.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "blacklisted chinese chips despite h200 nvidia reached university",
     "type": "sancion",
     "title": "Nvidia H200 chips reached US - blacklisted Chinese university despite export curbs , records show",
@@ -105,6 +89,22 @@
     "sectors": [
      "tech"
     ],
+    "severity": "media"
+   },
+   {
+    "id": "balanced bessent calls china more scott secretary treasury",
+    "type": "geo",
+    "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
+    "url": "http://www.cecildaily.com/ap/nation/treasury-secretary-scott-bessent-calls-for-more-balanced-us-china-trade-ties-ahead-of-trump/article_f0b5c6af-43c8-5dce-a2a5-0a286f8fe201.html",
+    "domain": "cecildaily.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
     "severity": "media"
    },
    {
@@ -184,6 +184,21 @@
     "severity": "media"
    },
    {
+    "id": "elections from important israel lessons",
+    "type": "sancion",
+    "title": "Important lessons from US and Israel elections",
+    "url": "https://asianews.network/important-lessons-from-us-and-israel-elections/",
+    "domain": "asianews.network",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "bets bound chinese hike range rate remains yuan",
     "type": "divisa",
     "title": "Chinese yuan remains range - bound as US rate hike bets strengthen dollar",
@@ -210,21 +225,6 @@
     "at": "2026-11-11T05:00:00Z",
     "countries": [
      "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "elections from important israel lessons",
-    "type": "sancion",
-    "title": "Important lessons from US and Israel elections",
-    "url": "https://asianews.network/important-lessons-from-us-and-israel-elections/",
-    "domain": "asianews.network",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-11T05:00:00Z",
-    "countries": [
-     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -1463,11 +1463,13 @@
   ],
   "partialErrors": [
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
