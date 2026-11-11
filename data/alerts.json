@@ -1,11 +1,43 @@
 {
- "updatedAt": "2026-11-11T19:03:39.651Z",
+ "updatedAt": "2026-11-11T20:05:02.947Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "continue deal despite india likely republican talks trade",
+    "type": "regulacion",
+    "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
+    "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-likely-to-continue-despite-republican-midterm-setback",
+    "domain": "freepressjournal.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "balanced bessent calls china more scott secretary treasury",
+    "type": "geo",
+    "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
+    "url": "http://www.cecildaily.com/ap/nation/treasury-secretary-scott-bessent-calls-for-more-balanced-us-china-trade-ties-ahead-of-trump/article_f0b5c6af-43c8-5dce-a2a5-0a286f8fe201.html",
+    "domain": "cecildaily.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "australian beef demand despite exports leads market softer",
     "type": "arancel",
@@ -31,22 +63,6 @@
     "domain": "ksevradio.com",
     "lang": "en",
     "sourceCountry": "United States",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "continue deal despite india likely republican talks trade",
-    "type": "arancel",
-    "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
-    "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-likely-to-continue-despite-republican-midterm-setback",
-    "domain": "freepressjournal.in",
-    "lang": "en",
-    "sourceCountry": "India",
     "at": "2026-11-11T06:30:00Z",
     "countries": [
      "US",
@@ -107,22 +123,6 @@
     "severity": "media"
    },
    {
-    "id": "balanced bessent calls china more scott secretary treasury",
-    "type": "geo",
-    "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
-    "url": "http://www.cecildaily.com/ap/nation/treasury-secretary-scott-bessent-calls-for-more-balanced-us-china-trade-ties-ahead-of-trump/article_f0b5c6af-43c8-5dce-a2a5-0a286f8fe201.html",
-    "domain": "cecildaily.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "cant democrats local news republicans tariffs trump without",
     "type": "arancel",
     "title": "Democrats cant end Trump tariffs without Republicans | Local News",
@@ -138,23 +138,8 @@
     "severity": "baja"
    },
    {
-    "id": "anti dumping duties indian industry jute nepal under",
-    "type": "arancel",
-    "title": "Indian anti - dumping duties put Nepal jute industry under pressure – Asia News Network",
-    "url": "https://asianews.network/indian-anti-dumping-duties-put-nepals-jute-industry-under-pressure/",
-    "domain": "asianews.network",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-11T05:00:00Z",
-    "countries": [
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "china expo headlines import larger story tells xinhua",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "Xinhua Headlines : China import expo tells a larger story of openness , shared opportunities",
     "url": "http://www.zimbabwestar.com/news/279424098/xinhua-headlines-china-import-expo-tells-a-larger-story-of-openness-shared-opportunities",
     "domain": "zimbabwestar.com",
@@ -163,37 +148,6 @@
     "at": "2026-11-11T05:00:00Z",
     "countries": [
      "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "china exclusions extends january tariff",
-    "type": "arancel",
-    "title": "US extends 178 China tariff exclusions to January 9",
-    "url": "https://www.prokerala.com/news/articles/a1835330.html",
-    "domain": "prokerala.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-11T05:00:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "elections from important israel lessons",
-    "type": "sancion",
-    "title": "Important lessons from US and Israel elections",
-    "url": "https://asianews.network/important-lessons-from-us-and-israel-elections/",
-    "domain": "asianews.network",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-11T05:00:00Z",
-    "countries": [
-     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -225,6 +179,52 @@
     "at": "2026-11-11T05:00:00Z",
     "countries": [
      "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "anti dumping duties indian industry jute nepal under",
+    "type": "arancel",
+    "title": "Indian anti - dumping duties put Nepal jute industry under pressure – Asia News Network",
+    "url": "https://asianews.network/indian-anti-dumping-duties-put-nepals-jute-industry-under-pressure/",
+    "domain": "asianews.network",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china exclusions extends january tariff",
+    "type": "arancel",
+    "title": "US extends 178 China tariff exclusions to January 9",
+    "url": "https://www.prokerala.com/news/articles/a1835330.html",
+    "domain": "prokerala.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "elections from important israel lessons",
+    "type": "sancion",
+    "title": "Important lessons from US and Israel elections",
+    "url": "https://asianews.network/important-lessons-from-us-and-israel-elections/",
+    "domain": "asianews.network",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -277,6 +277,36 @@
     "severity": "baja"
    },
    {
+    "id": "flat hold market mexico mexico peso stocks weakens",
+    "type": "divisa",
+    "title": "Mexico Stocks Hold Flat as Peso Weakens 0 . 5 % | Mexico Market Report …",
+    "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-tuesday-november-10-2026/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-11T02:30:00Z",
+    "countries": [
+     "MX"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "colombia colombian dollar market peso report slips",
+    "type": "divisa",
+    "title": "Colombian Peso Slips to 3 , 297 per Dollar | Colombia Market Report …",
+    "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-tuesday-november-10-2026/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-11T02:30:00Z",
+    "countries": [
+     "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "china exceeds surplus time trade trillion",
     "type": "arancel",
     "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
@@ -322,36 +352,6 @@
      "alim"
     ],
     "severity": "media"
-   },
-   {
-    "id": "flat hold market mexico mexico peso stocks weakens",
-    "type": "divisa",
-    "title": "Mexico Stocks Hold Flat as Peso Weakens 0 . 5 % | Mexico Market Report …",
-    "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-tuesday-november-10-2026/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "MX"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "colombia colombian dollar market peso report slips",
-    "type": "divisa",
-    "title": "Colombian Peso Slips to 3 , 297 per Dollar | Colombia Market Report …",
-    "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-tuesday-november-10-2026/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "china expo import larger openness shared story tells",
@@ -1462,14 +1462,14 @@
    }
   ],
   "partialErrors": [
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
+   "sancion/spanish: fetch failed",
+   "logistica/english: fetch failed",
    "logistica/spanish: fetch failed",
-   "regulacion/english: fetch failed",
    "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/spanish: fetch failed"
   ]
  }
 }
