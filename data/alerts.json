@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T13:55:37.674Z",
+ "updatedAt": "2026-11-12T15:02:14.609Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -56,6 +56,22 @@
     "severity": "media"
    },
    {
+    "id": "augusta azeri barrel exceeds light port price",
+    "type": "sancion",
+    "title": "Azeri Light price exceeds $100 per barrel at Augusta port",
+    "url": "https://www.trend.az/azerbaijan/4245468.html",
+    "domain": "trend.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-12T06:45:00Z",
+    "countries": [],
+    "sectors": [
+     "energia",
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "billion energy fuel imports india push renewable saves",
     "type": "regulacion",
     "title": "India Renewable Energy Push Saves $100 Billion in Fuel Imports : IEA",
@@ -88,6 +104,21 @@
     "severity": "baja"
    },
    {
+    "id": "critique cuba economic interventionism power rothbardian sanctions state",
+    "type": "sancion",
+    "title": "Economic Sanctions , State Power , And Cuba : A Rothbardian Critique Of U . S . Interventionism - OpEd",
+    "url": "https://www.eurasiareview.com/12112026-economic-sanctions-state-power-and-cuba-a-rothbardian-critique-of-u-s-interventionism-oped/",
+    "domain": "eurasiareview.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-12T03:45:00Z",
+    "countries": [],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "media"
+   },
+   {
     "id": "after china cuba days pledges sanctions support",
     "type": "geo",
     "title": "China Pledges Support for Cuba Days After US Sanctions",
@@ -118,21 +149,6 @@
     ],
     "sectors": [
      "industria"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "critique cuba economic interventionism power rothbardian sanctions state",
-    "type": "sancion",
-    "title": "Economic Sanctions , State Power , And Cuba : A Rothbardian Critique Of U . S . Interventionism - OpEd",
-    "url": "https://www.eurasiareview.com/12112026-economic-sanctions-state-power-and-cuba-a-rothbardian-critique-of-u-s-interventionism-oped/",
-    "domain": "eurasiareview.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-12T03:45:00Z",
-    "countries": [],
-    "sectors": [
-     "energia"
     ],
     "severity": "media"
    },
@@ -1768,12 +1784,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
+   "divisa/spanish: fetch failed",
+   "geo/english: fetch failed",
+   "geo/spanish: fetch failed"
   ]
  }
 }
