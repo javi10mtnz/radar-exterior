@@ -1,11 +1,60 @@
 {
- "updatedAt": "2026-11-11T23:55:54.755Z",
+ "updatedAt": "2026-11-12T01:16:45.122Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "2027 funding ireland pledges russia sanctions tougher ukraine",
+    "type": "sancion",
+    "title": "Ireland Pledges Ukraine Funding for 2027 and Tougher Russia Sanctions",
+    "url": "https://www.kyivpost.com/post/89850",
+    "domain": "kyivpost.com",
+    "lang": "en",
+    "sourceCountry": "Ukraine",
+    "at": "2026-11-12T00:30:00Z",
+    "countries": [
+     "RU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "banks blacklist including linked round russia sanctions targets",
+    "type": "sancion",
+    "title": "EU to Blacklist 145 Russia - Linked Targets , Including 50 Banks , in New Round of Sanctions",
+    "url": "https://www.kyivpost.com/post/89847",
+    "domain": "kyivpost.com",
+    "lang": "en",
+    "sourceCountry": "Ukraine",
+    "at": "2026-11-12T00:30:00Z",
+    "countries": [
+     "RU",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "acquires chinese chips despite h200 linked nvidia university",
+    "type": "sancion",
+    "title": "Chinese University Linked to PLA Acquires Nvidia H200 Chips Despite US Export Ban , ETTelecom",
+    "url": "https://telecom.economictimes.indiatimes.com/news/devices/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/135750867",
+    "domain": "telecom.economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-12T00:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "alta"
+   },
    {
     "id": "blacklisted chinese chips despite h200 nvidia reached university",
     "type": "sancion",
@@ -43,6 +92,22 @@
     "severity": "media"
    },
    {
+    "id": "continue deal despite india likely republican talks trade",
+    "type": "regulacion",
+    "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
+    "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-likely-to-continue-despite-republican-midterm-setback",
+    "domain": "freepressjournal.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "australian beef demand despite exports leads market softer",
     "type": "arancel",
     "title": "US beef market leads Australian exports despite softer demand | North Queensland Register",
@@ -67,22 +132,6 @@
     "domain": "ksevradio.com",
     "lang": "en",
     "sourceCountry": "United States",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "continue deal despite india likely republican talks trade",
-    "type": "arancel",
-    "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
-    "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-likely-to-continue-despite-republican-midterm-setback",
-    "domain": "freepressjournal.in",
-    "lang": "en",
-    "sourceCountry": "India",
     "at": "2026-11-11T06:30:00Z",
     "countries": [
      "US",
@@ -153,6 +202,21 @@
     "severity": "baja"
    },
    {
+    "id": "china expo headlines import larger story tells xinhua",
+    "type": "regulacion",
+    "title": "Xinhua Headlines : China import expo tells a larger story of openness , shared opportunities",
+    "url": "http://www.zimbabwestar.com/news/279424098/xinhua-headlines-china-import-expo-tells-a-larger-story-of-openness-shared-opportunities",
+    "domain": "zimbabwestar.com",
+    "lang": "en",
+    "sourceCountry": "Zimbabwe",
+    "at": "2026-11-11T05:00:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "bets bound chinese hike range rate remains yuan",
     "type": "divisa",
     "title": "Chinese yuan remains range - bound as US rate hike bets strengthen dollar",
@@ -194,21 +258,6 @@
     "at": "2026-11-11T05:00:00Z",
     "countries": [
      "IN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "china expo headlines import larger story tells xinhua",
-    "type": "arancel",
-    "title": "Xinhua Headlines : China import expo tells a larger story of openness , shared opportunities",
-    "url": "http://www.zimbabwestar.com/news/279424098/xinhua-headlines-china-import-expo-tells-a-larger-story-of-openness-shared-opportunities",
-    "domain": "zimbabwestar.com",
-    "lang": "en",
-    "sourceCountry": "Zimbabwe",
-    "at": "2026-11-11T05:00:00Z",
-    "countries": [
-     "CN"
     ],
     "sectors": [],
     "severity": "baja"
@@ -277,21 +326,6 @@
     "severity": "baja"
    },
    {
-    "id": "china exceeds surplus time trade trillion",
-    "type": "sancion",
-    "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
-    "url": "https://www.theepochtimes.com/china/chinas-trade-surplus-exceeds-1-trillion-for-2nd-time-6123268",
-    "domain": "theepochtimes.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "accident barge california caused emissions fatal near watch",
     "type": "logistica",
     "title": "Watch : Near - Fatal Accident Caused by Emissions Barge in California Port",
@@ -304,6 +338,21 @@
     "sectors": [
      "transporte"
     ],
+    "severity": "baja"
+   },
+   {
+    "id": "china exceeds surplus time trade trillion",
+    "type": "sancion",
+    "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
+    "url": "https://www.theepochtimes.com/china/chinas-trade-surplus-exceeds-1-trillion-for-2nd-time-6123268",
+    "domain": "theepochtimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T02:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -1465,9 +1514,11 @@
    "arancel/english: fetch failed",
    "arancel/spanish: fetch failed",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: fetch failed",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
