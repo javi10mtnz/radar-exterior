@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T11:38:53.784Z",
+ "updatedAt": "2026-11-12T12:37:33.516Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -56,6 +56,22 @@
     "severity": "media"
    },
    {
+    "id": "augusta azeri barrel exceeds light port price",
+    "type": "sancion",
+    "title": "Azeri Light price exceeds $100 per barrel at Augusta port",
+    "url": "https://www.trend.az/azerbaijan/4245468.html",
+    "domain": "trend.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-12T06:45:00Z",
+    "countries": [],
+    "sectors": [
+     "energia",
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "billion energy fuel imports india push renewable saves",
     "type": "regulacion",
     "title": "India Renewable Energy Push Saves $100 Billion in Fuel Imports : IEA",
@@ -73,22 +89,6 @@
     "severity": "baja"
    },
    {
-    "id": "augusta azeri barrel exceeds light port price",
-    "type": "sancion",
-    "title": "Azeri Light price exceeds $100 per barrel at Augusta port",
-    "url": "https://www.trend.az/azerbaijan/4245468.html",
-    "domain": "trend.az",
-    "lang": "en",
-    "sourceCountry": "Azerbaijan",
-    "at": "2026-11-12T06:45:00Z",
-    "countries": [],
-    "sectors": [
-     "energia",
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "could korea make surplus swelling target trade with",
     "type": "arancel",
     "title": "Korea swelling trade surplus with US could make it a target for Trump",
@@ -102,21 +102,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "critique cuba economic interventionism power rothbardian sanctions state",
-    "type": "sancion",
-    "title": "Economic Sanctions , State Power , And Cuba : A Rothbardian Critique Of U . S . Interventionism - OpEd",
-    "url": "https://www.eurasiareview.com/12112026-economic-sanctions-state-power-and-cuba-a-rothbardian-critique-of-u-s-interventionism-oped/",
-    "domain": "eurasiareview.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-12T03:45:00Z",
-    "countries": [],
-    "sectors": [
-     "energia"
-    ],
-    "severity": "media"
    },
    {
     "id": "aranceles coahuila confian industriales integracion nueva reversa trump",
@@ -137,8 +122,23 @@
     "severity": "media"
    },
    {
-    "id": "after china cuba days pledges sanctions support",
+    "id": "critique cuba economic interventionism power rothbardian sanctions state",
     "type": "sancion",
+    "title": "Economic Sanctions , State Power , And Cuba : A Rothbardian Critique Of U . S . Interventionism - OpEd",
+    "url": "https://www.eurasiareview.com/12112026-economic-sanctions-state-power-and-cuba-a-rothbardian-critique-of-u-s-interventionism-oped/",
+    "domain": "eurasiareview.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-12T03:45:00Z",
+    "countries": [],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "after china cuba days pledges sanctions support",
+    "type": "geo",
     "title": "China Pledges Support for Cuba Days After US Sanctions",
     "url": "https://www.hngn.com/articles/273798/20261111/china-pledges-support-cuba-days-after-us-sanctions.htm",
     "domain": "hngn.com",
@@ -201,21 +201,6 @@
     "severity": "media"
    },
    {
-    "id": "axis bank differ dollar gtri india long rupee",
-    "type": "divisa",
-    "title": "Rupee at 92 or 100 per dollar ? GTRI and Axis Bank differ on how long India currency rally can last",
-    "url": "https://www.businesstoday.in/latest/economy/story/rupee-at-92-or-100-per-dollar-gtri-and-axis-bank-differ-on-how-long-indias-currency-rally-can-last-566913-2026-11-11",
-    "domain": "businesstoday.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-12T01:30:00Z",
-    "countries": [
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "altagracia china cierra comercial implementa mexico proteccionismo puerta",
     "type": "arancel",
     "title": "México no implementa proteccionismo ni cierra la puerta comercial con China : Altagracia Gómez – Periódico Zócalo",
@@ -261,6 +246,21 @@
     "sectors": [
      "industria"
     ],
+    "severity": "baja"
+   },
+   {
+    "id": "axis bank differ dollar gtri india long rupee",
+    "type": "divisa",
+    "title": "Rupee at 92 or 100 per dollar ? GTRI and Axis Bank differ on how long India currency rally can last",
+    "url": "https://www.businesstoday.in/latest/economy/story/rupee-at-92-or-100-per-dollar-gtri-and-axis-bank-differ-on-how-long-indias-currency-rally-can-last-566913-2026-11-11",
+    "domain": "businesstoday.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-12T01:30:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -1785,14 +1785,11 @@
   ],
   "partialErrors": [
    "arancel/english: fetch failed",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: fetch failed",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
