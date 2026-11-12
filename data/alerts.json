@@ -1,11 +1,75 @@
 {
- "updatedAt": "2026-11-12T02:36:01.304Z",
+ "updatedAt": "2026-11-12T03:30:34.572Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "billion could europe fiscal india promise trade troubles",
+    "type": "arancel",
+    "title": "India – EU FTA €119 billion trade promise : Could Europe fiscal troubles threaten Indian exporters ?",
+    "url": "https://www.businesstoday.in/latest/economy/story/india-eu-ftas-eu119-billion-trade-promise-could-europes-fiscal-troubles-threaten-indian-exporters-566925-2026-11-12",
+    "domain": "businesstoday.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-12T01:30:00Z",
+    "countries": [
+     "IN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "altagracia china cierra comercial implementa mexico proteccionismo puerta",
+    "type": "arancel",
+    "title": "México no implementa proteccionismo ni cierra la puerta comercial con China : Altagracia Gómez – Periódico Zócalo",
+    "url": "https://www.zocalo.com.mx/mexico-no-implementa-proteccionismo-ni-cierra-la-puerta-comercial-con-china-altagracia-gomez/",
+    "domain": "zocalo.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-12T01:30:00Z",
+    "countries": [
+     "CN",
+     "MX"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "2020 bajan camino desde nuevos peor vehiculos ventas",
+    "type": "arancel",
+    "title": "Las ventas de vehículos nuevos bajan en 11 . 81 % y van camino a su peor año desde el 2020 - NotiCel - La verdad como es - Noticias de Puerto Rico",
+    "url": "https://noticel.com/en/ultima-hora/20261111/las-ventas-de-vehiculos-nuevos-bajan-en-11-81-y-van-camino-a-su-peor-ano-desde-el-2020/",
+    "domain": "noticel.com",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-12T01:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "acero asiatico importaciones mexico reduce",
+    "type": "arancel",
+    "title": "México reduce 30 % las importaciones de acero asiático",
+    "url": "https://www.eluniversal.com.mx/cartera/mexico-reduce-30-las-importaciones-de-acero-asiatico-industria-espera-acuerdo-comercial-con-eu/",
+    "domain": "eluniversal.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-12T01:30:00Z",
+    "countries": [
+     "MX"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "2027 funding ireland pledges russia sanctions tougher ukraine",
     "type": "sancion",
@@ -54,6 +118,55 @@
      "tech"
     ],
     "severity": "alta"
+   },
+   {
+    "id": "australian beef demand despite exports leads market softer",
+    "type": "arancel",
+    "title": "US beef market leads Australian exports despite softer demand | North Queensland Register",
+    "url": "https://www.northqueenslandregister.com.au/story/9388746/us-beef-market-leads-australian-exports-despite-softer-demand/",
+    "domain": "northqueenslandregister.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "after garment india makers reliance rethink shock tariff",
+    "type": "arancel",
+    "title": "India garment makers rethink reliance on US after tariff shock",
+    "url": "https://ksevradio.com/india-garment-makers-rethink-reliance-on-us-after-tariff-shock/",
+    "domain": "ksevradio.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "continue deal despite india likely republican talks trade",
+    "type": "arancel",
+    "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
+    "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-likely-to-continue-despite-republican-midterm-setback",
+    "domain": "freepressjournal.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-11T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "balanced bessent calls china more scott secretary treasury",
@@ -105,55 +218,6 @@
     "sectors": [
      "tech"
     ],
-    "severity": "media"
-   },
-   {
-    "id": "continue deal despite india likely republican talks trade",
-    "type": "regulacion",
-    "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
-    "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-likely-to-continue-despite-republican-midterm-setback",
-    "domain": "freepressjournal.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "australian beef demand despite exports leads market softer",
-    "type": "arancel",
-    "title": "US beef market leads Australian exports despite softer demand | North Queensland Register",
-    "url": "https://www.northqueenslandregister.com.au/story/9388746/us-beef-market-leads-australian-exports-despite-softer-demand/",
-    "domain": "northqueenslandregister.com.au",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "after garment india makers reliance rethink shock tariff",
-    "type": "arancel",
-    "title": "India garment makers rethink reliance on US after tariff shock",
-    "url": "https://ksevradio.com/india-garment-makers-rethink-reliance-on-us-after-tariff-shock/",
-    "domain": "ksevradio.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
     "severity": "media"
    },
    {
@@ -1511,17 +1575,14 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
