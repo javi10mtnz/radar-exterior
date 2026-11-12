@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T22:53:52.543Z",
+ "updatedAt": "2026-11-12T23:50:22.709Z",
  "file": "tenders.json",
  "source": "TED – Tenders Electronic Daily (Oficina de Publicaciones de la UE)",
  "sourceUrl": "https://ted.europa.eu/",
@@ -897,6 +897,26 @@
     "url": "https://ted.europa.eu/es/notice/-/detail/775424-2026"
    },
    {
+    "id": "776153-2026",
+    "title": "España – Servicios de transporte por carretera – Concesión de servicios de la gestión del servicio público de Transporte Colectivo Urbano de Viajeros en la Ciudad de Teruel",
+    "buyer": "Pleno del Ayuntamiento de Teruel",
+    "country": "ESP",
+    "countryName": "España",
+    "countryIso2": null,
+    "cpv": [
+     "60100000",
+     "60100000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-09",
+    "deadline": "2026-12-14",
+    "value": 56819340.93,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/776153-2026"
+   },
+   {
     "id": "775940-2026",
     "title": "Suecia – Maquinaria para el movimiento de tierras y la excavación, y sus partes – Schakt- och lastbilstjänster samt material och tippning",
     "buyer": "Täby kommun",
@@ -1395,27 +1415,6 @@
     "value": 255000,
     "currency": "EUR",
     "url": "https://ted.europa.eu/es/notice/-/detail/775976-2026"
-   },
-   {
-    "id": "775500-2026",
-    "title": "España – Servicios de suministro de comidas – Organizacion de la XXXII edicion de la Muestra de Embutido Artesano y de Calidad",
-    "buyer": "Junta de Gobierno Local del Ayuntamiento de Requena",
-    "country": "ESP",
-    "countryName": "España",
-    "countryIso2": null,
-    "cpv": [
-     "55320000",
-     "39221123",
-     "39222000"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-09",
-    "deadline": "2026-12-07",
-    "value": 248967.08,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/775500-2026"
    },
    {
     "id": "775688-2026",

@@ -1,11 +1,29 @@
 {
- "updatedAt": "2026-11-12T22:53:42.534Z",
+ "updatedAt": "2026-11-12T23:50:13.822Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "asian crackdown mexico paying says shipments steel tariff",
+    "type": "arancel",
+    "title": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance",
+    "url": "https://www.asiaone.com:443/world/mexico-says-crackdown-asian-steel-shipments-paying-us-tariff-talks-advance",
+    "domain": "asiaone.com",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-12T07:00:00Z",
+    "countries": [
+     "US",
+     "MX"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
    {
     "id": "advancing boost canada cepa discuss india talks trade",
     "type": "regulacion",
@@ -38,26 +56,8 @@
     "severity": "baja"
    },
    {
-    "id": "asian crackdown mexico paying says shipments steel tariff",
-    "type": "regulacion",
-    "title": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance",
-    "url": "https://www.asiaone.com:443/world/mexico-says-crackdown-asian-steel-shipments-paying-us-tariff-talks-advance",
-    "domain": "asiaone.com",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-12T07:00:00Z",
-    "countries": [
-     "US",
-     "MX"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "media"
-   },
-   {
     "id": "billion energy fuel imports india push renewable saves",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "India Renewable Energy Push Saves $100 Billion in Fuel Imports : IEA",
     "url": "https://www.siliconindia.com/news/general/indias-renewable-energy-push-saves-100-billion-in-fuel-imports-iea-nid-243075-cid-1.html",
     "domain": "siliconindia.com",
@@ -69,6 +69,22 @@
     ],
     "sectors": [
      "energia"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "augusta azeri barrel exceeds light port price",
+    "type": "sancion",
+    "title": "Azeri Light price exceeds $100 per barrel at Augusta port",
+    "url": "https://www.trend.az/azerbaijan/4245468.html",
+    "domain": "trend.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-12T06:45:00Z",
+    "countries": [],
+    "sectors": [
+     "energia",
+     "transporte"
     ],
     "severity": "baja"
    },
@@ -88,6 +104,21 @@
     "severity": "baja"
    },
    {
+    "id": "critique cuba economic interventionism power rothbardian sanctions state",
+    "type": "sancion",
+    "title": "Economic Sanctions , State Power , And Cuba : A Rothbardian Critique Of U . S . Interventionism - OpEd",
+    "url": "https://www.eurasiareview.com/12112026-economic-sanctions-state-power-and-cuba-a-rothbardian-critique-of-u-s-interventionism-oped/",
+    "domain": "eurasiareview.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-12T03:45:00Z",
+    "countries": [],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "media"
+   },
+   {
     "id": "after china cuba days pledges sanctions support",
     "type": "geo",
     "title": "China Pledges Support for Cuba Days After US Sanctions",
@@ -102,21 +133,6 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "critique cuba economic interventionism power rothbardian sanctions state",
-    "type": "sancion",
-    "title": "Economic Sanctions , State Power , And Cuba : A Rothbardian Critique Of U . S . Interventionism - OpEd",
-    "url": "https://www.eurasiareview.com/12112026-economic-sanctions-state-power-and-cuba-a-rothbardian-critique-of-u-s-interventionism-oped/",
-    "domain": "eurasiareview.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-12T03:45:00Z",
-    "countries": [],
-    "sectors": [
-     "energia"
-    ],
-    "severity": "media"
    },
    {
     "id": "aranceles coahuila confian industriales integracion nueva reversa trump",
@@ -135,21 +151,6 @@
      "industria"
     ],
     "severity": "media"
-   },
-   {
-    "id": "belt both deepen freight links loaded road trains",
-    "type": "regulacion",
-    "title": "Belt and Road links deepen as freight trains run loaded both ways",
-    "url": "http://english.anhuinews.com/newscenter/headline/202611/t20261112_9741772.html",
-    "domain": "english.anhuinews.com",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-12T03:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
    },
    {
     "id": "food tariffs wants whitmer",
@@ -185,6 +186,38 @@
     "severity": "media"
    },
    {
+    "id": "belt both deepen freight links loaded road trains",
+    "type": "regulacion",
+    "title": "Belt and Road links deepen as freight trains run loaded both ways",
+    "url": "http://english.anhuinews.com/newscenter/headline/202611/t20261112_9741772.html",
+    "domain": "english.anhuinews.com",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-12T03:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "acero asiatico importaciones mexico reduce",
+    "type": "regulacion",
+    "title": "México reduce 30 % las importaciones de acero asiático",
+    "url": "https://www.eluniversal.com.mx/cartera/mexico-reduce-30-las-importaciones-de-acero-asiatico-industria-espera-acuerdo-comercial-con-eu/",
+    "domain": "eluniversal.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-12T01:30:00Z",
+    "countries": [
+     "MX"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "altagracia china cierra comercial implementa mexico proteccionismo puerta",
     "type": "arancel",
     "title": "México no implementa proteccionismo ni cierra la puerta comercial con China : Altagracia Gómez – Periódico Zócalo",
@@ -212,23 +245,6 @@
     "countries": [],
     "sectors": [
      "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "acero asiatico importaciones mexico reduce",
-    "type": "arancel",
-    "title": "México reduce 30 % las importaciones de acero asiático",
-    "url": "https://www.eluniversal.com.mx/cartera/mexico-reduce-30-las-importaciones-de-acero-asiatico-industria-espera-acuerdo-comercial-con-eu/",
-    "domain": "eluniversal.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-12T01:30:00Z",
-    "countries": [
-     "MX"
-    ],
-    "sectors": [
-     "industria"
     ],
     "severity": "baja"
    },
@@ -1768,13 +1784,11 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: fetch failed",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
