@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T05:41:48.215Z",
+ "updatedAt": "2026-11-12T06:44:37.665Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -53,6 +53,21 @@
     "severity": "baja"
    },
    {
+    "id": "axis bank differ dollar gtri india long rupee",
+    "type": "divisa",
+    "title": "Rupee at 92 or 100 per dollar ? GTRI and Axis Bank differ on how long India currency rally can last",
+    "url": "https://www.businesstoday.in/latest/economy/story/rupee-at-92-or-100-per-dollar-gtri-and-axis-bank-differ-on-how-long-indias-currency-rally-can-last-566913-2026-11-11",
+    "domain": "businesstoday.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-12T01:30:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "acero asiatico importaciones mexico reduce",
     "type": "regulacion",
     "title": "México reduce 30 % las importaciones de acero asiático",
@@ -67,21 +82,6 @@
     "sectors": [
      "industria"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "axis bank differ dollar gtri india long rupee",
-    "type": "divisa",
-    "title": "Rupee at 92 or 100 per dollar ? GTRI and Axis Bank differ on how long India currency rally can last",
-    "url": "https://www.businesstoday.in/latest/economy/story/rupee-at-92-or-100-per-dollar-gtri-and-axis-bank-differ-on-how-long-indias-currency-rally-can-last-566913-2026-11-11",
-    "domain": "businesstoday.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-12T01:30:00Z",
-    "countries": [
-     "IN"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -1640,10 +1640,12 @@
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: fetch failed",
    "sancion/spanish: fetch failed",
+   "logistica/english: fetch failed",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
