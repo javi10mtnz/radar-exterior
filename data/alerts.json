@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T15:02:14.609Z",
+ "updatedAt": "2026-11-12T16:06:49.183Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -201,6 +201,23 @@
     "severity": "media"
    },
    {
+    "id": "acero asiatico importaciones mexico reduce",
+    "type": "regulacion",
+    "title": "México reduce 30 % las importaciones de acero asiático",
+    "url": "https://www.eluniversal.com.mx/cartera/mexico-reduce-30-las-importaciones-de-acero-asiatico-industria-espera-acuerdo-comercial-con-eu/",
+    "domain": "eluniversal.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-12T01:30:00Z",
+    "countries": [
+     "MX"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "axis bank differ dollar gtri india long rupee",
     "type": "divisa",
     "title": "Rupee at 92 or 100 per dollar ? GTRI and Axis Bank differ on how long India currency rally can last",
@@ -243,23 +260,6 @@
     "countries": [],
     "sectors": [
      "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "acero asiatico importaciones mexico reduce",
-    "type": "arancel",
-    "title": "México reduce 30 % las importaciones de acero asiático",
-    "url": "https://www.eluniversal.com.mx/cartera/mexico-reduce-30-las-importaciones-de-acero-asiatico-industria-espera-acuerdo-comercial-con-eu/",
-    "domain": "eluniversal.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-12T01:30:00Z",
-    "countries": [
-     "MX"
-    ],
-    "sectors": [
-     "industria"
     ],
     "severity": "baja"
    },
@@ -1784,16 +1784,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
+   "sancion/spanish: fetch failed",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
    "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
