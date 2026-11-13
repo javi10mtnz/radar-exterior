@@ -1,11 +1,27 @@
 {
- "updatedAt": "2026-11-13T03:32:09.525Z",
+ "updatedAt": "2026-11-13T04:39:58.871Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "auto canada over plant sale stellantis threatens trump",
+    "type": "geo",
+    "title": "Canada threatens to sue Stellantis over auto plant sale as Trump trade war shifts production south",
+    "url": "http://www.sitkasentinel.com/stories/canada-threatens-to-sue-stellantis-over-auto-plant-sale-as-trumps-trade-war-shifts-production,185849",
+    "domain": "sitkasentinel.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-13T00:45:00Z",
+    "countries": [
+     "US",
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "advancing boost canada cepa discuss india talks trade",
     "type": "regulacion",
@@ -56,6 +72,22 @@
     "severity": "media"
    },
    {
+    "id": "augusta azeri barrel exceeds light port price",
+    "type": "sancion",
+    "title": "Azeri Light price exceeds $100 per barrel at Augusta port",
+    "url": "https://www.trend.az/azerbaijan/4245468.html",
+    "domain": "trend.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-12T06:45:00Z",
+    "countries": [],
+    "sectors": [
+     "energia",
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "billion energy fuel imports india push renewable saves",
     "type": "regulacion",
     "title": "India Renewable Energy Push Saves $100 Billion in Fuel Imports : IEA",
@@ -69,22 +101,6 @@
     ],
     "sectors": [
      "energia"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "augusta azeri barrel exceeds light port price",
-    "type": "sancion",
-    "title": "Azeri Light price exceeds $100 per barrel at Augusta port",
-    "url": "https://www.trend.az/azerbaijan/4245468.html",
-    "domain": "trend.az",
-    "lang": "en",
-    "sourceCountry": "Azerbaijan",
-    "at": "2026-11-12T06:45:00Z",
-    "countries": [],
-    "sectors": [
-     "energia",
-     "transporte"
     ],
     "severity": "baja"
    },
@@ -1786,13 +1802,11 @@
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: fetch failed",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
