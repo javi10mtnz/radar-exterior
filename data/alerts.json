@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T10:05:34.737Z",
+ "updatedAt": "2026-11-13T11:05:54.820Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -8,7 +8,7 @@
   "items": [
    {
     "id": "auto canada over plant sale stellantis threatens trump",
-    "type": "arancel",
+    "type": "geo",
     "title": "Canada threatens to sue Stellantis over auto plant sale as Trump trade war shifts production south",
     "url": "http://www.sitkasentinel.com/stories/canada-threatens-to-sue-stellantis-over-auto-plant-sale-as-trumps-trade-war-shifts-production,185849",
     "domain": "sitkasentinel.com",
@@ -1800,15 +1800,17 @@
    }
   ],
   "partialErrors": [
+   "arancel/english: fetch failed",
    "arancel/spanish: fetch failed",
    "sancion/english: fetch failed",
    "sancion/spanish: fetch failed",
    "logistica/english: fetch failed",
    "logistica/spanish: fetch failed",
    "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
