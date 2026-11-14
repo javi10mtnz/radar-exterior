@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T01:48:12.022Z",
+ "updatedAt": "2026-11-14T02:57:52.847Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -1810,66 +1810,16 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "canada carney free move restore says trade welcomes",
-    "type": "regulacion",
-    "title": "Carney says Canada welcomes any move to restore free trade after U . S . midterms",
-    "url": "https://www.therecord.com/news/canada/carney-says-canada-welcomes-any-moves-to-restore-free-trade-after-u-s-midterms/article_ba67c321-72e6-54d3-9334-e49385e7d776.html",
-    "domain": "therecord.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-07T02:00:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "alleged canadian crypto iran money over sanctions services",
-    "type": "sancion",
-    "title": "US sanctions 8 Canadian money services over alleged Iran crypto links",
-    "url": "https://dunyanews.tv/en/World/981631-us-sanctions-8-canadian-money-services-over-alleged-iran-crypto-links",
-    "domain": "dunyanews.tv",
-    "lang": "en",
-    "sourceCountry": "Pakistan",
-    "at": "2026-11-07T02:00:00Z",
-    "countries": [
-     "US",
-     "CA",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
-    "id": "canadian connected firms ryan sanctions treasury wedding",
-    "type": "sancion",
-    "title": "U . S . Treasury sanctions Canadian firms connected to Ryan Wedding",
-    "url": "https://lethbridgeherald.com/news/national-news/2026/11/06/u-s-treasury-sanctions-canadian-firms-connected-to-ryan-wedding/",
-    "domain": "lethbridgeherald.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-07T02:00:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
    }
   ],
   "partialErrors": [
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
-   "regulacion/spanish: fetch failed",
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
