@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T21:44:17.522Z",
+ "updatedAt": "2026-11-14T22:44:53.034Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,8 +7,23 @@
  "data": {
   "items": [
    {
+    "id": "changes deal finalise from more needed side trade",
+    "type": "regulacion",
+    "title": "More Changes Needed From US Side To Finalise Trade Deal",
+    "url": "https://www.gulte.com/overseas/442033/more-changes-needed-from-us-side-to-finalise-trade-deal",
+    "domain": "gulte.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-14T20:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "after exports face lamb possible split tariffs zealand",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "New Zealand lamb exports face possible US tariffs after a split trade commission vote",
     "url": "https://newswire.co.nz/2026/11/new-zealand-lamb-us-tariffs-safeguard-vote/",
     "domain": "newswire.co.nz",
@@ -1588,32 +1603,18 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "attempting blockade breach cargo disables iran ship",
-    "type": "geo",
-    "title": "US disables cargo ship attempting to breach Iran blockade",
-    "url": "https://www.israelnationalnews.com/news/435815",
-    "domain": "israelnationalnews.com",
-    "lang": "en",
-    "sourceCountry": "Israel",
-    "at": "2026-11-07T22:00:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
    }
   ],
   "partialErrors": [
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
    "sancion/english: fetch failed",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
