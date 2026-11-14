@@ -1,11 +1,41 @@
 {
- "updatedAt": "2026-11-14T04:59:46.507Z",
+ "updatedAt": "2026-11-14T05:57:05.890Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "billion freight more profit rates surge than triples",
+    "type": "logistica",
+    "title": "CMA CGM Net Profit More Than Triples to $2 . 32 Billion as Freight Rates Surge",
+    "url": "https://gcaptain.com/cma-cgm-net-profit-more-than-triples-to-2-32-billion-as-freight-rates-surge/",
+    "domain": "gcaptain.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-13T18:00:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "freight hapag lloyd profit rates rise services surges",
+    "type": "logistica",
+    "title": "Hapag - Lloyd Profit Surges as Freight Rates Rise , Red Sea Services Return",
+    "url": "https://gcaptain.com/hapag-lloyd-profit-surges-as-freight-rates-rise-red-sea-services-return/",
+    "domain": "gcaptain.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-13T18:00:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "antes anuncia cambios china comerciales publimetro sheinbaum viaje",
     "type": "arancel",
@@ -38,36 +68,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "billion freight more profit rates surge than triples",
-    "type": "logistica",
-    "title": "CMA CGM Net Profit More Than Triples to $2 . 32 Billion as Freight Rates Surge",
-    "url": "https://gcaptain.com/cma-cgm-net-profit-more-than-triples-to-2-32-billion-as-freight-rates-surge/",
-    "domain": "gcaptain.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-13T18:00:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "freight hapag lloyd profit rates rise services surges",
-    "type": "logistica",
-    "title": "Hapag - Lloyd Profit Surges as Freight Rates Rise , Red Sea Services Return",
-    "url": "https://gcaptain.com/hapag-lloyd-profit-surges-as-freight-rates-rise-red-sea-services-return/",
-    "domain": "gcaptain.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-13T18:00:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
    },
    {
     "id": "face republicans tariffs threat trump",
@@ -1814,13 +1814,13 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/spanish: fetch failed"
   ]
  }
 }
