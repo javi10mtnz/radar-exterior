@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T15:46:12.109Z",
+ "updatedAt": "2026-11-14T16:49:03.200Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -1623,47 +1623,20 @@
      "tech"
     ],
     "severity": "alta"
-   },
-   {
-    "id": "based force iran land launches military restrict task",
-    "type": "geo",
-    "title": "U . S . Military Launches Task Force to Restrict Iran Land - Based Arms Trade",
-    "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-07/ty-article/u-s-military-launches-task-force-to-restrict-irans-land-based-arms-trade/000001a1-b663-d146-ada9-fe7f731f0000",
-    "domain": "haaretz.com",
-    "lang": "en",
-    "sourceCountry": "Israel",
-    "at": "2026-11-07T16:00:00Z",
-    "countries": [
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "lawmakers reverse tariffs trump",
-    "type": "arancel",
-    "title": "U . S . lawmakers vow to reverse Trump tariffs",
-    "url": "http://www.torontotelegraph.com/news/279418267/us-lawmakers-vow-to-reverse-trump-tariffs",
-    "domain": "torontotelegraph.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-07T16:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: fetch failed",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
