@@ -1,37 +1,34 @@
 {
  "fx": {
   "ok": true,
-  "updatedAt": "2026-11-14T12:50:35.325Z",
-  "ms": 396
+  "updatedAt": "2026-11-14T13:53:05.797Z",
+  "ms": 441
  },
  "chokepoints": {
-  "ok": false,
-  "updatedAt": "2026-11-14T11:40:34.621Z",
-  "ms": 3087,
-  "skipped": false,
-  "error": "PortWatch: Unable to perform query. Too many requests.",
-  "failedAt": "2026-11-14T12:50:36.975Z"
+  "ok": true,
+  "updatedAt": "2026-11-14T13:53:11.353Z",
+  "ms": 5557
  },
  "electricity": {
   "ok": true,
-  "updatedAt": "2026-11-14T12:50:38.546Z",
-  "ms": 1571
+  "updatedAt": "2026-11-14T13:53:13.068Z",
+  "ms": 1714
  },
  "alerts": {
   "ok": true,
-  "updatedAt": "2026-11-14T12:56:20.480Z",
-  "ms": 341934,
-  "warnings": 7
+  "updatedAt": "2026-11-14T13:58:33.759Z",
+  "ms": 320692,
+  "warnings": 6
  },
  "tenders": {
   "ok": true,
-  "updatedAt": "2026-11-14T12:56:29.306Z",
-  "ms": 8827
+  "updatedAt": "2026-11-14T13:58:42.805Z",
+  "ms": 9045
  },
  "commodities": {
   "ok": false,
   "skipped": true,
   "error": "SKIP: falta FRED_API_KEY (opcional)",
-  "failedAt": "2026-11-14T12:56:29.308Z"
+  "failedAt": "2026-11-14T13:58:42.806Z"
  }
 }
