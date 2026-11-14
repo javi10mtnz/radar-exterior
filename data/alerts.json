@@ -1,26 +1,11 @@
 {
- "updatedAt": "2026-11-14T16:49:03.200Z",
+ "updatedAt": "2026-11-14T17:44:25.629Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
-   {
-    "id": "face republicans tariffs threat trump",
-    "type": "arancel",
-    "title": "Trump tariffs face a new threat : Republicans",
-    "url": "https://www.rnz.co.nz/news/world/2585339/trump-s-tariffs-face-a-new-threat-republicans",
-    "domain": "rnz.co.nz",
-    "lang": "en",
-    "sourceCountry": "",
-    "at": "2026-11-13T18:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
    {
     "id": "antes anuncia cambios china comerciales publimetro sheinbaum viaje",
     "type": "arancel",
@@ -53,6 +38,21 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "face republicans tariffs threat trump",
+    "type": "arancel",
+    "title": "Trump tariffs face a new threat : Republicans",
+    "url": "https://www.rnz.co.nz/news/world/2585339/trump-s-tariffs-face-a-new-threat-republicans",
+    "domain": "rnz.co.nz",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-13T18:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "billion freight more profit rates surge than triples",
@@ -1604,38 +1604,16 @@
      "tech"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "back chinese chip european firm past slips through",
-    "type": "sancion",
-    "title": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door",
-    "url": "https://www.themainewire.com/2026/11/chinese-ai-firm-slips-past-us-chip-ban-through-european-back-door/",
-    "domain": "themainewire.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-07T17:30:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "EU"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "alta"
    }
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: fetch failed",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: fetch failed",
    "logistica/english: fetch failed",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
