@@ -1,27 +1,11 @@
 {
- "updatedAt": "2026-11-15T16:49:27.828Z",
+ "updatedAt": "2026-11-15T17:44:29.381Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
-   {
-    "id": "could deal india jaishankar sealed soon trade",
-    "type": "regulacion",
-    "title": "India - US trade deal could be sealed soon : Jaishankar",
-    "url": "https://nagalandpost.com/india-us-trade-deal-could-be-sealed-soon-jaishankar/",
-    "domain": "nagalandpost.com",
-    "lang": "en",
-    "sourceCountry": "",
-    "at": "2026-11-15T07:45:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
    {
     "id": "approaching finishing india jaishankar line pact says trade",
     "type": "arancel",
@@ -37,6 +21,37 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "could deal india jaishankar sealed soon trade",
+    "type": "arancel",
+    "title": "India - US trade deal could be sealed soon : Jaishankar",
+    "url": "https://nagalandpost.com/india-us-trade-deal-could-be-sealed-soon-jaishankar/",
+    "domain": "nagalandpost.com",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-15T07:45:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "after exports face lamb possible split tariffs zealand",
+    "type": "arancel",
+    "title": "New Zealand lamb exports face possible US tariffs after a split trade commission vote",
+    "url": "https://newswire.co.nz/2026/11/new-zealand-lamb-us-tariffs-safeguard-vote/",
+    "domain": "newswire.co.nz",
+    "lang": "en",
+    "sourceCountry": "New Zealand",
+    "at": "2026-11-14T20:00:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "impose israel kingdom over protesters sanctions united urge",
@@ -61,21 +76,6 @@
     "domain": "gulte.com",
     "lang": "en",
     "sourceCountry": "India",
-    "at": "2026-11-14T20:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "after exports face lamb possible split tariffs zealand",
-    "type": "regulacion",
-    "title": "New Zealand lamb exports face possible US tariffs after a split trade commission vote",
-    "url": "https://newswire.co.nz/2026/11/new-zealand-lamb-us-tariffs-safeguard-vote/",
-    "domain": "newswire.co.nz",
-    "lang": "en",
-    "sourceCountry": "New Zealand",
     "at": "2026-11-14T20:00:00Z",
     "countries": [
      "US"
@@ -1475,15 +1475,13 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: fetch failed",
    "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: fetch failed"
   ]
  }
 }
