@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T12:57:55.283Z",
+ "updatedAt": "2026-11-15T14:00:06.173Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -39,6 +39,21 @@
     "severity": "media"
    },
    {
+    "id": "impose israel kingdom over protesters sanctions united urge",
+    "type": "sancion",
+    "title": "Protesters urge united kingdom to impose sanctions on Israel over Gaza genocide - Shafaqna English",
+    "url": "https://en.shafaqna.com/491991/protesters-urge-uk-to-impose-sanctions-on-israel-over-gaza-genocide/",
+    "domain": "en.shafaqna.com",
+    "lang": "en",
+    "sourceCountry": "Saudi Arabia",
+    "at": "2026-11-14T20:00:00Z",
+    "countries": [
+     "GB"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "changes deal finalise from more needed side trade",
     "type": "regulacion",
     "title": "More Changes Needed From US Side To Finalise Trade Deal",
@@ -67,21 +82,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "impose israel kingdom over protesters sanctions united urge",
-    "type": "sancion",
-    "title": "Protesters urge united kingdom to impose sanctions on Israel over Gaza genocide - Shafaqna English",
-    "url": "https://en.shafaqna.com/491991/protesters-urge-uk-to-impose-sanctions-on-israel-over-gaza-genocide/",
-    "domain": "en.shafaqna.com",
-    "lang": "en",
-    "sourceCountry": "Saudi Arabia",
-    "at": "2026-11-14T20:00:00Z",
-    "countries": [
-     "GB"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "antes anuncia cambios china comerciales publimetro sheinbaum viaje",
@@ -1490,50 +1490,15 @@
      "transporte"
     ],
     "severity": "alta"
-   },
-   {
-    "id": "banned chinese chips cleared companies empty have nvidia",
-    "type": "regulacion",
-    "title": "Two Chinese companies cleared to buy banned Nvidia AI chips have empty offices and unknown addresses investigation reveals businesses have ties to sanctioned Chinese military suppliers",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers",
-    "domain": "tomshardware.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-08T13:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "defence driving india partnership poland report trade",
-    "type": "regulacion",
-    "title": "Defence and trade driving India - Poland partnership : Report",
-    "url": "https://ianslive.in/defence-and-trade-driving-india-poland-partnership-report--20261108173756",
-    "domain": "ianslive.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-08T13:30:00Z",
-    "countries": [
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
