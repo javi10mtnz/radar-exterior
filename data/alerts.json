@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T08:57:52.425Z",
+ "updatedAt": "2026-11-15T09:54:00.560Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,16 +7,33 @@
  "data": {
   "items": [
    {
-    "id": "impose israel kingdom over protesters sanctions united urge",
-    "type": "sancion",
-    "title": "Protesters urge united kingdom to impose sanctions on Israel over Gaza genocide - Shafaqna English",
-    "url": "https://en.shafaqna.com/491991/protesters-urge-uk-to-impose-sanctions-on-israel-over-gaza-genocide/",
-    "domain": "en.shafaqna.com",
+    "id": "approaching finishing india jaishankar line pact says trade",
+    "type": "arancel",
+    "title": "India - US trade pact approaching finishing line , says Jaishankar",
+    "url": "https://www.thehitavada.com/Encyc/2026/11/15/india-us-trade-pact-approaching-finishing-line-says-jaishankar-.html",
+    "domain": "thehitavada.com",
     "lang": "en",
-    "sourceCountry": "Saudi Arabia",
-    "at": "2026-11-14T20:00:00Z",
+    "sourceCountry": "India",
+    "at": "2026-11-15T07:45:00Z",
     "countries": [
-     "GB"
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "could deal india jaishankar sealed soon trade",
+    "type": "arancel",
+    "title": "India - US trade deal could be sealed soon : Jaishankar",
+    "url": "https://nagalandpost.com/india-us-trade-deal-could-be-sealed-soon-jaishankar/",
+    "domain": "nagalandpost.com",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-15T07:45:00Z",
+    "countries": [
+     "US",
+     "IN"
     ],
     "sectors": [],
     "severity": "media"
@@ -50,6 +67,21 @@
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "impose israel kingdom over protesters sanctions united urge",
+    "type": "sancion",
+    "title": "Protesters urge united kingdom to impose sanctions on Israel over Gaza genocide - Shafaqna English",
+    "url": "https://en.shafaqna.com/491991/protesters-urge-uk-to-impose-sanctions-on-israel-over-gaza-genocide/",
+    "domain": "en.shafaqna.com",
+    "lang": "en",
+    "sourceCountry": "Saudi Arabia",
+    "at": "2026-11-14T20:00:00Z",
+    "countries": [
+     "GB"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "antes anuncia cambios china comerciales publimetro sheinbaum viaje",
@@ -1505,62 +1537,15 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "block deliver democrats lift push trump turkey will",
-    "type": "sancion",
-    "title": "Will Democrats block Trump push to deliver Turkey F - 35s , lift sanctions ? - AL - MONITOR : The Middle Eastʼs leading independent news source since 2012",
-    "url": "https://www.al-monitor.com/originals/2026/11/will-democrats-block-trumps-push-deliver-turkey-f-35s-lift-sanctions",
-    "domain": "al-monitor.com",
-    "lang": "en",
-    "sourceCountry": "Israel",
-    "at": "2026-11-08T09:30:00Z",
-    "countries": [
-     "US",
-     "TR"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
-    "id": "deterrence elections from iran reads relief sanctions",
-    "type": "sancion",
-    "title": "From sanctions relief to deterrence : How Iran reads US elections",
-    "url": "https://www.al-monitor.com/originals/2026/11/sanctions-relief-deterrence-how-iran-reads-us-elections",
-    "domain": "al-monitor.com",
-    "lang": "en",
-    "sourceCountry": "Israel",
-    "at": "2026-11-08T09:30:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
-    "id": "cargo disabled gulf military oman says vessel",
-    "type": "geo",
-    "title": "US military says it disabled cargo vessel in Gulf of Oman",
-    "url": "https://www.al-monitor.com/originals/2026/11/us-military-says-it-disabled-cargo-vessel-gulf-oman",
-    "domain": "al-monitor.com",
-    "lang": "en",
-    "sourceCountry": "Israel",
-    "at": "2026-11-08T09:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
