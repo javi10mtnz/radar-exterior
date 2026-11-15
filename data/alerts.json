@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T20:46:32.289Z",
+ "updatedAt": "2026-11-15T21:46:20.354Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,13 +7,13 @@
  "data": {
   "items": [
    {
-    "id": "approaching finishing india jaishankar line pact says trade",
-    "type": "arancel",
-    "title": "India - US trade pact approaching finishing line , says Jaishankar",
-    "url": "https://www.thehitavada.com/Encyc/2026/11/15/india-us-trade-pact-approaching-finishing-line-says-jaishankar-.html",
-    "domain": "thehitavada.com",
+    "id": "could deal india jaishankar sealed soon trade",
+    "type": "regulacion",
+    "title": "India - US trade deal could be sealed soon : Jaishankar",
+    "url": "https://nagalandpost.com/india-us-trade-deal-could-be-sealed-soon-jaishankar/",
+    "domain": "nagalandpost.com",
     "lang": "en",
-    "sourceCountry": "India",
+    "sourceCountry": "",
     "at": "2026-11-15T07:45:00Z",
     "countries": [
      "US",
@@ -23,13 +23,13 @@
     "severity": "media"
    },
    {
-    "id": "could deal india jaishankar sealed soon trade",
+    "id": "approaching finishing india jaishankar line pact says trade",
     "type": "arancel",
-    "title": "India - US trade deal could be sealed soon : Jaishankar",
-    "url": "https://nagalandpost.com/india-us-trade-deal-could-be-sealed-soon-jaishankar/",
-    "domain": "nagalandpost.com",
+    "title": "India - US trade pact approaching finishing line , says Jaishankar",
+    "url": "https://www.thehitavada.com/Encyc/2026/11/15/india-us-trade-pact-approaching-finishing-line-says-jaishankar-.html",
+    "domain": "thehitavada.com",
     "lang": "en",
-    "sourceCountry": "",
+    "sourceCountry": "India",
     "at": "2026-11-15T07:45:00Z",
     "countries": [
      "US",
@@ -1430,13 +1430,13 @@
    }
   ],
   "partialErrors": [
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed",
-   "geo/english: fetch failed"
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
