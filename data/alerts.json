@@ -1,11 +1,42 @@
 {
- "updatedAt": "2026-11-16T08:50:39.733Z",
+ "updatedAt": "2026-11-16T10:47:57.878Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "apec cast over shadow talks tariffs trump",
+    "type": "geo",
+    "title": "Trump tariffs cast shadow over Apec talks",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/trump-s-tariffs-cast-shadow-over-apec-talks",
+    "domain": "freemalaysiatoday.com",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-16T08:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "asean center stage summit take tariffs trade trump",
+    "type": "geo",
+    "title": "Trump trade tariffs take center stage at ASEAN summit as leaders seek new markets - Philippine Canadian Inquirer Nationwide Filipino Newspaper",
+    "url": "https://canadianinquirer.net/2026/11/16/trumps-trade-tariffs-take-center-stage-at-asean-summit-as-leaders-seek-new-markets/",
+    "domain": "canadianinquirer.net",
+    "lang": "en",
+    "sourceCountry": "Philippines",
+    "at": "2026-11-16T08:15:00Z",
+    "countries": [
+     "US",
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "access agri indian insisting market negotiators still trade",
     "type": "regulacion",
@@ -39,21 +70,6 @@
     "severity": "baja"
    },
    {
-    "id": "apec cast over shadow talks tariffs trump",
-    "type": "regulacion",
-    "title": "Trump tariffs cast shadow over Apec talks",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/16/trump-s-tariffs-cast-shadow-over-apec-talks",
-    "domain": "freemalaysiatoday.com",
-    "lang": "en",
-    "sourceCountry": "Malaysia",
-    "at": "2026-11-16T08:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "apec before china framework leader reviews shenzhen trade",
     "type": "regulacion",
     "title": "APEC Reviews China Trade Framework Before Shenzhen Leader Meeting",
@@ -67,22 +83,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "asean center stage summit take tariffs trade trump",
-    "type": "regulacion",
-    "title": "Trump trade tariffs take center stage at ASEAN summit as leaders seek new markets - Philippine Canadian Inquirer Nationwide Filipino Newspaper",
-    "url": "https://canadianinquirer.net/2026/11/16/trumps-trade-tariffs-take-center-stage-at-asean-summit-as-leaders-seek-new-markets/",
-    "domain": "canadianinquirer.net",
-    "lang": "en",
-    "sourceCountry": "Philippines",
-    "at": "2026-11-16T08:15:00Z",
-    "countries": [
-     "US",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "could deal india jaishankar sealed soon trade",
@@ -1320,14 +1320,15 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
