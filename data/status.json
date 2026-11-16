@@ -1,37 +1,37 @@
 {
  "fx": {
   "ok": true,
-  "updatedAt": "2026-11-16T20:27:01.615Z",
-  "ms": 478
+  "updatedAt": "2026-11-16T21:25:33.496Z",
+  "ms": 572
  },
  "chokepoints": {
-  "ok": false,
-  "updatedAt": "2026-11-16T10:42:08.189Z",
-  "ms": 27043,
-  "skipped": false,
-  "error": "PortWatch: Token Required",
-  "failedAt": "2026-11-16T20:27:01.720Z"
+  "ok": true,
+  "updatedAt": "2026-11-16T21:25:59.380Z",
+  "ms": 25883
  },
  "electricity": {
   "ok": true,
-  "updatedAt": "2026-11-16T20:27:03.315Z",
-  "ms": 1595
+  "updatedAt": "2026-11-16T21:26:02.501Z",
+  "ms": 3121
  },
  "alerts": {
-  "ok": true,
+  "ok": false,
   "updatedAt": "2026-11-16T20:33:09.997Z",
   "ms": 366682,
-  "warnings": 9
+  "warnings": 9,
+  "skipped": false,
+  "error": "GDELT no respondió: arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the | arancel/spanish: HTTP 429: Please limit requests t",
+  "failedAt": "2026-11-16T21:32:05.207Z"
  },
  "tenders": {
   "ok": true,
-  "updatedAt": "2026-11-16T20:33:19.997Z",
-  "ms": 10001
+  "updatedAt": "2026-11-16T21:32:15.275Z",
+  "ms": 10069
  },
  "commodities": {
   "ok": false,
   "skipped": true,
   "error": "SKIP: falta FRED_API_KEY (opcional)",
-  "failedAt": "2026-11-16T20:33:20.000Z"
+  "failedAt": "2026-11-16T21:32:15.277Z"
  }
 }
