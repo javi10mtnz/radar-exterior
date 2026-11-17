@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T21:02:29.700Z",
+ "updatedAt": "2026-11-17T22:01:24.458Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -971,63 +971,15 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "after decade iran lifting ottawa reimpose sanctions them",
-    "type": "sancion",
-    "title": "Ottawa to reimpose sanctions on Iran after lifting them a decade prior",
-    "url": "https://www.theglobeandmail.com/canada/article-ottawa-to-reimpose-sanctions-on-iran-after-lifting-them-a-decade-prior/",
-    "domain": "theglobeandmail.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-10T22:00:00Z",
-    "countries": [
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "affair congress could crackdown huang jensen nvidia spark",
-    "type": "sancion",
-    "title": "Nvidia CEO Jensen Huang spy affair could spark Congress crackdown on AI export controls : Massive earthquake",
-    "url": "https://nypost.com/2026/11/10/business/nvidia-ceo-jensen-huangs-spy-affair-could-spark-congress-crackdown-on-ai-export-controls-massive-earthquake/",
-    "domain": "nypost.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T22:00:00Z",
-    "countries": [],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "controls customs finds leave loopholes patchy russia watchdog",
-    "type": "sancion",
-    "title": "Watchdog finds patchy customs controls leave big loopholes in EU Russia trade sanctions – EUobserver",
-    "url": "https://euobserver.com/248251/watchdog-finds-patchy-customs-controls-leave-big-loopholes-in-eu-russia-trade-sanctions/",
-    "domain": "euobserver.com",
-    "lang": "en",
-    "sourceCountry": "United Kingdom",
-    "at": "2026-11-10T22:00:00Z",
-    "countries": [
-     "RU",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "alta"
    }
   ],
   "partialErrors": [
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: fetch failed",
    "geo/english: fetch failed",
    "geo/spanish: fetch failed"
