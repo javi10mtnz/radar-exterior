@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T02:57:53.381Z",
+ "updatedAt": "2026-11-17T04:00:56.159Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -1176,96 +1176,16 @@
      "industria"
     ],
     "severity": "media"
-   },
-   {
-    "id": "2027 canada chicken imports tonnes",
-    "type": "regulacion",
-    "title": "Canada chicken imports to dip to 225 , 000 tonnes in 2027",
-    "url": "https://www.thepoultrysite.com/news/2026/11/canada-chicken-imports-to-dip-to-225-000-tonnes-in-2027",
-    "domain": "thepoultrysite.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T03:30:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "china curbs earth export extends months pause rare",
-    "type": "sancion",
-    "title": "China extends pause on rare earth export curbs for two months",
-    "url": "https://www.thenationalnews.com/news/us/2026/11/09/china-extends-pause-on-rare-earth-export-curbs-for-two-months/",
-    "domain": "thenationalnews.com",
-    "lang": "en",
-    "sourceCountry": "",
-    "at": "2026-11-10T03:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "adicional arancel china durante meses periodico productos suspendera",
-    "type": "arancel",
-    "title": "China suspenderá durante dos meses el arancel adicional del 24 % a productos de EU – Periódico Zócalo",
-    "url": "https://www.zocalo.com.mx/china-suspendera-durante-dos-meses-el-arancel-adicional-del-24-a-productos-de-eu/",
-    "domain": "zocalo.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-10T03:00:00Z",
-    "countries": [
-     "CN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
-    "id": "collapse dominance expenses faces rising russian shipping sudden",
-    "type": "logistica",
-    "title": "Russian oil dominance faces sudden collapse : rising shipping expenses pushed Indian buyers away",
-    "url": "https://english.pravda.ru/news/business/172158-india-cuts-russian-crude-imports/",
-    "domain": "english.pravda.ru",
-    "lang": "en",
-    "sourceCountry": "Russia",
-    "at": "2026-11-10T03:00:00Z",
-    "countries": [
-     "IN",
-     "RU"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "back cuts democrats medicaid roll stop tariffs will",
-    "type": "arancel",
-    "title": "Democrats will try to roll back Medicaid cuts , stop tariffs , Oregon US Sen . Ron Wyden says",
-    "url": "https://www.ijpr.org/politics-government/2026-11-09/democrats-will-try-to-roll-back-medicaid-cuts-stop-tariffs-oregon-us-sen-ron-wyden-says",
-    "domain": "ijpr.org",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T03:00:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
+   "arancel/spanish: fetch failed",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: fetch failed",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed"
+   "geo/english: fetch failed",
+   "geo/spanish: fetch failed"
   ]
  }
 }
