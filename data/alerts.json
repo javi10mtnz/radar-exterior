@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T05:05:16.600Z",
+ "updatedAt": "2026-11-17T07:24:33.462Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -1017,127 +1017,16 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "2026 china october says surpassed surplus trade trillion",
-    "type": "geo",
-    "title": "China says 2026 trade surplus surpassed $1 trillion in October",
-    "url": "https://www.thehindu.com/news/international/china-says-2026-trade-surplus-surpassed-1-trillion-in-october/article71685001.ece",
-    "domain": "thehindu.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-10T06:00:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "china exports straight surpasses surplus trade trillion year",
-    "type": "arancel",
-    "title": "China trade surplus surpasses $1 trillion for a 2nd straight year , as exports surge 35 %",
-    "url": "https://mymotherlode.com/news/world/11296137/chinas-trade-surplus-surpasses-1-trillion-for-a-2nd-straight-year-as-exports-surge-35.html",
-    "domain": "mymotherlode.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T06:00:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "access china free hope sihlobo sparks tariff wandile",
-    "type": "regulacion",
-    "title": "WANDILE SIHLOBO | Tariff - free access to China sparks hope",
-    "url": "https://www.businessday.co.za/opinion/2026-11-10-wandile-sihlobo-tariff-free-access-to-china-sparks-hope/",
-    "domain": "businessday.co.za",
-    "lang": "en",
-    "sourceCountry": "South Africa",
-    "at": "2026-11-10T05:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "boom china exports powers surpasses surplus trade trillion",
-    "type": "geo",
-    "title": "China trade surplus surpasses $1 trillion as AI boom powers exports",
-    "url": "https://www.euronews.com/2026/11/10/chinas-trade-surplus-surpasses-1-trillion-as-ai-boom-powers-exports",
-    "domain": "euronews.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T05:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "energia",
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "china exports imports narrows stay surge surplus trade",
-    "type": "geo",
-    "title": "China Trade Surplus Narrows to USD 105 . 3B as Imports Surge , AI Exports Stay Strong",
-    "url": "https://www.actionforex.com/live-comments/660367-chinas-trade-surplus-narrows-to-usd-105-3b-as-imports-surge-ai-exports-stay-strong/",
-    "domain": "actionforex.com",
-    "lang": "en",
-    "sourceCountry": "United Kingdom",
-    "at": "2026-11-10T05:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "china exports jump straight surplus tops trade year",
-    "type": "arancel",
-    "title": "China trade surplus tops $1 trn for 2nd straight year , exports jump 35 %",
-    "url": "https://www.business-standard.com/world-news/china-s-trade-surplus-tops-1-trn-for-2nd-straight-year-exports-jump-35-126111000109_1.html",
-    "domain": "business-standard.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-10T05:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "additional china extends goods months retains suspension tariff",
-    "type": "arancel",
-    "title": "China extends suspension of 24 % additional tariff on US goods for two months , retains 10 % levy",
-    "url": "http://www.bignewsnetwork.com/news/279423108/china-extends-suspension-of-24-additional-tariff-on-us-goods-for-two-months-retains-10-levy",
-    "domain": "bignewsnetwork.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-10T05:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
    }
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: fetch failed",
    "sancion/english: fetch failed",
    "sancion/spanish: fetch failed",
    "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]

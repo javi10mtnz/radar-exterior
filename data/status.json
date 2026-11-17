@@ -1,8 +1,8 @@
 {
  "fx": {
   "ok": true,
-  "updatedAt": "2026-11-17T06:00:31.252Z",
-  "ms": 549
+  "updatedAt": "2026-11-17T07:18:46.655Z",
+  "ms": 560
  },
  "chokepoints": {
   "ok": false,
@@ -10,31 +10,28 @@
   "ms": 26113,
   "skipped": false,
   "error": "PortWatch: Token Required",
-  "failedAt": "2026-11-17T06:00:31.403Z"
+  "failedAt": "2026-11-17T07:18:46.801Z"
  },
  "electricity": {
   "ok": true,
-  "updatedAt": "2026-11-17T06:00:33.515Z",
-  "ms": 2113
+  "updatedAt": "2026-11-17T07:18:48.310Z",
+  "ms": 1509
  },
  "alerts": {
-  "ok": false,
-  "updatedAt": "2026-11-17T05:05:16.600Z",
-  "ms": 331094,
-  "warnings": 9,
-  "skipped": false,
-  "error": "GDELT no respondió: arancel/english: fetch failed | arancel/spanish: fetch failed | sancion/english: fetch failed",
-  "failedAt": "2026-11-17T06:06:40.405Z"
+  "ok": true,
+  "updatedAt": "2026-11-17T07:24:33.462Z",
+  "ms": 345153,
+  "warnings": 9
  },
  "tenders": {
   "ok": true,
-  "updatedAt": "2026-11-17T06:06:50.137Z",
-  "ms": 9733
+  "updatedAt": "2026-11-17T07:24:42.479Z",
+  "ms": 9016
  },
  "commodities": {
   "ok": false,
   "skipped": true,
   "error": "SKIP: falta FRED_API_KEY (opcional)",
-  "failedAt": "2026-11-17T06:06:50.139Z"
+  "failedAt": "2026-11-17T07:24:42.480Z"
  }
 }
