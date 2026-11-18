@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T03:37:09.283Z",
+ "updatedAt": "2026-11-18T04:42:14.521Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -833,50 +833,15 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "affair huang into jensen looking nvidia probe security",
-    "type": "sancion",
-    "title": "Nvidia security probe looking into Jensen Huang affair , Chinese intelligence allegations and potential export control changes",
-    "url": "https://www.afr.com/technology/jensen-huang-s-love-life-could-throw-the-global-chip-trade-into-chaos-20261111-p61cyz",
-    "domain": "afr.com",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-11T04:00:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "about arctic canada carney decision drilling lifting made",
-    "type": "arancel",
-    "title": "Canada has not made a decision about lifting Arctic drilling ban , Carney says | Peak Oil News and Message Boards",
-    "url": "https://peakoil.com/publicpolicy/canada-has-not-made-a-decision-about-lifting-arctic-drilling-ban-carney-says",
-    "domain": "peakoil.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T04:00:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "media"
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: fetch failed",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: fetch failed"
+   "divisa/spanish: fetch failed",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
