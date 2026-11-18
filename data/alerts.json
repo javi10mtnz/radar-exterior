@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T01:20:16.942Z",
+ "updatedAt": "2026-11-18T02:40:15.917Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -864,125 +864,19 @@
      "energia"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "accident barge california caused emissions fatal near watch",
-    "type": "logistica",
-    "title": "Watch : Near - Fatal Accident Caused by Emissions Barge in California Port",
-    "url": "https://www.breitbart.com/environment/2026/11/10/watch-near-fatal-accident-caused-by-emissions-barge-in-california-port/",
-    "domain": "breitbart.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "china exceeds surplus time trade trillion",
-    "type": "sancion",
-    "title": "China Trade Surplus Exceeds $1 Trillion for 2nd Time",
-    "url": "https://www.theepochtimes.com/china/chinas-trade-surplus-exceeds-1-trillion-for-2nd-time-6123268",
-    "domain": "theepochtimes.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "flat hold market mexico mexico peso stocks weakens",
-    "type": "divisa",
-    "title": "Mexico Stocks Hold Flat as Peso Weakens 0 . 5 % | Mexico Market Report …",
-    "url": "https://www.riotimesonline.com/mexico-markets-ipc-peso-tuesday-november-10-2026/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "MX"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "colombia colombian dollar market peso report slips",
-    "type": "divisa",
-    "title": "Colombian Peso Slips to 3 , 297 per Dollar | Colombia Market Report …",
-    "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-tuesday-november-10-2026/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "about arctic canada decision drilling lifting made says",
-    "type": "arancel",
-    "title": "Canada has not made a decision about lifting Arctic drilling ban , says Mark Carney",
-    "url": "https://www.thehindu.com/news/international/canada-has-not-made-a-decision-about-lifting-arctic-drilling-ban-says-mark-carney/article71688125.ece",
-    "domain": "thehindu.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-11T02:30:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "china expo import larger openness shared story tells",
-    "type": "regulacion",
-    "title": "China import expo tells a larger story of openness , shared opportunities",
-    "url": "http://en.people.cn/n3/2026/1111/c90000-20517765.html",
-    "domain": "en.people.cn",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-11T02:00:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "asia drawing export india list snags south",
-    "type": "regulacion",
-    "title": "India Drawing Up List of Export Snags in South Asia",
-    "url": "https://economictimes.indiatimes.com/et-front/india-drawing-up-list-of-export-snags-in-s-asia/articleshow/135720340.cms",
-    "domain": "economictimes.indiatimes.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-11T02:00:00Z",
-    "countries": [
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: fetch failed",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
