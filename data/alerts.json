@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T05:46:33.332Z",
+ "updatedAt": "2026-11-18T07:24:00.810Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -610,134 +610,15 @@
      "tech"
     ],
     "severity": "alta"
-   },
-   {
-    "id": "continue deal despite india likely republican talks trade",
-    "type": "regulacion",
-    "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
-    "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-likely-to-continue-despite-republican-midterm-setback",
-    "domain": "freepressjournal.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "brasil candidatos desigual elecciones meta sanciona trato",
-    "type": "sancion",
-    "title": "Brasil sanciona a Meta por trato desigual a candidatos en las elecciones",
-    "url": "https://efe.com/ciencia-y-tecnologia/2026-11-11/justicia-brasil-condena-meta-elecciones/",
-    "domain": "efe.com",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "australian beef demand despite exports leads market softer",
-    "type": "arancel",
-    "title": "US beef market leads Australian exports despite softer demand | North Queensland Register",
-    "url": "https://www.northqueenslandregister.com.au/story/9388746/us-beef-market-leads-australian-exports-despite-softer-demand/",
-    "domain": "northqueenslandregister.com.au",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "after garment india makers reliance rethink shock tariff",
-    "type": "arancel",
-    "title": "India garment makers rethink reliance on US after tariff shock",
-    "url": "https://ksevradio.com/india-garment-makers-rethink-reliance-on-us-after-tariff-shock/",
-    "domain": "ksevradio.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "balanced bessent calls china more scott secretary treasury",
-    "type": "geo",
-    "title": "Treasury Secretary Scott Bessent calls for more balanced US - China trade ties ahead of Trump - Xi talks",
-    "url": "http://www.cecildaily.com/ap/nation/treasury-secretary-scott-bessent-calls-for-more-balanced-us-china-trade-ties-ahead-of-trump/article_f0b5c6af-43c8-5dce-a2a5-0a286f8fe201.html",
-    "domain": "cecildaily.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "blacklisted chinese chips despite h200 nvidia reached university",
-    "type": "sancion",
-    "title": "Nvidia H200 chips reached US - blacklisted Chinese university despite export curbs , records show",
-    "url": "https://www.moneycontrol.com/news/business/nvidia-s-h200-chips-reached-us-blacklisted-chinese-university-despite-export-curbs-records-show-14076908.html",
-    "domain": "moneycontrol.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "china chip curbs export nvidia tightens",
-    "type": "sancion",
-    "title": "Nvidia Spy Row : US tightens AI chip export curbs for China",
-    "url": "https://organiser.org/2026/11/11/425612/international/us-lawmakers-push-tighter-china-chip-curbs-in-defence-bill-after-nvidia-spy-scandal-raises-security-concerns/",
-    "domain": "organiser.org",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-11T06:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "media"
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: fetch failed"
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
