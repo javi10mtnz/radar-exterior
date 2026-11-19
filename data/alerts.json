@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T23:58:19.009Z",
+ "updatedAt": "2026-11-19T01:16:55.929Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -578,64 +578,15 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "2027 funding ireland pledges russia sanctions tougher ukraine",
-    "type": "sancion",
-    "title": "Ireland Pledges Ukraine Funding for 2027 and Tougher Russia Sanctions",
-    "url": "https://www.kyivpost.com/post/89850",
-    "domain": "kyivpost.com",
-    "lang": "en",
-    "sourceCountry": "Ukraine",
-    "at": "2026-11-12T00:30:00Z",
-    "countries": [
-     "RU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "banks blacklist including linked round russia sanctions targets",
-    "type": "sancion",
-    "title": "EU to Blacklist 145 Russia - Linked Targets , Including 50 Banks , in New Round of Sanctions",
-    "url": "https://www.kyivpost.com/post/89847",
-    "domain": "kyivpost.com",
-    "lang": "en",
-    "sourceCountry": "Ukraine",
-    "at": "2026-11-12T00:30:00Z",
-    "countries": [
-     "RU",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
-    "id": "acquires chinese chips despite h200 linked nvidia university",
-    "type": "sancion",
-    "title": "Chinese University Linked to PLA Acquires Nvidia H200 Chips Despite US Export Ban , ETTelecom",
-    "url": "https://telecom.economictimes.indiatimes.com/news/devices/pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/135750867",
-    "domain": "telecom.economictimes.indiatimes.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-12T00:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "alta"
    }
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: fetch failed",
+   "divisa/spanish: fetch failed"
   ]
  }
 }
