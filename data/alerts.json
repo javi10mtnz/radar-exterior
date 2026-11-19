@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T02:38:28.738Z",
+ "updatedAt": "2026-11-19T03:35:42.248Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -451,63 +451,19 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "belt both deepen freight links loaded road trains",
-    "type": "regulacion",
-    "title": "Belt and Road links deepen as freight trains run loaded both ways",
-    "url": "http://english.anhuinews.com/newscenter/headline/202611/t20261112_9741772.html",
-    "domain": "english.anhuinews.com",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-12T03:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "food tariffs wants whitmer",
-    "type": "arancel",
-    "title": "Whitmer wants end to food tariffs",
-    "url": "https://www.wmuk.org/2026-11-11/whitmer-wants-end-to-food-tariffs",
-    "domain": "wmuk.org",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-12T03:30:00Z",
-    "countries": [],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "anti from hate india powers reclaiming stopping tariff",
-    "type": "arancel",
-    "title": "Stopping anti - India hate , reclaiming tariff powers from White House top priorities , says Indian - American Congressman - elect Amish Shah",
-    "url": "http://www.malaysiasun.com/news/279427447/stopping-anti-india-hate-reclaiming-tariff-powers-from-white-house-top-priorities-says-indian-american-congressman-elect-amish-shah",
-    "domain": "malaysiasun.com",
-    "lang": "en",
-    "sourceCountry": "Malaysia",
-    "at": "2026-11-12T03:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "severity": "media"
    }
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
    "sancion/spanish: fetch failed",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: fetch failed",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
