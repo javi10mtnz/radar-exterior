@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T05:46:08.089Z",
+ "updatedAt": "2026-11-19T07:23:56.700Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -305,102 +305,17 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "advancing boost canada cepa discuss india talks trade",
-    "type": "regulacion",
-    "title": "India , Canada discuss advancing CEPA talks to boost trade and investment ties",
-    "url": "https://www.moneycontrol.com/world/india-canada-discuss-advancing-cepa-talks-to-boost-trade-and-investment-ties-article-14077984.html",
-    "domain": "moneycontrol.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-12T07:00:00Z",
-    "countries": [
-     "IN",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "china constructive continue fostering important relationship stable with",
-    "type": "regulacion",
-    "title": "Important to continue fostering constructive , stable relationship with China : Australian trade minister",
-    "url": "http://www.australianherald.com/news/279427508/important-to-continue-fostering-constructive-stable-relationship-with-china-australian-trade-minister",
-    "domain": "australianherald.com",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-12T07:00:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "asian crackdown mexico paying says shipments steel tariff",
-    "type": "regulacion",
-    "title": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance",
-    "url": "https://www.asiaone.com:443/world/mexico-says-crackdown-asian-steel-shipments-paying-us-tariff-talks-advance",
-    "domain": "asiaone.com",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-12T07:00:00Z",
-    "countries": [
-     "US",
-     "MX"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "augusta azeri barrel exceeds light port price",
-    "type": "sancion",
-    "title": "Azeri Light price exceeds $100 per barrel at Augusta port",
-    "url": "https://www.trend.az/azerbaijan/4245468.html",
-    "domain": "trend.az",
-    "lang": "en",
-    "sourceCountry": "Azerbaijan",
-    "at": "2026-11-12T06:45:00Z",
-    "countries": [],
-    "sectors": [
-     "energia",
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "billion energy fuel imports india push renewable saves",
-    "type": "regulacion",
-    "title": "India Renewable Energy Push Saves $100 Billion in Fuel Imports : IEA",
-    "url": "https://www.siliconindia.com/news/general/indias-renewable-energy-push-saves-100-billion-in-fuel-imports-iea-nid-243075-cid-1.html",
-    "domain": "siliconindia.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-12T06:45:00Z",
-    "countries": [
-     "IN"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: fetch failed",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: fetch failed",
+   "arancel/english: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: fetch failed",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
