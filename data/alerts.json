@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T03:35:42.248Z",
+ "updatedAt": "2026-11-19T04:43:20.991Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -402,68 +402,16 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "aranceles coahuila confian industriales integracion nueva reversa trump",
-    "type": "arancel",
-    "title": "Confían industriales de Coahuila se dé reversa a aranceles de Trump , con nueva integración del Congreso de EU",
-    "url": "https://elheraldodesaltillo.mx/2026/11/11/confian-industriales-de-coahuila-se-de-reversa-a-aranceles-de-trump-con-nueva-integracion-del-congreso-de-eu/",
-    "domain": "elheraldodesaltillo.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-12T03:45:00Z",
-    "countries": [
-     "US",
-     "EU"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "critique cuba economic interventionism power rothbardian sanctions state",
-    "type": "sancion",
-    "title": "Economic Sanctions , State Power , And Cuba : A Rothbardian Critique Of U . S . Interventionism - OpEd",
-    "url": "https://www.eurasiareview.com/12112026-economic-sanctions-state-power-and-cuba-a-rothbardian-critique-of-u-s-interventionism-oped/",
-    "domain": "eurasiareview.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-12T03:45:00Z",
-    "countries": [],
-    "sectors": [
-     "energia"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "after china cuba days pledges sanctions support",
-    "type": "geo",
-    "title": "China Pledges Support for Cuba Days After US Sanctions",
-    "url": "https://www.hngn.com/articles/273798/20261111/china-pledges-support-cuba-days-after-us-sanctions.htm",
-    "domain": "hngn.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-12T03:45:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "alta"
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
