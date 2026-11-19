@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T01:16:55.929Z",
+ "updatedAt": "2026-11-19T02:38:28.738Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -499,94 +499,16 @@
      "energia"
     ],
     "severity": "media"
-   },
-   {
-    "id": "acero asiatico importaciones mexico reduce",
-    "type": "regulacion",
-    "title": "México reduce 30 % las importaciones de acero asiático",
-    "url": "https://www.eluniversal.com.mx/cartera/mexico-reduce-30-las-importaciones-de-acero-asiatico-industria-espera-acuerdo-comercial-con-eu/",
-    "domain": "eluniversal.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-12T01:30:00Z",
-    "countries": [
-     "MX"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "axis bank differ dollar gtri india long rupee",
-    "type": "divisa",
-    "title": "Rupee at 92 or 100 per dollar ? GTRI and Axis Bank differ on how long India currency rally can last",
-    "url": "https://www.businesstoday.in/latest/economy/story/rupee-at-92-or-100-per-dollar-gtri-and-axis-bank-differ-on-how-long-indias-currency-rally-can-last-566913-2026-11-11",
-    "domain": "businesstoday.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-12T01:30:00Z",
-    "countries": [
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "altagracia china cierra comercial implementa mexico proteccionismo puerta",
-    "type": "arancel",
-    "title": "México no implementa proteccionismo ni cierra la puerta comercial con China : Altagracia Gómez – Periódico Zócalo",
-    "url": "https://www.zocalo.com.mx/mexico-no-implementa-proteccionismo-ni-cierra-la-puerta-comercial-con-china-altagracia-gomez/",
-    "domain": "zocalo.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-12T01:30:00Z",
-    "countries": [
-     "CN",
-     "MX"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "2020 bajan camino desde nuevos peor vehiculos ventas",
-    "type": "arancel",
-    "title": "Las ventas de vehículos nuevos bajan en 11 . 81 % y van camino a su peor año desde el 2020 - NotiCel - La verdad como es - Noticias de Puerto Rico",
-    "url": "https://noticel.com/en/ultima-hora/20261111/las-ventas-de-vehiculos-nuevos-bajan-en-11-81-y-van-camino-a-su-peor-ano-desde-el-2020/",
-    "domain": "noticel.com",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-12T01:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "billion could europe fiscal india promise trade troubles",
-    "type": "arancel",
-    "title": "India – EU FTA €119 billion trade promise : Could Europe fiscal troubles threaten Indian exporters ?",
-    "url": "https://www.businesstoday.in/latest/economy/story/india-eu-ftas-eu119-billion-trade-promise-could-europes-fiscal-troubles-threaten-indian-exporters-566925-2026-11-12",
-    "domain": "businesstoday.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-12T01:30:00Z",
-    "countries": [
-     "IN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
    }
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: fetch failed",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
