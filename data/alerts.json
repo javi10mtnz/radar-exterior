@@ -1,11 +1,56 @@
 {
- "updatedAt": "2026-11-20T05:45:46.308Z",
+ "updatedAt": "2026-11-20T07:24:59.796Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "banco brasil central dolares frenar millones para vende",
+    "type": "divisa",
+    "title": "El Banco Central de Brasil vende 1 . 000 millones de dólares para frenar la subida de la divisa",
+    "url": "https://es.mercopress.com/2026/11/20/el-banco-central-de-brasil-vende-1.000-millones-de-dolares-para-frenar-la-subida-de-la-divisa",
+    "domain": "es.mercopress.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-20T06:45:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "alcanzan colombianas desde dolares importaciones millones mundinews venezuela",
+    "type": "arancel",
+    "title": "Importaciones colombianas desde Venezuela alcanzan 29 , 23 millones dólares – Mundinews – Breaking News del Mundo Entero",
+    "url": "https://mundinews.com/2026/11/20/importaciones-colombianas-desde-venezuela-alcanzan-2923-millones-dolares/",
+    "domain": "mundinews.com",
+    "lang": "es",
+    "sourceCountry": "Venezuela",
+    "at": "2026-11-20T05:30:00Z",
+    "countries": [
+     "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "brazil call closed dollar hits markets morning reals",
+    "type": "divisa",
+    "title": "Brazil Markets Closed as Dollar Hits 5 . 93 Reals | Morning Call , Nov 20",
+    "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-november-20-2026/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-20T05:30:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "acuerdo busca canada estados frenar nuevos para unidos",
     "type": "arancel",
@@ -460,9 +505,9 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: fetch failed",
+   "sancion/spanish: fetch failed",
+   "logistica/english: fetch failed",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
