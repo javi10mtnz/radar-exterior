@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T07:24:59.796Z",
+ "updatedAt": "2026-11-20T08:47:21.707Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -22,21 +22,6 @@
     "severity": "baja"
    },
    {
-    "id": "alcanzan colombianas desde dolares importaciones millones mundinews venezuela",
-    "type": "arancel",
-    "title": "Importaciones colombianas desde Venezuela alcanzan 29 , 23 millones dólares – Mundinews – Breaking News del Mundo Entero",
-    "url": "https://mundinews.com/2026/11/20/importaciones-colombianas-desde-venezuela-alcanzan-2923-millones-dolares/",
-    "domain": "mundinews.com",
-    "lang": "es",
-    "sourceCountry": "Venezuela",
-    "at": "2026-11-20T05:30:00Z",
-    "countries": [
-     "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "brazil call closed dollar hits markets morning reals",
     "type": "divisa",
     "title": "Brazil Markets Closed as Dollar Hits 5 . 93 Reals | Morning Call , Nov 20",
@@ -47,6 +32,21 @@
     "at": "2026-11-20T05:30:00Z",
     "countries": [
      "BR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "alcanzan colombianas desde dolares importaciones millones mundinews venezuela",
+    "type": "arancel",
+    "title": "Importaciones colombianas desde Venezuela alcanzan 29 , 23 millones dólares – Mundinews – Breaking News del Mundo Entero",
+    "url": "https://mundinews.com/2026/11/20/importaciones-colombianas-desde-venezuela-alcanzan-2923-millones-dolares/",
+    "domain": "mundinews.com",
+    "lang": "es",
+    "sourceCountry": "Venezuela",
+    "at": "2026-11-20T05:30:00Z",
+    "countries": [
+     "CO"
     ],
     "sectors": [],
     "severity": "baja"
@@ -505,10 +505,13 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
