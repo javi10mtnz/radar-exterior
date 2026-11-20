@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T19:44:47.609Z",
+ "updatedAt": "2026-11-20T20:59:14.526Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -100,21 +100,6 @@
     "severity": "baja"
    },
    {
-    "id": "brazil call closed dollar hits markets morning reals",
-    "type": "divisa",
-    "title": "Brazil Markets Closed as Dollar Hits 5 . 93 Reals | Morning Call , Nov 20",
-    "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-november-20-2026/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-20T05:30:00Z",
-    "countries": [
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "alcanzan colombianas desde dolares importaciones millones mundinews venezuela",
     "type": "arancel",
     "title": "Importaciones colombianas desde Venezuela alcanzan 29 , 23 millones dólares – Mundinews – Breaking News del Mundo Entero",
@@ -125,6 +110,21 @@
     "at": "2026-11-20T05:30:00Z",
     "countries": [
      "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "brazil call closed dollar hits markets morning reals",
+    "type": "divisa",
+    "title": "Brazil Markets Closed as Dollar Hits 5 . 93 Reals | Morning Call , Nov 20",
+    "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-november-20-2026/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-20T05:30:00Z",
+    "countries": [
+     "BR"
     ],
     "sectors": [],
     "severity": "baja"
@@ -160,22 +160,6 @@
     "severity": "baja"
    },
    {
-    "id": "bulk india pact protect reclassification reconsider scotch trade",
-    "type": "regulacion",
-    "title": "Reconsider bulk scotch reclassification to protect India – UK trade pact gains : GTRI",
-    "url": "https://www.moneycontrol.com/news/business/reconsider-bulk-scotch-reclassification-to-protect-india-uk-trade-pact-gains-gtri-14085232.html",
-    "domain": "moneycontrol.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-20T04:30:00Z",
-    "countries": [
-     "GB",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "applications dgft import opens quota sugar time window",
     "type": "arancel",
     "title": "DGFT opens one - time window for raw sugar import quota applications",
@@ -190,6 +174,22 @@
      "energia"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "bulk india pact protect reclassification reconsider scotch trade",
+    "type": "arancel",
+    "title": "Reconsider bulk scotch reclassification to protect India – UK trade pact gains : GTRI",
+    "url": "https://www.moneycontrol.com/news/business/reconsider-bulk-scotch-reclassification-to-protect-india-uk-trade-pact-gains-gtri-14085232.html",
+    "domain": "moneycontrol.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-20T04:30:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "acuerdo busca canada estados frenar nuevos para unidos",
@@ -209,7 +209,7 @@
    },
    {
     "id": "progres real reported talks trade trump with",
-    "type": "geo",
+    "type": "arancel",
     "title": "No real progres reported in trade talks with Trump",
     "url": "https://www.therecord.com/politics/federal/donald-trump-s-midterm-drubbing-hasn-t-sped-up-canada-s-trade-talks-sources-say/article_d3822e6c-f43d-5d80-9cd7-32d0a8047d76.html",
     "domain": "therecord.com",
@@ -221,6 +221,22 @@
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "bulk customs india kingdom reclassification scotch threatens united",
+    "type": "arancel",
+    "title": "Customs reclassification of bulk Scotch threatens India united kingdom trade pact gains , warns GTRI",
+    "url": "https://www.businesstoday.in/india/story/customs-reclassification-of-bulk-scotch-threatens-india-uk-trade-pact-gains-warns-gtri-568651-2026-11-20",
+    "domain": "businesstoday.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-20T03:45:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "based drug faction global italy mafia toronto trafficking",
@@ -238,17 +254,47 @@
     "severity": "media"
    },
    {
-    "id": "bulk customs india kingdom reclassification scotch threatens united",
-    "type": "regulacion",
-    "title": "Customs reclassification of bulk Scotch threatens India united kingdom trade pact gains , warns GTRI",
-    "url": "https://www.businesstoday.in/india/story/customs-reclassification-of-bulk-scotch-threatens-india-uk-trade-pact-gains-warns-gtri-568651-2026-11-20",
-    "domain": "businesstoday.in",
+    "id": "accuses adviser arrogance canada donald tariffs trade trump",
+    "type": "arancel",
+    "title": "Donald Trump tariffs : U . S . trade adviser accuses Canada of arrogance",
+    "url": "https://www.cp24.com/politics/2026/11/20/trump-trade-adviser-hurls-insults-at-federal-government-as-canada-us-trade-talks-heat-up/",
+    "domain": "cp24.com",
     "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-20T03:45:00Z",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T03:30:00Z",
     "countries": [
-     "GB",
-     "IN"
+     "US",
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "agenda apec back leaders meets shenzhen trade trump",
+    "type": "arancel",
+    "title": "APEC leaders back Shenzhen trade agenda as Xi meets Trump and Putin",
+    "url": "https://macaudailytimes.com.mo/apec-leaders-back-shenzhen-trade-agenda-as-xi-meets-trump-and-putin.html",
+    "domain": "macaudailytimes.com.mo",
+    "lang": "en",
+    "sourceCountry": "Macau",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "adhesion argentina nacion patentes sanciono senado tratado",
+    "type": "arancel",
+    "title": "El Senado de la Nación sancionó la adhesión de Argentina al Tratado de Patentes",
+    "url": "https://urgente24.com/actualidad/el-senado-la-nacion-sanciono-la-adhesion-argentina-al-tratado-patentes-n637160",
+    "domain": "urgente24.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "AR"
     ],
     "sectors": [],
     "severity": "media"
@@ -267,37 +313,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "adhesion argentina nacion patentes sanciono senado tratado",
-    "type": "regulacion",
-    "title": "El Senado de la Nación sancionó la adhesión de Argentina al Tratado de Patentes",
-    "url": "https://urgente24.com/actualidad/el-senado-la-nacion-sanciono-la-adhesion-argentina-al-tratado-patentes-n637160",
-    "domain": "urgente24.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "AR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "accuses adviser arrogance canada donald tariffs trade trump",
-    "type": "geo",
-    "title": "Donald Trump tariffs : U . S . trade adviser accuses Canada of arrogance",
-    "url": "https://www.cp24.com/politics/2026/11/20/trump-trade-adviser-hurls-insults-at-federal-government-as-canada-us-trade-talks-heat-up/",
-    "domain": "cp24.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "US",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "alleged branch canadian mafia ndrangheta sanctions",
@@ -325,37 +340,6 @@
     "at": "2026-11-20T03:30:00Z",
     "countries": [
      "US"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "agenda apec back leaders meets shenzhen trade trump",
-    "type": "regulacion",
-    "title": "APEC leaders back Shenzhen trade agenda as Xi meets Trump and Putin",
-    "url": "https://macaudailytimes.com.mo/apec-leaders-back-shenzhen-trade-agenda-as-xi-meets-trump-and-putin.html",
-    "domain": "macaudailytimes.com.mo",
-    "lang": "en",
-    "sourceCountry": "Macau",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "acuerdos china cierra gira negociacion pero resolver sheinbaum",
-    "type": "regulacion",
-    "title": "Sheinbaum cierra gira por China con acuerdos , pero sin resolver negociación arancelaria con Trump",
-    "url": "https://www.proceso.com.mx/nacional/2026/11/19/sheinbaum-cierra-gira-por-china-con-acuerdos-pero-sin-resolver-negociacion-arancelaria-con-trump-384009.html",
-    "domain": "proceso.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T02:45:00Z",
-    "countries": [
-     "US",
-     "CN"
     ],
     "sectors": [],
     "severity": "media"
@@ -393,19 +377,20 @@
     "severity": "baja"
    },
    {
-    "id": "2026 container exceeds ningbo port teus throughput zhoushan",
-    "type": "logistica",
-    "title": "Ningbo - Zhoushan Port container throughput for 2026 exceeds 40M TEUs",
-    "url": "http://www.china.org.cn/2026-11/20/content_118782251.shtml",
-    "domain": "china.org.cn",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-20T02:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
+    "id": "acuerdos china cierra gira negociacion pero resolver sheinbaum",
+    "type": "arancel",
+    "title": "Sheinbaum cierra gira por China con acuerdos , pero sin resolver negociación arancelaria con Trump",
+    "url": "https://www.proceso.com.mx/nacional/2026/11/19/sheinbaum-cierra-gira-por-china-con-acuerdos-pero-sin-resolver-negociacion-arancelaria-con-trump-384009.html",
+    "domain": "proceso.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-20T02:45:00Z",
+    "countries": [
+     "US",
+     "CN"
     ],
-    "severity": "baja"
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "auto canada global hurdle news reports talks tariff",
@@ -420,6 +405,21 @@
      "CA"
     ],
     "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "2026 container exceeds ningbo port teus throughput zhoushan",
+    "type": "logistica",
+    "title": "Ningbo - Zhoushan Port container throughput for 2026 exceeds 40M TEUs",
+    "url": "http://www.china.org.cn/2026-11/20/content_118782251.shtml",
+    "domain": "china.org.cn",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-20T02:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
     "severity": "baja"
    },
    {
@@ -441,7 +441,7 @@
    },
    {
     "id": "adhesion estados patentes sanciono senado solicitado tratado unidos",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "El Senado sancionó la adhesión al Tratado de Patentes , solicitado por Estados Unidos",
     "url": "https://www.parlamentario.com/2026/11/19/el-senado-sanciono-la-adhesion-al-tratado-de-patentes-solicitado-por-estados-unidos/",
     "domain": "parlamentario.com",
@@ -502,7 +502,7 @@
    },
    {
     "id": "apec comercio comprometer diversificar enfrenta mexico reto",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "México en la APEC enfrenta el reto de diversificar su comercio sin comprometer el T - MEC",
     "url": "https://www.eleconomista.com.mx/internacionales/mexico-apec-enfrenta-reto-diversificar-comercio-comprometer-t-mec-20261119-844841.html",
     "domain": "eleconomista.com.mx",
@@ -753,16 +753,14 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: fetch failed",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
