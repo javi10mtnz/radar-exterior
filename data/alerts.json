@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T23:52:03.188Z",
+ "updatedAt": "2026-11-20T01:10:50.833Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -319,30 +319,20 @@
      "transporte"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "auto canada over plant sale stellantis threatens trump",
-    "type": "arancel",
-    "title": "Canada threatens to sue Stellantis over auto plant sale as Trump trade war shifts production south",
-    "url": "http://www.sitkasentinel.com/stories/canada-threatens-to-sue-stellantis-over-auto-plant-sale-as-trumps-trade-war-shifts-production,185849",
-    "domain": "sitkasentinel.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-13T00:45:00Z",
-    "countries": [
-     "US",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
    }
   ],
   "partialErrors": [
    "arancel/english: fetch failed",
    "arancel/spanish: fetch failed",
-   "divisa/english: fetch failed",
+   "sancion/english: fetch failed",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: fetch failed",
+   "geo/spanish: fetch failed"
   ]
  }
 }
