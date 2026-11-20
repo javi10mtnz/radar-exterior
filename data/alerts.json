@@ -1,11 +1,57 @@
 {
- "updatedAt": "2026-11-20T04:41:07.513Z",
+ "updatedAt": "2026-11-20T05:45:46.308Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "acuerdo busca canada estados frenar nuevos para unidos",
+    "type": "arancel",
+    "title": "Canadá busca acuerdo con Estados Unidos para frenar nuevos aranceles en enero",
+    "url": "https://lineadirectaportal.com/internacional/canada-busca-acuerdo-con-estados-unidos-para-frenar-nuevos-aranceles-en-enero-2026-11-19__1741957",
+    "domain": "lineadirectaportal.com",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-20T04:30:00Z",
+    "countries": [
+     "US",
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "adhesion argentina nacion patentes sanciono senado tratado",
+    "type": "arancel",
+    "title": "El Senado de la Nación sancionó la adhesión de Argentina al Tratado de Patentes",
+    "url": "https://urgente24.com/actualidad/el-senado-la-nacion-sanciono-la-adhesion-argentina-al-tratado-patentes-n637160",
+    "domain": "urgente24.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "AR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "2026 apec barreras china concluye cumbre eliminar llamado",
+    "type": "regulacion",
+    "title": "APEC 2026 : concluye cumbre en China con llamado a eliminar barreras comerciales y fortalecer el multilateralismo - Entre Líneas",
+    "url": "https://entrelineas.com.mx/apec-2026-concluye-cumbre-en-china-con-llamado-a-eliminar-barreras-comerciales-y-fortalecer-el-multilateralismo/",
+    "domain": "entrelineas.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "acuerdo cerrar comercial confia diciembre sheinbaum",
     "type": "arancel",
@@ -414,16 +460,12 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
