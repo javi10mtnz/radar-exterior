@@ -1,11 +1,72 @@
 {
- "updatedAt": "2026-11-20T02:20:42.838Z",
+ "updatedAt": "2026-11-20T03:30:52.279Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "acuerdo cerrar comercial confia diciembre sheinbaum",
+    "type": "arancel",
+    "title": "Sheinbaum confía en cerrar acuerdo comercial con EU en diciembre",
+    "url": "https://forbes.com.mx/sheinbaum-confia-en-cerrar-acuerdo-comercial-con-eu-en-diciembre/",
+    "domain": "forbes.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-20T02:45:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "acuerdos china cierra gira negociacion pero resolver sheinbaum",
+    "type": "arancel",
+    "title": "Sheinbaum cierra gira por China con acuerdos , pero sin resolver negociación arancelaria con Trump",
+    "url": "https://www.proceso.com.mx/nacional/2026/11/19/sheinbaum-cierra-gira-por-china-con-acuerdos-pero-sin-resolver-negociacion-arancelaria-con-trump-384009.html",
+    "domain": "proceso.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-20T02:45:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "2026 container exceeds ningbo port teus throughput zhoushan",
+    "type": "logistica",
+    "title": "Ningbo - Zhoushan Port container throughput for 2026 exceeds 40M TEUs",
+    "url": "http://www.china.org.cn/2026-11/20/content_118782251.shtml",
+    "domain": "china.org.cn",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-20T02:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "adhesion estados patentes sanciono senado solicitado tratado unidos",
+    "type": "arancel",
+    "title": "El Senado sancionó la adhesión al Tratado de Patentes , solicitado por Estados Unidos",
+    "url": "https://www.parlamentario.com/2026/11/19/el-senado-sanciono-la-adhesion-al-tratado-de-patentes-solicitado-por-estados-unidos/",
+    "domain": "parlamentario.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-20T00:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "australiana banda comandante eeuu espanol motero narcotrafico sanciona",
     "type": "sancion",
@@ -22,16 +83,16 @@
     "severity": "media"
    },
    {
-    "id": "arrangement canada interim seeking sources trade with year",
-    "type": "regulacion",
-    "title": "Canada seeking interim trade arrangement with U . S . by end of year : sources",
-    "url": "https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540",
-    "domain": "cbc.ca",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-19T19:30:00Z",
+    "id": "apec comercio comprometer diversificar enfrenta mexico reto",
+    "type": "arancel",
+    "title": "México en la APEC enfrenta el reto de diversificar su comercio sin comprometer el T - MEC",
+    "url": "https://www.eleconomista.com.mx/internacionales/mexico-apec-enfrenta-reto-diversificar-comercio-comprometer-t-mec-20261119-844841.html",
+    "domain": "eleconomista.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-19T23:45:00Z",
     "countries": [
-     "CA"
+     "MX"
     ],
     "sectors": [],
     "severity": "baja"
@@ -49,6 +110,21 @@
     "sectors": [
      "transporte"
     ],
+    "severity": "baja"
+   },
+   {
+    "id": "arrangement canada interim seeking sources trade with year",
+    "type": "regulacion",
+    "title": "Canada seeking interim trade arrangement with U . S . by end of year : sources",
+    "url": "https://www.cbc.ca/news/politics/canada-seeking-interim-trade-arrangment-9.7428540",
+    "domain": "cbc.ca",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-19T19:30:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -337,13 +413,12 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
-   "logistica/english: fetch failed",
-   "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: fetch failed"
   ]
