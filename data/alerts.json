@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T18:39:09.801Z",
+ "updatedAt": "2026-11-20T19:44:47.609Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -208,6 +208,21 @@
     "severity": "media"
    },
    {
+    "id": "progres real reported talks trade trump with",
+    "type": "geo",
+    "title": "No real progres reported in trade talks with Trump",
+    "url": "https://www.therecord.com/politics/federal/donald-trump-s-midterm-drubbing-hasn-t-sped-up-canada-s-trade-talks-sources-say/article_d3822e6c-f43d-5d80-9cd7-32d0a8047d76.html",
+    "domain": "therecord.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T03:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "based drug faction global italy mafia toronto trafficking",
     "type": "sancion",
     "title": "Toronto faction of Italy - based global drug trafficking mafia sanctioned by U . S .",
@@ -223,21 +238,6 @@
     "severity": "media"
    },
    {
-    "id": "progres real reported talks trade trump with",
-    "type": "regulacion",
-    "title": "No real progres reported in trade talks with Trump",
-    "url": "https://www.therecord.com/politics/federal/donald-trump-s-midterm-drubbing-hasn-t-sped-up-canada-s-trade-talks-sources-say/article_d3822e6c-f43d-5d80-9cd7-32d0a8047d76.html",
-    "domain": "therecord.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T03:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "bulk customs india kingdom reclassification scotch threatens united",
     "type": "regulacion",
     "title": "Customs reclassification of bulk Scotch threatens India united kingdom trade pact gains , warns GTRI",
@@ -249,6 +249,52 @@
     "countries": [
      "GB",
      "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "2026 apec barreras china concluye cumbre eliminar llamado",
+    "type": "regulacion",
+    "title": "APEC 2026 : concluye cumbre en China con llamado a eliminar barreras comerciales y fortalecer el multilateralismo - Entre Líneas",
+    "url": "https://entrelineas.com.mx/apec-2026-concluye-cumbre-en-china-con-llamado-a-eliminar-barreras-comerciales-y-fortalecer-el-multilateralismo/",
+    "domain": "entrelineas.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "adhesion argentina nacion patentes sanciono senado tratado",
+    "type": "regulacion",
+    "title": "El Senado de la Nación sancionó la adhesión de Argentina al Tratado de Patentes",
+    "url": "https://urgente24.com/actualidad/el-senado-la-nacion-sanciono-la-adhesion-argentina-al-tratado-patentes-n637160",
+    "domain": "urgente24.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "AR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "accuses adviser arrogance canada donald tariffs trade trump",
+    "type": "geo",
+    "title": "Donald Trump tariffs : U . S . trade adviser accuses Canada of arrogance",
+    "url": "https://www.cp24.com/politics/2026/11/20/trump-trade-adviser-hurls-insults-at-federal-government-as-canada-us-trade-talks-heat-up/",
+    "domain": "cp24.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "US",
+     "CA"
     ],
     "sectors": [],
     "severity": "media"
@@ -284,22 +330,6 @@
     "severity": "media"
    },
    {
-    "id": "accuses adviser arrogance canada donald tariffs trade trump",
-    "type": "regulacion",
-    "title": "Donald Trump tariffs : U . S . trade adviser accuses Canada of arrogance",
-    "url": "https://www.cp24.com/politics/2026/11/20/trump-trade-adviser-hurls-insults-at-federal-government-as-canada-us-trade-talks-heat-up/",
-    "domain": "cp24.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "US",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "agenda apec back leaders meets shenzhen trade trump",
     "type": "regulacion",
     "title": "APEC leaders back Shenzhen trade agenda as Xi meets Trump and Putin",
@@ -313,36 +343,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "2026 apec barreras china concluye cumbre eliminar llamado",
-    "type": "regulacion",
-    "title": "APEC 2026 : concluye cumbre en China con llamado a eliminar barreras comerciales y fortalecer el multilateralismo - Entre Líneas",
-    "url": "https://entrelineas.com.mx/apec-2026-concluye-cumbre-en-china-con-llamado-a-eliminar-barreras-comerciales-y-fortalecer-el-multilateralismo/",
-    "domain": "entrelineas.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "adhesion argentina nacion patentes sanciono senado tratado",
-    "type": "regulacion",
-    "title": "El Senado de la Nación sancionó la adhesión de Argentina al Tratado de Patentes",
-    "url": "https://urgente24.com/actualidad/el-senado-la-nacion-sanciono-la-adhesion-argentina-al-tratado-patentes-n637160",
-    "domain": "urgente24.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "AR"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "acuerdos china cierra gira negociacion pero resolver sheinbaum",
@@ -440,6 +440,21 @@
     "severity": "baja"
    },
    {
+    "id": "adhesion estados patentes sanciono senado solicitado tratado unidos",
+    "type": "regulacion",
+    "title": "El Senado sancionó la adhesión al Tratado de Patentes , solicitado por Estados Unidos",
+    "url": "https://www.parlamentario.com/2026/11/19/el-senado-sanciono-la-adhesion-al-tratado-de-patentes-solicitado-por-estados-unidos/",
+    "domain": "parlamentario.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-20T00:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "canada issue multiple outstanding sources talks trade trade",
     "type": "regulacion",
     "title": "Multiple trade issue outstanding in Canada , U . S . trade talks : Sources - National",
@@ -466,21 +481,6 @@
     "countries": [
      "US",
      "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "adhesion estados patentes sanciono senado solicitado tratado unidos",
-    "type": "regulacion",
-    "title": "El Senado sancionó la adhesión al Tratado de Patentes , solicitado por Estados Unidos",
-    "url": "https://www.parlamentario.com/2026/11/19/el-senado-sanciono-la-adhesion-al-tratado-de-patentes-solicitado-por-estados-unidos/",
-    "domain": "parlamentario.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-20T00:45:00Z",
-    "countries": [
-     "US"
     ],
     "sectors": [],
     "severity": "media"
@@ -754,16 +754,15 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
