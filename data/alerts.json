@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-20T01:10:50.833Z",
+ "updatedAt": "2026-11-20T02:20:42.838Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "australiana banda comandante eeuu espanol motero narcotrafico sanciona",
+    "type": "sancion",
+    "title": "EEUU sanciona por narcotráfico a un comandante español de la banda de motero australiana Los Comancheros",
+    "url": "https://www.europapress.es/internacional/noticia-eeuu-sanciona-narcotrafico-comandante-espanol-banda-moteros-australiana-comancheros-20261119202630.html",
+    "domain": "europapress.es",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-20T00:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "arrangement canada interim seeking sources trade with year",
     "type": "regulacion",
@@ -325,13 +340,11 @@
    "arancel/english: fetch failed",
    "arancel/spanish: fetch failed",
    "sancion/english: fetch failed",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
    "regulacion/english: fetch failed",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
    "geo/spanish: fetch failed"
   ]
  }
