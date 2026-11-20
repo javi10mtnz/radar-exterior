@@ -1,11 +1,74 @@
 {
- "updatedAt": "2026-11-20T15:38:04.986Z",
+ "updatedAt": "2026-11-20T16:38:34.392Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "broader chain chip disruption export from supply warns",
+    "type": "sancion",
+    "title": "Chip supply chain warns of broader disruption from new US export controls",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls",
+    "domain": "asia.nikkei.com",
+    "lang": "en",
+    "sourceCountry": "Japan",
+    "at": "2026-11-20T06:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "arab australia countries islamic kingdom sanctions united welcome",
+    "type": "sancion",
+    "title": "15 Arab and Islamic countries welcome united kingdom , Australia sanctions against Israeli settlement activities",
+    "url": "http://www.australianherald.com/news/279444046/15-arab-and-islamic-countries-welcome-uk-australia-sanctions-against-israeli-settlement-activities",
+    "domain": "australianherald.com",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-20T06:45:00Z",
+    "countries": [
+     "GB"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china concerns export raises seller shares short slide",
+    "type": "sancion",
+    "title": "AMD Shares Slide 7 . 72 % as Short Seller Raises China Export Concerns",
+    "url": "https://slguardian.org/amd-shares-slide-7-72-as-short-seller-raises-china-export-concerns/",
+    "domain": "slguardian.org",
+    "lang": "en",
+    "sourceCountry": "Sri Lanka",
+    "at": "2026-11-20T06:45:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "australian backs israeli kingdom sanctions settlements turkiye united",
+    "type": "sancion",
+    "title": "Türkiye backs united kingdom , Australian sanctions on Israeli settlements",
+    "url": "https://www.hurriyetdailynews.com/turkiye-backs-uk-australian-sanctions-on-israeli-settlements-229627",
+    "domain": "hurriyetdailynews.com",
+    "lang": "en",
+    "sourceCountry": "Turkey",
+    "at": "2026-11-20T06:45:00Z",
+    "countries": [
+     "GB",
+     "TR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
    {
     "id": "freight from geopolitical october peak plunge rates vlcc",
     "type": "logistica",
@@ -145,6 +208,21 @@
     "severity": "media"
    },
    {
+    "id": "based drug faction global italy mafia toronto trafficking",
+    "type": "sancion",
+    "title": "Toronto faction of Italy - based global drug trafficking mafia sanctioned by U . S .",
+    "url": "https://www.wellandtribune.ca/news/ontario/toronto-faction-of-italy-based-global-drug-trafficking-mafia-sanctioned-by-u-s/article_0a5cc73f-7e33-59f6-a8c4-49db5ab30303.html",
+    "domain": "wellandtribune.ca",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T03:45:00Z",
+    "countries": [
+     "IT"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "progres real reported talks trade trump with",
     "type": "regulacion",
     "title": "No real progres reported in trade talks with Trump",
@@ -171,6 +249,36 @@
     "countries": [
      "GB",
      "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "alleged branch canadian mafia ndrangheta sanctions",
+    "type": "sancion",
+    "title": "U . S . sanctions alleged Canadian branch of Ndrangheta mafia",
+    "url": "https://www.cp24.com/news/canada/2026/11/19/us-sanctions-canadian-branch-of-italian-mafia-australian-biker-gang/",
+    "domain": "cp24.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aussie bikie boss heap pressure sanctions world",
+    "type": "sancion",
+    "title": "US sanctions heap pressure on Aussie bikie world boss",
+    "url": "https://www.sconeadvocate.com.au/story/9395079/us-sanctions-heap-pressure-on-aussie-bikie-world-boss/",
+    "domain": "sconeadvocate.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "media"
@@ -725,13 +833,10 @@
   "partialErrors": [
    "arancel/english: fetch failed",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
+   "sancion/spanish: fetch failed",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
