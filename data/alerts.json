@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T10:09:49.147Z",
+ "updatedAt": "2026-11-20T11:11:45.963Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -22,6 +22,21 @@
     "severity": "baja"
    },
    {
+    "id": "alcanzan colombianas desde dolares importaciones millones mundinews venezuela",
+    "type": "arancel",
+    "title": "Importaciones colombianas desde Venezuela alcanzan 29 , 23 millones dólares – Mundinews – Breaking News del Mundo Entero",
+    "url": "https://mundinews.com/2026/11/20/importaciones-colombianas-desde-venezuela-alcanzan-2923-millones-dolares/",
+    "domain": "mundinews.com",
+    "lang": "es",
+    "sourceCountry": "Venezuela",
+    "at": "2026-11-20T05:30:00Z",
+    "countries": [
+     "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "brazil call closed dollar hits markets morning reals",
     "type": "divisa",
     "title": "Brazil Markets Closed as Dollar Hits 5 . 93 Reals | Morning Call , Nov 20",
@@ -37,19 +52,66 @@
     "severity": "baja"
    },
    {
-    "id": "alcanzan colombianas desde dolares importaciones millones mundinews venezuela",
+    "id": "baby buying essential mexico parents products squeeze tariffs",
     "type": "arancel",
-    "title": "Importaciones colombianas desde Venezuela alcanzan 29 , 23 millones dólares – Mundinews – Breaking News del Mundo Entero",
-    "url": "https://mundinews.com/2026/11/20/importaciones-colombianas-desde-venezuela-alcanzan-2923-millones-dolares/",
-    "domain": "mundinews.com",
-    "lang": "es",
-    "sourceCountry": "Venezuela",
-    "at": "2026-11-20T05:30:00Z",
+    "title": "Tariffs squeeze New Mexico parents buying essential baby products",
+    "url": "http://www.albuquerqueexpress.com/news/279444185/tariffs-squeeze-new-mexico-parents-buying-essential-baby-products",
+    "domain": "albuquerqueexpress.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-20T05:15:00Z",
     "countries": [
-     "CO"
+     "MX"
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "behind canada case closed doors make negotiators trade",
+    "type": "arancel",
+    "title": "Canada - U . S . trade : Negotiators make case behind closed doors",
+    "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/canada-makes-case-for-us-trade-deal-sooner-rather-than-later-in-private-meeting/",
+    "domain": "bnnbloomberg.ca",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T05:15:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "applications dgft import opens quota sugar time window",
+    "type": "arancel",
+    "title": "DGFT opens one - time window for raw sugar import quota applications",
+    "url": "https://www.thehindubusinessline.com/economy/agri-business/dgft-opens-one-time-window-for-raw-sugar-import-quota-applications/article71721980.ece",
+    "domain": "thehindubusinessline.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-20T04:30:00Z",
+    "countries": [],
+    "sectors": [
+     "alim",
+     "energia"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "bulk india pact protect reclassification reconsider scotch trade",
+    "type": "arancel",
+    "title": "Reconsider bulk scotch reclassification to protect India – UK trade pact gains : GTRI",
+    "url": "https://www.moneycontrol.com/news/business/reconsider-bulk-scotch-reclassification-to-protect-india-uk-trade-pact-gains-gtri-14085232.html",
+    "domain": "moneycontrol.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-20T04:30:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "acuerdo busca canada estados frenar nuevos para unidos",
@@ -66,6 +128,68 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "progres real reported talks trade trump with",
+    "type": "arancel",
+    "title": "No real progres reported in trade talks with Trump",
+    "url": "https://www.therecord.com/politics/federal/donald-trump-s-midterm-drubbing-hasn-t-sped-up-canada-s-trade-talks-sources-say/article_d3822e6c-f43d-5d80-9cd7-32d0a8047d76.html",
+    "domain": "therecord.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T03:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "bulk customs india kingdom reclassification scotch threatens united",
+    "type": "arancel",
+    "title": "Customs reclassification of bulk Scotch threatens India united kingdom trade pact gains , warns GTRI",
+    "url": "https://www.businesstoday.in/india/story/customs-reclassification-of-bulk-scotch-threatens-india-uk-trade-pact-gains-warns-gtri-568651-2026-11-20",
+    "domain": "businesstoday.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-20T03:45:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "accuses adviser arrogance canada donald tariffs trade trump",
+    "type": "arancel",
+    "title": "Donald Trump tariffs : U . S . trade adviser accuses Canada of arrogance",
+    "url": "https://www.cp24.com/politics/2026/11/20/trump-trade-adviser-hurls-insults-at-federal-government-as-canada-us-trade-talks-heat-up/",
+    "domain": "cp24.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "US",
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "agenda apec back leaders meets shenzhen trade trump",
+    "type": "arancel",
+    "title": "APEC leaders back Shenzhen trade agenda as Xi meets Trump and Putin",
+    "url": "https://macaudailytimes.com.mo/apec-leaders-back-shenzhen-trade-agenda-as-xi-meets-trump-and-putin.html",
+    "domain": "macaudailytimes.com.mo",
+    "lang": "en",
+    "sourceCountry": "Macau",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "adhesion argentina nacion patentes sanciono senado tratado",
@@ -98,6 +222,23 @@
     "severity": "baja"
    },
    {
+    "id": "arrangement china groups pork relief tariff welcome with",
+    "type": "arancel",
+    "title": "Pork groups welcome tariff relief arrangement with China",
+    "url": "https://www.620ckrm.com/2026/11/19/pork-groups-welcome-tariff-relief-arrangement-with-china/",
+    "domain": "620ckrm.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T02:45:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "acuerdo cerrar comercial confia diciembre sheinbaum",
     "type": "arancel",
     "title": "Sheinbaum confía en cerrar acuerdo comercial con EU en diciembre",
@@ -127,6 +268,21 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "auto canada global hurdle news reports talks tariff",
+    "type": "arancel",
+    "title": "Global News Reports Auto Tariff Is Key Hurdle in Canada - U . S . Talks",
+    "url": "https://econotimes.com/Global-News-Reports-Auto-Tariff-Is-Key-Hurdle-in-Canada-U-S-Talks-1779973",
+    "domain": "econotimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-20T02:30:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "2026 container exceeds ningbo port teus throughput zhoushan",
@@ -504,15 +660,14 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/english: fetch failed",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
