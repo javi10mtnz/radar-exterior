@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-20T11:11:45.963Z",
+ "updatedAt": "2026-11-20T12:07:58.096Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "freight from geopolitical october peak plunge rates vlcc",
+    "type": "logistica",
+    "title": "VLCC Freight Rates Plunge 64 % from October Peak as Geopolitical Risk Premium Unwinds | Peak Oil News and Message Boards",
+    "url": "https://peakoil.com/production/vlcc-freight-rates-plunge-64-from-october-peak-as-geopolitical-risk-premium-unwinds",
+    "domain": "peakoil.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-20T06:45:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "banco brasil central dolares frenar millones para vende",
     "type": "divisa",
@@ -15,6 +30,21 @@
     "lang": "es",
     "sourceCountry": "Argentina",
     "at": "2026-11-20T06:45:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "brazil call closed dollar hits markets morning reals",
+    "type": "divisa",
+    "title": "Brazil Markets Closed as Dollar Hits 5 . 93 Reals | Morning Call , Nov 20",
+    "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-november-20-2026/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-20T05:30:00Z",
     "countries": [
      "BR"
     ],
@@ -32,21 +62,6 @@
     "at": "2026-11-20T05:30:00Z",
     "countries": [
      "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "brazil call closed dollar hits markets morning reals",
-    "type": "divisa",
-    "title": "Brazil Markets Closed as Dollar Hits 5 . 93 Reals | Morning Call , Nov 20",
-    "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-friday-november-20-2026/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-20T05:30:00Z",
-    "countries": [
-     "BR"
     ],
     "sectors": [],
     "severity": "baja"
@@ -161,6 +176,36 @@
     "severity": "media"
    },
    {
+    "id": "2026 apec barreras china concluye cumbre eliminar llamado",
+    "type": "regulacion",
+    "title": "APEC 2026 : concluye cumbre en China con llamado a eliminar barreras comerciales y fortalecer el multilateralismo - Entre Líneas",
+    "url": "https://entrelineas.com.mx/apec-2026-concluye-cumbre-en-china-con-llamado-a-eliminar-barreras-comerciales-y-fortalecer-el-multilateralismo/",
+    "domain": "entrelineas.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "adhesion argentina nacion patentes sanciono senado tratado",
+    "type": "regulacion",
+    "title": "El Senado de la Nación sancionó la adhesión de Argentina al Tratado de Patentes",
+    "url": "https://urgente24.com/actualidad/el-senado-la-nacion-sanciono-la-adhesion-argentina-al-tratado-patentes-n637160",
+    "domain": "urgente24.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "AR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "accuses adviser arrogance canada donald tariffs trade trump",
     "type": "arancel",
     "title": "Donald Trump tariffs : U . S . trade adviser accuses Canada of arrogance",
@@ -192,34 +237,20 @@
     "severity": "baja"
    },
    {
-    "id": "adhesion argentina nacion patentes sanciono senado tratado",
-    "type": "arancel",
-    "title": "El Senado de la Nación sancionó la adhesión de Argentina al Tratado de Patentes",
-    "url": "https://urgente24.com/actualidad/el-senado-la-nacion-sanciono-la-adhesion-argentina-al-tratado-patentes-n637160",
-    "domain": "urgente24.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "AR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "2026 apec barreras china concluye cumbre eliminar llamado",
+    "id": "acuerdos china cierra gira negociacion pero resolver sheinbaum",
     "type": "regulacion",
-    "title": "APEC 2026 : concluye cumbre en China con llamado a eliminar barreras comerciales y fortalecer el multilateralismo - Entre Líneas",
-    "url": "https://entrelineas.com.mx/apec-2026-concluye-cumbre-en-china-con-llamado-a-eliminar-barreras-comerciales-y-fortalecer-el-multilateralismo/",
-    "domain": "entrelineas.com.mx",
+    "title": "Sheinbaum cierra gira por China con acuerdos , pero sin resolver negociación arancelaria con Trump",
+    "url": "https://www.proceso.com.mx/nacional/2026/11/19/sheinbaum-cierra-gira-por-china-con-acuerdos-pero-sin-resolver-negociacion-arancelaria-con-trump-384009.html",
+    "domain": "proceso.com.mx",
     "lang": "es",
     "sourceCountry": "Mexico",
-    "at": "2026-11-20T03:30:00Z",
+    "at": "2026-11-20T02:45:00Z",
     "countries": [
+     "US",
      "CN"
     ],
     "sectors": [],
-    "severity": "baja"
+    "severity": "media"
    },
    {
     "id": "arrangement china groups pork relief tariff welcome with",
@@ -254,20 +285,19 @@
     "severity": "baja"
    },
    {
-    "id": "acuerdos china cierra gira negociacion pero resolver sheinbaum",
-    "type": "arancel",
-    "title": "Sheinbaum cierra gira por China con acuerdos , pero sin resolver negociación arancelaria con Trump",
-    "url": "https://www.proceso.com.mx/nacional/2026/11/19/sheinbaum-cierra-gira-por-china-con-acuerdos-pero-sin-resolver-negociacion-arancelaria-con-trump-384009.html",
-    "domain": "proceso.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T02:45:00Z",
-    "countries": [
-     "US",
-     "CN"
+    "id": "2026 container exceeds ningbo port teus throughput zhoushan",
+    "type": "logistica",
+    "title": "Ningbo - Zhoushan Port container throughput for 2026 exceeds 40M TEUs",
+    "url": "http://www.china.org.cn/2026-11/20/content_118782251.shtml",
+    "domain": "china.org.cn",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-20T02:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
     ],
-    "sectors": [],
-    "severity": "media"
+    "severity": "baja"
    },
    {
     "id": "auto canada global hurdle news reports talks tariff",
@@ -285,23 +315,8 @@
     "severity": "baja"
    },
    {
-    "id": "2026 container exceeds ningbo port teus throughput zhoushan",
-    "type": "logistica",
-    "title": "Ningbo - Zhoushan Port container throughput for 2026 exceeds 40M TEUs",
-    "url": "http://www.china.org.cn/2026-11/20/content_118782251.shtml",
-    "domain": "china.org.cn",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-20T02:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "adhesion estados patentes sanciono senado solicitado tratado unidos",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "El Senado sancionó la adhesión al Tratado de Patentes , solicitado por Estados Unidos",
     "url": "https://www.parlamentario.com/2026/11/19/el-senado-sanciono-la-adhesion-al-tratado-de-patentes-solicitado-por-estados-unidos/",
     "domain": "parlamentario.com",
@@ -331,7 +346,7 @@
    },
    {
     "id": "apec comercio comprometer diversificar enfrenta mexico reto",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "México en la APEC enfrenta el reto de diversificar su comercio sin comprometer el T - MEC",
     "url": "https://www.eleconomista.com.mx/internacionales/mexico-apec-enfrenta-reto-diversificar-comercio-comprometer-t-mec-20261119-844841.html",
     "domain": "eleconomista.com.mx",
@@ -660,14 +675,15 @@
    }
   ],
   "partialErrors": [
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
+   "sancion/spanish: fetch failed",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: fetch failed",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: fetch failed"
+   "regulacion/english: fetch failed",
+   "divisa/spanish: fetch failed",
+   "geo/english: fetch failed",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
