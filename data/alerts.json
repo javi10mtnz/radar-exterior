@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T14:58:21.444Z",
+ "updatedAt": "2026-11-21T15:53:27.126Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -37,24 +37,6 @@
     "severity": "baja"
    },
    {
-    "id": "china governance green initiatives shipping singapore unveils with",
-    "type": "regulacion",
-    "title": "Singapore unveils green shipping , AI governance initiatives with China after PM Wong meets Premier Li Qiang",
-    "url": "https://www.businesstimes.com.sg/singapore/singapore-unveils-green-shipping-ai-governance-initiatives-china-after-pm-wong-meets-premier-li",
-    "domain": "businesstimes.com.sg",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-21T11:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "transporte",
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "corruptos cuatro eeuu funcionarios irani regimen sanciona utilizar",
     "type": "sancion",
     "title": "EEUU sanciona a cuatro funcionarios corruptos del régimen iraní por utilizar la venta ilegal de petróleo para financiar al Ejército y el terrorismo",
@@ -71,6 +53,24 @@
      "energia"
     ],
     "severity": "alta"
+   },
+   {
+    "id": "china governance green initiatives shipping singapore unveils with",
+    "type": "regulacion",
+    "title": "Singapore unveils green shipping , AI governance initiatives with China after PM Wong meets Premier Li Qiang",
+    "url": "https://www.businesstimes.com.sg/singapore/singapore-unveils-green-shipping-ai-governance-initiatives-china-after-pm-wong-meets-premier-li",
+    "domain": "businesstimes.com.sg",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-21T11:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "transporte",
+     "tech"
+    ],
+    "severity": "baja"
    },
    {
     "id": "added bessent china exports needed nvidia restrictions",
@@ -965,10 +965,10 @@
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
+   "regulacion/spanish: fetch failed",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
