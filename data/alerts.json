@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T01:13:47.010Z",
+ "updatedAt": "2026-11-21T02:36:09.450Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -151,6 +151,21 @@
     "severity": "media"
    },
    {
+    "id": "freight from geopolitical october peak plunge rates vlcc",
+    "type": "logistica",
+    "title": "VLCC Freight Rates Plunge 64 % from October Peak as Geopolitical Risk Premium Unwinds | Peak Oil News and Message Boards",
+    "url": "https://peakoil.com/production/vlcc-freight-rates-plunge-64-from-october-peak-as-geopolitical-risk-premium-unwinds",
+    "domain": "peakoil.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-20T06:45:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "broader chain chip disruption export from supply warns",
     "type": "sancion",
     "title": "Chip supply chain warns of broader disruption from new US export controls",
@@ -212,21 +227,6 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "freight from geopolitical october peak plunge rates vlcc",
-    "type": "logistica",
-    "title": "VLCC Freight Rates Plunge 64 % from October Peak as Geopolitical Risk Premium Unwinds | Peak Oil News and Message Boards",
-    "url": "https://peakoil.com/production/vlcc-freight-rates-plunge-64-from-october-peak-as-geopolitical-risk-premium-unwinds",
-    "domain": "peakoil.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-20T06:45:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
    },
    {
     "id": "banco brasil central dolares frenar millones para vende",
@@ -304,6 +304,22 @@
     "severity": "baja"
    },
    {
+    "id": "bulk india pact protect reclassification reconsider scotch trade",
+    "type": "regulacion",
+    "title": "Reconsider bulk scotch reclassification to protect India – UK trade pact gains : GTRI",
+    "url": "https://www.moneycontrol.com/news/business/reconsider-bulk-scotch-reclassification-to-protect-india-uk-trade-pact-gains-gtri-14085232.html",
+    "domain": "moneycontrol.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-20T04:30:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "applications dgft import opens quota sugar time window",
     "type": "arancel",
     "title": "DGFT opens one - time window for raw sugar import quota applications",
@@ -318,22 +334,6 @@
      "energia"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "bulk india pact protect reclassification reconsider scotch trade",
-    "type": "arancel",
-    "title": "Reconsider bulk scotch reclassification to protect India – UK trade pact gains : GTRI",
-    "url": "https://www.moneycontrol.com/news/business/reconsider-bulk-scotch-reclassification-to-protect-india-uk-trade-pact-gains-gtri-14085232.html",
-    "domain": "moneycontrol.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-20T04:30:00Z",
-    "countries": [
-     "GB",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "acuerdo busca canada estados frenar nuevos para unidos",
@@ -353,7 +353,7 @@
    },
    {
     "id": "progres real reported talks trade trump with",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "No real progres reported in trade talks with Trump",
     "url": "https://www.therecord.com/politics/federal/donald-trump-s-midterm-drubbing-hasn-t-sped-up-canada-s-trade-talks-sources-say/article_d3822e6c-f43d-5d80-9cd7-32d0a8047d76.html",
     "domain": "therecord.com",
@@ -368,7 +368,7 @@
    },
    {
     "id": "bulk customs india kingdom reclassification scotch threatens united",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "Customs reclassification of bulk Scotch threatens India united kingdom trade pact gains , warns GTRI",
     "url": "https://www.businesstoday.in/india/story/customs-reclassification-of-bulk-scotch-threatens-india-uk-trade-pact-gains-warns-gtri-568651-2026-11-20",
     "domain": "businesstoday.in",
@@ -398,6 +398,37 @@
     "severity": "media"
    },
    {
+    "id": "accuses adviser arrogance canada donald tariffs trade trump",
+    "type": "regulacion",
+    "title": "Donald Trump tariffs : U . S . trade adviser accuses Canada of arrogance",
+    "url": "https://www.cp24.com/politics/2026/11/20/trump-trade-adviser-hurls-insults-at-federal-government-as-canada-us-trade-talks-heat-up/",
+    "domain": "cp24.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "US",
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "agenda apec back leaders meets shenzhen trade trump",
+    "type": "regulacion",
+    "title": "APEC leaders back Shenzhen trade agenda as Xi meets Trump and Putin",
+    "url": "https://macaudailytimes.com.mo/apec-leaders-back-shenzhen-trade-agenda-as-xi-meets-trump-and-putin.html",
+    "domain": "macaudailytimes.com.mo",
+    "lang": "en",
+    "sourceCountry": "Macau",
+    "at": "2026-11-20T03:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "adhesion argentina nacion patentes sanciono senado tratado",
     "type": "arancel",
     "title": "El Senado de la Nación sancionó la adhesión de Argentina al Tratado de Patentes",
@@ -413,22 +444,6 @@
     "severity": "media"
    },
    {
-    "id": "accuses adviser arrogance canada donald tariffs trade trump",
-    "type": "geo",
-    "title": "Donald Trump tariffs : U . S . trade adviser accuses Canada of arrogance",
-    "url": "https://www.cp24.com/politics/2026/11/20/trump-trade-adviser-hurls-insults-at-federal-government-as-canada-us-trade-talks-heat-up/",
-    "domain": "cp24.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "US",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "2026 apec barreras china concluye cumbre eliminar llamado",
     "type": "regulacion",
     "title": "APEC 2026 : concluye cumbre en China con llamado a eliminar barreras comerciales y fortalecer el multilateralismo - Entre Líneas",
@@ -439,21 +454,6 @@
     "at": "2026-11-20T03:30:00Z",
     "countries": [
      "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "agenda apec back leaders meets shenzhen trade trump",
-    "type": "regulacion",
-    "title": "APEC leaders back Shenzhen trade agenda as Xi meets Trump and Putin",
-    "url": "https://macaudailytimes.com.mo/apec-leaders-back-shenzhen-trade-agenda-as-xi-meets-trump-and-putin.html",
-    "domain": "macaudailytimes.com.mo",
-    "lang": "en",
-    "sourceCountry": "Macau",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -897,12 +897,15 @@
    }
   ],
   "partialErrors": [
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
+   "sancion/spanish: fetch failed",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: fetch failed",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
