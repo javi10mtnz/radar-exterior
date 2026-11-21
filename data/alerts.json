@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T14:06:14.461Z",
+ "updatedAt": "2026-11-21T14:58:21.444Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -17,6 +17,21 @@
     "at": "2026-11-21T13:30:00Z",
     "countries": [
      "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "brasil como devaluacion para post precios quedaron vacaciones",
+    "type": "divisa",
+    "title": "Vacaciones en Brasil post devaluación : cómo quedaron los precios para comer , pasar el día en la playa e ir al súper",
+    "url": "https://www.clarin.com/sociedad/vacaciones-brasil-post-devaluacion-quedaron-precios-comer-pasar-dia-playa-ir-super_0_sA5rQACnF5.html",
+    "domain": "clarin.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-21T12:30:00Z",
+    "countries": [
+     "BR"
     ],
     "sectors": [],
     "severity": "baja"
@@ -58,22 +73,6 @@
     "severity": "alta"
    },
    {
-    "id": "canada canada emboldened feeling says trade trump",
-    "type": "geo",
-    "title": "Canada - U . S . trade : Trump says Canada feeling emboldened",
-    "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
-    "domain": "bnnbloomberg.ca",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-21T00:30:00Z",
-    "countries": [
-     "US",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "added bessent china exports needed nvidia restrictions",
     "type": "sancion",
     "title": "Bessent : No added restrictions needed for Nvidia exports to China",
@@ -106,14 +105,14 @@
     "severity": "baja"
    },
    {
-    "id": "canada emboldened fair feeling says seeking trade trump",
+    "id": "canada canada emboldened feeling says trade trump",
     "type": "geo",
-    "title": "Trump says Canada feeling emboldened but he seeking a fair trade deal",
-    "url": "https://www.thepeterboroughexaminer.com/news/canada/trump-says-canada-feeling-emboldened-but-he-s-seeking-a-fair-trade-deal/article_9e604c90-1076-534f-837b-3ba01cfaa1fe.html",
-    "domain": "thepeterboroughexaminer.com",
+    "title": "Canada - U . S . trade : Trump says Canada feeling emboldened",
+    "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
+    "domain": "bnnbloomberg.ca",
     "lang": "en",
     "sourceCountry": "Canada",
-    "at": "2026-11-20T21:45:00Z",
+    "at": "2026-11-21T00:30:00Z",
     "countries": [
      "US",
      "CA"
@@ -123,7 +122,7 @@
    },
    {
     "id": "compliance iran malaysia presses sanctions singapore treasury",
-    "type": "geo",
+    "type": "sancion",
     "title": "US Treasury Presses Singapore and Malaysia on Iran Sanctions Compliance",
     "url": "https://gcaptain.com/us-treasury-presses-singapore-and-malaysia-on-iran-sanctions-compliance/",
     "domain": "gcaptain.com",
@@ -139,7 +138,7 @@
    },
    {
     "id": "accused iranian pocketing regime revenue sanctions treasury trustees",
-    "type": "geo",
+    "type": "sancion",
     "title": "Treasury Sanctions Iranian Oil Trustees Accused of Pocketing Regime Oil Revenue",
     "url": "https://newsroomamerica.com/a/2tJ7zSKi5bhmF5JLwd8lQDaRGlX/treasury_targets_iranian_oil_trustees_under_operation_economic_outcast_saying_the_regime_s_seaborne_oil_supply_is_exhausted_and_insiders_have_kept_oil_revenue_for_personal_gain.html",
     "domain": "newsroomamerica.com",
@@ -148,6 +147,22 @@
     "at": "2026-11-20T21:45:00Z",
     "countries": [
      "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "canada emboldened fair feeling says seeking trade trump",
+    "type": "geo",
+    "title": "Trump says Canada feeling emboldened but he seeking a fair trade deal",
+    "url": "https://www.thepeterboroughexaminer.com/news/canada/trump-says-canada-feeling-emboldened-but-he-s-seeking-a-fair-trade-deal/article_9e604c90-1076-534f-837b-3ba01cfaa1fe.html",
+    "domain": "thepeterboroughexaminer.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-20T21:45:00Z",
+    "countries": [
+     "US",
+     "CA"
     ],
     "sectors": [],
     "severity": "media"
@@ -948,15 +963,13 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
