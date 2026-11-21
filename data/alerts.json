@@ -1,11 +1,44 @@
 {
- "updatedAt": "2026-11-21T13:01:19.943Z",
+ "updatedAt": "2026-11-21T14:06:14.461Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "explores export free india kerala opportunities trade under",
+    "type": "regulacion",
+    "title": "KERALA EXPLORES EXPORT OPPORTUNITIES UNDER INDIA FREE TRADE AGREEMENTS - India Education | Latest Education News | Global Educational News",
+    "url": "https://indiaeducationdiary.in/kerala-explores-export-opportunities-under-indias-free-trade-agreements/",
+    "domain": "indiaeducationdiary.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-21T13:30:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china governance green initiatives shipping singapore unveils with",
+    "type": "regulacion",
+    "title": "Singapore unveils green shipping , AI governance initiatives with China after PM Wong meets Premier Li Qiang",
+    "url": "https://www.businesstimes.com.sg/singapore/singapore-unveils-green-shipping-ai-governance-initiatives-china-after-pm-wong-meets-premier-li",
+    "domain": "businesstimes.com.sg",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-21T11:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "transporte",
+     "tech"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "corruptos cuatro eeuu funcionarios irani regimen sanciona utilizar",
     "type": "sancion",
@@ -25,22 +58,20 @@
     "severity": "alta"
    },
    {
-    "id": "china governance green initiatives shipping singapore unveils with",
-    "type": "regulacion",
-    "title": "Singapore unveils green shipping , AI governance initiatives with China after PM Wong meets Premier Li Qiang",
-    "url": "https://www.businesstimes.com.sg/singapore/singapore-unveils-green-shipping-ai-governance-initiatives-china-after-pm-wong-meets-premier-li",
-    "domain": "businesstimes.com.sg",
+    "id": "canada canada emboldened feeling says trade trump",
+    "type": "geo",
+    "title": "Canada - U . S . trade : Trump says Canada feeling emboldened",
+    "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
+    "domain": "bnnbloomberg.ca",
     "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-21T11:30:00Z",
+    "sourceCountry": "Canada",
+    "at": "2026-11-21T00:30:00Z",
     "countries": [
-     "CN"
+     "US",
+     "CA"
     ],
-    "sectors": [
-     "transporte",
-     "tech"
-    ],
-    "severity": "baja"
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "added bessent china exports needed nvidia restrictions",
@@ -75,17 +106,48 @@
     "severity": "baja"
    },
    {
-    "id": "canada canada emboldened feeling says trade trump",
-    "type": "arancel",
-    "title": "Canada - U . S . trade : Trump says Canada feeling emboldened",
-    "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
-    "domain": "bnnbloomberg.ca",
+    "id": "canada emboldened fair feeling says seeking trade trump",
+    "type": "geo",
+    "title": "Trump says Canada feeling emboldened but he seeking a fair trade deal",
+    "url": "https://www.thepeterboroughexaminer.com/news/canada/trump-says-canada-feeling-emboldened-but-he-s-seeking-a-fair-trade-deal/article_9e604c90-1076-534f-837b-3ba01cfaa1fe.html",
+    "domain": "thepeterboroughexaminer.com",
     "lang": "en",
     "sourceCountry": "Canada",
-    "at": "2026-11-21T00:30:00Z",
+    "at": "2026-11-20T21:45:00Z",
     "countries": [
      "US",
      "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "compliance iran malaysia presses sanctions singapore treasury",
+    "type": "geo",
+    "title": "US Treasury Presses Singapore and Malaysia on Iran Sanctions Compliance",
+    "url": "https://gcaptain.com/us-treasury-presses-singapore-and-malaysia-on-iran-sanctions-compliance/",
+    "domain": "gcaptain.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-20T21:45:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "accused iranian pocketing regime revenue sanctions treasury trustees",
+    "type": "geo",
+    "title": "Treasury Sanctions Iranian Oil Trustees Accused of Pocketing Regime Oil Revenue",
+    "url": "https://newsroomamerica.com/a/2tJ7zSKi5bhmF5JLwd8lQDaRGlX/treasury_targets_iranian_oil_trustees_under_operation_economic_outcast_saying_the_regime_s_seaborne_oil_supply_is_exhausted_and_insiders_have_kept_oil_revenue_for_personal_gain.html",
+    "domain": "newsroomamerica.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-20T21:45:00Z",
+    "countries": [
+     "IR"
     ],
     "sectors": [],
     "severity": "media"
@@ -120,53 +182,6 @@
      "US",
      "MX",
      "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "compliance iran malaysia presses sanctions singapore treasury",
-    "type": "sancion",
-    "title": "US Treasury Presses Singapore and Malaysia on Iran Sanctions Compliance",
-    "url": "https://gcaptain.com/us-treasury-presses-singapore-and-malaysia-on-iran-sanctions-compliance/",
-    "domain": "gcaptain.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-20T21:45:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
-    "id": "accused iranian pocketing regime revenue sanctions treasury trustees",
-    "type": "sancion",
-    "title": "Treasury Sanctions Iranian Oil Trustees Accused of Pocketing Regime Oil Revenue",
-    "url": "https://newsroomamerica.com/a/2tJ7zSKi5bhmF5JLwd8lQDaRGlX/treasury_targets_iranian_oil_trustees_under_operation_economic_outcast_saying_the_regime_s_seaborne_oil_supply_is_exhausted_and_insiders_have_kept_oil_revenue_for_personal_gain.html",
-    "domain": "newsroomamerica.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-20T21:45:00Z",
-    "countries": [
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "canada emboldened fair feeling says seeking trade trump",
-    "type": "arancel",
-    "title": "Trump says Canada feeling emboldened but he seeking a fair trade deal",
-    "url": "https://www.thepeterboroughexaminer.com/news/canada/trump-says-canada-feeling-emboldened-but-he-s-seeking-a-fair-trade-deal/article_9e604c90-1076-534f-837b-3ba01cfaa1fe.html",
-    "domain": "thepeterboroughexaminer.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T21:45:00Z",
-    "countries": [
-     "US",
-     "CA"
     ],
     "sectors": [],
     "severity": "media"
@@ -933,15 +948,15 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
+   "sancion/spanish: fetch failed",
+   "logistica/english: fetch failed",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
