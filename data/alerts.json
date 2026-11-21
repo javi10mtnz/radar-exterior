@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T04:38:14.061Z",
+ "updatedAt": "2026-11-21T05:37:54.292Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -53,6 +53,40 @@
      "tech"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "acuerdo cerca comercial esta mexico trump",
+    "type": "arancel",
+    "title": "EU está cerca de acuerdo comercial con México : Trump",
+    "url": "https://www.notisistema.com/noticias/eu-esta-cerca-de-acuerdo-comercial-con-mexico-trump/",
+    "domain": "notisistema.com",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-20T21:45:00Z",
+    "countries": [
+     "US",
+     "MX",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "acuerdo cerca comercial donald estan mexico trump",
+    "type": "arancel",
+    "title": "Donald Trump : EU y México están cerca de un acuerdo comercial",
+    "url": "https://www.razon.com.mx:443/mexico/2026/11/20/donald-trump-eu-y-mexico-estan-cerca-de-un-acuerdo-comercial/",
+    "domain": "razon.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-20T21:45:00Z",
+    "countries": [
+     "US",
+     "MX",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "canada emboldened fair feeling says seeking trade trump",
@@ -115,40 +149,6 @@
      "transporte"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "acuerdo cerca comercial esta mexico trump",
-    "type": "arancel",
-    "title": "EU está cerca de acuerdo comercial con México : Trump",
-    "url": "https://www.notisistema.com/noticias/eu-esta-cerca-de-acuerdo-comercial-con-mexico-trump/",
-    "domain": "notisistema.com",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T21:45:00Z",
-    "countries": [
-     "US",
-     "MX",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "acuerdo cerca comercial donald estan mexico trump",
-    "type": "arancel",
-    "title": "Donald Trump : EU y México están cerca de un acuerdo comercial",
-    "url": "https://www.razon.com.mx:443/mexico/2026/11/20/donald-trump-eu-y-mexico-estan-cerca-de-un-acuerdo-comercial/",
-    "domain": "razon.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T21:45:00Z",
-    "countries": [
-     "US",
-     "MX",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "banco brasil central dolares frenar millones para vende",
@@ -898,11 +898,10 @@
   ],
   "partialErrors": [
    "arancel/english: fetch failed",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: fetch failed",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
