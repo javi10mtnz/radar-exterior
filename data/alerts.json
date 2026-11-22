@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T02:19:29.424Z",
+ "updatedAt": "2026-11-22T03:30:55.733Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -37,6 +37,21 @@
     "severity": "baja"
    },
    {
+    "id": "brasil como devaluacion para post precios quedaron vacaciones",
+    "type": "divisa",
+    "title": "Vacaciones en Brasil post devaluación : cómo quedaron los precios para comer , pasar el día en la playa e ir al súper",
+    "url": "https://www.contextotucuman.com/nota/429033/vacaciones-en-brasil-post-devaluacion-como-quedaron-los-precios-para-comer-pasar-el-dia-en-la-playa-e-ir-al-super.html",
+    "domain": "contextotucuman.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-21T16:30:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "balances economic india needs panel says security with",
     "type": "sancion",
     "title": "US panel says India balances security with economic needs amid Chinese pressure , flags supply - chain trade - offs",
@@ -52,21 +67,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "brasil como devaluacion para post precios quedaron vacaciones",
-    "type": "divisa",
-    "title": "Vacaciones en Brasil post devaluación : cómo quedaron los precios para comer , pasar el día en la playa e ir al súper",
-    "url": "https://www.contextotucuman.com/nota/429033/vacaciones-en-brasil-post-devaluacion-como-quedaron-los-precios-para-comer-pasar-el-dia-en-la-playa-e-ir-al-super.html",
-    "domain": "contextotucuman.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-21T16:30:00Z",
-    "countries": [
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "explores export free india kerala opportunities trade under",
@@ -966,13 +966,14 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: fetch failed",
+   "geo/spanish: fetch failed"
   ]
  }
 }
