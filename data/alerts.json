@@ -1,11 +1,58 @@
 {
- "updatedAt": "2026-11-22T13:00:18.586Z",
+ "updatedAt": "2026-11-22T14:05:01.944Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "december india likely pact signed trade",
+    "type": "arancel",
+    "title": "India - EU trade pact likely to be signed on December 16",
+    "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
+    "domain": "thehindu.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-22T12:30:00Z",
+    "countries": [
+     "IN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "awaited deal free india likely long sign trade",
+    "type": "arancel",
+    "title": "India , EU likely to sign long - awaited free trade deal on December 16",
+    "url": "https://www.moneycontrol.com/news/economy/policy/india-eu-likely-to-sign-long-awaited-free-trade-deal-on-december-16-14086591.html",
+    "domain": "moneycontrol.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-22T12:30:00Z",
+    "countries": [
+     "IN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "ahead aluminium budget duty fy28 makers product seek",
+    "type": "arancel",
+    "title": "Ahead of FY28 budget , aluminium product makers seek duty - free imports for primary metal",
+    "url": "https://www.dailyexcelsior.com/ahead-of-fy28-budget-aluminium-product-makers-seek-duty-free-imports-for-primary-metal/",
+    "domain": "dailyexcelsior.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-22T07:30:00Z",
+    "countries": [],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "baltic cargo drones finland russian security ship tightens",
     "type": "sancion",
@@ -37,21 +84,6 @@
     "severity": "baja"
    },
    {
-    "id": "brasil como devaluacion para post precios quedaron vacaciones",
-    "type": "divisa",
-    "title": "Vacaciones en Brasil post devaluación : cómo quedaron los precios para comer , pasar el día en la playa e ir al súper",
-    "url": "https://www.contextotucuman.com/nota/429033/vacaciones-en-brasil-post-devaluacion-como-quedaron-los-precios-para-comer-pasar-el-dia-en-la-playa-e-ir-al-super.html",
-    "domain": "contextotucuman.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-21T16:30:00Z",
-    "countries": [
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "balances economic india needs panel says security with",
     "type": "arancel",
     "title": "US panel says India balances security with economic needs amid Chinese pressure , flags supply - chain trade - offs",
@@ -67,6 +99,21 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "brasil como devaluacion para post precios quedaron vacaciones",
+    "type": "divisa",
+    "title": "Vacaciones en Brasil post devaluación : cómo quedaron los precios para comer , pasar el día en la playa e ir al súper",
+    "url": "https://www.contextotucuman.com/nota/429033/vacaciones-en-brasil-post-devaluacion-como-quedaron-los-precios-para-comer-pasar-el-dia-en-la-playa-e-ir-al-super.html",
+    "domain": "contextotucuman.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-21T16:30:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "explores export free india kerala opportunities trade under",
@@ -933,12 +980,15 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: fetch failed",
    "sancion/spanish: fetch failed",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: fetch failed"
   ]
