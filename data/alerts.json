@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-22T01:11:45.018Z",
+ "updatedAt": "2026-11-22T02:19:29.424Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "baltic cargo drones finland russian security ship tightens",
+    "type": "sancion",
+    "title": "Drones hit Russian cargo ship in Baltic , Finland tightens security",
+    "url": "https://timesofindia.indiatimes.com/world/europe/drones-hit-russian-cargo-ship-in-baltic-finland-tightens-security/articleshow/136065032.cms",
+    "domain": "timesofindia.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-22T00:30:00Z",
+    "countries": [
+     "RU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "bound cargo drones finland kaliningrad near russian ship",
     "type": "sancion",
@@ -23,7 +38,7 @@
    },
    {
     "id": "balances economic india needs panel says security with",
-    "type": "arancel",
+    "type": "sancion",
     "title": "US panel says India balances security with economic needs amid Chinese pressure , flags supply - chain trade - offs",
     "url": "http://www.africaleader.com/news/279446850/us-panel-says-india-balances-security-with-economic-needs-amid-chinese-pressure-flags-supply-chain-trade-offs",
     "domain": "africaleader.com",
@@ -950,14 +965,14 @@
    }
   ],
   "partialErrors": [
-   "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: fetch failed"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
