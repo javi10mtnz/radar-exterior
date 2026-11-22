@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-22T20:52:35.925Z",
+ "updatedAt": "2026-11-22T21:50:40.221Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "bisleri fssai indian prosecution safe sanctions this water",
+    "type": "sancion",
+    "title": "Bisleri Water NOT Safe , FSSAI Sanctions Prosecution ; This Indian State Already Using Bamboo Bottles",
+    "url": "https://www.oneindia.com/india/bisleri-water-not-safe-fssai-sanctions-prosecution-this-indian-state-already-using-bamboo-bottles-8267253.html",
+    "domain": "oneindia.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-22T20:30:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "behind boom companies exports india leaves services software",
     "type": "divisa",
@@ -37,38 +52,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "december india likely pact signed trade",
-    "type": "arancel",
-    "title": "India - EU trade pact likely to be signed on December 16",
-    "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
-    "domain": "thehindu.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-22T12:30:00Z",
-    "countries": [
-     "IN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "awaited deal free india likely long sign trade",
-    "type": "arancel",
-    "title": "India , EU likely to sign long - awaited free trade deal on December 16",
-    "url": "https://www.moneycontrol.com/news/economy/policy/india-eu-likely-to-sign-long-awaited-free-trade-deal-on-december-16-14086591.html",
-    "domain": "moneycontrol.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-22T12:30:00Z",
-    "countries": [
-     "IN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "after burning cargo drone russian ship still strike",
@@ -136,19 +119,36 @@
     "severity": "media"
    },
    {
-    "id": "ahead aluminium budget duty fy28 makers product seek",
-    "type": "arancel",
-    "title": "Ahead of FY28 budget , aluminium product makers seek duty - free imports for primary metal",
-    "url": "https://www.dailyexcelsior.com/ahead-of-fy28-budget-aluminium-product-makers-seek-duty-free-imports-for-primary-metal/",
-    "domain": "dailyexcelsior.com",
+    "id": "december india likely pact signed trade",
+    "type": "regulacion",
+    "title": "India - EU trade pact likely to be signed on December 16",
+    "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
+    "domain": "thehindu.com",
     "lang": "en",
     "sourceCountry": "India",
-    "at": "2026-11-22T07:30:00Z",
-    "countries": [],
-    "sectors": [
-     "industria"
+    "at": "2026-11-22T12:30:00Z",
+    "countries": [
+     "IN",
+     "EU"
     ],
-    "severity": "baja"
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "awaited deal free india likely long sign trade",
+    "type": "regulacion",
+    "title": "India , EU likely to sign long - awaited free trade deal on December 16",
+    "url": "https://www.moneycontrol.com/news/economy/policy/india-eu-likely-to-sign-long-awaited-free-trade-deal-on-december-16-14086591.html",
+    "domain": "moneycontrol.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-22T12:30:00Z",
+    "countries": [
+     "IN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "across asean exports india japan make soar surges",
@@ -166,6 +166,21 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "ahead aluminium budget duty fy28 makers product seek",
+    "type": "regulacion",
+    "title": "Ahead of FY28 budget , aluminium product makers seek duty - free imports for primary metal",
+    "url": "https://www.dailyexcelsior.com/ahead-of-fy28-budget-aluminium-product-makers-seek-duty-free-imports-for-primary-metal/",
+    "domain": "dailyexcelsior.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-22T07:30:00Z",
+    "countries": [],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
    },
    {
     "id": "baltic cargo drones finland russian security ship tightens",
@@ -1094,13 +1109,13 @@
    }
   ],
   "partialErrors": [
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
