@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T03:30:55.733Z",
+ "updatedAt": "2026-11-22T04:40:52.823Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -37,23 +37,8 @@
     "severity": "baja"
    },
    {
-    "id": "brasil como devaluacion para post precios quedaron vacaciones",
-    "type": "divisa",
-    "title": "Vacaciones en Brasil post devaluación : cómo quedaron los precios para comer , pasar el día en la playa e ir al súper",
-    "url": "https://www.contextotucuman.com/nota/429033/vacaciones-en-brasil-post-devaluacion-como-quedaron-los-precios-para-comer-pasar-el-dia-en-la-playa-e-ir-al-super.html",
-    "domain": "contextotucuman.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-21T16:30:00Z",
-    "countries": [
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "balances economic india needs panel says security with",
-    "type": "sancion",
+    "type": "regulacion",
     "title": "US panel says India balances security with economic needs amid Chinese pressure , flags supply - chain trade - offs",
     "url": "http://www.africaleader.com/news/279446850/us-panel-says-india-balances-security-with-economic-needs-amid-chinese-pressure-flags-supply-chain-trade-offs",
     "domain": "africaleader.com",
@@ -69,8 +54,23 @@
     "severity": "media"
    },
    {
+    "id": "brasil como devaluacion para post precios quedaron vacaciones",
+    "type": "divisa",
+    "title": "Vacaciones en Brasil post devaluación : cómo quedaron los precios para comer , pasar el día en la playa e ir al súper",
+    "url": "https://www.contextotucuman.com/nota/429033/vacaciones-en-brasil-post-devaluacion-como-quedaron-los-precios-para-comer-pasar-el-dia-en-la-playa-e-ir-al-super.html",
+    "domain": "contextotucuman.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-21T16:30:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "explores export free india kerala opportunities trade under",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "KERALA EXPLORES EXPORT OPPORTUNITIES UNDER INDIA FREE TRADE AGREEMENTS - India Education | Latest Education News | Global Educational News",
     "url": "https://indiaeducationdiary.in/kerala-explores-export-opportunities-under-indias-free-trade-agreements/",
     "domain": "indiaeducationdiary.in",
@@ -81,6 +81,24 @@
      "IN"
     ],
     "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china governance green initiatives shipping singapore unveils with",
+    "type": "regulacion",
+    "title": "Singapore unveils green shipping , AI governance initiatives with China after PM Wong meets Premier Li Qiang",
+    "url": "https://www.businesstimes.com.sg/singapore/singapore-unveils-green-shipping-ai-governance-initiatives-china-after-pm-wong-meets-premier-li",
+    "domain": "businesstimes.com.sg",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-21T11:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "transporte",
+     "tech"
+    ],
     "severity": "baja"
    },
    {
@@ -100,24 +118,6 @@
      "energia"
     ],
     "severity": "alta"
-   },
-   {
-    "id": "china governance green initiatives shipping singapore unveils with",
-    "type": "regulacion",
-    "title": "Singapore unveils green shipping , AI governance initiatives with China after PM Wong meets Premier Li Qiang",
-    "url": "https://www.businesstimes.com.sg/singapore/singapore-unveils-green-shipping-ai-governance-initiatives-china-after-pm-wong-meets-premier-li",
-    "domain": "businesstimes.com.sg",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-21T11:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "transporte",
-     "tech"
-    ],
-    "severity": "baja"
    },
    {
     "id": "added bessent china exports needed nvidia restrictions",
@@ -968,10 +968,9 @@
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: fetch failed",
    "geo/spanish: fetch failed"
   ]
