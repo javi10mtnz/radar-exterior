@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T05:39:40.450Z",
+ "updatedAt": "2026-11-22T06:38:15.102Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -84,24 +84,6 @@
     "severity": "baja"
    },
    {
-    "id": "corruptos cuatro eeuu funcionarios irani regimen sanciona utilizar",
-    "type": "sancion",
-    "title": "EEUU sanciona a cuatro funcionarios corruptos del régimen iraní por utilizar la venta ilegal de petróleo para financiar al Ejército y el terrorismo",
-    "url": "https://www.vozpopuli.com/internacional/eeuu-sanciona-a-cuatro-funcionarios-corruptos-del-regimen-irani-por-utilizar-la-venta-ilegal-de-petroleo-para-financiar-al-ejercito-y-el-terrorismo.html",
-    "domain": "vozpopuli.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-21T11:30:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "severity": "alta"
-   },
-   {
     "id": "china governance green initiatives shipping singapore unveils with",
     "type": "regulacion",
     "title": "Singapore unveils green shipping , AI governance initiatives with China after PM Wong meets Premier Li Qiang",
@@ -118,6 +100,24 @@
      "tech"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "corruptos cuatro eeuu funcionarios irani regimen sanciona utilizar",
+    "type": "sancion",
+    "title": "EEUU sanciona a cuatro funcionarios corruptos del régimen iraní por utilizar la venta ilegal de petróleo para financiar al Ejército y el terrorismo",
+    "url": "https://www.vozpopuli.com/internacional/eeuu-sanciona-a-cuatro-funcionarios-corruptos-del-regimen-irani-por-utilizar-la-venta-ilegal-de-petroleo-para-financiar-al-ejercito-y-el-terrorismo.html",
+    "domain": "vozpopuli.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-21T11:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "alta"
    },
    {
     "id": "added bessent china exports needed nvidia restrictions",
@@ -965,13 +965,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
