@@ -1,11 +1,27 @@
 {
- "updatedAt": "2026-11-23T16:14:58.644Z",
+ "updatedAt": "2026-11-23T17:37:43.929Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "canada chief faults progress sees talks trade trade",
+    "type": "regulacion",
+    "title": "U . S . trade chief sees progress in trade talks but faults Canada for Beijing - friendly moves",
+    "url": "https://www.cinaradio.com/2026/11/22/u-s-trade-chief-sees-progress-in-trade-talks-but-faults-canada-for-beijing-friendly-moves/",
+    "domain": "cinaradio.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-23T03:30:00Z",
+    "countries": [
+     "CN",
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "faces from growth india squeeze story story twin",
     "type": "divisa",
@@ -35,22 +51,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "canada chief faults progress sees talks trade trade",
-    "type": "regulacion",
-    "title": "U . S . trade chief sees progress in trade talks but faults Canada for Beijing - friendly moves",
-    "url": "https://www.cinaradio.com/2026/11/22/u-s-trade-chief-sees-progress-in-trade-talks-but-faults-canada-for-beijing-friendly-moves/",
-    "domain": "cinaradio.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-23T03:30:00Z",
-    "countries": [
-     "CN",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "leaving less lower margins market refining room tanker",
@@ -1105,14 +1105,17 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: fetch failed",
+   "arancel/english: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: fetch failed",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/spanish: fetch failed"
   ]
  }
 }
