@@ -1,34 +1,34 @@
 {
  "fx": {
   "ok": true,
-  "updatedAt": "2026-11-23T22:55:32.485Z",
-  "ms": 514
+  "updatedAt": "2026-11-23T23:52:52.095Z",
+  "ms": 471
  },
  "chokepoints": {
   "ok": true,
-  "updatedAt": "2026-11-23T22:55:55.977Z",
-  "ms": 23491
+  "updatedAt": "2026-11-23T23:53:17.370Z",
+  "ms": 25275
  },
  "electricity": {
   "ok": true,
-  "updatedAt": "2026-11-23T22:55:57.522Z",
-  "ms": 1545
+  "updatedAt": "2026-11-23T23:53:18.414Z",
+  "ms": 1043
  },
  "alerts": {
   "ok": true,
-  "updatedAt": "2026-11-23T23:01:31.061Z",
-  "ms": 333539,
-  "warnings": 10
+  "updatedAt": "2026-11-23T23:59:23.938Z",
+  "ms": 365525,
+  "warnings": 11
  },
  "tenders": {
   "ok": true,
-  "updatedAt": "2026-11-23T23:01:39.946Z",
-  "ms": 8885
+  "updatedAt": "2026-11-23T23:59:32.013Z",
+  "ms": 8075
  },
  "commodities": {
   "ok": false,
   "skipped": true,
   "error": "SKIP: falta FRED_API_KEY (opcional)",
-  "failedAt": "2026-11-23T23:01:39.948Z"
+  "failedAt": "2026-11-23T23:59:32.014Z"
  }
 }
