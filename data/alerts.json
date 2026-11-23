@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-23T06:13:57.247Z",
+ "updatedAt": "2026-11-23T08:12:14.345Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "champions diamond fairer india rules trade",
+    "type": "sancion",
+    "title": "India champions Diamond Trade and fairer rules at UN",
+    "url": "https://newsindiatimes.com/india-champions-diamond-trade-and-fairer-rules-at-un/",
+    "domain": "newsindiatimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-23T03:30:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "faces from growth india squeeze story story twin",
     "type": "divisa",
@@ -131,54 +146,6 @@
     "severity": "baja"
    },
    {
-    "id": "brussels free india likely pact signed trade",
-    "type": "regulacion",
-    "title": "India - EU free trade pact likely to be signed on Dec 16 in Brussels",
-    "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-eu-free-trade-pact-likely-to-be-signed-on-dec-16-in-brussels-126112200436_1.html",
-    "domain": "business-standard.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-22T12:30:00Z",
-    "countries": [
-     "IN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "december india likely pact signed trade",
-    "type": "regulacion",
-    "title": "India - EU trade pact likely to be signed on December 16",
-    "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
-    "domain": "thehindu.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-22T12:30:00Z",
-    "countries": [
-     "IN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "awaited deal free india likely long sign trade",
-    "type": "regulacion",
-    "title": "India , EU likely to sign long - awaited free trade deal on December 16",
-    "url": "https://www.moneycontrol.com/news/economy/policy/india-eu-likely-to-sign-long-awaited-free-trade-deal-on-december-16-14086591.html",
-    "domain": "moneycontrol.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-22T12:30:00Z",
-    "countries": [
-     "IN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "after burning cargo drone russian ship still strike",
     "type": "sancion",
     "title": "Russian cargo ship still burning after drone strike off Finland",
@@ -226,6 +193,54 @@
      "tech"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "brussels free india likely pact signed trade",
+    "type": "regulacion",
+    "title": "India - EU free trade pact likely to be signed on Dec 16 in Brussels",
+    "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-eu-free-trade-pact-likely-to-be-signed-on-dec-16-in-brussels-126112200436_1.html",
+    "domain": "business-standard.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-22T12:30:00Z",
+    "countries": [
+     "IN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "december india likely pact signed trade",
+    "type": "regulacion",
+    "title": "India - EU trade pact likely to be signed on December 16",
+    "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
+    "domain": "thehindu.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-22T12:30:00Z",
+    "countries": [
+     "IN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "awaited deal free india likely long sign trade",
+    "type": "regulacion",
+    "title": "India , EU likely to sign long - awaited free trade deal on December 16",
+    "url": "https://www.moneycontrol.com/news/economy/policy/india-eu-likely-to-sign-long-awaited-free-trade-deal-on-december-16-14086591.html",
+    "domain": "moneycontrol.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-22T12:30:00Z",
+    "countries": [
+     "IN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "across asean exports india japan make soar surges",
@@ -1187,14 +1202,13 @@
   ],
   "partialErrors": [
    "arancel/english: fetch failed",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: fetch failed",
+   "divisa/english: fetch failed",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
