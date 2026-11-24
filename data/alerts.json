@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T16:19:57.086Z",
+ "updatedAt": "2026-11-24T17:35:12.426Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -64,6 +64,21 @@
     "countries": [],
     "sectors": [
      "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "bets climbs dollar euphoria fuels hike renewed",
+    "type": "divisa",
+    "title": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
+    "url": "https://www.emirates247.com/business/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets/8091",
+    "domain": "emirates247.com",
+    "lang": "en",
+    "sourceCountry": "United Arab Emirates",
+    "at": "2026-11-24T07:15:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
     ],
     "severity": "baja"
    },
@@ -208,6 +223,36 @@
     "at": "2026-11-24T04:45:00Z",
     "countries": [
      "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "chile chile firms market peso report rise stocks",
+    "type": "divisa",
+    "title": "Chile Stocks Rise 0 . 96 % as Peso Firms | Chile Market Report , Nov 23",
+    "url": "https://www.riotimesonline.com/chile-markets-ipsa-peso-monday-november-23-2026/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-24T04:45:00Z",
+    "countries": [
+     "CL"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "colombia colombian dollar market peso report slips tops",
+    "type": "divisa",
+    "title": "Colombian Peso Slips as Dollar Tops 3 , 500 | Colombia Market Report …",
+    "url": "https://www.riotimesonline.com/colombia-markets-colcap-peso-monday-november-23-2026/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-24T04:45:00Z",
+    "countries": [
+     "CO"
     ],
     "sectors": [],
     "severity": "baja"
@@ -1596,16 +1641,15 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
    "sancion/english: fetch failed",
    "sancion/spanish: fetch failed",
    "logistica/english: fetch failed",
-   "regulacion/english: fetch failed",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
+   "regulacion/spanish: fetch failed",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/spanish: fetch failed"
   ]
  }
 }
