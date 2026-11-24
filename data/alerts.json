@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-24T14:02:38.082Z",
+ "updatedAt": "2026-11-24T15:09:24.783Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "linked megaspeed nvidia probe singapore",
+    "type": "sancion",
+    "title": "Singapore probe and US ban for Nvidia - linked Megaspeed",
+    "url": "https://www.queanbeyanage.com.au/story/9397608/singapore-probe-and-us-ban-for-nvidia-linked-megaspeed/",
+    "domain": "queanbeyanage.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-24T07:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "estados financieras iran redes sanciona unidos vinculadas",
     "type": "sancion",
@@ -53,6 +68,38 @@
     "severity": "baja"
    },
    {
+    "id": "financial global imposes iran networks sanctions targeting",
+    "type": "sancion",
+    "title": "US imposes new sanctions targeting Iran global financial networks",
+    "url": "https://news.az/news/us-imposes-new-sanctions-targeting-iran-s-global-financial-networks",
+    "domain": "news.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-24T06:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "22nd against commission european proposes round russia sanctions",
+    "type": "sancion",
+    "title": "European Commission proposes 22nd round of sanctions against Russia _ Guangming Online",
+    "url": "https://en.gmw.cn/2026-11/24/content_39117321.htm",
+    "domain": "en.gmw.cn",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-24T06:30:00Z",
+    "countries": [
+     "RU",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
     "id": "2027 assures electricity increase minister nigeria power tariff",
     "type": "arancel",
     "title": "Nigeria : No Electricity Tariff Increase in 2027 - Power Minister Assures Nigerians",
@@ -85,22 +132,6 @@
     "severity": "baja"
    },
    {
-    "id": "financial global imposes iran networks sanctions targeting",
-    "type": "sancion",
-    "title": "US imposes new sanctions targeting Iran global financial networks",
-    "url": "https://news.az/news/us-imposes-new-sanctions-targeting-iran-s-global-financial-networks",
-    "domain": "news.az",
-    "lang": "en",
-    "sourceCountry": "Azerbaijan",
-    "at": "2026-11-24T06:30:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
     "id": "chip enforcement export megaspeed probe spore with working",
     "type": "sancion",
     "title": "Spore working with US on chip export enforcement as Megaspeed probe continues : PM Wong",
@@ -116,22 +147,6 @@
      "tech"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "22nd against commission european proposes round russia sanctions",
-    "type": "sancion",
-    "title": "European Commission proposes 22nd round of sanctions against Russia _ Guangming Online",
-    "url": "https://en.gmw.cn/2026-11/24/content_39117321.htm",
-    "domain": "en.gmw.cn",
-    "lang": "en",
-    "sourceCountry": "",
-    "at": "2026-11-24T06:30:00Z",
-    "countries": [
-     "RU",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "alta"
    },
    {
     "id": "chinese lawmakers pass quickly teamsters urge",
@@ -1581,15 +1596,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: fetch failed",
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
