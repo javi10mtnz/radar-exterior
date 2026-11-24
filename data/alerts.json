@@ -1,26 +1,11 @@
 {
- "updatedAt": "2026-11-24T18:32:19.397Z",
+ "updatedAt": "2026-11-24T19:43:42.764Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
-   {
-    "id": "linked megaspeed nvidia probe singapore",
-    "type": "sancion",
-    "title": "Singapore probe and US ban for Nvidia - linked Megaspeed",
-    "url": "https://www.queanbeyanage.com.au/story/9397608/singapore-probe-and-us-ban-for-nvidia-linked-megaspeed/",
-    "domain": "queanbeyanage.com.au",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-24T07:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
    {
     "id": "estados financieras iran redes sanciona unidos vinculadas",
     "type": "sancion",
@@ -36,6 +21,21 @@
     ],
     "sectors": [],
     "severity": "alta"
+   },
+   {
+    "id": "linked megaspeed nvidia probe singapore",
+    "type": "sancion",
+    "title": "Singapore probe and US ban for Nvidia - linked Megaspeed",
+    "url": "https://www.queanbeyanage.com.au/story/9397608/singapore-probe-and-us-ban-for-nvidia-linked-megaspeed/",
+    "domain": "queanbeyanage.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-24T07:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "brands global india look shifts sourcing textile trade",
@@ -83,6 +83,23 @@
     "severity": "baja"
    },
    {
+    "id": "china foreign growth guangming online ports trade witness",
+    "type": "logistica",
+    "title": "China ports witness growth in foreign trade _ Guangming Online",
+    "url": "https://en.gmw.cn/2026-11/24/content_39116996.htm",
+    "domain": "en.gmw.cn",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-24T06:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "financial global imposes iran networks sanctions targeting",
     "type": "sancion",
     "title": "US imposes new sanctions targeting Iran global financial networks",
@@ -126,23 +143,6 @@
     "countries": [],
     "sectors": [
      "energia"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "china foreign growth guangming online ports trade witness",
-    "type": "logistica",
-    "title": "China ports witness growth in foreign trade _ Guangming Online",
-    "url": "https://en.gmw.cn/2026-11/24/content_39116996.htm",
-    "domain": "en.gmw.cn",
-    "lang": "en",
-    "sourceCountry": "",
-    "at": "2026-11-24T06:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "transporte"
     ],
     "severity": "baja"
    },
@@ -213,6 +213,23 @@
     "severity": "media"
    },
    {
+    "id": "corporation expansion fleet india opens shipping tenders",
+    "type": "logistica",
+    "title": "Shipping Corporation of India Opens Tenders for $3B Fleet Expansion",
+    "url": "https://maritime-executive.com/article/shipping-corporation-of-india-opens-tenders-for-3b-fleet-expansion",
+    "domain": "maritime-executive.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T04:45:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "calls canada deal fairly representative trade trade with",
     "type": "regulacion",
     "title": "U . S . trade representative calls trade deal with Canada fairly close",
@@ -255,23 +272,6 @@
      "CO"
     ],
     "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "corporation expansion fleet india opens shipping tenders",
-    "type": "logistica",
-    "title": "Shipping Corporation of India Opens Tenders for $3B Fleet Expansion",
-    "url": "https://maritime-executive.com/article/shipping-corporation-of-india-opens-tenders-for-3b-fleet-expansion",
-    "domain": "maritime-executive.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-24T04:45:00Z",
-    "countries": [
-     "IN"
-    ],
-    "sectors": [
-     "transporte"
-    ],
     "severity": "baja"
    },
    {
@@ -1641,17 +1641,15 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: fetch failed",
    "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: fetch failed"
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
