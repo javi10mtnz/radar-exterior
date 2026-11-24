@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T12:43:03.565Z",
+ "updatedAt": "2026-11-24T14:02:38.082Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -24,7 +24,7 @@
    },
    {
     "id": "brands global india look shifts sourcing textile trade",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "Global brands look to India for textile sourcing as trade shifts create new export opportunities",
     "url": "http://www.bangladeshsun.com/news/279451592/global-brands-look-to-india-for-textile-sourcing-as-trade-shifts-create-new-export-opportunities",
     "domain": "bangladeshsun.com",
@@ -168,7 +168,7 @@
    },
    {
     "id": "bulk cuts deal duty india scotch trade whisky",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "India - UK trade deal cuts Scotch whisky duty to 75 %, but bulk imports face 110 % levy ; govt working to resolve dispute",
     "url": "https://www.livemint.com/economy/indiauk-trade-deal-cuts-scotch-whisky-duty-to-75-but-bulk-imports-face-110-levy-govt-working-to-resolve-dispute-11795456167377.html",
     "domain": "livemint.com",
@@ -181,6 +181,21 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "calls canada deal fairly representative trade trade with",
+    "type": "regulacion",
+    "title": "U . S . trade representative calls trade deal with Canada fairly close",
+    "url": "https://www.chch.com/chch-news/u-s-trade-representative-calls-trade-deal-with-canada-fairly-close/",
+    "domain": "chch.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-24T04:45:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "corporation expansion fleet india opens shipping tenders",
@@ -197,21 +212,6 @@
     "sectors": [
      "transporte"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "calls canada deal fairly representative trade trade with",
-    "type": "regulacion",
-    "title": "U . S . trade representative calls trade deal with Canada fairly close",
-    "url": "https://www.chch.com/chch-news/u-s-trade-representative-calls-trade-deal-with-canada-fairly-close/",
-    "domain": "chch.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-24T04:45:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -1581,13 +1581,15 @@
    }
   ],
   "partialErrors": [
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: fetch failed",
    "regulacion/spanish: fetch failed",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/english: fetch failed",
+   "divisa/spanish: fetch failed",
+   "geo/english: fetch failed",
+   "geo/spanish: fetch failed"
   ]
  }
 }
