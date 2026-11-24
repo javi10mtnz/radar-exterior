@@ -1,11 +1,75 @@
 {
- "updatedAt": "2026-11-24T02:42:27.069Z",
+ "updatedAt": "2026-11-24T03:41:10.862Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "after economy iran leaders panicking secretary treasury underwater",
+    "type": "sancion",
+    "title": "Iran economy is underwater , leaders are panicking : US Treasury Secretary after fresh sanctions",
+    "url": "http://www.iranherald.com/news/279451229/iran-economy-is-underwater-leaders-are-panicking-us-treasury-secretary-after-fresh-sanctions",
+    "domain": "iranherald.com",
+    "lang": "en",
+    "sourceCountry": "Iran",
+    "at": "2026-11-24T03:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "banking imposes iranian networks sanctions shadow",
+    "type": "sancion",
+    "title": "US imposes new sanctions on Iranian shadow banking networks",
+    "url": "https://themunicheye.com/breaking-news/us-imposes-new-sanctions-on-iranian-shadow-banking-networks-1108",
+    "domain": "themunicheye.com",
+    "lang": "en",
+    "sourceCountry": "Germany",
+    "at": "2026-11-24T02:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "after financial iran lifelines sanctions vows",
+    "type": "sancion",
+    "title": "US vows to cut off Iran financial lifelines after new sanctions",
+    "url": "https://news.az/news/us-vows-to-cut-off-iran-s-financial-lifelines-after-new-sanctions",
+    "domain": "news.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-24T02:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "administration announces banking iran sanctions shadow trump",
+    "type": "sancion",
+    "title": "Trump Administration Announces New Sanctions on Iran Shadow Banking",
+    "url": "https://hotair.com/john-s-2/2026/11/23/trump-administration-announces-new-sanctions-on-irans-shadow-banking-n3821286",
+    "domain": "hotair.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T02:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
    {
     "id": "charges failures high moves npera port service tackle",
     "type": "arancel",
@@ -1231,15 +1295,15 @@
    }
   ],
   "partialErrors": [
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: fetch failed",
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: fetch failed",
    "geo/spanish: fetch failed"
   ]
  }
