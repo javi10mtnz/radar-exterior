@@ -1,11 +1,75 @@
 {
- "updatedAt": "2026-11-24T01:15:23.426Z",
+ "updatedAt": "2026-11-24T02:42:27.069Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "charges failures high moves npera port service tackle",
+    "type": "arancel",
+    "title": "NPERA moves to tackle high port charges , service failures , others",
+    "url": "https://thesun.ng/npera-moves-to-tackle-high-port-charges-service-failures-others/",
+    "domain": "thesun.ng",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-24T02:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "businesses canada domestic government investment ontario supports through",
+    "type": "arancel",
+    "title": "Government of Canada investment supports Ontario businesses through New Domestic Trade programs",
+    "url": "http://www.torontotelegraph.com/news/279451149/government-of-canada-investment-supports-ontario-businesses-through-new-domestic-trade-programs",
+    "domain": "torontotelegraph.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-24T02:15:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "chinese lawmakers pass quickly teamsters urge",
+    "type": "arancel",
+    "title": "Teamsters urge US lawmakers to quickly pass Chinese car ban",
+    "url": "https://whtc.com/2026/11/23/teamsters-urge-us-lawmakers-to-quickly-pass-chinese-car-ban/",
+    "domain": "whtc.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T01:45:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "adds backlog continental durban port shop shuts while",
+    "type": "arancel",
+    "title": "Continental shuts up shop while Durban port backlog adds to manufacturer costs - BLSA",
+    "url": "https://www.politicsweb.co.za/news/continental-shuts-up-shop-while-durbans-port-backlog-adds-to-manufacturers-costs-blsa",
+    "domain": "politicsweb.co.za",
+    "lang": "en",
+    "sourceCountry": "South Africa",
+    "at": "2026-11-24T01:45:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte",
+     "industria"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "canada curbs pentagon social ties trade troop with",
     "type": "geo",
@@ -1167,12 +1231,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: fetch failed",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
+   "divisa/spanish: fetch failed",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
