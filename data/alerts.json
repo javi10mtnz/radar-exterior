@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-24T19:43:42.764Z",
+ "updatedAt": "2026-11-24T21:03:17.466Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "linked megaspeed nvidia probe singapore",
+    "type": "sancion",
+    "title": "Singapore probe and US ban for Nvidia - linked Megaspeed",
+    "url": "https://www.queanbeyanage.com.au/story/9397608/singapore-probe-and-us-ban-for-nvidia-linked-megaspeed/",
+    "domain": "queanbeyanage.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-24T07:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "estados financieras iran redes sanciona unidos vinculadas",
     "type": "sancion",
@@ -21,21 +36,6 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "linked megaspeed nvidia probe singapore",
-    "type": "sancion",
-    "title": "Singapore probe and US ban for Nvidia - linked Megaspeed",
-    "url": "https://www.queanbeyanage.com.au/story/9397608/singapore-probe-and-us-ban-for-nvidia-linked-megaspeed/",
-    "domain": "queanbeyanage.com.au",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-24T07:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "brands global india look shifts sourcing textile trade",
@@ -1643,13 +1643,15 @@
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: fetch failed",
    "regulacion/english: fetch failed",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
+   "divisa/spanish: fetch failed",
+   "geo/english: fetch failed",
+   "geo/spanish: fetch failed"
   ]
  }
 }
