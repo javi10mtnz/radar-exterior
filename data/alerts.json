@@ -1,11 +1,204 @@
 {
- "updatedAt": "2026-11-24T21:03:17.466Z",
+ "updatedAt": "2026-11-24T23:04:31.088Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "found giant guilty huawei secrets stealing tech trade",
+    "type": "sancion",
+    "title": "Tech giant Huawei found guilty of stealing trade secrets",
+    "url": "https://www.euronews.com/2026/11/24/tech-giant-huawei-found-guilty-of-stealing-trade-secrets-but-acquitted-of-racketeering",
+    "domain": "euronews.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T22:30:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "conspiracy finds guilty huawei jury secrets steal trade",
+    "type": "sancion",
+    "title": "Huawei guilty of conspiracy to steal trade secrets , US jury finds",
+    "url": "https://www.wjcl.com/article/huawei-guilty-conspiracy-steal-trade-secrets-jury/74523779",
+    "domain": "wjcl.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T22:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "deal european libya null parliament sanctions turkey void",
+    "type": "sancion",
+    "title": "European Parliament : Turkey - Libya Deal Null and Void – Sanctions and Cyprus Power Cable on the Agenda - European Parliament : Turkey - Libya Deal Null and Void – Sanctions and Cyprus Power Cable on the Agenda",
+    "url": "https://www.inewsgr.com/330/European-Parliament-Turkey-Libya-Deal-Null-and-Void--Sanctions-and-Cyprus-Power-Cable-on-the-Agenda.htm",
+    "domain": "inewsgr.com",
+    "lang": "en",
+    "sourceCountry": "Greece",
+    "at": "2026-11-24T22:30:00Z",
+    "countries": [
+     "TR",
+     "EU"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "chinese conspiracy finds giant guilty huawei jury tech",
+    "type": "sancion",
+    "title": "Jury finds Chinese tech giant Huawei guilty of conspiracy to steal trade secrets",
+    "url": "https://nypost.com/2026/11/24/business/jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets/",
+    "domain": "nypost.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T22:15:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "22nd banks novinite package russia sanctions sports takes",
+    "type": "sancion",
+    "title": "EU 22nd Russia Sanctions Package Takes Aim at Banks , Oil and Sports - Novinite . com",
+    "url": "https://www.novinite.com/view_news.php?id=241758",
+    "domain": "novinite.com",
+    "lang": "en",
+    "sourceCountry": "Bulgaria",
+    "at": "2026-11-24T22:15:00Z",
+    "countries": [
+     "RU",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "aranceles asumir debe desapareceran economia mexico periodico zocalo",
+    "type": "arancel",
+    "title": "México debe asumir que aranceles de EU no desaparecerán : Economía – Periódico Zócalo",
+    "url": "https://www.zocalo.com.mx/mexico-debe-asumir-que-aranceles-de-eu-no-desapareceran-economia/",
+    "domain": "zocalo.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-24T21:45:00Z",
+    "countries": [
+     "MX",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "chinese conspiracy giant guilty huawei steal tech trade",
+    "type": "sancion",
+    "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets , U . S . jury finds",
+    "url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
+    "domain": "thehindu.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-24T21:45:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "conspiracy giant guilty huawei secrets steal tech trade",
+    "type": "sancion",
+    "title": "Tech giant Huawei is guilty of conspiracy to steal trade secrets , – NBC Connecticut",
+    "url": "https://www.nbcconnecticut.com/news/national-international/huawei-guilty-conspiracy-steal-trade-secrets-us-jury-finds/3799394/",
+    "domain": "nbcconnecticut.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T21:45:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "about banks business china convicted deceiving huawei iran",
+    "type": "sancion",
+    "title": "China Huawei convicted of deceiving banks about business in Iran and stealing US trade secrets | Huawei",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets",
+    "domain": "theguardian.com",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-24T21:45:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles china estados europea nuevos prepara unidos union",
+    "type": "arancel",
+    "title": "Estados Unidos prepara nuevos aranceles a China , la Unión Europea y otros 14 países",
+    "url": "https://www.hoy.es/economia/estados-unidos-prepara-nuevos-aranceles-china-union-20261124183028-ntrc.html",
+    "domain": "hoy.es",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-24T20:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "atencion despachos genera horario limita nuevo puerto quetzal",
+    "type": "arancel",
+    "title": "Despachos en Puerto Quetzal : nuevo horario limita atención y genera rechazo , según exportadores",
+    "url": "https://lahora.gt/lh-economia/mherrera/2026/11/24/despachos-en-puerto-quetzal-nuevo-horario-limita-atencion-y-genera-rechazo-de-exportadores-now/",
+    "domain": "lahora.gt",
+    "lang": "es",
+    "sourceCountry": "Guatemala",
+    "at": "2026-11-24T20:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "canadian defence mount pentagon podcast takes tensions trade",
+    "type": "geo",
+    "title": "PODCAST : Pentagon takes aim at Canadian defence as trade tensions mount",
+    "url": "https://www.620ckrm.com/2026/11/24/podcast-pentagon-takes-aim-at-canadian-defence-as-trade-tensions-mount/",
+    "domain": "620ckrm.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-24T20:15:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "linked megaspeed nvidia probe singapore",
     "type": "sancion",
@@ -1642,15 +1835,13 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: fetch failed",
+   "logistica/english: fetch failed",
    "logistica/spanish: fetch failed",
    "regulacion/english: fetch failed",
    "regulacion/spanish: fetch failed",
    "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: fetch failed"
   ]
  }
