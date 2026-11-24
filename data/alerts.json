@@ -1,11 +1,41 @@
 {
- "updatedAt": "2026-11-24T07:26:04.490Z",
+ "updatedAt": "2026-11-24T08:50:42.505Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "brands global india look shifts sourcing textile trade",
+    "type": "regulacion",
+    "title": "Global brands look to India for textile sourcing as trade shifts create new export opportunities",
+    "url": "http://www.bangladeshsun.com/news/279451592/global-brands-look-to-india-for-textile-sourcing-as-trade-shifts-create-new-export-opportunities",
+    "domain": "bangladeshsun.com",
+    "lang": "en",
+    "sourceCountry": "Bangladesh",
+    "at": "2026-11-24T07:15:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "agricultural exports itself mongolian positions processing vietnam",
+    "type": "regulacion",
+    "title": "Vietnam positions itself as processing hub for Mongolian agricultural exports",
+    "url": "https://www.agnavigator.com/Article/2026/11/24/vietnam-positions-itself-as-processing-hub-for-mongolian-agricultural-exports/",
+    "domain": "agnavigator.com",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-24T07:15:00Z",
+    "countries": [],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "financial global imposes iran networks sanctions targeting",
     "type": "sancion",
@@ -54,21 +84,6 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "brands global india look shifts sourcing textile trade",
-    "type": "regulacion",
-    "title": "Global brands look to India for textile sourcing as trade shifts create new export opportunities",
-    "url": "https://news.webindia123.com/news/Articles/Business/20261124/4523764.html",
-    "domain": "news.webindia123.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-24T06:30:00Z",
-    "countries": [
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "blacklist denies equity firm links msian trade with",
@@ -1470,12 +1485,13 @@
   ],
   "partialErrors": [
    "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
