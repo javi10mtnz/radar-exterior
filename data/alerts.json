@@ -1,11 +1,136 @@
 {
- "updatedAt": "2026-11-24T03:41:10.862Z",
+ "updatedAt": "2026-11-24T07:26:04.490Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "financial global imposes iran networks sanctions targeting",
+    "type": "sancion",
+    "title": "US imposes new sanctions targeting Iran global financial networks",
+    "url": "https://news.az/news/us-imposes-new-sanctions-targeting-iran-s-global-financial-networks",
+    "domain": "news.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-24T06:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "chip enforcement export megaspeed probe spore with working",
+    "type": "sancion",
+    "title": "Spore working with US on chip export enforcement as Megaspeed probe continues : PM Wong",
+    "url": "https://www.straitstimes.com/singapore/spore-working-with-us-on-chip-export-enforcement-as-megaspeed-probe-continues-pm-wong",
+    "domain": "straitstimes.com",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-24T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "22nd against commission european proposes round russia sanctions",
+    "type": "sancion",
+    "title": "European Commission proposes 22nd round of sanctions against Russia _ Guangming Online",
+    "url": "https://en.gmw.cn/2026-11/24/content_39117321.htm",
+    "domain": "en.gmw.cn",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-24T06:30:00Z",
+    "countries": [
+     "RU",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "brands global india look shifts sourcing textile trade",
+    "type": "regulacion",
+    "title": "Global brands look to India for textile sourcing as trade shifts create new export opportunities",
+    "url": "https://news.webindia123.com/news/Articles/Business/20261124/4523764.html",
+    "domain": "news.webindia123.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-24T06:30:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "blacklist denies equity firm links msian trade with",
+    "type": "sancion",
+    "title": "Msian firm on US trade blacklist denies equity links with Sporean entity",
+    "url": "https://www.thestar.com.my/news/nation/2026/11/24/m039sian-firm-on-us-trade-blacklist-denies-equity-links-with-s039porean-entity",
+    "domain": "thestar.com.my",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-24T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "bulk cuts deal duty india scotch trade whisky",
+    "type": "regulacion",
+    "title": "India - UK trade deal cuts Scotch whisky duty to 75 %, but bulk imports face 110 % levy ; govt working to resolve dispute",
+    "url": "https://www.livemint.com/economy/indiauk-trade-deal-cuts-scotch-whisky-duty-to-75-but-bulk-imports-face-110-levy-govt-working-to-resolve-dispute-11795456167377.html",
+    "domain": "livemint.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-24T05:15:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "calls canada deal fairly representative trade trade with",
+    "type": "regulacion",
+    "title": "U . S . trade representative calls trade deal with Canada fairly close",
+    "url": "https://www.chch.com/chch-news/u-s-trade-representative-calls-trade-deal-with-canada-fairly-close/",
+    "domain": "chch.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-24T04:45:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "autores bulos china creados desastres epidemias sanciona sobre",
+    "type": "sancion",
+    "title": "China sanciona a autores de bulos creados con IA sobre desastres , epidemias y alimentos",
+    "url": "https://rpp.pe/mundo/china/china-sanciona-a-autores-de-bulos-creados-con-ia-sobre-desastres-epidemias-y-alimentos-noticia-1719387",
+    "domain": "rpp.pe",
+    "lang": "es",
+    "sourceCountry": "Peru",
+    "at": "2026-11-24T03:15:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "after economy iran leaders panicking secretary treasury underwater",
     "type": "sancion",
@@ -101,6 +226,21 @@
     "severity": "baja"
    },
    {
+    "id": "apoyar bancario entidades iran sanciona sistema sombra veintena",
+    "type": "sancion",
+    "title": "EE . UU . sanciona a más de una veintena de entidades por apoyar el sistema bancario en la sombra de Irán",
+    "url": "https://puranoticia.pnt.cl/internacional/ee-uu-sanciona-a-mas-de-una-veintena-de-entidades-por-apoyar-el-sistema",
+    "domain": "puranoticia.pnt.cl",
+    "lang": "es",
+    "sourceCountry": "",
+    "at": "2026-11-24T01:45:00Z",
+    "countries": [
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "chinese lawmakers pass quickly teamsters urge",
     "type": "arancel",
     "title": "Teamsters urge US lawmakers to quickly pass Chinese car ban",
@@ -133,6 +273,56 @@
      "industria"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "back committed india kingdom pullback push trade united",
+    "type": "regulacion",
+    "title": "No pullback , push back : India committed to united kingdom trade deal concessions on Scotch , says Commerce Secretary",
+    "url": "http://www.theuknews.com/news/279450937/no-pullback-push-back-india-committed-to-uk-trade-deal-concessions-on-scotch-says-commerce-secretary",
+    "domain": "theuknews.com",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-23T22:30:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "bulk dispute india rollback scotch tariff technical working",
+    "type": "regulacion",
+    "title": "India working on technical fix to bulk Scotch tariff dispute , no rollback of united kingdom trade pact commitments : Commerce Secretary",
+    "url": "http://www.theuknews.com/news/279450921/india-working-on-technical-fix-to-bulk-scotch-tariff-dispute-no-rollback-of-uk-trade-pact-commitments-commerce-secretary",
+    "domain": "theuknews.com",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-23T22:30:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "could deal envoy help proposed says shield taiwan",
+    "type": "regulacion",
+    "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion – Brandon Sun",
+    "url": "https://www.brandonsun.com/business/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion",
+    "domain": "brandonsun.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-23T21:30:00Z",
+    "countries": [
+     "CN",
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "canada curbs pentagon social ties trade troop with",
@@ -179,22 +369,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "could deal envoy help proposed says shield taiwan",
-    "type": "regulacion",
-    "title": "Taiwan envoy says proposed deal could help shield Canada from Chinese trade coercion – Brandon Sun",
-    "url": "https://www.brandonsun.com/business/2026/11/23/taiwan-envoy-says-proposed-deal-could-help-shield-canada-from-chinese-trade-coercion",
-    "domain": "brandonsun.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-23T21:30:00Z",
-    "countries": [
-     "CN",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "faces from growth india squeeze story story twin",
@@ -1297,12 +1471,9 @@
   "partialErrors": [
    "arancel/english: fetch failed",
    "arancel/spanish: fetch failed",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: fetch failed",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: fetch failed",
    "geo/spanish: fetch failed"
   ]
