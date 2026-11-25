@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T19:39:14.514Z",
+ "updatedAt": "2026-11-25T20:35:13.224Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,8 +7,23 @@
  "data": {
   "items": [
    {
+    "id": "1992 democrats house largest majority return since with",
+    "type": "arancel",
+    "title": "Democrats Return With Largest House Majority Since 1992 , but Trump Veto Could Block $4 . 1 Trillion Agenda",
+    "url": "https://www.latintimes.com/democrats-historic-majority-4-1-trillion-agenda-601783",
+    "domain": "latintimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "against china imposing tariffs warns",
-    "type": "geo",
+    "type": "arancel",
     "title": "China warns US against imposing new tariffs",
     "url": "https://arynews.tv/china-warns-us-imposing-new-tariffs",
     "domain": "arynews.tv",
@@ -23,8 +38,25 @@
     "severity": "alta"
    },
    {
+    "id": "china faces india other partners proposes tariffs trade",
+    "type": "arancel",
+    "title": "US proposes new tariffs on India , 13 other trade partners ; China faces additional 20 % duty",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-proposes-new-tariffs-on-india-13-other-trade-partners-china-faces-additional-20-duty/articleshow/136163395.cms",
+    "domain": "timesofindia.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
     "id": "brazil china hike others plans tariffs",
-    "type": "geo",
+    "type": "arancel",
     "title": "US plans to hike tariffs on China , EU , Brazil and others",
     "url": "https://www.dailylocal.com/2026/11/25/trump-tariff-hikes/",
     "domain": "dailylocal.com",
@@ -36,6 +68,53 @@
      "CN",
      "BR",
      "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "convicts federal huawei jury secrets stealing trade violating",
+    "type": "arancel",
+    "title": "Federal jury convicts Huawei of stealing US trade secrets , violating Iran sanctions",
+    "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions",
+    "domain": "foxbusiness.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "approves cabinet container crore kamarajar port second terminal",
+    "type": "arancel",
+    "title": "Cabinet approves Rs 4 , 288 crore second container terminal at Kamarajar Port ; Rs 2 , 014 crore airport in Assam",
+    "url": "http://www.northkoreatimes.com/news/279453761/cabinet-approves-rs-4288-crore-second-container-terminal-at-kamarajar-port-rs-2014-crore-airport-in-assam",
+    "domain": "northkoreatimes.com",
+    "lang": "en",
+    "sourceCountry": "North Korea",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "aircraft brazil duty higher imports including proposes tariffs",
+    "type": "arancel",
+    "title": "US proposes higher tariffs on Brazil imports , including 10 % duty on aircraft",
+    "url": "https://www.933thedrive.com/2026/11/25/us-proposes-higher-tariffs-on-brazil-imports-including-10-duty-on-aircraft/",
+    "domain": "933thedrive.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "BR"
     ],
     "sectors": [],
     "severity": "media"
@@ -224,6 +303,40 @@
     "severity": "media"
    },
    {
+    "id": "assistance customs kingdom lanka receive technical under united",
+    "type": "regulacion",
+    "title": "Sri Lanka Customs to receive united kingdom technical assistance under new MoU - Breaking News",
+    "url": "https://www.dailymirror.lk/latest-news/Sri-Lanka-Customs-to-receive-UK-technical-assistance-under-new-MoU/342-355644",
+    "domain": "dailymirror.lk",
+    "lang": "en",
+    "sourceCountry": "Sri Lanka",
+    "at": "2026-11-25T04:45:00Z",
+    "countries": [
+     "GB"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "australia both deal farmers north oppose sides trade",
+    "type": "regulacion",
+    "title": "Why farmers on both sides oppose the Australia - EU trade deal | North Queensland Register",
+    "url": "https://www.northqueenslandregister.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
+    "domain": "northqueenslandregister.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-25T04:45:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "alibaba curbs exports megaspeed unit",
     "type": "geo",
     "title": "US curbs exports to Megaspeed , Alibaba unit",
@@ -269,23 +382,6 @@
     "severity": "baja"
    },
    {
-    "id": "australia both deal farmers north oppose sides trade",
-    "type": "arancel",
-    "title": "Why farmers on both sides oppose the Australia - EU trade deal | North Queensland Register",
-    "url": "https://www.northqueenslandregister.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
-    "domain": "northqueenslandregister.com.au",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-25T04:45:00Z",
-    "countries": [
-     "EU"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "china higher international nations other prepares tariffs",
     "type": "arancel",
     "title": "US prepares higher tariffs on China , EU and 14 other nations - International",
@@ -303,21 +399,36 @@
     "severity": "media"
    },
    {
-    "id": "assistance customs kingdom lanka receive technical under united",
+    "id": "donald duties fresh import india planning tariffs trump",
     "type": "regulacion",
-    "title": "Sri Lanka Customs to receive united kingdom technical assistance under new MoU - Breaking News",
-    "url": "https://www.dailymirror.lk/latest-news/Sri-Lanka-Customs-to-receive-UK-technical-assistance-under-new-MoU/342-355644",
-    "domain": "dailymirror.lk",
+    "title": "US Tariffs on India : Why Is Donald Trump Planning Fresh Import Duties on 16 Economies , and How Will They Affect India ?",
+    "url": "https://www.jagranjosh.com/general-knowledge/us-tariffs-on-india-why-is-donald-trump-planning-fresh-import-duties-on-16-economies-and-how-will-they-affect-india-1820014113-1",
+    "domain": "jagranjosh.com",
     "lang": "en",
-    "sourceCountry": "Sri Lanka",
-    "at": "2026-11-25T04:45:00Z",
+    "sourceCountry": "India",
+    "at": "2026-11-25T04:15:00Z",
     "countries": [
-     "GB"
+     "US",
+     "IN"
     ],
-    "sectors": [
-     "tech"
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "countries hikes india other plans report tariff",
+    "type": "regulacion",
+    "title": "US plans tariff hikes on India , 15 other countries : Report",
+    "url": "https://www.siasat.com/us-plans-tariff-hikes-on-india-15-other-countries-report-3586016/",
+    "domain": "siasat.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T04:15:00Z",
+    "countries": [
+     "US",
+     "IN"
     ],
-    "severity": "baja"
+    "sectors": [],
+    "severity": "alta"
    },
    {
     "id": "china india others over ready slap subsidized tariffs",
@@ -338,22 +449,6 @@
     "severity": "media"
    },
    {
-    "id": "donald duties fresh import india planning tariffs trump",
-    "type": "arancel",
-    "title": "US Tariffs on India : Why Is Donald Trump Planning Fresh Import Duties on 16 Economies , and How Will They Affect India ?",
-    "url": "https://www.jagranjosh.com/general-knowledge/us-tariffs-on-india-why-is-donald-trump-planning-fresh-import-duties-on-16-economies-and-how-will-they-affect-india-1820014113-1",
-    "domain": "jagranjosh.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-25T04:15:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "businesses funding grant offers oregon program time wake",
     "type": "arancel",
     "title": "New Oregon grant program offers one - time funding to businesses in wake of Trump tariffs",
@@ -367,22 +462,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "countries hikes india other plans report tariff",
-    "type": "arancel",
-    "title": "US plans tariff hikes on India , 15 other countries : Report",
-    "url": "https://www.siasat.com/us-plans-tariff-hikes-on-india-15-other-countries-report-3586016/",
-    "domain": "siasat.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-25T04:15:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "alta"
    },
    {
     "id": "china others prepares sources tariffs",
@@ -414,6 +493,21 @@
     "sectors": [
      "tech"
     ],
+    "severity": "baja"
+   },
+   {
+    "id": "approves cabinet cooperation customs kingdom lanka united",
+    "type": "regulacion",
+    "title": "Cabinet approves united kingdom - Sri Lanka Customs cooperation MoU",
+    "url": "https://www.ft.lk/business/Cabinet-approves-UK-Sri-Lanka-Customs-cooperation-MoU/34-800537",
+    "domain": "ft.lk",
+    "lang": "en",
+    "sourceCountry": "Sri Lanka",
+    "at": "2026-11-25T03:45:00Z",
+    "countries": [
+     "GB"
+    ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -496,21 +590,6 @@
     "severity": "media"
    },
    {
-    "id": "approves cabinet cooperation customs kingdom lanka united",
-    "type": "regulacion",
-    "title": "Cabinet approves united kingdom - Sri Lanka Customs cooperation MoU",
-    "url": "https://www.ft.lk/business/Cabinet-approves-UK-Sri-Lanka-Customs-cooperation-MoU/34-800537",
-    "domain": "ft.lk",
-    "lang": "en",
-    "sourceCountry": "Sri Lanka",
-    "at": "2026-11-25T03:45:00Z",
-    "countries": [
-     "GB"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "australia both deal farmers land oppose sides trade",
     "type": "regulacion",
     "title": "Why farmers on both sides oppose the Australia - EU trade deal | The Land",
@@ -526,6 +605,23 @@
      "alim"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "administration china considering india raising report tariffs trump",
+    "type": "regulacion",
+    "title": "Trump administration considering raising tariffs on India , China : Report",
+    "url": "https://www.tribuneindia.com/news/business/trump-administration-considering-raising-tariffs-on-india-china-result-of-section-301-probe-to-be-announced-report/",
+    "domain": "tribuneindia.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T03:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "administration against china european offensive prepares tariff trump",
@@ -545,21 +641,21 @@
     "severity": "alta"
    },
    {
-    "id": "administration china considering india raising report tariffs trump",
+    "id": "australia both deal farmers oppose sides stock trade",
     "type": "regulacion",
-    "title": "Trump administration considering raising tariffs on India , China : Report",
-    "url": "https://www.tribuneindia.com/news/business/trump-administration-considering-raising-tariffs-on-india-china-result-of-section-301-probe-to-be-announced-report/",
-    "domain": "tribuneindia.com",
+    "title": "Why farmers on both sides oppose the Australia - EU trade deal | Stock Journal",
+    "url": "https://www.stockjournal.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
+    "domain": "stockjournal.com.au",
     "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-25T03:15:00Z",
+    "sourceCountry": "Australia",
+    "at": "2026-11-25T02:45:00Z",
     "countries": [
-     "US",
-     "CN",
-     "IN"
+     "EU"
     ],
-    "sectors": [],
-    "severity": "media"
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
    },
    {
     "id": "continues hormuz iran ramps sanctions ships strait targeting",
@@ -590,23 +686,6 @@
      "EU"
     ],
     "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "australia both deal farmers oppose sides stock trade",
-    "type": "regulacion",
-    "title": "Why farmers on both sides oppose the Australia - EU trade deal | Stock Journal",
-    "url": "https://www.stockjournal.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
-    "domain": "stockjournal.com.au",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-25T02:45:00Z",
-    "countries": [
-     "EU"
-    ],
-    "sectors": [
-     "alim"
-    ],
     "severity": "baja"
    },
    {
@@ -644,23 +723,6 @@
     "severity": "media"
    },
    {
-    "id": "aranceles china contra europa iran prepara sanciona trump",
-    "type": "arancel",
-    "title": "Trump prepara aranceles contra China y Europa y sanciona a Irán",
-    "url": "https://www.negocios.com/geopolitica/trump-intensifica-frentes-nuevos-aranceles-sanciones-iran-tensiones-globales/20261124223000498689.html",
-    "domain": "negocios.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-25T02:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
     "id": "auto canada china could into push tariffs trump",
     "type": "regulacion",
     "title": "Could Trump Auto Tariffs Push Canada into China Arms ?",
@@ -693,6 +755,23 @@
      "alim"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "aranceles china contra europa iran prepara sanciona trump",
+    "type": "arancel",
+    "title": "Trump prepara aranceles contra China y Europa y sanciona a Irán",
+    "url": "https://www.negocios.com/geopolitica/trump-intensifica-frentes-nuevos-aranceles-sanciones-iran-tensiones-globales/20261124223000498689.html",
+    "domain": "negocios.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T02:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
    },
    {
     "id": "china conspiring convicts court fraud huawei steal trade",
@@ -774,24 +853,6 @@
     "severity": "media"
    },
    {
-    "id": "adaptarse aranceles debe economia industria mexicana secretaria",
-    "type": "arancel",
-    "title": "Industria mexicana debe adaptarse a aranceles de EU : Secretaría de Economía",
-    "url": "https://unomasuno.com.mx/nacional/industria-mexicana-debe-adaptarse-a-aranceles-de-eu-secretaria-de-economia/",
-    "domain": "unomasuno.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-25T00:45:00Z",
-    "countries": [
-     "MX",
-     "EU"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "media"
-   },
-   {
     "id": "china focus investments manufacturing must nigeria relations trade",
     "type": "regulacion",
     "title": "Nigeria - China Trade Relations Must Focus on Investments in Manufacturing , Export – THISDAYLIVE",
@@ -822,6 +883,24 @@
      "alim"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "adaptarse aranceles debe economia industria mexicana secretaria",
+    "type": "arancel",
+    "title": "Industria mexicana debe adaptarse a aranceles de EU : Secretaría de Economía",
+    "url": "https://unomasuno.com.mx/nacional/industria-mexicana-debe-adaptarse-a-aranceles-de-eu-secretaria-de-economia/",
+    "domain": "unomasuno.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [
+     "MX",
+     "EU"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
    },
    {
     "id": "after camp korea relations reviews sanctions switzerland youth",
@@ -1036,6 +1115,22 @@
     "severity": "media"
    },
    {
+    "id": "being caught hiccups scotch seized shipments tariff whisky",
+    "type": "regulacion",
+    "title": "Hiccups ! Why Scotch whisky is caught in a tariff row and shipments are being seized | Explained amid India - UK trade deal",
+    "url": "https://www.livemint.com/economy/hiccups-why-scotch-whisky-is-caught-in-a-tariff-row-and-shipments-are-being-seized-explained-amid-india-uk-trade-deal-11795543797623.html",
+    "domain": "livemint.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-24T21:30:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "alliance global landmark maersk north shipping south",
     "type": "logistica",
     "title": "Maersk and ONE Eye Landmark Global North - South Shipping Alliance",
@@ -1066,22 +1161,6 @@
      "transporte"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "being caught hiccups scotch seized shipments tariff whisky",
-    "type": "regulacion",
-    "title": "Hiccups ! Why Scotch whisky is caught in a tariff row and shipments are being seized | Explained amid India - UK trade deal",
-    "url": "https://www.livemint.com/economy/hiccups-why-scotch-whisky-is-caught-in-a-tariff-row-and-shipments-are-being-seized-explained-amid-india-uk-trade-deal-11795543797623.html",
-    "domain": "livemint.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-24T21:30:00Z",
-    "countries": [
-     "GB",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "cana capabilities chain cold expands logistics punta world",
@@ -2763,15 +2842,13 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
+   "sancion/spanish: fetch failed",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "geo/english: fetch failed"
   ]
  }
 }
