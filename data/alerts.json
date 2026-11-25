@@ -1,11 +1,78 @@
 {
- "updatedAt": "2026-11-25T11:43:06.802Z",
+ "updatedAt": "2026-11-25T12:51:34.043Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "calls free mandate reform smmt tariff trade with",
+    "type": "arancel",
+    "title": "SMMT calls for ZEV mandate reform and tariff - free EV trade with EU",
+    "url": "https://www.tyrepress.com/2026/11/smmt-calls-for-zev-mandate-reform-and-tariff-free-ev-trade-with-eu/",
+    "domain": "tyrepress.com",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-25T10:30:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china economies excess fresh other readies section tariffs",
+    "type": "arancel",
+    "title": "​US Readies Fresh Section 301 Tariffs on China , EU and 14 Other Economies as Excess - Capacity Probe Nears End ; India Could Face Higher Duties",
+    "url": "https://pragativadi.com/us-readies-fresh-section-301-tariffs-on-china-eu-and-14-other-economies-as-excess-capacity-probe-nears-end-india-could-face-higher-duties/",
+    "domain": "pragativadi.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T05:45:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "asian loom rebound stocks stumbles tariff threats tumble",
+    "type": "arancel",
+    "title": "Asian stocks tumble as AI rebound stumbles , US tariff threats loom",
+    "url": "https://www.business-standard.com/markets/news/asian-stocks-tumble-as-ai-rebound-stumbles-us-tariff-threats-loom-126112500066_1.html",
+    "domain": "business-standard.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T05:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "administration china considering india raising result tariffs trump",
+    "type": "arancel",
+    "title": "Trump administration considering raising tariffs on India - China , result of Section 301 probe to be announced : Report",
+    "url": "http://www.caribbeanherald.com/news/279452985/trump-administration-considering-raising-tariffs-on-india-china-result-of-section-301-probe-to-be-announced-report",
+    "domain": "caribbeanherald.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T05:45:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "chip control export mechanism singapore work",
     "type": "sancion",
@@ -41,25 +108,8 @@
     "severity": "baja"
    },
    {
-    "id": "administration china considering india raising result tariffs trump",
-    "type": "regulacion",
-    "title": "Trump administration considering raising tariffs on India - China , result of Section 301 probe to be announced : Report",
-    "url": "http://www.caribbeanherald.com/news/279452985/trump-administration-considering-raising-tariffs-on-india-china-result-of-section-301-probe-to-be-announced-report",
-    "domain": "caribbeanherald.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-25T05:45:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "after india news prepares probe tariffs trade",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "India news : US prepares new tariffs after trade probe",
     "url": "https://www.dw.com/en/india-news-us-prepares-new-tariffs-after-trade-probe/live-80042306",
     "domain": "dw.com",
@@ -72,6 +122,87 @@
     ],
     "sectors": [],
     "severity": "alta"
+   },
+   {
+    "id": "china others over production ready slap subsidized tariffs",
+    "type": "arancel",
+    "title": "US ready to slap tariffs on China , EU and others over subsidized production , AP sources say",
+    "url": "https://www.khqa.com/news/nation-world/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources/article_8a5d2b28-1913-547e-af6b-97ebb15f9c31.html",
+    "domain": "khqa.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T05:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "apple biggest costs fertilizer fuel region squeezing tariffs",
+    "type": "arancel",
+    "title": "How tariffs , fuel and fertilizer costs are squeezing the U . S . biggest apple region",
+    "url": "https://www.kvpr.org/npr-news/2026-11-24/how-tariffs-fuel-and-fertilizer-costs-are-squeezing-the-u-s-s-biggest-apple-region",
+    "domain": "kvpr.org",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T04:45:00Z",
+    "countries": [],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "allegations commission federal million over settle shein trade",
+    "type": "arancel",
+    "title": "Shein to pay US$100 million to settle Federal Trade Commission allegations over deceptive practises",
+    "url": "https://jamaica-gleaner.com/article/world-news/20261124/shein-pay-us100-million-settle-federal-trade-commission-allegations",
+    "domain": "jamaica-gleaner.com",
+    "lang": "en",
+    "sourceCountry": "Jamaica",
+    "at": "2026-11-25T04:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "australia both deal farmers north oppose sides trade",
+    "type": "arancel",
+    "title": "Why farmers on both sides oppose the Australia - EU trade deal | North Queensland Register",
+    "url": "https://www.northqueenslandregister.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
+    "domain": "northqueenslandregister.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-25T04:45:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "china higher international nations other prepares tariffs",
+    "type": "arancel",
+    "title": "US prepares higher tariffs on China , EU and 14 other nations - International",
+    "url": "https://www.dailymirror.lk/international/US-prepares-higher-tariffs-on-China-EU-and-14-other-nations/107-355656",
+    "domain": "dailymirror.lk",
+    "lang": "en",
+    "sourceCountry": "Sri Lanka",
+    "at": "2026-11-25T04:45:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "alibaba curbs exports megaspeed unit",
@@ -106,25 +237,26 @@
     "severity": "baja"
    },
    {
-    "id": "australia both deal farmers north oppose sides trade",
-    "type": "regulacion",
-    "title": "Why farmers on both sides oppose the Australia - EU trade deal | North Queensland Register",
-    "url": "https://www.northqueenslandregister.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
-    "domain": "northqueenslandregister.com.au",
+    "id": "china india others over ready slap subsidized tariffs",
+    "type": "arancel",
+    "title": "US ready to slap tariffs on India , China , EU and others over subsidized production",
+    "url": "https://www.newindianexpress.com/business/2026/Nov/25/us-ready-to-slap-tariffs-on-india-china-eu-and-others-over-subsidized-production",
+    "domain": "newindianexpress.com",
     "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-25T04:45:00Z",
+    "sourceCountry": "India",
+    "at": "2026-11-25T04:15:00Z",
     "countries": [
+     "US",
+     "CN",
+     "IN",
      "EU"
     ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "donald duties fresh import india planning tariffs trump",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "US Tariffs on India : Why Is Donald Trump Planning Fresh Import Duties on 16 Economies , and How Will They Affect India ?",
     "url": "https://www.jagranjosh.com/general-knowledge/us-tariffs-on-india-why-is-donald-trump-planning-fresh-import-duties-on-16-economies-and-how-will-they-affect-india-1820014113-1",
     "domain": "jagranjosh.com",
@@ -139,8 +271,23 @@
     "severity": "media"
    },
    {
+    "id": "businesses funding grant offers oregon program time wake",
+    "type": "arancel",
+    "title": "New Oregon grant program offers one - time funding to businesses in wake of Trump tariffs",
+    "url": "https://dailyastorian.com/2026/11/24/new-oregon-grant-program-offers-one-time-funding-to-businesses-in-wake-of-trump-tariffs/",
+    "domain": "dailyastorian.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T04:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "countries hikes india other plans report tariff",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "US plans tariff hikes on India , 15 other countries : Report",
     "url": "https://www.siasat.com/us-plans-tariff-hikes-on-india-15-other-countries-report-3586016/",
     "domain": "siasat.com",
@@ -153,6 +300,38 @@
     ],
     "sectors": [],
     "severity": "alta"
+   },
+   {
+    "id": "china others prepares sources tariffs",
+    "type": "arancel",
+    "title": "US prepares new tariffs on China , EU and others , sources say",
+    "url": "https://www.wvtm13.com/article/us-new-tariffs-china-eu-subsidized-production/74525712",
+    "domain": "wvtm13.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T04:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "asian lower markets mostly rout tech trade",
+    "type": "arancel",
+    "title": "Asian Markets Trade Mostly Lower On Tech Rout",
+    "url": "https://www.finanzen.ch/nachrichten/aktien/asian-markets-trade-mostly-lower-on-tech-rout-1036797950",
+    "domain": "finanzen.ch",
+    "lang": "en",
+    "sourceCountry": "Switzerland",
+    "at": "2026-11-25T04:15:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
    },
    {
     "id": "case convicted huawei secrets stealing trade what what",
@@ -2468,15 +2647,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: fetch failed",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: fetch failed",
    "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
