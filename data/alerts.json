@@ -1,11 +1,28 @@
 {
- "updatedAt": "2026-11-25T17:13:47.333Z",
+ "updatedAt": "2026-11-25T18:27:06.658Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "argentina carne exportaciones gana millones nuevos supera vacuna",
+    "type": "divisa",
+    "title": "La carne vacuna argentina supera los USD 4 . 160 millones en exportaciones y gana nuevos mercados",
+    "url": "https://www.ellitoral.com/campolitoral/carnevacuna-estadosunidos-israel-divisas-exportaciones-indec-bolsadecomercioderosario-china_0_B7pgnFnhUG.html",
+    "domain": "ellitoral.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "AR"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "aranceles desvela imponer incluidos nuevo para plan trump",
     "type": "arancel",
@@ -886,23 +903,6 @@
     "severity": "baja"
    },
    {
-    "id": "anunciara aranceles capacidad exceso investigacion sobre tras trump",
-    "type": "arancel",
-    "title": "Trump anunciará aranceles tras investigación sobre exceso de capacidad industrial",
-    "url": "https://www.larepublica.co/globoeconomia/trump-anunciara-aranceles-tras-investigacion-sobre-exceso-de-capacidad-industrial-4532119",
-    "domain": "larepublica.co",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-24T23:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "aspiradora carne china exportaciones genera millones record unica",
     "type": "divisa",
     "title": "Exportaciones récord : la carne ya genera más de U$S 500 millones por mes y China ya no es la única aspiradora",
@@ -916,6 +916,23 @@
     ],
     "sectors": [
      "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "anunciara aranceles capacidad exceso investigacion sobre tras trump",
+    "type": "arancel",
+    "title": "Trump anunciará aranceles tras investigación sobre exceso de capacidad industrial",
+    "url": "https://www.larepublica.co/globoeconomia/trump-anunciara-aranceles-tras-investigacion-sobre-exceso-de-capacidad-industrial-4532119",
+    "domain": "larepublica.co",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-24T23:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "industria"
     ],
     "severity": "baja"
    },
@@ -2746,15 +2763,17 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: fetch failed",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
