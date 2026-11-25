@@ -1,11 +1,45 @@
 {
- "updatedAt": "2026-11-25T10:42:48.089Z",
+ "updatedAt": "2026-11-25T11:43:06.802Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "chip control export mechanism singapore work",
+    "type": "sancion",
+    "title": "Singapore , US work on mechanism for chip export control",
+    "url": "https://sbr.com.sg/information-technology/news/singapore-us-work-mechanism-chip-export-control",
+    "domain": "sbr.com.sg",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-25T05:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "chip enforcement export megaspeed probe singapore with working",
+    "type": "sancion",
+    "title": "Singapore working with US on chip export enforcement as Megaspeed probe continues : PM Wong",
+    "url": "https://asianews.network/singapore-working-with-us-on-chip-export-enforcement-as-megaspeed-probe-continues-pm-wong/",
+    "domain": "asianews.network",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-25T05:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "administration china considering india raising result tariffs trump",
     "type": "regulacion",
@@ -38,6 +72,21 @@
     ],
     "sectors": [],
     "severity": "alta"
+   },
+   {
+    "id": "alibaba curbs exports megaspeed unit",
+    "type": "sancion",
+    "title": "US curbs exports to Megaspeed , Alibaba unit",
+    "url": "https://ianslive.in/us-curbs-exports-to-megaspeed-alibaba-unit--20261125082403",
+    "domain": "ianslive.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T04:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "assistance customs kingdom lanka receive technical under united",
@@ -106,19 +155,68 @@
     "severity": "alta"
    },
    {
-    "id": "aplica arancel desde envios euros euros julio menos",
-    "type": "arancel",
-    "title": "La UE aplica desde el 1 de julio un arancel de 3 euros a los envíos de menos de 150 euros de Temu y Shein",
-    "url": "https://www.economiafinanzas.com/la-ue-aplica-desde-el-1-de-julio-un-arancel-de-3-euros-a-los-envios-de-menos-de-150-euros-de-temu-y-shein/",
-    "domain": "economiafinanzas.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
+    "id": "case convicted huawei secrets stealing trade what what",
+    "type": "sancion",
+    "title": "Huawei convicted of stealing trade secrets : What the case , and what does it mean for US - China ties ? Explained",
+    "url": "https://www.livemint.com/news/us-news/huawei-convicted-of-stealing-us-trade-secrets-what-s-the-case-and-what-does-it-mean-for-us-china-ties-explained-11795572905540.html",
+    "domain": "livemint.com",
+    "lang": "en",
+    "sourceCountry": "India",
     "at": "2026-11-25T03:45:00Z",
     "countries": [
-     "EU"
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "houthis kingdom news sanctions targets united with world",
+    "type": "sancion",
+    "title": "World News : united kingdom targets Houthis with new sanctions",
+    "url": "https://www.gdnonline.com:443/Details/1413891",
+    "domain": "gdnonline.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T03:45:00Z",
+    "countries": [
+     "GB"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "conspiracy convicted groundbreaking huawei jury secrets steal trade",
+    "type": "sancion",
+    "title": "Huawei Convicted of Conspiracy to Steal Trade Secrets in Groundbreaking US Jury Decision , ETTelecom",
+    "url": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/136145662",
+    "domain": "telecom.economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T03:45:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "chinese conspiracy giant guilty huawei steal tech trade",
+    "type": "sancion",
+    "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets , US jury finds",
+    "url": "https://www.erienewsnow.com/news/state/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article_fea777a6-8709-5a81-b5e6-9533e0f5db1d.html",
+    "domain": "erienewsnow.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T03:45:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
    },
    {
     "id": "approves cabinet cooperation customs kingdom lanka united",
@@ -131,6 +229,21 @@
     "at": "2026-11-25T03:45:00Z",
     "countries": [
      "GB"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aplica arancel desde envios euros euros julio menos",
+    "type": "arancel",
+    "title": "La UE aplica desde el 1 de julio un arancel de 3 euros a los envíos de menos de 150 euros de Temu y Shein",
+    "url": "https://www.economiafinanzas.com/la-ue-aplica-desde-el-1-de-julio-un-arancel-de-3-euros-a-los-envios-de-menos-de-150-euros-de-temu-y-shein/",
+    "domain": "economiafinanzas.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T03:45:00Z",
+    "countries": [
+     "EU"
     ],
     "sectors": [],
     "severity": "baja"
@@ -170,21 +283,6 @@
     "severity": "media"
    },
    {
-    "id": "comunidad dominicano embajador importancia inversion mercado para resalta",
-    "type": "arancel",
-    "title": "Embajador de la UE resalta importancia del mercado dominicano para inversión de esa comunidad",
-    "url": "https://proceso.com.do/2026/11/24/embajador-de-la-ue-resalta-importancia-del-mercado-dominicano-para-inversion-de-esa-comunidad/",
-    "domain": "proceso.com.do",
-    "lang": "es",
-    "sourceCountry": "Dominican Republic",
-    "at": "2026-11-25T02:45:00Z",
-    "countries": [
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "australia both deal farmers oppose sides stock trade",
     "type": "regulacion",
     "title": "Why farmers on both sides oppose the Australia - EU trade deal | Stock Journal",
@@ -199,6 +297,21 @@
     "sectors": [
      "alim"
     ],
+    "severity": "baja"
+   },
+   {
+    "id": "comunidad dominicano embajador importancia inversion mercado para resalta",
+    "type": "arancel",
+    "title": "Embajador de la UE resalta importancia del mercado dominicano para inversión de esa comunidad",
+    "url": "https://proceso.com.do/2026/11/24/embajador-de-la-ue-resalta-importancia-del-mercado-dominicano-para-inversion-de-esa-comunidad/",
+    "domain": "proceso.com.do",
+    "lang": "es",
+    "sourceCountry": "Dominican Republic",
+    "at": "2026-11-25T02:45:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -236,23 +349,6 @@
     "severity": "media"
    },
    {
-    "id": "aranceles china contra europa iran prepara sanciona trump",
-    "type": "arancel",
-    "title": "Trump prepara aranceles contra China y Europa y sanciona a Irán",
-    "url": "https://www.negocios.com/geopolitica/trump-intensifica-frentes-nuevos-aranceles-sanciones-iran-tensiones-globales/20261124223000498689.html",
-    "domain": "negocios.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-25T02:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
     "id": "auto canada china could into push tariffs trump",
     "type": "regulacion",
     "title": "Could Trump Auto Tariffs Push Canada into China Arms ?",
@@ -285,6 +381,23 @@
      "alim"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "aranceles china contra europa iran prepara sanciona trump",
+    "type": "arancel",
+    "title": "Trump prepara aranceles contra China y Europa y sanciona a Irán",
+    "url": "https://www.negocios.com/geopolitica/trump-intensifica-frentes-nuevos-aranceles-sanciones-iran-tensiones-globales/20261124223000498689.html",
+    "domain": "negocios.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T02:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
    },
    {
     "id": "china conspiring convicts court fraud huawei steal trade",
@@ -334,24 +447,6 @@
     "severity": "baja"
    },
    {
-    "id": "chinese conspiracy giant guilty huawei steal tech trade",
-    "type": "sancion",
-    "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets , US jury finds",
-    "url": "https://www.wral.com/news/ap/b39ac-chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/",
-    "domain": "wral.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-25T01:45:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "media"
-   },
-   {
     "id": "china conspiracy found fraud guilty huawei secrets trade",
     "type": "sancion",
     "title": "China Huawei found guilty of trade secrets conspiracy , fraud in US trial | Business and Economy News",
@@ -384,24 +479,6 @@
     "severity": "alta"
    },
    {
-    "id": "adaptarse aranceles debe economia industria mexicana secretaria",
-    "type": "arancel",
-    "title": "Industria mexicana debe adaptarse a aranceles de EU : Secretaría de Economía",
-    "url": "https://unomasuno.com.mx/nacional/industria-mexicana-debe-adaptarse-a-aranceles-de-eu-secretaria-de-economia/",
-    "domain": "unomasuno.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-25T00:45:00Z",
-    "countries": [
-     "MX",
-     "EU"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "media"
-   },
-   {
     "id": "china focus investments manufacturing must nigeria relations trade",
     "type": "regulacion",
     "title": "Nigeria - China Trade Relations Must Focus on Investments in Manufacturing , Export – THISDAYLIVE",
@@ -432,6 +509,24 @@
      "alim"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "adaptarse aranceles debe economia industria mexicana secretaria",
+    "type": "arancel",
+    "title": "Industria mexicana debe adaptarse a aranceles de EU : Secretaría de Economía",
+    "url": "https://unomasuno.com.mx/nacional/industria-mexicana-debe-adaptarse-a-aranceles-de-eu-secretaria-de-economia/",
+    "domain": "unomasuno.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [
+     "MX",
+     "EU"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
    },
    {
     "id": "after camp korea relations reviews sanctions switzerland youth",
@@ -646,22 +741,6 @@
     "severity": "media"
    },
    {
-    "id": "being caught hiccups scotch seized shipments tariff whisky",
-    "type": "regulacion",
-    "title": "Hiccups ! Why Scotch whisky is caught in a tariff row and shipments are being seized | Explained amid India - UK trade deal",
-    "url": "https://www.livemint.com/economy/hiccups-why-scotch-whisky-is-caught-in-a-tariff-row-and-shipments-are-being-seized-explained-amid-india-uk-trade-deal-11795543797623.html",
-    "domain": "livemint.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-24T21:30:00Z",
-    "countries": [
-     "GB",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "alliance global landmark maersk north shipping south",
     "type": "logistica",
     "title": "Maersk and ONE Eye Landmark Global North - South Shipping Alliance",
@@ -694,6 +773,22 @@
     "severity": "baja"
    },
    {
+    "id": "being caught hiccups scotch seized shipments tariff whisky",
+    "type": "regulacion",
+    "title": "Hiccups ! Why Scotch whisky is caught in a tariff row and shipments are being seized | Explained amid India - UK trade deal",
+    "url": "https://www.livemint.com/economy/hiccups-why-scotch-whisky-is-caught-in-a-tariff-row-and-shipments-are-being-seized-explained-amid-india-uk-trade-deal-11795543797623.html",
+    "domain": "livemint.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-24T21:30:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "cana capabilities chain cold expands logistics punta world",
     "type": "regulacion",
     "title": "DP World Expands Cold - Chain Logistics Capabilities at Punta Cana Air Cargo Hub",
@@ -705,6 +800,22 @@
     "countries": [],
     "sectors": [
      "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "2026 best companies distributors freight management manufacturers",
+    "type": "regulacion",
+    "title": "Best Freight Management Companies for Manufacturers and Distributors in 2026",
+    "url": "https://finchannel.com/best-freight-management-companies-for-manufacturers-and-distributors-in-2026/142922/reviews/2026/11/",
+    "domain": "finchannel.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T20:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte",
+     "industria"
     ],
     "severity": "baja"
    },
@@ -737,22 +848,6 @@
     "countries": [],
     "sectors": [
      "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "2026 best companies distributors freight management manufacturers",
-    "type": "regulacion",
-    "title": "Best Freight Management Companies for Manufacturers and Distributors in 2026",
-    "url": "https://finchannel.com/best-freight-management-companies-for-manufacturers-and-distributors-in-2026/142922/reviews/2026/11/",
-    "domain": "finchannel.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-24T20:15:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte",
-     "industria"
     ],
     "severity": "baja"
    },
@@ -2374,15 +2469,14 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: fetch failed",
+   "logistica/spanish: fetch failed",
    "regulacion/spanish: fetch failed",
    "divisa/english: fetch failed",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: fetch failed",
+   "geo/spanish: fetch failed"
   ]
  }
 }
