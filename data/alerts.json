@@ -1,11 +1,77 @@
 {
- "updatedAt": "2026-11-25T15:44:27.535Z",
+ "updatedAt": "2026-11-25T17:13:47.333Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "aranceles desvela imponer incluidos nuevo para plan trump",
+    "type": "arancel",
+    "title": "Trump desvela un nuevo plan para imponer aranceles , incluidos China y los 27 miembros de la UE",
+    "url": "https://www.lavanguardia.com/economia/20261125/11693211/trump-desvela-nuevo-plan-imponer-aranceles-incluidos-china-27-miembros-ue.html",
+    "domain": "lavanguardia.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "alcalde avant ministerio puertollano reivindicaciones trasladara usuarios",
+    "type": "arancel",
+    "title": "El alcalde de Puertollano trasladará al Ministerio las reivindicaciones de los usuarios del AVANT",
+    "url": "https://www.lanzadigital.com/provincia/puertollano/el-alcalde-de-puertollano-trasladara-al-ministerio-las-reivindicaciones-de-los-usuarios-del-avant/",
+    "domain": "lanzadigital.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "against china imposing tariffs warns",
+    "type": "geo",
+    "title": "China warns US against imposing new tariffs",
+    "url": "https://arynews.tv/china-warns-us-imposing-new-tariffs",
+    "domain": "arynews.tv",
+    "lang": "en",
+    "sourceCountry": "Pakistan",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "brazil china hike others plans tariffs",
+    "type": "geo",
+    "title": "US plans to hike tariffs on China , EU , Brazil and others",
+    "url": "https://www.dailylocal.com/2026/11/25/trump-tariff-hikes/",
+    "domain": "dailylocal.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "BR",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "calls free mandate reform smmt tariff trade with",
     "type": "arancel",
@@ -141,6 +207,21 @@
     "severity": "media"
    },
    {
+    "id": "alibaba curbs exports megaspeed unit",
+    "type": "geo",
+    "title": "US curbs exports to Megaspeed , Alibaba unit",
+    "url": "https://ianslive.in/us-curbs-exports-to-megaspeed-alibaba-unit--20261125082403",
+    "domain": "ianslive.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T04:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "apple biggest costs fertilizer fuel region squeezing tariffs",
     "type": "arancel",
     "title": "How tariffs , fuel and fertilizer costs are squeezing the U . S . biggest apple region",
@@ -203,21 +284,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "alibaba curbs exports megaspeed unit",
-    "type": "sancion",
-    "title": "US curbs exports to Megaspeed , Alibaba unit",
-    "url": "https://ianslive.in/us-curbs-exports-to-megaspeed-alibaba-unit--20261125082403",
-    "domain": "ianslive.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-25T04:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "assistance customs kingdom lanka receive technical under united",
@@ -350,7 +416,7 @@
    },
    {
     "id": "case convicted huawei secrets stealing trade what what",
-    "type": "sancion",
+    "type": "geo",
     "title": "Huawei convicted of stealing trade secrets : What the case , and what does it mean for US - China ties ? Explained",
     "url": "https://www.livemint.com/news/us-news/huawei-convicted-of-stealing-us-trade-secrets-what-s-the-case-and-what-does-it-mean-for-us-china-ties-explained-11795572905540.html",
     "domain": "livemint.com",
@@ -445,6 +511,23 @@
     "severity": "baja"
    },
    {
+    "id": "administration against china european offensive prepares tariff trump",
+    "type": "geo",
+    "title": "Trump Administration Prepares New Tariff Offensive Against China and European Union",
+    "url": "https://slguardian.org/trump-administration-prepares-new-tariff-offensive-against-china-and-european-union/",
+    "domain": "slguardian.org",
+    "lang": "en",
+    "sourceCountry": "Sri Lanka",
+    "at": "2026-11-25T03:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
     "id": "administration china considering india raising report tariffs trump",
     "type": "regulacion",
     "title": "Trump administration considering raising tariffs on India , China : Report",
@@ -475,6 +558,22 @@
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "continues hormuz iran ramps sanctions ships strait targeting",
+    "type": "geo",
+    "title": "Iran Continues Targeting Ships in Strait of Hormuz as US Ramps Up Sanctions",
+    "url": "https://news.antiwar.com/2026/11/24/iran-continues-targeting-ships-in-strait-of-hormuz-as-us-ramps-up-sanctions/",
+    "domain": "news.antiwar.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T02:45:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
    },
    {
     "id": "australia both deal farmers oppose sides stock trade",
@@ -626,6 +725,22 @@
     "severity": "baja"
    },
    {
+    "id": "amid blockades economic iranian lawmaker over sanctions says",
+    "type": "geo",
+    "title": "Iranian lawmaker says era of sanctions and blockades is over amid US economic curbs",
+    "url": "https://news.webindia123.com/news/Articles/World/20261125/4524130.html",
+    "domain": "news.webindia123.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T01:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
     "id": "china conspiracy found fraud guilty huawei secrets trade",
     "type": "sancion",
     "title": "China Huawei found guilty of trade secrets conspiracy , fraud in US trial | Business and Economy News",
@@ -640,22 +755,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "amid blockades economic iranian lawmaker over sanctions says",
-    "type": "sancion",
-    "title": "Iranian lawmaker says era of sanctions and blockades is over amid US economic curbs",
-    "url": "https://news.webindia123.com/news/Articles/World/20261125/4524130.html",
-    "domain": "news.webindia123.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-25T01:15:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
    },
    {
     "id": "adaptarse aranceles debe economia industria mexicana secretaria",
@@ -2648,16 +2747,14 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: fetch failed",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: fetch failed",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
