@@ -1,11 +1,74 @@
 {
- "updatedAt": "2026-11-24T23:57:36.642Z",
+ "updatedAt": "2026-11-25T01:21:19.638Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "altos ataques cargos cuatro huties londres reanudacion sanciona",
+    "type": "sancion",
+    "title": "Londres sanciona a los hutíes y a cuatro de sus altos cargos por reanudación de ataques en Yemen y Arabia Saudí",
+    "url": "https://www.notimerica.com/politica/noticia-yemen-londres-sanciona-huties-cuatro-altos-cargos-reanudacion-ataques-yemen-arabia-saudi-20261125005053.html",
+    "domain": "notimerica.com",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [
+     "SA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china focus investments manufacturing must nigeria relations trade",
+    "type": "regulacion",
+    "title": "Nigeria - China Trade Relations Must Focus on Investments in Manufacturing , Export – THISDAYLIVE",
+    "url": "https://www.thisdaylive.com/2026/11/25/nigeria-china-trade-relations-must-focus-on-investments-in-manufacturing-export/",
+    "domain": "thisdaylive.com",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "access agribition amid industry market stresses support tariff",
+    "type": "regulacion",
+    "title": "At Agribition , Moe stresses market access , industry support amid tariff uncertainty",
+    "url": "https://www.620ckrm.com/2026/11/24/at-agribition-moe-stresses-market-access-industry-support-amid-tariff-uncertainty/",
+    "domain": "620ckrm.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "amid blockades economic iranian lawmaker over sanctions says",
+    "type": "geo",
+    "title": "Iranian lawmaker says era of sanctions and blockades is over amid US economic curbs",
+    "url": "http://www.bignewsnetwork.com/news/279452843/iranian-lawmaker-says-era-of-sanctions-and-blockades-is-over-amid-us-economic-curbs",
+    "domain": "bignewsnetwork.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
    {
     "id": "found giant guilty huawei secrets stealing tech trade",
     "type": "sancion",
@@ -153,6 +216,68 @@
     "severity": "media"
    },
    {
+    "id": "being caught hiccups scotch seized shipments tariff whisky",
+    "type": "regulacion",
+    "title": "Hiccups ! Why Scotch whisky is caught in a tariff row and shipments are being seized | Explained amid India - UK trade deal",
+    "url": "https://www.livemint.com/economy/hiccups-why-scotch-whisky-is-caught-in-a-tariff-row-and-shipments-are-being-seized-explained-amid-india-uk-trade-deal-11795543797623.html",
+    "domain": "livemint.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-24T21:30:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "cana capabilities chain cold expands logistics punta world",
+    "type": "regulacion",
+    "title": "DP World Expands Cold - Chain Logistics Capabilities at Punta Cana Air Cargo Hub",
+    "url": "https://nationalpost.com/press-releases/globe-newswire/dp-world-expands-cold-chain-logistics-capabilities-at-punta-cana-air-cargo-hub/",
+    "domain": "nationalpost.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-24T20:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "2026 best companies distributors freight management manufacturers",
+    "type": "regulacion",
+    "title": "Best Freight Management Companies for Manufacturers and Distributors in 2026",
+    "url": "https://finchannel.com/best-freight-management-companies-for-manufacturers-and-distributors-in-2026/142922/reviews/2026/11/",
+    "domain": "finchannel.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T20:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte",
+     "industria"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "canadian defence mount pentagon podcast takes tensions trade",
+    "type": "geo",
+    "title": "PODCAST : Pentagon takes aim at Canadian defence as trade tensions mount",
+    "url": "https://www.620ckrm.com/2026/11/24/podcast-pentagon-takes-aim-at-canadian-defence-as-trade-tensions-mount/",
+    "domain": "620ckrm.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-24T20:15:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "aranceles china estados europea nuevos prepara unidos union",
     "type": "arancel",
     "title": "Estados Unidos prepara nuevos aranceles a China , la Unión Europea y otros 14 países",
@@ -185,19 +310,20 @@
     "severity": "baja"
    },
    {
-    "id": "canadian defence mount pentagon podcast takes tensions trade",
-    "type": "geo",
-    "title": "PODCAST : Pentagon takes aim at Canadian defence as trade tensions mount",
-    "url": "https://www.620ckrm.com/2026/11/24/podcast-pentagon-takes-aim-at-canadian-defence-as-trade-tensions-mount/",
-    "domain": "620ckrm.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-24T20:15:00Z",
+    "id": "estados financieras iran redes sanciona unidos vinculadas",
+    "type": "sancion",
+    "title": "Estados Unidos sanciona a redes financieras vinculadas a Irán",
+    "url": "https://sana.sy/es/economy/2344847/",
+    "domain": "sana.sy",
+    "lang": "es",
+    "sourceCountry": "Syria",
+    "at": "2026-11-24T07:45:00Z",
     "countries": [
-     "CA"
+     "US",
+     "IR"
     ],
     "sectors": [],
-    "severity": "baja"
+    "severity": "alta"
    },
    {
     "id": "linked megaspeed nvidia probe singapore",
@@ -213,22 +339,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "estados financieras iran redes sanciona unidos vinculadas",
-    "type": "sancion",
-    "title": "Estados Unidos sanciona a redes financieras vinculadas a Irán",
-    "url": "https://sana.sy/es/economy/2344847/",
-    "domain": "sana.sy",
-    "lang": "es",
-    "sourceCountry": "Syria",
-    "at": "2026-11-24T07:45:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
    },
    {
     "id": "brands global india look shifts sourcing textile trade",
@@ -406,6 +516,21 @@
     "severity": "media"
    },
    {
+    "id": "calls canada deal fairly representative trade trade with",
+    "type": "regulacion",
+    "title": "U . S . trade representative calls trade deal with Canada fairly close",
+    "url": "https://www.chch.com/chch-news/u-s-trade-representative-calls-trade-deal-with-canada-fairly-close/",
+    "domain": "chch.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-24T04:45:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "corporation expansion fleet india opens shipping tenders",
     "type": "logistica",
     "title": "Shipping Corporation of India Opens Tenders for $3B Fleet Expansion",
@@ -420,21 +545,6 @@
     "sectors": [
      "transporte"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "calls canada deal fairly representative trade trade with",
-    "type": "regulacion",
-    "title": "U . S . trade representative calls trade deal with Canada fairly close",
-    "url": "https://www.chch.com/chch-news/u-s-trade-representative-calls-trade-deal-with-canada-fairly-close/",
-    "domain": "chch.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-24T04:45:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -1798,52 +1908,17 @@
      "transporte"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "canada china trade turning",
-    "type": "geo",
-    "title": "Why is Canada turning to China for trade ?",
-    "url": "https://www.chch.com/chch-news/canada-china-drop-more-trade-restrictions-why-is-canada-turning-to-china-for-trade/",
-    "domain": "chch.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-18T01:15:00Z",
-    "countries": [
-     "CN",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "carney china expand meets relief tariff",
-    "type": "arancel",
-    "title": "China Expand Tariff Relief as Carney Meets Xi",
-    "url": "https://www.khaama.com/canada-and-china-expand-tariff-relief-as-carney-and-xi-deepen-partnership-despite-u-s-pressure/",
-    "domain": "khaama.com",
-    "lang": "en",
-    "sourceCountry": "Afghanistan",
-    "at": "2026-11-18T01:15:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
