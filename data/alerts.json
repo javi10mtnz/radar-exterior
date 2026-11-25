@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T09:17:40.651Z",
+ "updatedAt": "2026-11-25T10:42:48.089Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -106,21 +106,6 @@
     "severity": "alta"
    },
    {
-    "id": "approves cabinet cooperation customs kingdom lanka united",
-    "type": "regulacion",
-    "title": "Cabinet approves united kingdom - Sri Lanka Customs cooperation MoU",
-    "url": "https://www.ft.lk/business/Cabinet-approves-UK-Sri-Lanka-Customs-cooperation-MoU/34-800537",
-    "domain": "ft.lk",
-    "lang": "en",
-    "sourceCountry": "Sri Lanka",
-    "at": "2026-11-25T03:45:00Z",
-    "countries": [
-     "GB"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "aplica arancel desde envios euros euros julio menos",
     "type": "arancel",
     "title": "La UE aplica desde el 1 de julio un arancel de 3 euros a los envíos de menos de 150 euros de Temu y Shein",
@@ -131,6 +116,21 @@
     "at": "2026-11-25T03:45:00Z",
     "countries": [
      "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "approves cabinet cooperation customs kingdom lanka united",
+    "type": "regulacion",
+    "title": "Cabinet approves united kingdom - Sri Lanka Customs cooperation MoU",
+    "url": "https://www.ft.lk/business/Cabinet-approves-UK-Sri-Lanka-Customs-cooperation-MoU/34-800537",
+    "domain": "ft.lk",
+    "lang": "en",
+    "sourceCountry": "Sri Lanka",
+    "at": "2026-11-25T03:45:00Z",
+    "countries": [
+     "GB"
     ],
     "sectors": [],
     "severity": "baja"
@@ -170,6 +170,21 @@
     "severity": "media"
    },
    {
+    "id": "comunidad dominicano embajador importancia inversion mercado para resalta",
+    "type": "arancel",
+    "title": "Embajador de la UE resalta importancia del mercado dominicano para inversión de esa comunidad",
+    "url": "https://proceso.com.do/2026/11/24/embajador-de-la-ue-resalta-importancia-del-mercado-dominicano-para-inversion-de-esa-comunidad/",
+    "domain": "proceso.com.do",
+    "lang": "es",
+    "sourceCountry": "Dominican Republic",
+    "at": "2026-11-25T02:45:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "australia both deal farmers oppose sides stock trade",
     "type": "regulacion",
     "title": "Why farmers on both sides oppose the Australia - EU trade deal | Stock Journal",
@@ -184,21 +199,6 @@
     "sectors": [
      "alim"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "comunidad dominicano embajador importancia inversion mercado para resalta",
-    "type": "arancel",
-    "title": "Embajador de la UE resalta importancia del mercado dominicano para inversión de esa comunidad",
-    "url": "https://proceso.com.do/2026/11/24/embajador-de-la-ue-resalta-importancia-del-mercado-dominicano-para-inversion-de-esa-comunidad/",
-    "domain": "proceso.com.do",
-    "lang": "es",
-    "sourceCountry": "Dominican Republic",
-    "at": "2026-11-25T02:45:00Z",
-    "countries": [
-     "EU"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -236,6 +236,23 @@
     "severity": "media"
    },
    {
+    "id": "aranceles china contra europa iran prepara sanciona trump",
+    "type": "arancel",
+    "title": "Trump prepara aranceles contra China y Europa y sanciona a Irán",
+    "url": "https://www.negocios.com/geopolitica/trump-intensifica-frentes-nuevos-aranceles-sanciones-iran-tensiones-globales/20261124223000498689.html",
+    "domain": "negocios.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T02:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
     "id": "auto canada china could into push tariffs trump",
     "type": "regulacion",
     "title": "Could Trump Auto Tariffs Push Canada into China Arms ?",
@@ -268,23 +285,6 @@
      "alim"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "aranceles china contra europa iran prepara sanciona trump",
-    "type": "arancel",
-    "title": "Trump prepara aranceles contra China y Europa y sanciona a Irán",
-    "url": "https://www.negocios.com/geopolitica/trump-intensifica-frentes-nuevos-aranceles-sanciones-iran-tensiones-globales/20261124223000498689.html",
-    "domain": "negocios.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-25T02:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
    },
    {
     "id": "china conspiring convicts court fraud huawei steal trade",
@@ -384,6 +384,24 @@
     "severity": "alta"
    },
    {
+    "id": "adaptarse aranceles debe economia industria mexicana secretaria",
+    "type": "arancel",
+    "title": "Industria mexicana debe adaptarse a aranceles de EU : Secretaría de Economía",
+    "url": "https://unomasuno.com.mx/nacional/industria-mexicana-debe-adaptarse-a-aranceles-de-eu-secretaria-de-economia/",
+    "domain": "unomasuno.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [
+     "MX",
+     "EU"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
+   {
     "id": "china focus investments manufacturing must nigeria relations trade",
     "type": "regulacion",
     "title": "Nigeria - China Trade Relations Must Focus on Investments in Manufacturing , Export – THISDAYLIVE",
@@ -414,24 +432,6 @@
      "alim"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "adaptarse aranceles debe economia industria mexicana secretaria",
-    "type": "arancel",
-    "title": "Industria mexicana debe adaptarse a aranceles de EU : Secretaría de Economía",
-    "url": "https://unomasuno.com.mx/nacional/industria-mexicana-debe-adaptarse-a-aranceles-de-eu-secretaria-de-economia/",
-    "domain": "unomasuno.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-25T00:45:00Z",
-    "countries": [
-     "MX",
-     "EU"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "media"
    },
    {
     "id": "after camp korea relations reviews sanctions switzerland youth",
@@ -513,23 +513,6 @@
     "severity": "baja"
    },
    {
-    "id": "aspiradora carne china exportaciones genera millones record unica",
-    "type": "divisa",
-    "title": "Exportaciones récord : la carne ya genera más de U$S 500 millones por mes y China ya no es la única aspiradora",
-    "url": "https://www.infocampo.com.ar/exportaciones-record-la-carne-ya-genera-mas-de-us-500-millones-por-mes-y-china-ya-no-es-la-unica-aspiradora/",
-    "domain": "infocampo.com.ar",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-24T23:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "anunciara aranceles capacidad exceso investigacion sobre tras trump",
     "type": "arancel",
     "title": "Trump anunciará aranceles tras investigación sobre exceso de capacidad industrial",
@@ -543,6 +526,23 @@
     ],
     "sectors": [
      "industria"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "aspiradora carne china exportaciones genera millones record unica",
+    "type": "divisa",
+    "title": "Exportaciones récord : la carne ya genera más de U$S 500 millones por mes y China ya no es la única aspiradora",
+    "url": "https://www.infocampo.com.ar/exportaciones-record-la-carne-ya-genera-mas-de-us-500-millones-por-mes-y-china-ya-no-es-la-unica-aspiradora/",
+    "domain": "infocampo.com.ar",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-24T23:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "alim"
     ],
     "severity": "baja"
    },
@@ -709,22 +709,6 @@
     "severity": "baja"
    },
    {
-    "id": "2026 best companies distributors freight management manufacturers",
-    "type": "regulacion",
-    "title": "Best Freight Management Companies for Manufacturers and Distributors in 2026",
-    "url": "https://finchannel.com/best-freight-management-companies-for-manufacturers-and-distributors-in-2026/142922/reviews/2026/11/",
-    "domain": "finchannel.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-24T20:15:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte",
-     "industria"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "aranceles china estados europea nuevos prepara unidos union",
     "type": "arancel",
     "title": "Estados Unidos prepara nuevos aranceles a China , la Unión Europea y otros 14 países",
@@ -753,6 +737,22 @@
     "countries": [],
     "sectors": [
      "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "2026 best companies distributors freight management manufacturers",
+    "type": "regulacion",
+    "title": "Best Freight Management Companies for Manufacturers and Distributors in 2026",
+    "url": "https://finchannel.com/best-freight-management-companies-for-manufacturers-and-distributors-in-2026/142922/reviews/2026/11/",
+    "domain": "finchannel.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T20:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte",
+     "industria"
     ],
     "severity": "baja"
    },
@@ -2374,12 +2374,13 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: fetch failed",
    "regulacion/spanish: fetch failed",
    "divisa/english: fetch failed",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
