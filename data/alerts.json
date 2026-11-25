@@ -1,11 +1,128 @@
 {
- "updatedAt": "2026-11-25T02:46:08.487Z",
+ "updatedAt": "2026-11-25T04:12:42.393Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "approves cabinet cooperation customs kingdom lanka united",
+    "type": "regulacion",
+    "title": "Cabinet approves united kingdom - Sri Lanka Customs cooperation MoU",
+    "url": "https://www.ft.lk/business/Cabinet-approves-UK-Sri-Lanka-Customs-cooperation-MoU/34-800537",
+    "domain": "ft.lk",
+    "lang": "en",
+    "sourceCountry": "Sri Lanka",
+    "at": "2026-11-25T03:45:00Z",
+    "countries": [
+     "GB"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "australia both deal farmers land oppose sides trade",
+    "type": "regulacion",
+    "title": "Why farmers on both sides oppose the Australia - EU trade deal | The Land",
+    "url": "https://www.theland.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
+    "domain": "theland.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-25T03:30:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "administration china considering india raising result tariffs trump",
+    "type": "regulacion",
+    "title": "Trump administration considering raising tariffs on India - China , result of Section 301 probe to be announced : Report",
+    "url": "https://news.webindia123.com/news/Articles/Business/20261125/4524139.html",
+    "domain": "news.webindia123.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T03:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "administration china considering india raising report tariffs trump",
+    "type": "regulacion",
+    "title": "Trump administration considering raising tariffs on India , China : Report",
+    "url": "https://www.tribuneindia.com/news/business/trump-administration-considering-raising-tariffs-on-india-china-result-of-section-301-probe-to-be-announced-report/",
+    "domain": "tribuneindia.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T03:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "australia both deal farmers oppose sides stock trade",
+    "type": "regulacion",
+    "title": "Why farmers on both sides oppose the Australia - EU trade deal | Stock Journal",
+    "url": "https://www.stockjournal.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
+    "domain": "stockjournal.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-25T02:45:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "auto canada china could into push tariffs trump",
+    "type": "regulacion",
+    "title": "Could Trump Auto Tariffs Push Canada into China Arms ?",
+    "url": "https://www.autoweek.com/news/a74524458/trump-auto-tariffs-push-canada-to-china/",
+    "domain": "autoweek.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T02:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "australia both deal farmers oppose queensland sides trade",
+    "type": "regulacion",
+    "title": "Why farmers on both sides oppose the Australia - EU trade deal | Queensland Country Life",
+    "url": "https://www.queenslandcountrylife.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
+    "domain": "queenslandcountrylife.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-25T02:15:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "aranceles china contra europa iran prepara sanciona trump",
     "type": "arancel",
@@ -121,6 +238,38 @@
     "severity": "alta"
    },
    {
+    "id": "china focus investments manufacturing must nigeria relations trade",
+    "type": "regulacion",
+    "title": "Nigeria - China Trade Relations Must Focus on Investments in Manufacturing , Export – THISDAYLIVE",
+    "url": "https://www.thisdaylive.com/2026/11/25/nigeria-china-trade-relations-must-focus-on-investments-in-manufacturing-export/",
+    "domain": "thisdaylive.com",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "access agribition amid industry market stresses support tariff",
+    "type": "regulacion",
+    "title": "At Agribition , Moe stresses market access , industry support amid tariff uncertainty",
+    "url": "https://www.620ckrm.com/2026/11/24/at-agribition-moe-stresses-market-access-industry-support-amid-tariff-uncertainty/",
+    "domain": "620ckrm.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "adaptarse aranceles debe economia industria mexicana secretaria",
     "type": "arancel",
     "title": "Industria mexicana debe adaptarse a aranceles de EU : Secretaría de Economía",
@@ -168,38 +317,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "china focus investments manufacturing must nigeria relations trade",
-    "type": "regulacion",
-    "title": "Nigeria - China Trade Relations Must Focus on Investments in Manufacturing , Export – THISDAYLIVE",
-    "url": "https://www.thisdaylive.com/2026/11/25/nigeria-china-trade-relations-must-focus-on-investments-in-manufacturing-export/",
-    "domain": "thisdaylive.com",
-    "lang": "en",
-    "sourceCountry": "Nigeria",
-    "at": "2026-11-25T00:45:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "access agribition amid industry market stresses support tariff",
-    "type": "regulacion",
-    "title": "At Agribition , Moe stresses market access , industry support amid tariff uncertainty",
-    "url": "https://www.620ckrm.com/2026/11/24/at-agribition-moe-stresses-market-access-industry-support-amid-tariff-uncertainty/",
-    "domain": "620ckrm.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-25T00:45:00Z",
-    "countries": [],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
    },
    {
     "id": "aranceles contra esta estados nuevos prepara unidos varios",
@@ -366,6 +483,22 @@
     "severity": "media"
    },
    {
+    "id": "being caught hiccups scotch seized shipments tariff whisky",
+    "type": "regulacion",
+    "title": "Hiccups ! Why Scotch whisky is caught in a tariff row and shipments are being seized | Explained amid India - UK trade deal",
+    "url": "https://www.livemint.com/economy/hiccups-why-scotch-whisky-is-caught-in-a-tariff-row-and-shipments-are-being-seized-explained-amid-india-uk-trade-deal-11795543797623.html",
+    "domain": "livemint.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-24T21:30:00Z",
+    "countries": [
+     "GB",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "alliance global landmark maersk north shipping south",
     "type": "logistica",
     "title": "Maersk and ONE Eye Landmark Global North - South Shipping Alliance",
@@ -398,22 +531,6 @@
     "severity": "baja"
    },
    {
-    "id": "being caught hiccups scotch seized shipments tariff whisky",
-    "type": "regulacion",
-    "title": "Hiccups ! Why Scotch whisky is caught in a tariff row and shipments are being seized | Explained amid India - UK trade deal",
-    "url": "https://www.livemint.com/economy/hiccups-why-scotch-whisky-is-caught-in-a-tariff-row-and-shipments-are-being-seized-explained-amid-india-uk-trade-deal-11795543797623.html",
-    "domain": "livemint.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-24T21:30:00Z",
-    "countries": [
-     "GB",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "cana capabilities chain cold expands logistics punta world",
     "type": "regulacion",
     "title": "DP World Expands Cold - Chain Logistics Capabilities at Punta Cana Air Cargo Hub",
@@ -425,6 +542,22 @@
     "countries": [],
     "sectors": [
      "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "2026 best companies distributors freight management manufacturers",
+    "type": "regulacion",
+    "title": "Best Freight Management Companies for Manufacturers and Distributors in 2026",
+    "url": "https://finchannel.com/best-freight-management-companies-for-manufacturers-and-distributors-in-2026/142922/reviews/2026/11/",
+    "domain": "finchannel.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T20:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte",
+     "industria"
     ],
     "severity": "baja"
    },
@@ -457,22 +590,6 @@
     "countries": [],
     "sectors": [
      "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "2026 best companies distributors freight management manufacturers",
-    "type": "regulacion",
-    "title": "Best Freight Management Companies for Manufacturers and Distributors in 2026",
-    "url": "https://finchannel.com/best-freight-management-companies-for-manufacturers-and-distributors-in-2026/142922/reviews/2026/11/",
-    "domain": "finchannel.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-24T20:15:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte",
-     "industria"
     ],
     "severity": "baja"
    },
@@ -523,21 +640,6 @@
     "severity": "media"
    },
    {
-    "id": "bets climbs dollar euphoria fuels hike renewed",
-    "type": "divisa",
-    "title": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
-    "url": "https://www.emirates247.com/business/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets/8091",
-    "domain": "emirates247.com",
-    "lang": "en",
-    "sourceCountry": "United Arab Emirates",
-    "at": "2026-11-24T07:15:00Z",
-    "countries": [],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "brands global india look shifts sourcing textile trade",
     "type": "regulacion",
     "title": "Global brands look to India for textile sourcing as trade shifts create new export opportunities",
@@ -564,6 +666,21 @@
     "countries": [],
     "sectors": [
      "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "bets climbs dollar euphoria fuels hike renewed",
+    "type": "divisa",
+    "title": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
+    "url": "https://www.emirates247.com/business/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets/8091",
+    "domain": "emirates247.com",
+    "lang": "en",
+    "sourceCountry": "United Arab Emirates",
+    "at": "2026-11-24T07:15:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
     ],
     "severity": "baja"
    },
@@ -698,6 +815,21 @@
     "severity": "media"
    },
    {
+    "id": "calls canada deal fairly representative trade trade with",
+    "type": "regulacion",
+    "title": "U . S . trade representative calls trade deal with Canada fairly close",
+    "url": "https://www.chch.com/chch-news/u-s-trade-representative-calls-trade-deal-with-canada-fairly-close/",
+    "domain": "chch.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-24T04:45:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "corporation expansion fleet india opens shipping tenders",
     "type": "logistica",
     "title": "Shipping Corporation of India Opens Tenders for $3B Fleet Expansion",
@@ -740,21 +872,6 @@
     "at": "2026-11-24T04:45:00Z",
     "countries": [
      "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "calls canada deal fairly representative trade trade with",
-    "type": "regulacion",
-    "title": "U . S . trade representative calls trade deal with Canada fairly close",
-    "url": "https://www.chch.com/chch-news/u-s-trade-representative-calls-trade-deal-with-canada-fairly-close/",
-    "domain": "chch.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-24T04:45:00Z",
-    "countries": [
-     "CA"
     ],
     "sectors": [],
     "severity": "baja"
@@ -2094,13 +2211,15 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
