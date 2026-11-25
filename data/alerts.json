@@ -1,11 +1,159 @@
 {
- "updatedAt": "2026-11-25T01:21:19.638Z",
+ "updatedAt": "2026-11-25T02:46:08.487Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "aranceles china contra europa iran prepara sanciona trump",
+    "type": "arancel",
+    "title": "Trump prepara aranceles contra China y Europa y sanciona a Irán",
+    "url": "https://www.negocios.com/geopolitica/trump-intensifica-frentes-nuevos-aranceles-sanciones-iran-tensiones-globales/20261124223000498689.html",
+    "domain": "negocios.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T02:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "china conspiring convicts court fraud huawei steal trade",
+    "type": "sancion",
+    "title": "US court convicts China Huawei for fraud , conspiring to steal trade secrets , in sprawling trial over Iran business",
+    "url": "https://cyprusnews.eu/cnn-kosmos/us-court-convicts-chinas-huawei-for-fraud-conspiring-to-steal-trade-secrets-in-sprawling-trial-over-iran-business/",
+    "domain": "cyprusnews.eu",
+    "lang": "en",
+    "sourceCountry": "Greece",
+    "at": "2026-11-25T02:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "conspiracy finds guilty huawei jury secrets steal trade",
+    "type": "sancion",
+    "title": "Huawei is guilty of conspiracy to steal trade secrets , US jury finds",
+    "url": "https://www.dailynews.com/2026/11/24/huawei-guilty-conspiracy-trial/",
+    "domain": "dailynews.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T01:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "conspiracy giant guilty huawei secrets steal tech trade",
+    "type": "sancion",
+    "title": "Tech giant Huawei is guilty of conspiracy to steal trade secrets , – NBC Chicago",
+    "url": "https://www.nbcchicago.com/news/national-international/huawei-guilty-conspiracy-steal-trade-secrets-us-jury-finds/4020994/",
+    "domain": "nbcchicago.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T01:45:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "chinese conspiracy giant guilty huawei steal tech trade",
+    "type": "sancion",
+    "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets , US jury finds",
+    "url": "https://www.wral.com/news/ap/b39ac-chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/",
+    "domain": "wral.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T01:45:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "china conspiracy found fraud guilty huawei secrets trade",
+    "type": "sancion",
+    "title": "China Huawei found guilty of trade secrets conspiracy , fraud in US trial | Business and Economy News",
+    "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets",
+    "domain": "aljazeera.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T01:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "amid blockades economic iranian lawmaker over sanctions says",
+    "type": "sancion",
+    "title": "Iranian lawmaker says era of sanctions and blockades is over amid US economic curbs",
+    "url": "https://news.webindia123.com/news/Articles/World/20261125/4524130.html",
+    "domain": "news.webindia123.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T01:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "adaptarse aranceles debe economia industria mexicana secretaria",
+    "type": "arancel",
+    "title": "Industria mexicana debe adaptarse a aranceles de EU : Secretaría de Economía",
+    "url": "https://unomasuno.com.mx/nacional/industria-mexicana-debe-adaptarse-a-aranceles-de-eu-secretaria-de-economia/",
+    "domain": "unomasuno.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [
+     "MX",
+     "EU"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "after camp korea relations reviews sanctions switzerland youth",
+    "type": "sancion",
+    "title": "N Korea reviews Switzerland relations after sanctions on youth camp linked to Russia - Ukraine war",
+    "url": "https://www.dailyexcelsior.com/n-korea-reviews-switzerland-relations-after-sanctions-on-youth-camp-linked-to-russia-ukraine-war/",
+    "domain": "dailyexcelsior.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [
+     "CH",
+     "RU"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
    {
     "id": "altos ataques cargos cuatro huties londres reanudacion sanciona",
     "type": "sancion",
@@ -54,20 +202,69 @@
     "severity": "baja"
    },
    {
-    "id": "amid blockades economic iranian lawmaker over sanctions says",
-    "type": "geo",
-    "title": "Iranian lawmaker says era of sanctions and blockades is over amid US economic curbs",
-    "url": "http://www.bignewsnetwork.com/news/279452843/iranian-lawmaker-says-era-of-sanctions-and-blockades-is-over-amid-us-economic-curbs",
-    "domain": "bignewsnetwork.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-25T00:45:00Z",
+    "id": "aranceles contra esta estados nuevos prepara unidos varios",
+    "type": "arancel",
+    "title": "Estados Unidos prepara nuevos aranceles contra varios , ¿ está México entre los afectados ?",
+    "url": "https://lopezdoriga.com/economia-y-finanzas/estados-unidos-prepara-nuevos-aranceles-contra-varios-esta-mexico-entre-los-afectados/",
+    "domain": "lopezdoriga.com",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-25T00:30:00Z",
     "countries": [
      "US",
-     "IR"
+     "MX"
     ],
     "sectors": [],
-    "severity": "alta"
+    "severity": "media"
+   },
+   {
+    "id": "anestesia comercial cumbre guerra putin relanza tras trump",
+    "type": "arancel",
+    "title": "Sin anestesia : tras la cumbre con Xi y Putin , Trump relanza la guerra comercial con aranceles recargados",
+    "url": "http://www.tiempodesanjuan.com/el-mundo/sin-anestesia-tras-la-cumbre-con-xi-y-putin-trump-relanza-la-guerra-comercial-con-aranceles-recargados_1795564361",
+    "domain": "tiempodesanjuan.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-25T00:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "amid cents dollar global hits tech year zealand",
+    "type": "divisa",
+    "title": "New Zealand dollar hits 17 - year low of 54 . 07 US cents amid global tech sector correction",
+    "url": "https://english.pravda.ru/news/world/174204-new-zealand-dollar-17-year-low/",
+    "domain": "english.pravda.ru",
+    "lang": "en",
+    "sourceCountry": "Russia",
+    "at": "2026-11-25T00:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "anunciara aranceles capacidad exceso investigacion sobre tras trump",
+    "type": "arancel",
+    "title": "Trump anunciará aranceles tras investigación sobre exceso de capacidad industrial",
+    "url": "https://www.larepublica.co/globoeconomia/trump-anunciara-aranceles-tras-investigacion-sobre-exceso-de-capacidad-industrial-4532119",
+    "domain": "larepublica.co",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-24T23:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
    },
    {
     "id": "found giant guilty huawei secrets stealing tech trade",
@@ -82,21 +279,6 @@
     "sectors": [
      "tech"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "conspiracy finds guilty huawei jury secrets steal trade",
-    "type": "sancion",
-    "title": "Huawei guilty of conspiracy to steal trade secrets , US jury finds",
-    "url": "https://www.wjcl.com/article/huawei-guilty-conspiracy-steal-trade-secrets-jury/74523779",
-    "domain": "wjcl.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-24T22:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -167,38 +349,6 @@
     "severity": "media"
    },
    {
-    "id": "chinese conspiracy giant guilty huawei steal tech trade",
-    "type": "sancion",
-    "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets , U . S . jury finds",
-    "url": "https://www.thehindu.com/sci-tech/technology/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article71740060.ece",
-    "domain": "thehindu.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-24T21:45:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "conspiracy giant guilty huawei secrets steal tech trade",
-    "type": "sancion",
-    "title": "Tech giant Huawei is guilty of conspiracy to steal trade secrets , – NBC Connecticut",
-    "url": "https://www.nbcconnecticut.com/news/national-international/huawei-guilty-conspiracy-steal-trade-secrets-us-jury-finds/3799394/",
-    "domain": "nbcconnecticut.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-24T21:45:00Z",
-    "countries": [],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "about banks business china convicted deceiving huawei iran",
     "type": "sancion",
     "title": "China Huawei convicted of deceiving banks about business in Iran and stealing US trade secrets | Huawei",
@@ -214,6 +364,38 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "alliance global landmark maersk north shipping south",
+    "type": "logistica",
+    "title": "Maersk and ONE Eye Landmark Global North - South Shipping Alliance",
+    "url": "https://gcaptain.com/maersk-and-one-eye-landmark-global-north-south-shipping-alliance/",
+    "domain": "gcaptain.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T21:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "domestic giant india major seeks shipping ships state",
+    "type": "logistica",
+    "title": "India State Shipping Giant Seeks Up to 22 New Ships in Major Domestic Shipbuilding Push",
+    "url": "https://gcaptain.com/indias-state-shipping-giant-seeks-up-to-22-new-ships-in-major-domestic-shipbuilding-push/",
+    "domain": "gcaptain.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-24T21:30:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
    },
    {
     "id": "being caught hiccups scotch seized shipments tariff whisky",
@@ -240,6 +422,38 @@
     "lang": "en",
     "sourceCountry": "Canada",
     "at": "2026-11-24T20:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles china estados europea nuevos prepara unidos union",
+    "type": "arancel",
+    "title": "Estados Unidos prepara nuevos aranceles a China , la Unión Europea y otros 14 países",
+    "url": "https://www.hoy.es/economia/estados-unidos-prepara-nuevos-aranceles-china-union-20261124183028-ntrc.html",
+    "domain": "hoy.es",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-24T20:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "atencion despachos genera horario limita nuevo puerto quetzal",
+    "type": "arancel",
+    "title": "Despachos en Puerto Quetzal : nuevo horario limita atención y genera rechazo , según exportadores",
+    "url": "https://lahora.gt/lh-economia/mherrera/2026/11/24/despachos-en-puerto-quetzal-nuevo-horario-limita-atencion-y-genera-rechazo-de-exportadores-now/",
+    "domain": "lahora.gt",
+    "lang": "es",
+    "sourceCountry": "Guatemala",
+    "at": "2026-11-24T20:15:00Z",
     "countries": [],
     "sectors": [
      "transporte"
@@ -278,38 +492,6 @@
     "severity": "baja"
    },
    {
-    "id": "aranceles china estados europea nuevos prepara unidos union",
-    "type": "arancel",
-    "title": "Estados Unidos prepara nuevos aranceles a China , la Unión Europea y otros 14 países",
-    "url": "https://www.hoy.es/economia/estados-unidos-prepara-nuevos-aranceles-china-union-20261124183028-ntrc.html",
-    "domain": "hoy.es",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-24T20:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "atencion despachos genera horario limita nuevo puerto quetzal",
-    "type": "arancel",
-    "title": "Despachos en Puerto Quetzal : nuevo horario limita atención y genera rechazo , según exportadores",
-    "url": "https://lahora.gt/lh-economia/mherrera/2026/11/24/despachos-en-puerto-quetzal-nuevo-horario-limita-atencion-y-genera-rechazo-de-exportadores-now/",
-    "domain": "lahora.gt",
-    "lang": "es",
-    "sourceCountry": "Guatemala",
-    "at": "2026-11-24T20:15:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "estados financieras iran redes sanciona unidos vinculadas",
     "type": "sancion",
     "title": "Estados Unidos sanciona a redes financieras vinculadas a Irán",
@@ -341,6 +523,21 @@
     "severity": "media"
    },
    {
+    "id": "bets climbs dollar euphoria fuels hike renewed",
+    "type": "divisa",
+    "title": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
+    "url": "https://www.emirates247.com/business/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets/8091",
+    "domain": "emirates247.com",
+    "lang": "en",
+    "sourceCountry": "United Arab Emirates",
+    "at": "2026-11-24T07:15:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "brands global india look shifts sourcing textile trade",
     "type": "regulacion",
     "title": "Global brands look to India for textile sourcing as trade shifts create new export opportunities",
@@ -367,21 +564,6 @@
     "countries": [],
     "sectors": [
      "alim"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "bets climbs dollar euphoria fuels hike renewed",
-    "type": "divisa",
-    "title": "Dollar climbs as renewed AI euphoria fuels Fed hike bets",
-    "url": "https://www.emirates247.com/business/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets/8091",
-    "domain": "emirates247.com",
-    "lang": "en",
-    "sourceCountry": "United Arab Emirates",
-    "at": "2026-11-24T07:15:00Z",
-    "countries": [],
-    "sectors": [
-     "tech"
     ],
     "severity": "baja"
    },
@@ -516,21 +698,6 @@
     "severity": "media"
    },
    {
-    "id": "calls canada deal fairly representative trade trade with",
-    "type": "regulacion",
-    "title": "U . S . trade representative calls trade deal with Canada fairly close",
-    "url": "https://www.chch.com/chch-news/u-s-trade-representative-calls-trade-deal-with-canada-fairly-close/",
-    "domain": "chch.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-24T04:45:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "corporation expansion fleet india opens shipping tenders",
     "type": "logistica",
     "title": "Shipping Corporation of India Opens Tenders for $3B Fleet Expansion",
@@ -573,6 +740,21 @@
     "at": "2026-11-24T04:45:00Z",
     "countries": [
      "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "calls canada deal fairly representative trade trade with",
+    "type": "regulacion",
+    "title": "U . S . trade representative calls trade deal with Canada fairly close",
+    "url": "https://www.chch.com/chch-news/u-s-trade-representative-calls-trade-deal-with-canada-fairly-close/",
+    "domain": "chch.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-24T04:45:00Z",
+    "countries": [
+     "CA"
     ],
     "sectors": [],
     "severity": "baja"
@@ -1912,13 +2094,13 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: fetch failed",
+   "geo/spanish: fetch failed"
   ]
  }
 }
