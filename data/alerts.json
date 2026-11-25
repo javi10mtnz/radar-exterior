@@ -1,11 +1,43 @@
 {
- "updatedAt": "2026-11-25T22:37:32.392Z",
+ "updatedAt": "2026-11-25T23:32:17.361Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "aranceles desvela imponer incluidos nuevo para plan trump",
+    "type": "arancel",
+    "title": "Trump desvela un nuevo plan para imponer aranceles , incluidos China y los 27 miembros de la UE",
+    "url": "https://www.lavanguardia.com/economia/20261125/11693211/trump-desvela-nuevo-plan-imponer-aranceles-incluidos-china-27-miembros-ue.html",
+    "domain": "lavanguardia.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "alcalde avant ministerio puertollano reivindicaciones trasladara usuarios",
+    "type": "arancel",
+    "title": "El alcalde de Puertollano trasladará al Ministerio las reivindicaciones de los usuarios del AVANT",
+    "url": "https://www.lanzadigital.com/provincia/puertollano/el-alcalde-de-puertollano-trasladara-al-ministerio-las-reivindicaciones-de-los-usuarios-del-avant/",
+    "domain": "lanzadigital.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "closes korea north office over pyongyang sanctions swiss",
     "type": "sancion",
@@ -150,38 +182,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "aranceles desvela imponer incluidos nuevo para plan trump",
-    "type": "arancel",
-    "title": "Trump desvela un nuevo plan para imponer aranceles , incluidos China y los 27 miembros de la UE",
-    "url": "https://www.lavanguardia.com/economia/20261125/11693211/trump-desvela-nuevo-plan-imponer-aranceles-incluidos-china-27-miembros-ue.html",
-    "domain": "lavanguardia.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "alcalde avant ministerio puertollano reivindicaciones trasladara usuarios",
-    "type": "arancel",
-    "title": "El alcalde de Puertollano trasladará al Ministerio las reivindicaciones de los usuarios del AVANT",
-    "url": "https://www.lanzadigital.com/provincia/puertollano/el-alcalde-de-puertollano-trasladara-al-ministerio-las-reivindicaciones-de-los-usuarios-del-avant/",
-    "domain": "lanzadigital.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
    },
    {
     "id": "calls free mandate reform smmt tariff trade with",
@@ -526,6 +526,21 @@
     "severity": "baja"
    },
    {
+    "id": "aplica arancel desde envios euros euros julio menos",
+    "type": "arancel",
+    "title": "La UE aplica desde el 1 de julio un arancel de 3 euros a los envíos de menos de 150 euros de Temu y Shein",
+    "url": "https://www.economiafinanzas.com/la-ue-aplica-desde-el-1-de-julio-un-arancel-de-3-euros-a-los-envios-de-menos-de-150-euros-de-temu-y-shein/",
+    "domain": "economiafinanzas.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T03:45:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "case convicted huawei secrets stealing trade what what",
     "type": "sancion",
     "title": "Huawei convicted of stealing trade secrets : What the case , and what does it mean for US - China ties ? Explained",
@@ -605,21 +620,6 @@
     "severity": "baja"
    },
    {
-    "id": "aplica arancel desde envios euros euros julio menos",
-    "type": "arancel",
-    "title": "La UE aplica desde el 1 de julio un arancel de 3 euros a los envíos de menos de 150 euros de Temu y Shein",
-    "url": "https://www.economiafinanzas.com/la-ue-aplica-desde-el-1-de-julio-un-arancel-de-3-euros-a-los-envios-de-menos-de-150-euros-de-temu-y-shein/",
-    "domain": "economiafinanzas.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-25T03:45:00Z",
-    "countries": [
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "australia both deal farmers land oppose sides trade",
     "type": "regulacion",
     "title": "Why farmers on both sides oppose the Australia - EU trade deal | The Land",
@@ -686,6 +686,21 @@
     "severity": "media"
    },
    {
+    "id": "comunidad dominicano embajador importancia inversion mercado para resalta",
+    "type": "arancel",
+    "title": "Embajador de la UE resalta importancia del mercado dominicano para inversión de esa comunidad",
+    "url": "https://proceso.com.do/2026/11/24/embajador-de-la-ue-resalta-importancia-del-mercado-dominicano-para-inversion-de-esa-comunidad/",
+    "domain": "proceso.com.do",
+    "lang": "es",
+    "sourceCountry": "Dominican Republic",
+    "at": "2026-11-25T02:45:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "continues hormuz iran ramps sanctions ships strait targeting",
     "type": "geo",
     "title": "Iran Continues Targeting Ships in Strait of Hormuz as US Ramps Up Sanctions",
@@ -716,21 +731,6 @@
     "sectors": [
      "alim"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "comunidad dominicano embajador importancia inversion mercado para resalta",
-    "type": "arancel",
-    "title": "Embajador de la UE resalta importancia del mercado dominicano para inversión de esa comunidad",
-    "url": "https://proceso.com.do/2026/11/24/embajador-de-la-ue-resalta-importancia-del-mercado-dominicano-para-inversion-de-esa-comunidad/",
-    "domain": "proceso.com.do",
-    "lang": "es",
-    "sourceCountry": "Dominican Republic",
-    "at": "2026-11-25T02:45:00Z",
-    "countries": [
-     "EU"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -769,7 +769,7 @@
    },
    {
     "id": "aranceles china contra europa iran prepara sanciona trump",
-    "type": "sancion",
+    "type": "arancel",
     "title": "Trump prepara aranceles contra China y Europa y sanciona a Irán",
     "url": "https://www.negocios.com/geopolitica/trump-intensifica-frentes-nuevos-aranceles-sanciones-iran-tensiones-globales/20261124223000498689.html",
     "domain": "negocios.com",
@@ -928,6 +928,24 @@
     "severity": "media"
    },
    {
+    "id": "adaptarse aranceles debe economia industria mexicana secretaria",
+    "type": "arancel",
+    "title": "Industria mexicana debe adaptarse a aranceles de EU : Secretaría de Economía",
+    "url": "https://unomasuno.com.mx/nacional/industria-mexicana-debe-adaptarse-a-aranceles-de-eu-secretaria-de-economia/",
+    "domain": "unomasuno.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-25T00:45:00Z",
+    "countries": [
+     "MX",
+     "EU"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
+   {
     "id": "china focus investments manufacturing must nigeria relations trade",
     "type": "regulacion",
     "title": "Nigeria - China Trade Relations Must Focus on Investments in Manufacturing , Export – THISDAYLIVE",
@@ -960,24 +978,6 @@
     "severity": "baja"
    },
    {
-    "id": "adaptarse aranceles debe economia industria mexicana secretaria",
-    "type": "arancel",
-    "title": "Industria mexicana debe adaptarse a aranceles de EU : Secretaría de Economía",
-    "url": "https://unomasuno.com.mx/nacional/industria-mexicana-debe-adaptarse-a-aranceles-de-eu-secretaria-de-economia/",
-    "domain": "unomasuno.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-25T00:45:00Z",
-    "countries": [
-     "MX",
-     "EU"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "media"
-   },
-   {
     "id": "after camp korea relations reviews sanctions switzerland youth",
     "type": "sancion",
     "title": "N Korea reviews Switzerland relations after sanctions on youth camp linked to Russia - Ukraine war",
@@ -992,23 +992,6 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "amid cents dollar global hits tech year zealand",
-    "type": "divisa",
-    "title": "New Zealand dollar hits 17 - year low of 54 . 07 US cents amid global tech sector correction",
-    "url": "https://english.pravda.ru/news/world/174204-new-zealand-dollar-17-year-low/",
-    "domain": "english.pravda.ru",
-    "lang": "en",
-    "sourceCountry": "Russia",
-    "at": "2026-11-25T00:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
    },
    {
     "id": "aranceles contra esta estados nuevos prepara unidos varios",
@@ -1042,19 +1025,19 @@
     "severity": "baja"
    },
    {
-    "id": "aspiradora carne china exportaciones genera millones record unica",
+    "id": "amid cents dollar global hits tech year zealand",
     "type": "divisa",
-    "title": "Exportaciones récord : la carne ya genera más de U$S 500 millones por mes y China ya no es la única aspiradora",
-    "url": "https://www.infocampo.com.ar/exportaciones-record-la-carne-ya-genera-mas-de-us-500-millones-por-mes-y-china-ya-no-es-la-unica-aspiradora/",
-    "domain": "infocampo.com.ar",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-24T23:30:00Z",
+    "title": "New Zealand dollar hits 17 - year low of 54 . 07 US cents amid global tech sector correction",
+    "url": "https://english.pravda.ru/news/world/174204-new-zealand-dollar-17-year-low/",
+    "domain": "english.pravda.ru",
+    "lang": "en",
+    "sourceCountry": "Russia",
+    "at": "2026-11-25T00:30:00Z",
     "countries": [
-     "CN"
+     "US"
     ],
     "sectors": [
-     "alim"
+     "tech"
     ],
     "severity": "baja"
    },
@@ -1072,6 +1055,23 @@
     ],
     "sectors": [
      "industria"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "aspiradora carne china exportaciones genera millones record unica",
+    "type": "divisa",
+    "title": "Exportaciones récord : la carne ya genera más de U$S 500 millones por mes y China ya no es la única aspiradora",
+    "url": "https://www.infocampo.com.ar/exportaciones-record-la-carne-ya-genera-mas-de-us-500-millones-por-mes-y-china-ya-no-es-la-unica-aspiradora/",
+    "domain": "infocampo.com.ar",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-24T23:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "alim"
     ],
     "severity": "baja"
    },
@@ -2902,12 +2902,14 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: fetch failed",
+   "divisa/spanish: fetch failed",
+   "geo/english: fetch failed",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
