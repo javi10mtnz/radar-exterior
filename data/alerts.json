@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T21:40:54.526Z",
+ "updatedAt": "2026-11-25T22:37:32.392Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -38,6 +38,57 @@
     "severity": "alta"
    },
    {
+    "id": "argentina carne exportaciones gana millones nuevos supera vacuna",
+    "type": "divisa",
+    "title": "La carne vacuna argentina supera los USD 4 . 160 millones en exportaciones y gana nuevos mercados",
+    "url": "https://www.ellitoral.com/campolitoral/carnevacuna-estadosunidos-israel-divisas-exportaciones-indec-bolsadecomercioderosario-china_0_B7pgnFnhUG.html",
+    "domain": "ellitoral.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "AR"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "against china imposing tariffs warns",
+    "type": "geo",
+    "title": "China warns US against imposing new tariffs",
+    "url": "https://arynews.tv/china-warns-us-imposing-new-tariffs",
+    "domain": "arynews.tv",
+    "lang": "en",
+    "sourceCountry": "Pakistan",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "brazil china hike others plans tariffs",
+    "type": "geo",
+    "title": "US plans to hike tariffs on China , EU , Brazil and others",
+    "url": "https://www.dailylocal.com/2026/11/25/trump-tariff-hikes/",
+    "domain": "dailylocal.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "BR",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "1992 democrats house largest majority return since with",
     "type": "arancel",
     "title": "Democrats Return With Largest House Majority Since 1992 , but Trump Veto Could Block $4 . 1 Trillion Agenda",
@@ -51,22 +102,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "against china imposing tariffs warns",
-    "type": "arancel",
-    "title": "China warns US against imposing new tariffs",
-    "url": "https://arynews.tv/china-warns-us-imposing-new-tariffs",
-    "domain": "arynews.tv",
-    "lang": "en",
-    "sourceCountry": "Pakistan",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "alta"
    },
    {
     "id": "china faces india other partners proposes tariffs trade",
@@ -84,24 +119,6 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "brazil china hike others plans tariffs",
-    "type": "arancel",
-    "title": "US plans to hike tariffs on China , EU , Brazil and others",
-    "url": "https://www.dailylocal.com/2026/11/25/trump-tariff-hikes/",
-    "domain": "dailylocal.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "BR",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "approves cabinet container crore kamarajar port second terminal",
@@ -133,23 +150,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "argentina carne exportaciones gana millones nuevos supera vacuna",
-    "type": "divisa",
-    "title": "La carne vacuna argentina supera los USD 4 . 160 millones en exportaciones y gana nuevos mercados",
-    "url": "https://www.ellitoral.com/campolitoral/carnevacuna-estadosunidos-israel-divisas-exportaciones-indec-bolsadecomercioderosario-china_0_B7pgnFnhUG.html",
-    "domain": "ellitoral.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "AR"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
    },
    {
     "id": "aranceles desvela imponer incluidos nuevo para plan trump",
@@ -331,6 +331,21 @@
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "colmados comerciantes dominican electronica factura piden republic sancionar",
+    "type": "sancion",
+    "title": "Comerciantes piden no sancionar colmados por la factura electrónica - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+    "url": "https://dominicanrepublicpost.com/comerciantes-piden-no-sancionar-colmados-por-la-factura-electronica/",
+    "domain": "dominicanrepublicpost.com",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T04:45:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
    },
    {
     "id": "assistance customs kingdom lanka receive technical under united",
@@ -622,18 +637,16 @@
     "severity": "baja"
    },
    {
-    "id": "administration china considering india raising report tariffs trump",
-    "type": "regulacion",
-    "title": "Trump administration considering raising tariffs on India , China : Report",
-    "url": "https://www.tribuneindia.com/news/business/trump-administration-considering-raising-tariffs-on-india-china-result-of-section-301-probe-to-be-announced-report/",
-    "domain": "tribuneindia.com",
-    "lang": "en",
-    "sourceCountry": "India",
+    "id": "2027 ajuste brasil cuentas para presidente publicas sanciona",
+    "type": "sancion",
+    "title": "Presidente de Brasil sanciona ley para ajuste de las cuentas públicas en 2027",
+    "url": "http://spanish.xinhuanet.com/20261125/f1d6996830a740b1bfccfb72900ea4e7/c.html",
+    "domain": "spanish.xinhuanet.com",
+    "lang": "es",
+    "sourceCountry": "China",
     "at": "2026-11-25T03:15:00Z",
     "countries": [
-     "US",
-     "CN",
-     "IN"
+     "BR"
     ],
     "sectors": [],
     "severity": "media"
@@ -656,21 +669,21 @@
     "severity": "alta"
    },
    {
-    "id": "australia both deal farmers oppose sides stock trade",
+    "id": "administration china considering india raising report tariffs trump",
     "type": "regulacion",
-    "title": "Why farmers on both sides oppose the Australia - EU trade deal | Stock Journal",
-    "url": "https://www.stockjournal.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
-    "domain": "stockjournal.com.au",
+    "title": "Trump administration considering raising tariffs on India , China : Report",
+    "url": "https://www.tribuneindia.com/news/business/trump-administration-considering-raising-tariffs-on-india-china-result-of-section-301-probe-to-be-announced-report/",
+    "domain": "tribuneindia.com",
     "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-25T02:45:00Z",
+    "sourceCountry": "India",
+    "at": "2026-11-25T03:15:00Z",
     "countries": [
-     "EU"
+     "US",
+     "CN",
+     "IN"
     ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "continues hormuz iran ramps sanctions ships strait targeting",
@@ -687,6 +700,23 @@
     ],
     "sectors": [],
     "severity": "alta"
+   },
+   {
+    "id": "australia both deal farmers oppose sides stock trade",
+    "type": "regulacion",
+    "title": "Why farmers on both sides oppose the Australia - EU trade deal | Stock Journal",
+    "url": "https://www.stockjournal.com.au/story/9394335/why-farmers-on-both-sides-oppose-the-australia-eu-trade-deal/",
+    "domain": "stockjournal.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-25T02:45:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
    },
    {
     "id": "comunidad dominicano embajador importancia inversion mercado para resalta",
@@ -738,6 +768,53 @@
     "severity": "media"
    },
    {
+    "id": "aranceles china contra europa iran prepara sanciona trump",
+    "type": "sancion",
+    "title": "Trump prepara aranceles contra China y Europa y sanciona a Irán",
+    "url": "https://www.negocios.com/geopolitica/trump-intensifica-frentes-nuevos-aranceles-sanciones-iran-tensiones-globales/20261124223000498689.html",
+    "domain": "negocios.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T02:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "altos ataques cargos cuatro huties londres reanudacion sanciona",
+    "type": "sancion",
+    "title": "Londres sanciona a los hutíes y a cuatro de sus altos cargos por reanudación de ataques en Yemen y Arabia Saudí",
+    "url": "https://www.diariosigloxxi.com/texto-ep/mostrar/20261125005034/londres-sanciona-huties-cuatro-altos-cargos-reanudacion-ataques-yemen-arabia-saudi",
+    "domain": "diariosigloxxi.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T02:15:00Z",
+    "countries": [
+     "SA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "bruselas coca cola comercio entre investiga paises restringir",
+    "type": "sancion",
+    "title": "Bruselas investiga a Coca - Cola por restringir comercio entre países de UE",
+    "url": "https://www.mundiario.com/economia/bruselas-investiga-coca-cola-restringir-comercio-entre-paises-ue/20261125002619454754.html",
+    "domain": "mundiario.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T02:15:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "auto canada china could into push tariffs trump",
     "type": "regulacion",
     "title": "Could Trump Auto Tariffs Push Canada into China Arms ?",
@@ -770,23 +847,6 @@
      "alim"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "aranceles china contra europa iran prepara sanciona trump",
-    "type": "arancel",
-    "title": "Trump prepara aranceles contra China y Europa y sanciona a Irán",
-    "url": "https://www.negocios.com/geopolitica/trump-intensifica-frentes-nuevos-aranceles-sanciones-iran-tensiones-globales/20261124223000498689.html",
-    "domain": "negocios.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-25T02:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
    },
    {
     "id": "china conspiring convicts court fraud huawei steal trade",
@@ -932,21 +992,6 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "altos ataques cargos cuatro huties londres reanudacion sanciona",
-    "type": "sancion",
-    "title": "Londres sanciona a los hutíes y a cuatro de sus altos cargos por reanudación de ataques en Yemen y Arabia Saudí",
-    "url": "https://www.notimerica.com/politica/noticia-yemen-londres-sanciona-huties-cuatro-altos-cargos-reanudacion-ataques-yemen-arabia-saudi-20261125005053.html",
-    "domain": "notimerica.com",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-25T00:45:00Z",
-    "countries": [
-     "SA"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "amid cents dollar global hits tech year zealand",
@@ -2857,16 +2902,13 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: fetch failed",
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
