@@ -1,11 +1,124 @@
 {
- "updatedAt": "2026-11-25T23:32:17.361Z",
+ "updatedAt": "2026-11-26T00:33:35.611Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "1992 democrats house largest majority return since with",
+    "type": "arancel",
+    "title": "Democrats Return With Largest House Majority Since 1992 , but Trump Veto Could Block $4 . 1 Trillion Agenda",
+    "url": "https://www.latintimes.com/democrats-historic-majority-4-1-trillion-agenda-601783",
+    "domain": "latintimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "against china imposing tariffs warns",
+    "type": "arancel",
+    "title": "China warns US against imposing new tariffs",
+    "url": "https://arynews.tv/china-warns-us-imposing-new-tariffs",
+    "domain": "arynews.tv",
+    "lang": "en",
+    "sourceCountry": "Pakistan",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "china faces india other partners proposes tariffs trade",
+    "type": "arancel",
+    "title": "US proposes new tariffs on India , 13 other trade partners ; China faces additional 20 % duty",
+    "url": "https://timesofindia.indiatimes.com/business/international-business/us-proposes-new-tariffs-on-india-13-other-trade-partners-china-faces-additional-20-duty/articleshow/136163395.cms",
+    "domain": "timesofindia.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "brazil china hike others plans tariffs",
+    "type": "arancel",
+    "title": "US plans to hike tariffs on China , EU , Brazil and others",
+    "url": "https://www.dailylocal.com/2026/11/25/trump-tariff-hikes/",
+    "domain": "dailylocal.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "BR",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "convicts federal huawei jury secrets stealing trade violating",
+    "type": "arancel",
+    "title": "Federal jury convicts Huawei of stealing US trade secrets , violating Iran sanctions",
+    "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions",
+    "domain": "foxbusiness.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "approves cabinet container crore kamarajar port second terminal",
+    "type": "arancel",
+    "title": "Cabinet approves Rs 4 , 288 crore second container terminal at Kamarajar Port ; Rs 2 , 014 crore airport in Assam",
+    "url": "http://www.northkoreatimes.com/news/279453761/cabinet-approves-rs-4288-crore-second-container-terminal-at-kamarajar-port-rs-2014-crore-airport-in-assam",
+    "domain": "northkoreatimes.com",
+    "lang": "en",
+    "sourceCountry": "North Korea",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "aircraft brazil duty higher imports including proposes tariffs",
+    "type": "arancel",
+    "title": "US proposes higher tariffs on Brazil imports , including 10 % duty on aircraft",
+    "url": "https://www.933thedrive.com/2026/11/25/us-proposes-higher-tariffs-on-brazil-imports-including-10-duty-on-aircraft/",
+    "domain": "933thedrive.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "aranceles desvela imponer incluidos nuevo para plan trump",
     "type": "arancel",
@@ -54,22 +167,6 @@
     "severity": "media"
    },
    {
-    "id": "convicts federal huawei jury secrets stealing trade violating",
-    "type": "sancion",
-    "title": "Federal jury convicts Huawei of stealing US trade secrets , violating Iran sanctions",
-    "url": "https://www.foxbusiness.com/fox-news-tech/federal-jury-convicts-huawei-stealing-us-trade-secrets-violating-iran-sanctions",
-    "domain": "foxbusiness.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
     "id": "argentina carne exportaciones gana millones nuevos supera vacuna",
     "type": "divisa",
     "title": "La carne vacuna argentina supera los USD 4 . 160 millones en exportaciones y gana nuevos mercados",
@@ -87,103 +184,6 @@
     "severity": "baja"
    },
    {
-    "id": "against china imposing tariffs warns",
-    "type": "geo",
-    "title": "China warns US against imposing new tariffs",
-    "url": "https://arynews.tv/china-warns-us-imposing-new-tariffs",
-    "domain": "arynews.tv",
-    "lang": "en",
-    "sourceCountry": "Pakistan",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
-    "id": "brazil china hike others plans tariffs",
-    "type": "geo",
-    "title": "US plans to hike tariffs on China , EU , Brazil and others",
-    "url": "https://www.dailylocal.com/2026/11/25/trump-tariff-hikes/",
-    "domain": "dailylocal.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "BR",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "1992 democrats house largest majority return since with",
-    "type": "arancel",
-    "title": "Democrats Return With Largest House Majority Since 1992 , but Trump Veto Could Block $4 . 1 Trillion Agenda",
-    "url": "https://www.latintimes.com/democrats-historic-majority-4-1-trillion-agenda-601783",
-    "domain": "latintimes.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "china faces india other partners proposes tariffs trade",
-    "type": "arancel",
-    "title": "US proposes new tariffs on India , 13 other trade partners ; China faces additional 20 % duty",
-    "url": "https://timesofindia.indiatimes.com/business/international-business/us-proposes-new-tariffs-on-india-13-other-trade-partners-china-faces-additional-20-duty/articleshow/136163395.cms",
-    "domain": "timesofindia.indiatimes.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
-    "id": "approves cabinet container crore kamarajar port second terminal",
-    "type": "arancel",
-    "title": "Cabinet approves Rs 4 , 288 crore second container terminal at Kamarajar Port ; Rs 2 , 014 crore airport in Assam",
-    "url": "http://www.northkoreatimes.com/news/279453761/cabinet-approves-rs-4288-crore-second-container-terminal-at-kamarajar-port-rs-2014-crore-airport-in-assam",
-    "domain": "northkoreatimes.com",
-    "lang": "en",
-    "sourceCountry": "North Korea",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "aircraft brazil duty higher imports including proposes tariffs",
-    "type": "arancel",
-    "title": "US proposes higher tariffs on Brazil imports , including 10 % duty on aircraft",
-    "url": "https://www.933thedrive.com/2026/11/25/us-proposes-higher-tariffs-on-brazil-imports-including-10-duty-on-aircraft/",
-    "domain": "933thedrive.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "US",
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "calls free mandate reform smmt tariff trade with",
     "type": "arancel",
     "title": "SMMT calls for ZEV mandate reform and tariff - free EV trade with EU",
@@ -196,40 +196,6 @@
      "EU"
     ],
     "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "chip control export mechanism singapore work",
-    "type": "sancion",
-    "title": "Singapore , US work on mechanism for chip export control",
-    "url": "https://sbr.com.sg/information-technology/news/singapore-us-work-mechanism-chip-export-control",
-    "domain": "sbr.com.sg",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-25T05:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "chip enforcement export megaspeed probe singapore with working",
-    "type": "sancion",
-    "title": "Singapore working with US on chip export enforcement as Megaspeed probe continues : PM Wong",
-    "url": "https://asianews.network/singapore-working-with-us-on-chip-export-enforcement-as-megaspeed-probe-continues-pm-wong/",
-    "domain": "asianews.network",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-25T05:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "tech"
-    ],
     "severity": "baja"
    },
    {
@@ -283,6 +249,40 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "chip control export mechanism singapore work",
+    "type": "sancion",
+    "title": "Singapore , US work on mechanism for chip export control",
+    "url": "https://sbr.com.sg/information-technology/news/singapore-us-work-mechanism-chip-export-control",
+    "domain": "sbr.com.sg",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-25T05:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "chip enforcement export megaspeed probe singapore with working",
+    "type": "sancion",
+    "title": "Singapore working with US on chip export enforcement as Megaspeed probe continues : PM Wong",
+    "url": "https://asianews.network/singapore-working-with-us-on-chip-export-enforcement-as-megaspeed-probe-continues-pm-wong/",
+    "domain": "asianews.network",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-25T05:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
    },
    {
     "id": "after india news prepares probe tariffs trade",
@@ -2902,14 +2902,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: fetch failed",
    "divisa/english: fetch failed",
    "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
