@@ -1,11 +1,339 @@
 {
- "updatedAt": "2026-11-26T03:03:18.683Z",
+ "updatedAt": "2026-11-26T05:19:04.351Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "anuncia aranceles china contra eeuu japon nuevos otras",
+    "type": "arancel",
+    "title": "EEUU anuncia nuevos aranceles contra China , Japón y la UE y otras 11 economías",
+    "url": "https://www.lostiempos.com/actualidad/mundo/20261125/eeuu-anuncia-nuevos-aranceles-contra-china-japon-ue-otras-11-economias",
+    "domain": "lostiempos.com",
+    "lang": "es",
+    "sourceCountry": "Bolivia",
+    "at": "2026-11-26T04:45:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "JP",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "advierte aranceles brasil cedera contra eeuu esboza nuevos",
+    "type": "arancel",
+    "title": "EEUU esboza nuevos aranceles contra Brasil , que advierte que no cederá ante este tipo de amenazas",
+    "url": "https://www.notimerica.com/politica/noticia-eeuu-brasil-eeuu-esboza-nuevos-aranceles-contra-brasil-advierte-no-cedera-tipo-amenazas-20261126034418.html",
+    "domain": "notimerica.com",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles brasil considera impulsados inaceptable nuevos propuesta trump",
+    "type": "arancel",
+    "title": "Brasil considera inaceptable propuesta de nuevos aranceles impulsados por Trump",
+    "url": "https://laopinion.com/2026/11/25/brasil-considera-inaceptable-propuesta-de-nuevos-aranceles-de-ee-uu/",
+    "domain": "laopinion.com",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china dispara electricos empuja europa exportaciones limitar vehiculos",
+    "type": "arancel",
+    "title": "China dispara sus exportaciones de vehículos eléctricos a Europa y empuja a la UE a limitar las importaciones de híbridos",
+    "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/china-dispara-vehiculos-electricos-europa-ue-limitar-importaciones-hibridos_7065769_0.html",
+    "domain": "20minutos.es",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "acuerdo aranceles comercial eeuu frenar negocia para vietnam",
+    "type": "arancel",
+    "title": "Vietnam negocia con EEUU un acuerdo comercial para frenar los aranceles lo antes posible - Mundo",
+    "url": "https://www.abc.com.py/internacionales/2026/11/26/vietnam-negocia-con-eeuu-un-acuerdo-comercial-para-frenar-los-aranceles-lo-antes-posible/",
+    "domain": "abc.com.py",
+    "lang": "es",
+    "sourceCountry": "Paraguay",
+    "at": "2026-11-26T04:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles centra china eeuu nuevos pekin pero tomara",
+    "type": "arancel",
+    "title": "EEUU centra sus nuevos aranceles en China pero Pekín no tomará represalias , según expertos - Mundo",
+    "url": "https://www.abc.com.py/internacionales/2026/11/26/eeuu-centra-sus-nuevos-aranceles-en-china-pero-pekin-no-tomara-represalias-segun-expertos/",
+    "domain": "abc.com.py",
+    "lang": "es",
+    "sourceCountry": "Paraguay",
+    "at": "2026-11-26T04:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "aranceles brasil eeuu inaceptable nuevos propuesta rechaza",
+    "type": "arancel",
+    "title": "Brasil rechaza propuesta de nuevos aranceles de EEUU : Es inaceptable",
+    "url": "https://noticiaslatam.lat/20261126/brasil-rechaza-propuesta-de-nuevos-aranceles-de-eeuu-es-inaceptable-1176028978.html",
+    "domain": "noticiaslatam.lat",
+    "lang": "es",
+    "sourceCountry": "",
+    "at": "2026-11-26T03:15:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles china comerciales como impone nuevos socios trump",
+    "type": "arancel",
+    "title": "Trump impone nuevos aranceles a China y a socios comerciales de EE . UU . como la UE y Japón",
+    "url": "https://www.cnnchile.com/mundo/trump-impone-nuevos-aranceles-a-china-y-a-socios-comerciales-de-ee-uu-como-la-ue-y-japon/",
+    "domain": "cnnchile.com",
+    "lang": "es",
+    "sourceCountry": "Chile",
+    "at": "2026-11-26T03:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "JP",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "amenazas ante arancelarias brasil cedera eeuu subraya",
+    "type": "arancel",
+    "title": "Brasil subraya que no cederá ante amenazas arancelarias de EEUU",
+    "url": "http://www.hispantv.com/noticias/brasil/685117/brasil-rechazar-posibles-nuevos-aranceles-eeuu",
+    "domain": "hispantv.com",
+    "lang": "es",
+    "sourceCountry": "Syria",
+    "at": "2026-11-26T03:15:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles impone nuevos paises trump",
+    "type": "arancel",
+    "title": "Trump impone nuevos aranceles a la UE y 13 países",
+    "url": "https://sintesis.mx/2026/11/25/trump-impone-nuevos-aranceles/",
+    "domain": "sintesis.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-26T02:45:00Z",
+    "countries": [
+     "US",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "ahora arancel libra mexico moneda otro seria trump",
+    "type": "arancel",
+    "title": "México libra por ahora otro arancel de Trump ; sería moneda de cambio para el T - MEC",
+    "url": "https://www.omnia.com.mx/noticia/450910/mexico-libra-por-ahora-otro-arancel-de-trump-seria-moneda-de-cambio-para-el-t-me",
+    "domain": "omnia.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-26T02:30:00Z",
+    "countries": [
+     "US",
+     "MX"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles brasil europea exigieron nuevos rechazaron trump union",
+    "type": "arancel",
+    "title": "Brasil y la Unión Europea rechazaron los nuevos aranceles de Trump y exigieron respetar los acuerdos comerciales",
+    "url": "https://www.infobae.com/america/mundo/2026/11/26/brasil-y-la-union-europea-rechazaron-los-nuevos-aranceles-de-trump-y-exigieron-respetar-los-acuerdos-comerciales/",
+    "domain": "infobae.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-26T02:30:00Z",
+    "countries": [
+     "US",
+     "BR",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "ahora aranceles china gravaria libra mexico nuevos socios",
+    "type": "arancel",
+    "title": "México libra por ahora nuevos aranceles de EU ; gravaría a 14 socios , China con la tasa más alta - Entre Líneas",
+    "url": "https://entrelineas.com.mx/mexico-libra-por-ahora-nuevos-aranceles-de-eu-gravaria-a-14-socios-china-con-la-tasa-mas-alta/",
+    "domain": "entrelineas.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-26T02:15:00Z",
+    "countries": [
+     "CN",
+     "MX",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "brasil estados expreso imponer indignacion nuevos propuesta unidos",
+    "type": "arancel",
+    "title": "Brasil expresó su indignación por la propuesta de Estados Unidos de imponer nuevos aranceles a sus aviones y su azúcar",
+    "url": "https://www.perfil.com/politica/brasil-expreso-su-indignacion-por-la-propuesta-de-estados-unidos-de-imponer-nuevos-aranceles-a-sus-aviones-y-su-azucar-ax04r5v7ZyRY",
+    "domain": "perfil.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-26T01:45:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "ahora arancel libra mexico otro podria trump",
+    "type": "arancel",
+    "title": "México libra por ahora otro arancel de Trump ; podría ir en el T - MEC",
+    "url": "https://www.proceso.com.mx/economia/2026/11/25/mexico-libra-por-ahora-otro-arancel-de-trump-podria-ir-en-el-t-mec-384357.html",
+    "domain": "proceso.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-26T01:30:00Z",
+    "countries": [
+     "US",
+     "MX"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "analiza comerciales mexico salva socios tarifas",
+    "type": "arancel",
+    "title": "Analiza EU tarifas a 14 socios comerciales ; México se salva",
+    "url": "https://www.eldiariodechihuahua.mx/estados-unidos/2026/nov/25/analiza-eu-tarifas-a-14-socios-comerciales-mexico-se-salva-860642.html",
+    "domain": "eldiariodechihuahua.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-26T01:15:00Z",
+    "countries": [
+     "MX",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles comercio deberiamos experto internacional sanchez sobre trump",
+    "type": "arancel",
+    "title": "Sánchez , experto en comercio internacional , sobre los aranceles de Trump : No nos deberíamos de preocupar tanto por lo que dejamos con Estados Unidos , sino por lo que China puede empezar a vender en España",
+    "url": "https://www.cope.es/programas/la-linterna/clases-de-economia/audios/sanchez-experto-comercio-internacional-sobre-aranceles-trump-no-deberiamos-preocupar-tanto-dejamos-estados-unidos-china-empezar-vender-espana-20261125_3482272.html",
+    "domain": "cope.es",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-26T00:45:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles desvela imponer incluidos nuevo para plan trump",
+    "type": "arancel",
+    "title": "Trump desvela un nuevo plan para imponer aranceles , incluidos China y los 27 miembros de la UE",
+    "url": "https://www.lavanguardia.com/economia/20261125/11693211/trump-desvela-nuevo-plan-imponer-aranceles-incluidos-china-27-miembros-ue.html",
+    "domain": "lavanguardia.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "alcalde avant ministerio puertollano reivindicaciones trasladara usuarios",
+    "type": "arancel",
+    "title": "El alcalde de Puertollano trasladará al Ministerio las reivindicaciones de los usuarios del AVANT",
+    "url": "https://www.lanzadigital.com/provincia/puertollano/el-alcalde-de-puertollano-trasladara-al-ministerio-las-reivindicaciones-de-los-usuarios-del-avant/",
+    "domain": "lanzadigital.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "argentina carne exportaciones gana millones nuevos supera vacuna",
+    "type": "divisa",
+    "title": "La carne vacuna argentina supera los USD 4 . 160 millones en exportaciones y gana nuevos mercados",
+    "url": "https://www.ellitoral.com/campolitoral/carnevacuna-estadosunidos-israel-divisas-exportaciones-indec-bolsadecomercioderosario-china_0_B7pgnFnhUG.html",
+    "domain": "ellitoral.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "AR"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "1992 democrats house largest majority return since with",
     "type": "arancel",
@@ -120,38 +448,6 @@
     "severity": "media"
    },
    {
-    "id": "aranceles desvela imponer incluidos nuevo para plan trump",
-    "type": "arancel",
-    "title": "Trump desvela un nuevo plan para imponer aranceles , incluidos China y los 27 miembros de la UE",
-    "url": "https://www.lavanguardia.com/economia/20261125/11693211/trump-desvela-nuevo-plan-imponer-aranceles-incluidos-china-27-miembros-ue.html",
-    "domain": "lavanguardia.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "alcalde avant ministerio puertollano reivindicaciones trasladara usuarios",
-    "type": "arancel",
-    "title": "El alcalde de Puertollano trasladará al Ministerio las reivindicaciones de los usuarios del AVANT",
-    "url": "https://www.lanzadigital.com/provincia/puertollano/el-alcalde-de-puertollano-trasladara-al-ministerio-las-reivindicaciones-de-los-usuarios-del-avant/",
-    "domain": "lanzadigital.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "closes korea north office over pyongyang sanctions swiss",
     "type": "sancion",
     "title": "North Korea closes Swiss office in Pyongyang over sanctions on children camp",
@@ -165,23 +461,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "argentina carne exportaciones gana millones nuevos supera vacuna",
-    "type": "divisa",
-    "title": "La carne vacuna argentina supera los USD 4 . 160 millones en exportaciones y gana nuevos mercados",
-    "url": "https://www.ellitoral.com/campolitoral/carnevacuna-estadosunidos-israel-divisas-exportaciones-indec-bolsadecomercioderosario-china_0_B7pgnFnhUG.html",
-    "domain": "ellitoral.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "AR"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
    },
    {
     "id": "calls free mandate reform smmt tariff trade with",
@@ -2903,16 +3182,13 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
    "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
