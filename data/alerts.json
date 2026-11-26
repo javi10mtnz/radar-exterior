@@ -1,11 +1,470 @@
 {
- "updatedAt": "2026-11-26T05:19:04.351Z",
+ "updatedAt": "2026-11-26T08:05:53.816Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "bargaining calls coercive gtri section tariff tool under",
+    "type": "arancel",
+    "title": "GTRI calls US tariff under Section 301 coercive bargaining tool , urges India to reject it",
+    "url": "http://www.newzealandstar.com/news/279454790/gtri-calls-us-tariff-under-section-301-coercive-bargaining-tool-urges-india-to-reject-it",
+    "domain": "newzealandstar.com",
+    "lang": "en",
+    "sourceCountry": "New Zealand",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "approves clears govt payra plants power rampal tariffs",
+    "type": "arancel",
+    "title": "Govt approves tariffs for Payra , Rampal power plants , clears 4 . 40 lakh tonnes of US wheat imports",
+    "url": "https://www.thedailystar.net/business/news/govt-approves-tariffs-payra-rampal-power-plants-clears-440-lakh-tonnes-us-wheat-imports-4333661",
+    "domain": "thedailystar.net",
+    "lang": "en",
+    "sourceCountry": "Bangladesh",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "alim",
+     "energia"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "balk economies major over tariffs trade unfair",
+    "type": "arancel",
+    "title": "Major economies balk at new US tariffs over unfair trade",
+    "url": "https://www.thedailystar.net/business/news/major-economies-balk-new-us-tariffs-over-unfair-trade-4333651",
+    "domain": "thedailystar.net",
+    "lang": "en",
+    "sourceCountry": "Bangladesh",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "economies global markets rattling shock targets tariff trump",
+    "type": "arancel",
+    "title": "Tariff Shock : Trump Targets 14 Economies , Rattling Markets and Global Trade",
+    "url": "https://www.reviewnepal.com/tariff-shock-trump-targets-14-economies-rattling-markets-and-global-trade/",
+    "domain": "reviewnepal.com",
+    "lang": "en",
+    "sourceCountry": "Nepal",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "fears global markets rebound recover shares tariff tech",
+    "type": "arancel",
+    "title": "Global markets rebound as tech shares recover and tariff fears ease",
+    "url": "https://www.aol.co.uk/articles/global-markets-rebound-tech-shares-042539000.html",
+    "domain": "aol.co.uk",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "after interests korea proposes protect south talks vows",
+    "type": "arancel",
+    "title": "South Korea vows talks to protect its interests after US proposes new tariffs",
+    "url": "https://www.businesstimes.com.sg/international/south-korea-vows-talks-protect-its-interests-after-us-proposes-new-tariffs",
+    "domain": "businesstimes.com.sg",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US",
+     "KR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "about doubling down popularity power tariffs trump",
+    "type": "arancel",
+    "title": "For Trump , doubling down on tariffs is about power , not popularity",
+    "url": "https://www.thedailystar.net/business/news/trump-doubling-down-tariffs-about-power-not-popularity-4333571",
+    "domain": "thedailystar.net",
+    "lang": "en",
+    "sourceCountry": "Bangladesh",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "commentary partners pressure ramp seeks tariff threat trading",
+    "type": "arancel",
+    "title": "Commentary : New US tariff threat seeks to ramp up pressure on trading partners – will it work ?",
+    "url": "https://www.channelnewsasia.com/commentary/trump-new-us-tariffs-excess-industrial-capacity-impact-singapore-trading-partners-6584001",
+    "domain": "channelnewsasia.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "bangladesh economy move stake tariff washington what",
+    "type": "arancel",
+    "title": "Washington tariff move : What is at stake for Bangladesh economy ?",
+    "url": "https://www.thedailystar.net/business/news/washingtons-tariff-move-what-stake-bangladeshs-economy-4333631",
+    "domain": "thedailystar.net",
+    "lang": "en",
+    "sourceCountry": "Bangladesh",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "categories cushion exempt export from frontloading major tariffs",
+    "type": "arancel",
+    "title": "Major export categories exempt from US tariffs , frontloading may cushion impact on India : Reports",
+    "url": "http://www.bignewsnetwork.com/news/279454878/major-export-categories-exempt-from-us-tariffs-frontloading-may-cushion-impact-on-india-reports",
+    "domain": "bignewsnetwork.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china india japan korea proposed south tariffs",
+    "type": "arancel",
+    "title": "New U . S . Tariffs Proposed on China , India , Japan , South Korea , EU",
+    "url": "https://www.azfamily.com/2026/11/26/trump-administration-proposes-new-tariffs/",
+    "domain": "azfamily.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "CN",
+     "IN",
+     "JP",
+     "KR",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china others tariffs trump unveils",
+    "type": "arancel",
+    "title": "Trump unveils new tariffs on China , EU and 12 others",
+    "url": "https://www.newcastleherald.com.au/story/9398461/trump-unveils-new-tariffs-on-china-eu-and-12-others/",
+    "domain": "newcastleherald.com.au",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "deal faces india pact sealed tariff trade without",
+    "type": "arancel",
+    "title": "India Faces 25 % US Tariff Without Trade Deal , 17 % If Pact Is Sealed",
+    "url": "https://www.businessworld.in/article/india-faces-25-us-tariff-without-trade-deal-17-if-pact-is-sealed-635230",
+    "domain": "businessworld.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T05:45:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "capacity excess india sector structural talks tariff trade",
+    "type": "arancel",
+    "title": "No structural excess capacity in any sector , trade talks on : India on US tariff threats",
+    "url": "https://www.mangalorean.com/no-structural-excess-capacity-in-any-sector-trade-talks-on-india-on-us-tariff-threats/",
+    "domain": "mangalorean.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T05:45:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "donald economies india other proposing tariffs trump",
+    "type": "arancel",
+    "title": "Why Donald Trump Is Proposing New Tariffs On India And 13 Other Economies",
+    "url": "https://www.outlookindia.com/international/donald-trump-proposed-tariffs-india-excess-industrial-capacity-narendra-modi-explained",
+    "domain": "outlookindia.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T05:45:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "capacity economies excess korea other over proposes tariffs",
+    "type": "arancel",
+    "title": "US proposes tariffs over excess capacity for Korea , 13 other economies",
+    "url": "https://english.hani.co.kr/arti/english_edition/e_international/1289187.html",
+    "domain": "english.hani.co.kr",
+    "lang": "en",
+    "sourceCountry": "South Korea",
+    "at": "2026-11-26T05:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "could emkay impacted indian stocks tariffs what which",
+    "type": "arancel",
+    "title": "US tariffs : Which Indian stocks could be impacted ? What Emkay , Jefferies say",
+    "url": "https://www.businesstoday.in/markets/stocks/story/us-tariffs-which-indian-stocks-could-be-impacted-what-jefferies-says-569575-2026-11-26",
+    "domain": "businesstoday.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T05:45:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "cautious changed indian little shares trade",
+    "type": "arancel",
+    "title": "Indian Shares Little Changed In Cautious Trade",
+    "url": "https://www.rttnews.com/story.aspx?Id=3718103",
+    "domain": "rttnews.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T05:45:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "action avoid deal quick seeks trade vietnam vows",
+    "type": "arancel",
+    "title": "Vietnam vows action , seeks quick trade deal to avoid US tariffs",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/26/vietnam-vows-action-seeks-quick-trade-deal-to-avoid-us-tariffs",
+    "domain": "freemalaysiatoday.com",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "expected korea maintain rate tariff",
+    "type": "arancel",
+    "title": "US expected to maintain 15 pc tariff rate for S . Korea",
+    "url": "https://ianslive.in/us-expected-to-maintain-15-pc-tariff-rate-for-s-korea--20261126091306",
+    "domain": "ianslive.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aircraft brazilian embraer manufacturer proposed rejects tariff",
+    "type": "arancel",
+    "title": "Brazilian aircraft manufacturer Embraer rejects proposed U . S . tariff",
+    "url": "http://www.venezuelastar.com/news/279454692/brazilian-aircraft-manufacturer-embraer-rejects-proposed-us-tariff",
+    "domain": "venezuelastar.com",
+    "lang": "en",
+    "sourceCountry": "Venezuela",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "china others over tariffs trade unfair unveils",
+    "type": "arancel",
+    "title": "US unveils tariffs on EU , China and others over unfair trade",
+    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/26/us-unveils-tariffs-on-eu-china-and-others-over-unfair-trade",
+    "domain": "freemalaysiatoday.com",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "brazilian imports proposes tariffs",
+    "type": "arancel",
+    "title": "U . S . proposes new tariffs on Brazilian imports",
+    "url": "http://www.venezuelastar.com/news/279454624/us-proposes-new-tariffs-on-brazilian-imports",
+    "domain": "venezuelastar.com",
+    "lang": "en",
+    "sourceCountry": "Venezuela",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "dispute india resolve talks tariff trade urges",
+    "type": "arancel",
+    "title": "India urges US to resolve tariff dispute in trade talks",
+    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/26/india-urges-us-to-resolve-tariff-dispute-in-trade-talks",
+    "domain": "freemalaysiatoday.com",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "brazil expresses indignation over proposed tariffs",
+    "type": "arancel",
+    "title": "Brazil expresses indignation over proposed new U . S . tariffs",
+    "url": "http://www.venezuelastar.com/news/279454625/brazil-expresses-indignation-over-proposed-new-us-tariffs",
+    "domain": "venezuelastar.com",
+    "lang": "en",
+    "sourceCountry": "Venezuela",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "dont earlier effect proposed take tariffs think would",
+    "type": "arancel",
+    "title": "Dont think proposed tariffs would take effect earlier than couple months from now : US Trade Representative",
+    "url": "https://www.prokerala.com/news/articles/a1841195.html",
+    "domain": "prokerala.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china plus really surplus tells trade trillion what",
+    "type": "arancel",
+    "title": "What China $Trillion - Plus Trade Surplus REALLY Tells Us",
+    "url": "https://www.theepochtimes.com/opinion/what-chinas-trillion-plus-trade-surplus-really-tells-us-6125771",
+    "domain": "theepochtimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "deal door even leaves lower open singapore tariff",
+    "type": "arancel",
+    "title": "US leaves door open to lower Singapore tariff deal even as it proposes new levy",
+    "url": "https://www.straitstimes.com/business/us-proposes-new-tariff-of-up-to-20-on-singapore-but-leaves-the-door-open-to-a-deal",
+    "domain": "straitstimes.com",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-26T04:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "partners responding tariffs trade",
+    "type": "arancel",
+    "title": "US tariffs : How trade partners are responding",
+    "url": "https://www.businesstimes.com.sg/singapore/economy-policy/us-tariffs-how-trade-partners-are-responding",
+    "domain": "businesstimes.com.sg",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-26T04:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "anuncia aranceles china contra eeuu japon nuevos otras",
     "type": "arancel",
@@ -23,6 +482,100 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "capacity donald excess industrial over tariffs trump unveils",
+    "type": "arancel",
+    "title": "Donald Trump unveils new tariffs over excess industrial capacity",
+    "url": "https://arynews.tv/donald-trump-unveils-new-tariffs-over-excess-industrial-capacity",
+    "domain": "arynews.tv",
+    "lang": "en",
+    "sourceCountry": "Pakistan",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "administration capac chair impose meng proposal slams trump",
+    "type": "arancel",
+    "title": "CAPAC Chair Meng slams Trump administration proposal to impose new tariffs on asian nations , says local businesses hit especially hard",
+    "url": "http://www.southeastasiapost.com/news/279454548/capac-chair-meng-slams-trump-administration-proposal-to-impose-new-tariffs-on-asian-nations-says-local-businesses-hit-especially-hard",
+    "domain": "southeastasiapost.com",
+    "lang": "en",
+    "sourceCountry": "Pakistan",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "asian background bounce concerns fresh lurk shares tariffs",
+    "type": "arancel",
+    "title": "Asian shares bounce as AI concerns , fresh US tariffs lurk in background",
+    "url": "https://www.business-standard.com/markets/news/asian-shares-bounce-as-ai-concerns-fresh-us-tariffs-lurk-in-background-126112600046_1.html",
+    "domain": "business-standard.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "equal official partners place proposal taiwan tariff would",
+    "type": "arancel",
+    "title": "US tariff proposal would place Taiwan equal to FTA partners : official",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868438",
+    "domain": "taipeitimes.com",
+    "lang": "en",
+    "sourceCountry": "Taiwan",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "deal despite former persists talks tariff trade uncertainty",
+    "type": "arancel",
+    "title": "US tariff uncertainty persists despite trade deal talks , say former diplomats",
+    "url": "http://www.japanherald.com/news/279454634/us-tariff-uncertainty-persists-despite-trade-deal-talks-say-former-diplomats",
+    "domain": "japanherald.com",
+    "lang": "en",
+    "sourceCountry": "Japan",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "editors gambit midterm post talk tariff torch trump",
+    "type": "arancel",
+    "title": "WSJ editors torch Trump post - midterm tariff gambit : Talk about not getting the message",
+    "url": "https://www.rawstory.com/wsj-trump-tariffs-2678533596/",
+    "domain": "rawstory.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "advierte aranceles brasil cedera contra eeuu esboza nuevos",
@@ -286,6 +839,23 @@
     "severity": "media"
    },
    {
+    "id": "argentina carne exportaciones gana millones nuevos supera vacuna",
+    "type": "divisa",
+    "title": "La carne vacuna argentina supera los USD 4 . 160 millones en exportaciones y gana nuevos mercados",
+    "url": "https://www.ellitoral.com/campolitoral/carnevacuna-estadosunidos-israel-divisas-exportaciones-indec-bolsadecomercioderosario-china_0_B7pgnFnhUG.html",
+    "domain": "ellitoral.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-25T14:15:00Z",
+    "countries": [
+     "AR"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "aranceles desvela imponer incluidos nuevo para plan trump",
     "type": "arancel",
     "title": "Trump desvela un nuevo plan para imponer aranceles , incluidos China y los 27 miembros de la UE",
@@ -314,23 +884,6 @@
     "countries": [],
     "sectors": [
      "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "argentina carne exportaciones gana millones nuevos supera vacuna",
-    "type": "divisa",
-    "title": "La carne vacuna argentina supera los USD 4 . 160 millones en exportaciones y gana nuevos mercados",
-    "url": "https://www.ellitoral.com/campolitoral/carnevacuna-estadosunidos-israel-divisas-exportaciones-indec-bolsadecomercioderosario-china_0_B7pgnFnhUG.html",
-    "domain": "ellitoral.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-25T14:15:00Z",
-    "countries": [
-     "AR"
-    ],
-    "sectors": [
-     "alim"
     ],
     "severity": "baja"
    },
@@ -1273,37 +1826,6 @@
     "severity": "alta"
    },
    {
-    "id": "aranceles contra esta estados nuevos prepara unidos varios",
-    "type": "arancel",
-    "title": "Estados Unidos prepara nuevos aranceles contra varios , ¿ está México entre los afectados ?",
-    "url": "https://lopezdoriga.com/economia-y-finanzas/estados-unidos-prepara-nuevos-aranceles-contra-varios-esta-mexico-entre-los-afectados/",
-    "domain": "lopezdoriga.com",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-25T00:30:00Z",
-    "countries": [
-     "US",
-     "MX"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "anestesia comercial cumbre guerra putin relanza tras trump",
-    "type": "arancel",
-    "title": "Sin anestesia : tras la cumbre con Xi y Putin , Trump relanza la guerra comercial con aranceles recargados",
-    "url": "http://www.tiempodesanjuan.com/el-mundo/sin-anestesia-tras-la-cumbre-con-xi-y-putin-trump-relanza-la-guerra-comercial-con-aranceles-recargados_1795564361",
-    "domain": "tiempodesanjuan.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-25T00:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "amid cents dollar global hits tech year zealand",
     "type": "divisa",
     "title": "New Zealand dollar hits 17 - year low of 54 . 07 US cents amid global tech sector correction",
@@ -1317,23 +1839,6 @@
     ],
     "sectors": [
      "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "anunciara aranceles capacidad exceso investigacion sobre tras trump",
-    "type": "arancel",
-    "title": "Trump anunciará aranceles tras investigación sobre exceso de capacidad industrial",
-    "url": "https://www.larepublica.co/globoeconomia/trump-anunciara-aranceles-tras-investigacion-sobre-exceso-de-capacidad-industrial-4532119",
-    "domain": "larepublica.co",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-24T23:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "industria"
     ],
     "severity": "baja"
    },
@@ -1421,22 +1926,6 @@
     "severity": "alta"
    },
    {
-    "id": "aranceles asumir debe desapareceran economia mexico periodico zocalo",
-    "type": "arancel",
-    "title": "México debe asumir que aranceles de EU no desaparecerán : Economía – Periódico Zócalo",
-    "url": "https://www.zocalo.com.mx/mexico-debe-asumir-que-aranceles-de-eu-no-desapareceran-economia/",
-    "domain": "zocalo.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-24T21:45:00Z",
-    "countries": [
-     "MX",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "about banks business china convicted deceiving huawei iran",
     "type": "sancion",
     "title": "China Huawei convicted of deceiving banks about business in Iran and stealing US trade secrets | Huawei",
@@ -1510,38 +1999,6 @@
     "lang": "en",
     "sourceCountry": "Canada",
     "at": "2026-11-24T20:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "aranceles china estados europea nuevos prepara unidos union",
-    "type": "arancel",
-    "title": "Estados Unidos prepara nuevos aranceles a China , la Unión Europea y otros 14 países",
-    "url": "https://www.hoy.es/economia/estados-unidos-prepara-nuevos-aranceles-china-union-20261124183028-ntrc.html",
-    "domain": "hoy.es",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-24T20:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "atencion despachos genera horario limita nuevo puerto quetzal",
-    "type": "arancel",
-    "title": "Despachos en Puerto Quetzal : nuevo horario limita atención y genera rechazo , según exportadores",
-    "url": "https://lahora.gt/lh-economia/mherrera/2026/11/24/despachos-en-puerto-quetzal-nuevo-horario-limita-atencion-y-genera-rechazo-de-exportadores-now/",
-    "domain": "lahora.gt",
-    "lang": "es",
-    "sourceCountry": "Guatemala",
-    "at": "2026-11-24T20:15:00Z",
     "countries": [],
     "sectors": [
      "transporte"
@@ -1705,21 +2162,6 @@
     "severity": "alta"
    },
    {
-    "id": "2027 assures electricity increase minister nigeria power tariff",
-    "type": "arancel",
-    "title": "Nigeria : No Electricity Tariff Increase in 2027 - Power Minister Assures Nigerians",
-    "url": "https://allafrica.com/stories/202611240149.html",
-    "domain": "allafrica.com",
-    "lang": "en",
-    "sourceCountry": "Nigeria",
-    "at": "2026-11-24T06:30:00Z",
-    "countries": [],
-    "sectors": [
-     "energia"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "chip enforcement export megaspeed probe spore with working",
     "type": "sancion",
     "title": "Spore working with US on chip export enforcement as Megaspeed probe continues : PM Wong",
@@ -1735,24 +2177,6 @@
      "tech"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "chinese lawmakers pass quickly teamsters urge",
-    "type": "arancel",
-    "title": "Teamsters urge US lawmakers to quickly pass Chinese car ban",
-    "url": "https://www.taylorvilledailynews.com/teamsters-urge-us-lawmakers-to-quickly-pass-chinese-car-ban/",
-    "domain": "taylorvilledailynews.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-24T06:15:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "alta"
    },
    {
     "id": "blacklist denies equity firm links msian trade with",
@@ -1944,36 +2368,6 @@
     "severity": "alta"
    },
    {
-    "id": "charges failures high moves npera port service tackle",
-    "type": "arancel",
-    "title": "NPERA moves to tackle high port charges , service failures , others",
-    "url": "https://thesun.ng/npera-moves-to-tackle-high-port-charges-service-failures-others/",
-    "domain": "thesun.ng",
-    "lang": "en",
-    "sourceCountry": "",
-    "at": "2026-11-24T02:15:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "businesses canada domestic government investment ontario supports through",
-    "type": "arancel",
-    "title": "Government of Canada investment supports Ontario businesses through New Domestic Trade programs",
-    "url": "http://www.torontotelegraph.com/news/279451149/government-of-canada-investment-supports-ontario-businesses-through-new-domestic-trade-programs",
-    "domain": "torontotelegraph.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-24T02:15:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "apoyar bancario entidades iran sanciona sistema sombra veintena",
     "type": "sancion",
     "title": "EE . UU . sanciona a más de una veintena de entidades por apoyar el sistema bancario en la sombra de Irán",
@@ -1987,37 +2381,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "adds backlog continental durban port shop shuts while",
-    "type": "arancel",
-    "title": "Continental shuts up shop while Durban port backlog adds to manufacturer costs - BLSA",
-    "url": "https://www.politicsweb.co.za/news/continental-shuts-up-shop-while-durbans-port-backlog-adds-to-manufacturers-costs-blsa",
-    "domain": "politicsweb.co.za",
-    "lang": "en",
-    "sourceCountry": "South Africa",
-    "at": "2026-11-24T01:45:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte",
-     "industria"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "aranceles canciller comercio congresistas recibe tratan",
-    "type": "arancel",
-    "title": "El Canciller recibe 3 congresistas EU , tratan aranceles y comercio",
-    "url": "https://almomento.net/el-canciller-recibe-3-congresistas-eu-tratan-aranceles-y-comercio/",
-    "domain": "almomento.net",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-24T00:30:00Z",
-    "countries": [
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "back committed india kingdom pullback push trade united",
@@ -2255,38 +2618,6 @@
     "severity": "baja"
    },
    {
-    "id": "december india likely pact signed trade",
-    "type": "arancel",
-    "title": "India - EU trade pact likely to be signed on December 16",
-    "url": "https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece",
-    "domain": "thehindu.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-22T12:30:00Z",
-    "countries": [
-     "IN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "awaited deal free india likely long sign trade",
-    "type": "arancel",
-    "title": "India , EU likely to sign long - awaited free trade deal on December 16",
-    "url": "https://www.moneycontrol.com/news/economy/policy/india-eu-likely-to-sign-long-awaited-free-trade-deal-on-december-16-14086591.html",
-    "domain": "moneycontrol.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-22T12:30:00Z",
-    "countries": [
-     "IN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "after burning cargo drone russian ship still strike",
     "type": "sancion",
     "title": "Russian cargo ship still burning after drone strike off Finland",
@@ -2414,23 +2745,6 @@
     "severity": "baja"
    },
    {
-    "id": "balances economic india needs panel says security with",
-    "type": "arancel",
-    "title": "US panel says India balances security with economic needs amid Chinese pressure , flags supply - chain trade - offs",
-    "url": "http://www.africaleader.com/news/279446850/us-panel-says-india-balances-security-with-economic-needs-amid-chinese-pressure-flags-supply-chain-trade-offs",
-    "domain": "africaleader.com",
-    "lang": "en",
-    "sourceCountry": "South Africa",
-    "at": "2026-11-21T16:30:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "brasil como devaluacion para post precios quedaron vacaciones",
     "type": "divisa",
     "title": "Vacaciones en Brasil post devaluación : cómo quedaron los precios para comer , pasar el día en la playa e ir al súper",
@@ -2441,21 +2755,6 @@
     "at": "2026-11-21T16:30:00Z",
     "countries": [
      "BR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "explores export free india kerala opportunities trade under",
-    "type": "arancel",
-    "title": "KERALA EXPLORES EXPORT OPPORTUNITIES UNDER INDIA FREE TRADE AGREEMENTS - India Education | Latest Education News | Global Educational News",
-    "url": "https://indiaeducationdiary.in/kerala-explores-export-opportunities-under-indias-free-trade-agreements/",
-    "domain": "indiaeducationdiary.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-21T13:30:00Z",
-    "countries": [
-     "IN"
     ],
     "sectors": [],
     "severity": "baja"
@@ -2529,53 +2828,6 @@
     "severity": "baja"
    },
    {
-    "id": "canada canada emboldened feeling says trade trump",
-    "type": "arancel",
-    "title": "Canada - U . S . trade : Trump says Canada feeling emboldened",
-    "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
-    "domain": "bnnbloomberg.ca",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-21T00:30:00Z",
-    "countries": [
-     "US",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "canada emboldened fair feeling says seeking trade trump",
-    "type": "arancel",
-    "title": "Trump says Canada feeling emboldened but he seeking a fair trade deal",
-    "url": "https://www.thepeterboroughexaminer.com/news/canada/trump-says-canada-feeling-emboldened-but-he-s-seeking-a-fair-trade-deal/article_9e604c90-1076-534f-837b-3ba01cfaa1fe.html",
-    "domain": "thepeterboroughexaminer.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T21:45:00Z",
-    "countries": [
-     "US",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "committing fund help million ontario ottawa port sault",
-    "type": "arancel",
-    "title": "Ontario , Ottawa committing $250 million to help fund new port in Sault Ste . Marie",
-    "url": "https://www.thepeterboroughexaminer.com/business/ontario-ottawa-committing-250-million-to-help-fund-new-port-in-sault-ste-marie/article_4692e6dc-17b0-5f5e-9b7e-8906a6909750.html",
-    "domain": "thepeterboroughexaminer.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T21:45:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "compliance iran malaysia presses sanctions singapore treasury",
     "type": "sancion",
     "title": "US Treasury Presses Singapore and Malaysia on Iran Sanctions Compliance",
@@ -2602,40 +2854,6 @@
     "at": "2026-11-20T21:45:00Z",
     "countries": [
      "IR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "acuerdo cerca comercial esta mexico trump",
-    "type": "arancel",
-    "title": "EU está cerca de acuerdo comercial con México : Trump",
-    "url": "https://www.notisistema.com/noticias/eu-esta-cerca-de-acuerdo-comercial-con-mexico-trump/",
-    "domain": "notisistema.com",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T21:45:00Z",
-    "countries": [
-     "US",
-     "MX",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "acuerdo cerca comercial donald estan mexico trump",
-    "type": "arancel",
-    "title": "Donald Trump : EU y México están cerca de un acuerdo comercial",
-    "url": "https://www.razon.com.mx:443/mexico/2026/11/20/donald-trump-eu-y-mexico-estan-cerca-de-un-acuerdo-comercial/",
-    "domain": "razon.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T21:45:00Z",
-    "countries": [
-     "US",
-     "MX",
-     "EU"
     ],
     "sectors": [],
     "severity": "media"
@@ -2734,21 +2952,6 @@
     "severity": "alta"
    },
    {
-    "id": "alcanzan colombianas desde dolares importaciones millones mundinews venezuela",
-    "type": "arancel",
-    "title": "Importaciones colombianas desde Venezuela alcanzan 29 , 23 millones dólares – Mundinews – Breaking News del Mundo Entero",
-    "url": "https://mundinews.com/2026/11/20/importaciones-colombianas-desde-venezuela-alcanzan-2923-millones-dolares/",
-    "domain": "mundinews.com",
-    "lang": "es",
-    "sourceCountry": "Venezuela",
-    "at": "2026-11-20T05:30:00Z",
-    "countries": [
-     "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "brazil call closed dollar hits markets morning reals",
     "type": "divisa",
     "title": "Brazil Markets Closed as Dollar Hits 5 . 93 Reals | Morning Call , Nov 20",
@@ -2759,36 +2962,6 @@
     "at": "2026-11-20T05:30:00Z",
     "countries": [
      "BR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "baby buying essential mexico parents products squeeze tariffs",
-    "type": "arancel",
-    "title": "Tariffs squeeze New Mexico parents buying essential baby products",
-    "url": "http://www.albuquerqueexpress.com/news/279444185/tariffs-squeeze-new-mexico-parents-buying-essential-baby-products",
-    "domain": "albuquerqueexpress.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-20T05:15:00Z",
-    "countries": [
-     "MX"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "behind canada case closed doors make negotiators trade",
-    "type": "arancel",
-    "title": "Canada - U . S . trade : Negotiators make case behind closed doors",
-    "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/canada-makes-case-for-us-trade-deal-sooner-rather-than-later-in-private-meeting/",
-    "domain": "bnnbloomberg.ca",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T05:15:00Z",
-    "countries": [
-     "CA"
     ],
     "sectors": [],
     "severity": "baja"
@@ -2805,38 +2978,6 @@
     "countries": [
      "GB",
      "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "applications dgft import opens quota sugar time window",
-    "type": "arancel",
-    "title": "DGFT opens one - time window for raw sugar import quota applications",
-    "url": "https://www.thehindubusinessline.com/economy/agri-business/dgft-opens-one-time-window-for-raw-sugar-import-quota-applications/article71721980.ece",
-    "domain": "thehindubusinessline.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-20T04:30:00Z",
-    "countries": [],
-    "sectors": [
-     "alim",
-     "energia"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "acuerdo busca canada estados frenar nuevos para unidos",
-    "type": "arancel",
-    "title": "Canadá busca acuerdo con Estados Unidos para frenar nuevos aranceles en enero",
-    "url": "https://lineadirectaportal.com/internacional/canada-busca-acuerdo-con-estados-unidos-para-frenar-nuevos-aranceles-en-enero-2026-11-19__1741957",
-    "domain": "lineadirectaportal.com",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T04:30:00Z",
-    "countries": [
-     "US",
-     "CA"
     ],
     "sectors": [],
     "severity": "media"
@@ -2979,54 +3120,6 @@
     "severity": "media"
    },
    {
-    "id": "acuerdo cerrar comercial confia diciembre sheinbaum",
-    "type": "arancel",
-    "title": "Sheinbaum confía en cerrar acuerdo comercial con EU en diciembre",
-    "url": "https://forbes.com.mx/sheinbaum-confia-en-cerrar-acuerdo-comercial-con-eu-en-diciembre/",
-    "domain": "forbes.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T02:45:00Z",
-    "countries": [
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "acuerdos china cierra gira negociacion pero resolver sheinbaum",
-    "type": "arancel",
-    "title": "Sheinbaum cierra gira por China con acuerdos , pero sin resolver negociación arancelaria con Trump",
-    "url": "https://www.proceso.com.mx/nacional/2026/11/19/sheinbaum-cierra-gira-por-china-con-acuerdos-pero-sin-resolver-negociacion-arancelaria-con-trump-384009.html",
-    "domain": "proceso.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T02:45:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "arrangement china groups pork relief tariff welcome with",
-    "type": "arancel",
-    "title": "Pork groups welcome tariff relief arrangement with China",
-    "url": "https://www.620ckrm.com/2026/11/19/pork-groups-welcome-tariff-relief-arrangement-with-china/",
-    "domain": "620ckrm.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T02:45:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "2026 container exceeds ningbo port teus throughput zhoushan",
     "type": "logistica",
     "title": "Ningbo - Zhoushan Port container throughput for 2026 exceeds 40M TEUs",
@@ -3039,21 +3132,6 @@
     "sectors": [
      "transporte"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "auto canada global hurdle news reports talks tariff",
-    "type": "arancel",
-    "title": "Global News Reports Auto Tariff Is Key Hurdle in Canada - U . S . Talks",
-    "url": "https://econotimes.com/Global-News-Reports-Auto-Tariff-Is-Key-Hurdle-in-Canada-U-S-Talks-1779973",
-    "domain": "econotimes.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-20T02:30:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -3072,21 +3150,6 @@
      "alim"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "adhesion estados patentes sanciono senado solicitado tratado unidos",
-    "type": "arancel",
-    "title": "El Senado sancionó la adhesión al Tratado de Patentes , solicitado por Estados Unidos",
-    "url": "https://www.parlamentario.com/2026/11/19/el-senado-sanciono-la-adhesion-al-tratado-de-patentes-solicitado-por-estados-unidos/",
-    "domain": "parlamentario.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-20T00:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "canada issue multiple outstanding sources talks trade trade",
@@ -3135,21 +3198,6 @@
     "severity": "media"
    },
    {
-    "id": "apec comercio comprometer diversificar enfrenta mexico reto",
-    "type": "arancel",
-    "title": "México en la APEC enfrenta el reto de diversificar su comercio sin comprometer el T - MEC",
-    "url": "https://www.eleconomista.com.mx/internacionales/mexico-apec-enfrenta-reto-diversificar-comercio-comprometer-t-mec-20261119-844841.html",
-    "domain": "eleconomista.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-19T23:45:00Z",
-    "countries": [
-     "MX"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "arrangement canada interim seeking sources trade with year",
     "type": "regulacion",
     "title": "Canada seeking interim trade arrangement with U . S . by end of year : sources",
@@ -3163,31 +3211,18 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "despacho guatemala para puerto quetzal rechazaron restricciones",
-    "type": "arancel",
-    "title": "Rechazaron en Guatemala restricciones para despacho en puerto Quetzal",
-    "url": "https://www.prensa-latina.cu/2026/11/19/rechazaron-en-guatemala-restricciones-para-despacho-en-puerto-quetzal/",
-    "domain": "prensa-latina.cu",
-    "lang": "es",
-    "sourceCountry": "Cuba",
-    "at": "2026-11-19T19:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
+   "sancion/spanish: fetch failed",
+   "logistica/english: fetch failed",
    "logistica/spanish: fetch failed",
    "regulacion/english: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
+   "geo/english: fetch failed",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
