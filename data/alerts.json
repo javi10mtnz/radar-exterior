@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T08:05:53.816Z",
+ "updatedAt": "2026-11-26T09:14:13.529Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -8,12 +8,58 @@
   "items": [
    {
     "id": "bargaining calls coercive gtri section tariff tool under",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "GTRI calls US tariff under Section 301 coercive bargaining tool , urges India to reject it",
     "url": "http://www.newzealandstar.com/news/279454790/gtri-calls-us-tariff-under-section-301-coercive-bargaining-tool-urges-india-to-reject-it",
     "domain": "newzealandstar.com",
     "lang": "en",
     "sourceCountry": "New Zealand",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "economies global markets rattling shock targets tariff trump",
+    "type": "regulacion",
+    "title": "Tariff Shock : Trump Targets 14 Economies , Rattling Markets and Global Trade",
+    "url": "https://www.reviewnepal.com/tariff-shock-trump-targets-14-economies-rattling-markets-and-global-trade/",
+    "domain": "reviewnepal.com",
+    "lang": "en",
+    "sourceCountry": "Nepal",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "commentary partners pressure ramp seeks tariff threat trading",
+    "type": "regulacion",
+    "title": "Commentary : New US tariff threat seeks to ramp up pressure on trading partners – will it work ?",
+    "url": "https://www.channelnewsasia.com/commentary/trump-new-us-tariffs-excess-industrial-capacity-impact-singapore-trading-partners-6584001",
+    "domain": "channelnewsasia.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "categories cushion exempt export from frontloading major tariffs",
+    "type": "regulacion",
+    "title": "Major export categories exempt from US tariffs , frontloading may cushion impact on India : Reports",
+    "url": "http://www.bignewsnetwork.com/news/279454878/major-export-categories-exempt-from-us-tariffs-frontloading-may-cushion-impact-on-india-reports",
+    "domain": "bignewsnetwork.com",
+    "lang": "en",
+    "sourceCountry": "United States",
     "at": "2026-11-26T06:15:00Z",
     "countries": [
      "US",
@@ -48,21 +94,6 @@
     "domain": "thedailystar.net",
     "lang": "en",
     "sourceCountry": "Bangladesh",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "economies global markets rattling shock targets tariff trump",
-    "type": "arancel",
-    "title": "Tariff Shock : Trump Targets 14 Economies , Rattling Markets and Global Trade",
-    "url": "https://www.reviewnepal.com/tariff-shock-trump-targets-14-economies-rattling-markets-and-global-trade/",
-    "domain": "reviewnepal.com",
-    "lang": "en",
-    "sourceCountry": "Nepal",
     "at": "2026-11-26T06:15:00Z",
     "countries": [
      "US"
@@ -119,21 +150,6 @@
     "severity": "baja"
    },
    {
-    "id": "commentary partners pressure ramp seeks tariff threat trading",
-    "type": "arancel",
-    "title": "Commentary : New US tariff threat seeks to ramp up pressure on trading partners – will it work ?",
-    "url": "https://www.channelnewsasia.com/commentary/trump-new-us-tariffs-excess-industrial-capacity-impact-singapore-trading-partners-6584001",
-    "domain": "channelnewsasia.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "bangladesh economy move stake tariff washington what",
     "type": "arancel",
     "title": "Washington tariff move : What is at stake for Bangladesh economy ?",
@@ -147,22 +163,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "categories cushion exempt export from frontloading major tariffs",
-    "type": "arancel",
-    "title": "Major export categories exempt from US tariffs , frontloading may cushion impact on India : Reports",
-    "url": "http://www.bignewsnetwork.com/news/279454878/major-export-categories-exempt-from-us-tariffs-frontloading-may-cushion-impact-on-india-reports",
-    "domain": "bignewsnetwork.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "china india japan korea proposed south tariffs",
@@ -202,7 +202,7 @@
    },
    {
     "id": "deal faces india pact sealed tariff trade without",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "India Faces 25 % US Tariff Without Trade Deal , 17 % If Pact Is Sealed",
     "url": "https://www.businessworld.in/article/india-faces-25-us-tariff-without-trade-deal-17-if-pact-is-sealed-635230",
     "domain": "businessworld.in",
@@ -218,10 +218,57 @@
    },
    {
     "id": "capacity excess india sector structural talks tariff trade",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "No structural excess capacity in any sector , trade talks on : India on US tariff threats",
     "url": "https://www.mangalorean.com/no-structural-excess-capacity-in-any-sector-trade-talks-on-india-on-us-tariff-threats/",
     "domain": "mangalorean.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T05:45:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "automotive engages investment logistics minister trade volkswagen",
+    "type": "regulacion",
+    "title": "Trade Minister engages DHL , Volkswagen on logistics and automotive investment",
+    "url": "https://theheraldghana.com/trade-minister-engages-dhl-volkswagen-on-logistics-and-automotive-investment/",
+    "domain": "theheraldghana.com",
+    "lang": "en",
+    "sourceCountry": "Ghana",
+    "at": "2026-11-26T05:45:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte",
+     "industria"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "capacity economies excess korea other over proposes tariffs",
+    "type": "regulacion",
+    "title": "US proposes tariffs over excess capacity for Korea , 13 other economies",
+    "url": "https://english.hani.co.kr/arti/english_edition/e_international/1289187.html",
+    "domain": "english.hani.co.kr",
+    "lang": "en",
+    "sourceCountry": "South Korea",
+    "at": "2026-11-26T05:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "could emkay impacted indian stocks tariffs what which",
+    "type": "regulacion",
+    "title": "US tariffs : Which Indian stocks could be impacted ? What Emkay , Jefferies say",
+    "url": "https://www.businesstoday.in/markets/stocks/story/us-tariffs-which-indian-stocks-could-be-impacted-what-jefferies-says-569575-2026-11-26",
+    "domain": "businesstoday.in",
     "lang": "en",
     "sourceCountry": "India",
     "at": "2026-11-26T05:45:00Z",
@@ -249,37 +296,6 @@
     "severity": "alta"
    },
    {
-    "id": "capacity economies excess korea other over proposes tariffs",
-    "type": "arancel",
-    "title": "US proposes tariffs over excess capacity for Korea , 13 other economies",
-    "url": "https://english.hani.co.kr/arti/english_edition/e_international/1289187.html",
-    "domain": "english.hani.co.kr",
-    "lang": "en",
-    "sourceCountry": "South Korea",
-    "at": "2026-11-26T05:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "could emkay impacted indian stocks tariffs what which",
-    "type": "arancel",
-    "title": "US tariffs : Which Indian stocks could be impacted ? What Emkay , Jefferies say",
-    "url": "https://www.businesstoday.in/markets/stocks/story/us-tariffs-which-indian-stocks-could-be-impacted-what-jefferies-says-569575-2026-11-26",
-    "domain": "businesstoday.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-26T05:45:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "cautious changed indian little shares trade",
     "type": "arancel",
     "title": "Indian Shares Little Changed In Cautious Trade",
@@ -296,12 +312,58 @@
    },
    {
     "id": "action avoid deal quick seeks trade vietnam vows",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "Vietnam vows action , seeks quick trade deal to avoid US tariffs",
     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/26/vietnam-vows-action-seeks-quick-trade-deal-to-avoid-us-tariffs",
     "domain": "freemalaysiatoday.com",
     "lang": "en",
     "sourceCountry": "Malaysia",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "dispute india resolve talks tariff trade urges",
+    "type": "regulacion",
+    "title": "India urges US to resolve tariff dispute in trade talks",
+    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/26/india-urges-us-to-resolve-tariff-dispute-in-trade-talks",
+    "domain": "freemalaysiatoday.com",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "brazil expresses indignation over proposed tariffs",
+    "type": "regulacion",
+    "title": "Brazil expresses indignation over proposed new U . S . tariffs",
+    "url": "http://www.venezuelastar.com/news/279454625/brazil-expresses-indignation-over-proposed-new-us-tariffs",
+    "domain": "venezuelastar.com",
+    "lang": "en",
+    "sourceCountry": "Venezuela",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "dont earlier effect proposed take tariffs think would",
+    "type": "regulacion",
+    "title": "Dont think proposed tariffs would take effect earlier than couple months from now : US Trade Representative",
+    "url": "https://www.prokerala.com/news/articles/a1841195.html",
+    "domain": "prokerala.com",
+    "lang": "en",
+    "sourceCountry": "India",
     "at": "2026-11-26T05:15:00Z",
     "countries": [
      "US"
@@ -374,52 +436,6 @@
     "severity": "media"
    },
    {
-    "id": "dispute india resolve talks tariff trade urges",
-    "type": "arancel",
-    "title": "India urges US to resolve tariff dispute in trade talks",
-    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/26/india-urges-us-to-resolve-tariff-dispute-in-trade-talks",
-    "domain": "freemalaysiatoday.com",
-    "lang": "en",
-    "sourceCountry": "Malaysia",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "brazil expresses indignation over proposed tariffs",
-    "type": "arancel",
-    "title": "Brazil expresses indignation over proposed new U . S . tariffs",
-    "url": "http://www.venezuelastar.com/news/279454625/brazil-expresses-indignation-over-proposed-new-us-tariffs",
-    "domain": "venezuelastar.com",
-    "lang": "en",
-    "sourceCountry": "Venezuela",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "dont earlier effect proposed take tariffs think would",
-    "type": "arancel",
-    "title": "Dont think proposed tariffs would take effect earlier than couple months from now : US Trade Representative",
-    "url": "https://www.prokerala.com/news/articles/a1841195.html",
-    "domain": "prokerala.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "china plus really surplus tells trade trillion what",
     "type": "arancel",
     "title": "What China $Trillion - Plus Trade Surplus REALLY Tells Us",
@@ -485,7 +501,7 @@
    },
    {
     "id": "capacity donald excess industrial over tariffs trump unveils",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "Donald Trump unveils new tariffs over excess industrial capacity",
     "url": "https://arynews.tv/donald-trump-unveils-new-tariffs-over-excess-industrial-capacity",
     "domain": "arynews.tv",
@@ -498,6 +514,99 @@
     "sectors": [
      "industria"
     ],
+    "severity": "media"
+   },
+   {
+    "id": "equal official partners place proposal taiwan tariff would",
+    "type": "regulacion",
+    "title": "US tariff proposal would place Taiwan equal to FTA partners : official",
+    "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868438",
+    "domain": "taipeitimes.com",
+    "lang": "en",
+    "sourceCountry": "Taiwan",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "deal despite former persists talks tariff trade uncertainty",
+    "type": "regulacion",
+    "title": "US tariff uncertainty persists despite trade deal talks , say former diplomats",
+    "url": "http://www.japanherald.com/news/279454634/us-tariff-uncertainty-persists-despite-trade-deal-talks-say-former-diplomats",
+    "domain": "japanherald.com",
+    "lang": "en",
+    "sourceCountry": "Japan",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "addressed concerns notice should through trade under ustr",
+    "type": "regulacion",
+    "title": "US trade concerns should be addressed through BTA , USTR notice under examination : Commerce Ministry",
+    "url": "http://www.calcuttanews.net/news/279454782/us-trade-concerns-should-be-addressed-through-bta-ustr-notice-under-examination-commerce-ministry",
+    "domain": "calcuttanews.net",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "capacity excess industrial over tariffs trump undeterred unveils",
+    "type": "regulacion",
+    "title": "Trump unveils new tariffs over excess industrial capacity , undeterred by midterms defeat",
+    "url": "https://dunyanews.tv/en/World/984936-trump-unveils-new-tariffs-over-excess-industrial-capacity-undeterred-",
+    "domain": "dunyanews.tv",
+    "lang": "en",
+    "sourceCountry": "Pakistan",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "competitiveness deal exports hinges impact indian tariff trade",
+    "type": "regulacion",
+    "title": "US tariff impact on Indian exports hinges on trade deal , competitiveness against rivals : Industry leaders",
+    "url": "http://www.calcuttanews.net/news/279454760/us-tariff-impact-on-indian-exports-hinges-on-trade-deal-competitiveness-against-rivals-industry-leaders",
+    "domain": "calcuttanews.net",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "billion export goods impact retaliatory seeks tariff warns",
+    "type": "regulacion",
+    "title": "CTI seeks 25 % retaliatory tariff on US goods , warns of $48 billion export impact : Chairman Brijesh Goyal",
+    "url": "http://www.calcuttanews.net/news/279454710/cti-seeks-25-retaliatory-tariff-on-us-goods-warns-of-48-billion-export-impact-chairman-brijesh-goyal",
+    "domain": "calcuttanews.net",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
     "severity": "media"
    },
    {
@@ -530,36 +639,6 @@
     "sectors": [
      "tech"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "equal official partners place proposal taiwan tariff would",
-    "type": "arancel",
-    "title": "US tariff proposal would place Taiwan equal to FTA partners : official",
-    "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868438",
-    "domain": "taipeitimes.com",
-    "lang": "en",
-    "sourceCountry": "Taiwan",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "deal despite former persists talks tariff trade uncertainty",
-    "type": "arancel",
-    "title": "US tariff uncertainty persists despite trade deal talks , say former diplomats",
-    "url": "http://www.japanherald.com/news/279454634/us-tariff-uncertainty-persists-despite-trade-deal-talks-say-former-diplomats",
-    "domain": "japanherald.com",
-    "lang": "en",
-    "sourceCountry": "Japan",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -657,6 +736,55 @@
     "severity": "alta"
    },
    {
+    "id": "agreed capacity excess goods korean proposes tariffs within",
+    "type": "regulacion",
+    "title": "US proposes excess capacity tariffs on Korean goods within agreed 15 % ceiling",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20261126/us-proposes-excess-capacity-tariffs-on-korean-goods-within-agreed-15-ceiling",
+    "domain": "koreatimes.co.kr",
+    "lang": "en",
+    "sourceCountry": "South Korea",
+    "at": "2026-11-26T03:15:00Z",
+    "countries": [
+     "US",
+     "KR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "capacity economy excess industrial over tariffs trump unveils",
+    "type": "regulacion",
+    "title": "Trump unveils new tariffs over excess industrial capacity - Economy",
+    "url": "http://www.thejakartapost.com/business/2026/11/26/trump-unveils-new-tariffs-over-excess-industrial-capacity",
+    "domain": "thejakartapost.com",
+    "lang": "en",
+    "sourceCountry": "Indonesia",
+    "at": "2026-11-26T03:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "amid capacity claims excess india rejects tariffs threat",
+    "type": "regulacion",
+    "title": "India Rejects US Excess Capacity Claims Amid Threat of 25 % Tariffs",
+    "url": "https://www.deccanchronicle.com/nation/world/india-rejects-us-excess-capacity-claims-amid-threat-of-25-tariffs-2008061",
+    "domain": "deccanchronicle.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T03:15:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "aranceles brasil eeuu inaceptable nuevos propuesta rechaza",
     "type": "arancel",
     "title": "Brasil rechaza propuesta de nuevos aranceles de EEUU : Es inaceptable",
@@ -707,6 +835,38 @@
     "severity": "media"
    },
    {
+    "id": "against back capacity excess india pushes sector structural",
+    "type": "regulacion",
+    "title": "No structural excess capacity in any sector : India pushes back against US tariff allegations",
+    "url": "https://www.businesstoday.in/latest/economy/story/no-structural-excess-capacity-in-any-sector-india-pushes-back-against-us-tariff-allegations-569560-2026-11-26",
+    "domain": "businesstoday.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T03:00:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "exempts exposed indian leaves phones proposal tariff textiles",
+    "type": "regulacion",
+    "title": "US tariff proposal exempts Indian phones , leaves textiles exposed",
+    "url": "https://www.siasat.com/us-tariff-proposal-exempts-indian-phones-leaves-textiles-exposed-3586967/",
+    "domain": "siasat.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T02:45:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "aranceles impone nuevos paises trump",
     "type": "arancel",
     "title": "Trump impone nuevos aranceles a la UE y 13 países",
@@ -721,6 +881,21 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "affairs boss demonstrate expert foreign still trump wants",
+    "type": "regulacion",
+    "title": "Trump wants to demonstrate he is still the boss : Foreign affairs expert Sushant Sareen on proposed US tariffs",
+    "url": "http://www.kenyastar.com/news/279454633/trump-wants-to-demonstrate-he-is-still-the-boss-foreign-affairs-expert-sushant-sareen-on-proposed-us-tariffs",
+    "domain": "kenyastar.com",
+    "lang": "en",
+    "sourceCountry": "Kenya",
+    "at": "2026-11-26T02:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "ahora arancel libra mexico moneda otro seria trump",
@@ -754,6 +929,54 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "clarifies deal india reached tariff trade ustr",
+    "type": "regulacion",
+    "title": "US to cap India tariff at 17 % if trade deal is reached , USTR clarifies",
+    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-to-cap-india-tariff-at-17-if-trade-deal-is-reached-ustr-clarifies/articleshow/136175474.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T02:15:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china europe gets india second tariff trump with",
+    "type": "regulacion",
+    "title": "Trump tariff war gets a second act , with India , China and Europe in the firing line",
+    "url": "https://economictimes.indiatimes.com/news/international/world-news/us-proposes-tariffs-on-14-trade-partners-over-excess-industrial-capacity-china-eu-others-in-radar/articleshow/136175571.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T02:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "brazil expresses indignation over proposed tariffs xinhua",
+    "type": "regulacion",
+    "title": "Brazil expresses indignation over proposed new U . S . tariffs - Xinhua",
+    "url": "https://english.news.cn/20261126/af0267a94fa442c5a210d3cf0f5dec49/c.html",
+    "domain": "english.news.cn",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-26T02:15:00Z",
+    "countries": [
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "ahora aranceles china gravaria libra mexico nuevos socios",
@@ -802,6 +1025,52 @@
     "countries": [
      "US",
      "MX"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "asian could india lower secure several tariffs than",
+    "type": "regulacion",
+    "title": "India could secure lower US tariffs than several Asian competitors if trade deal materialises",
+    "url": "http://www.europesun.com/news/279454251/india-could-secure-lower-us-tariffs-than-several-asian-competitors-if-trade-deal-materialises",
+    "domain": "europesun.com",
+    "lang": "en",
+    "sourceCountry": "Russia",
+    "at": "2026-11-26T01:15:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "bangladesh countries fresh other tariff",
+    "type": "regulacion",
+    "title": "Fresh US tariff for Bangladesh , 13 other countries",
+    "url": "https://www.thedailystar.net/news/bangladesh/news/fresh-us-tariff-bangladesh-13-other-countries-4333516",
+    "domain": "thedailystar.net",
+    "lang": "en",
+    "sourceCountry": "Bangladesh",
+    "at": "2026-11-26T01:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "capped major partners proposes rate singapore tariffs trading",
+    "type": "regulacion",
+    "title": "US proposes new tariffs on 14 major trading partners ; Singapore to get capped rate of 10 %",
+    "url": "https://www.businesstimes.com.sg/international/global/us-proposes-new-tariffs-14-major-trading-partners-singapore-get-capped-rate-10",
+    "domain": "businesstimes.com.sg",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-26T01:15:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "media"
@@ -3214,15 +3483,14 @@
    }
   ],
   "partialErrors": [
-   "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: fetch failed",
    "logistica/spanish: fetch failed",
-   "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
-   "geo/english: fetch failed",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
