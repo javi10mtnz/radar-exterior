@@ -1,11 +1,58 @@
 {
- "updatedAt": "2026-11-26T22:36:52.448Z",
+ "updatedAt": "2026-11-26T23:36:44.061Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "builds china gulf hold loadings steady supply vlcc",
+    "type": "geo",
+    "title": "VLCC Supply Builds as Gulf – China Loadings Hold Steady | Hellenic Shipping News Worldwide",
+    "url": "https://www.hellenicshippingnews.com/vlcc-supply-builds-as-gulf-china-loadings-hold-steady/",
+    "domain": "hellenicshippingnews.com",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-26T22:45:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "ahead canadian cobalt congo export journal jumps mining",
+    "type": "regulacion",
+    "title": "Cobalt jumps 33 % ahead of Congo export ban - Canadian Mining Journal",
+    "url": "https://www.canadianminingjournal.com/news/cobalt-jumps-33-ahead-of-congo-export-ban/",
+    "domain": "canadianminingjournal.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-26T22:15:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "back partners push push revives tariff trading washington",
+    "type": "regulacion",
+    "title": "Washington Revives Tariff Push as Trading Partners Push Back and Markets Wobble",
+    "url": "https://www.mumbrella.asia/2026/11/washington-revives-tariff-push-as.html",
+    "domain": "mumbrella.asia",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-26T22:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "arancelaria mexico periodico productiva ventaja ventaja zocalo",
     "type": "arancel",
@@ -53,6 +100,21 @@
     "severity": "media"
    },
    {
+    "id": "alibaba export imposes megaspeed over restrictions security unit",
+    "type": "sancion",
+    "title": "US Imposes Export Restrictions on Megaspeed and Alibaba Unit Over Security Concerns",
+    "url": "https://www.sentinelassam.com/more-news/international/us-imposes-export-restrictions-on-megaspeed-and-alibaba-unit-over-security-concerns",
+    "domain": "sentinelassam.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T12:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "china china economic foreign headwinds roundtable trade weathers",
     "type": "regulacion",
     "title": "( China Economic Roundtable ) China foreign trade weathers headwinds via market diversification , product upgrading - Xinhua",
@@ -96,6 +158,22 @@
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "accusations china disputed japan near over ships trade",
+    "type": "geo",
+    "title": "Japan , China trade accusations over ships near disputed islands",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/26/japan-china-trade-accusations-over-ships-near-disputed-islands",
+    "domain": "freemalaysiatoday.com",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-26T12:45:00Z",
+    "countries": [
+     "CN",
+     "JP"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "additional china china economies firmly opposes other tariffs",
@@ -192,35 +270,22 @@
     "severity": "media"
    },
    {
-    "id": "alibaba export imposes megaspeed over restrictions security unit",
+    "id": "abandon blockade claims exports forced iran threatens will",
     "type": "sancion",
-    "title": "US Imposes Export Restrictions on Megaspeed and Alibaba Unit Over Security Concerns",
-    "url": "https://www.sentinelassam.com/more-news/international/us-imposes-export-restrictions-on-megaspeed-and-alibaba-unit-over-security-concerns",
-    "domain": "sentinelassam.com",
+    "title": "Iran claims US will be forced to abandon blockade , threatens oil exports",
+    "url": "https://www.israelnationalnews.com/news/437166",
+    "domain": "israelnationalnews.com",
     "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-26T12:45:00Z",
+    "sourceCountry": "Israel",
+    "at": "2026-11-26T06:15:00Z",
     "countries": [
-     "US"
+     "US",
+     "IR"
     ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "accusations china disputed japan near over ships trade",
-    "type": "geo",
-    "title": "Japan , China trade accusations over ships near disputed islands",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/26/japan-china-trade-accusations-over-ships-near-disputed-islands",
-    "domain": "freemalaysiatoday.com",
-    "lang": "en",
-    "sourceCountry": "Malaysia",
-    "at": "2026-11-26T12:45:00Z",
-    "countries": [
-     "CN",
-     "JP"
+    "sectors": [
+     "energia"
     ],
-    "sectors": [],
-    "severity": "media"
+    "severity": "alta"
    },
    {
     "id": "bargaining calls coercive gtri section tariff tool under",
@@ -283,6 +348,21 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "balk economies major over tariffs trade unfair",
+    "type": "geo",
+    "title": "Major economies balk at new US tariffs over unfair trade",
+    "url": "https://www.thedailystar.net/business/news/major-economies-balk-new-us-tariffs-over-unfair-trade-4333651",
+    "domain": "thedailystar.net",
+    "lang": "en",
+    "sourceCountry": "Bangladesh",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "acero competir cualquier importado otro pais pero podemos",
@@ -349,21 +429,6 @@
      "alim",
      "energia"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "balk economies major over tariffs trade unfair",
-    "type": "arancel",
-    "title": "Major economies balk at new US tariffs over unfair trade",
-    "url": "https://www.thedailystar.net/business/news/major-economies-balk-new-us-tariffs-over-unfair-trade-4333651",
-    "domain": "thedailystar.net",
-    "lang": "en",
-    "sourceCountry": "Bangladesh",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -463,24 +528,6 @@
      "EU"
     ],
     "sectors": [],
-    "severity": "alta"
-   },
-   {
-    "id": "abandon blockade claims exports forced iran threatens will",
-    "type": "sancion",
-    "title": "Iran claims US will be forced to abandon blockade , threatens oil exports",
-    "url": "https://www.israelnationalnews.com/news/437166",
-    "domain": "israelnationalnews.com",
-    "lang": "en",
-    "sourceCountry": "Israel",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [
-     "energia"
-    ],
     "severity": "alta"
    },
    {
@@ -594,13 +641,29 @@
     "severity": "baja"
    },
    {
-    "id": "action avoid deal quick seeks trade vietnam vows",
-    "type": "regulacion",
-    "title": "Vietnam vows action , seeks quick trade deal to avoid US tariffs",
-    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/26/vietnam-vows-action-seeks-quick-trade-deal-to-avoid-us-tariffs",
-    "domain": "freemalaysiatoday.com",
+    "id": "convicts huawei iran jury sanctions violations",
+    "type": "sancion",
+    "title": "US jury convicts Huawei of Iran sanctions violations",
+    "url": "https://www.prokerala.com/news/articles/a1841204.html",
+    "domain": "prokerala.com",
     "lang": "en",
-    "sourceCountry": "Malaysia",
+    "sourceCountry": "India",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "dont earlier effect proposed take tariffs think would",
+    "type": "regulacion",
+    "title": "Dont think proposed tariffs would take effect earlier than couple months from now : US Trade Representative",
+    "url": "https://www.prokerala.com/news/articles/a1841195.html",
+    "domain": "prokerala.com",
+    "lang": "en",
+    "sourceCountry": "India",
     "at": "2026-11-26T05:15:00Z",
     "countries": [
      "US"
@@ -640,19 +703,36 @@
     "severity": "baja"
    },
    {
-    "id": "dont earlier effect proposed take tariffs think would",
+    "id": "action avoid deal quick seeks trade vietnam vows",
     "type": "regulacion",
-    "title": "Dont think proposed tariffs would take effect earlier than couple months from now : US Trade Representative",
-    "url": "https://www.prokerala.com/news/articles/a1841195.html",
-    "domain": "prokerala.com",
+    "title": "Vietnam vows action , seeks quick trade deal to avoid US tariffs",
+    "url": "https://www.freemalaysiatoday.com/category/world/2026/11/26/vietnam-vows-action-seeks-quick-trade-deal-to-avoid-us-tariffs",
+    "domain": "freemalaysiatoday.com",
     "lang": "en",
-    "sourceCountry": "India",
+    "sourceCountry": "Malaysia",
     "at": "2026-11-26T05:15:00Z",
     "countries": [
      "US"
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "china others over tariffs trade unfair unveils",
+    "type": "geo",
+    "title": "US unveils tariffs on EU , China and others over unfair trade",
+    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/26/us-unveils-tariffs-on-eu-china-and-others-over-unfair-trade",
+    "domain": "freemalaysiatoday.com",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "aranceles centra china nuevos pekin pero represalias tomara",
@@ -736,39 +816,6 @@
     "severity": "baja"
    },
    {
-    "id": "china others over tariffs trade unfair unveils",
-    "type": "arancel",
-    "title": "US unveils tariffs on EU , China and others over unfair trade",
-    "url": "https://www.freemalaysiatoday.com/category/business/2026/11/26/us-unveils-tariffs-on-eu-china-and-others-over-unfair-trade",
-    "domain": "freemalaysiatoday.com",
-    "lang": "en",
-    "sourceCountry": "Malaysia",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "convicts huawei iran jury sanctions violations",
-    "type": "sancion",
-    "title": "US jury convicts Huawei of Iran sanctions violations",
-    "url": "https://www.prokerala.com/news/articles/a1841204.html",
-    "domain": "prokerala.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
     "id": "brazilian imports proposes tariffs",
     "type": "arancel",
     "title": "U . S . proposes new tariffs on Brazilian imports",
@@ -800,6 +847,23 @@
     "severity": "media"
    },
    {
+    "id": "attacks houthis launch ports retaliatory saudi",
+    "type": "geo",
+    "title": "Houthis launch retaliatory attacks on two Saudi ports on Red Sea",
+    "url": "https://www.businesstimes.com.sg/international/houthis-launch-retaliatory-attacks-two-saudi-ports-red-sea",
+    "domain": "businesstimes.com.sg",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-26T04:45:00Z",
+    "countries": [
+     "SA"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "media"
+   },
+   {
     "id": "anuncia aranceles china contra eeuu japon nuevos otras",
     "type": "arancel",
     "title": "EEUU anuncia nuevos aranceles contra China , Japón y la UE y otras 11 economías",
@@ -815,23 +879,6 @@
      "EU"
     ],
     "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "attacks houthis launch ports retaliatory saudi",
-    "type": "geo",
-    "title": "Houthis launch retaliatory attacks on two Saudi ports on Red Sea",
-    "url": "https://www.businesstimes.com.sg/international/houthis-launch-retaliatory-attacks-two-saudi-ports-red-sea",
-    "domain": "businesstimes.com.sg",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-26T04:45:00Z",
-    "countries": [
-     "SA"
-    ],
-    "sectors": [
-     "transporte"
-    ],
     "severity": "media"
    },
    {
@@ -1070,6 +1117,24 @@
     "severity": "baja"
    },
    {
+    "id": "brazil china factories hike others over subsidized tariffs",
+    "type": "geo",
+    "title": "US to hike tariffs on China , EU , Brazil and others over subsidized factories",
+    "url": "https://www.koaa.com/politics/economy/us-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-factories",
+    "domain": "koaa.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T04:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "BR",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "acuerdo aranceles comercial eeuu frenar negocia para vietnam",
     "type": "arancel",
     "title": "Vietnam negocia con EEUU un acuerdo comercial para frenar los aranceles lo antes posible - Mundo",
@@ -1113,24 +1178,6 @@
     "sectors": [
      "tech"
     ],
-    "severity": "media"
-   },
-   {
-    "id": "brazil china factories hike others over subsidized tariffs",
-    "type": "sancion",
-    "title": "US to hike tariffs on China , EU , Brazil and others over subsidized factories",
-    "url": "https://www.koaa.com/politics/economy/us-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-factories",
-    "domain": "koaa.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T04:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "BR",
-     "EU"
-    ],
-    "sectors": [],
     "severity": "media"
    },
    {
@@ -1409,6 +1456,21 @@
     "severity": "media"
    },
    {
+    "id": "ramps trade trump world",
+    "type": "geo",
+    "title": "Trump ramps up his trade war on the world",
+    "url": "https://www.theage.com.au/business/the-economy/trump-strikes-again-even-as-america-feels-the-pain-20261126-p61hen.html",
+    "domain": "theage.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-26T02:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "brazil expresses indignation over proposed tariffs xinhua",
     "type": "regulacion",
     "title": "Brazil expresses indignation over proposed new U . S . tariffs - Xinhua",
@@ -1439,21 +1501,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "ramps trade trump world",
-    "type": "geo",
-    "title": "Trump ramps up his trade war on the world",
-    "url": "https://www.theage.com.au/business/the-economy/trump-strikes-again-even-as-america-feels-the-pain-20261126-p61hen.html",
-    "domain": "theage.com.au",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-26T02:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "brasil estados expreso imponer indignacion nuevos propuesta unidos",
@@ -3670,12 +3717,13 @@
   "partialErrors": [
    "arancel/english: fetch failed",
    "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
