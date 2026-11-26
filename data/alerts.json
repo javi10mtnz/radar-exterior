@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T00:33:35.611Z",
+ "updatedAt": "2026-11-26T03:03:18.683Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -318,21 +318,6 @@
     "severity": "media"
    },
    {
-    "id": "alibaba curbs exports megaspeed unit",
-    "type": "sancion",
-    "title": "US curbs exports to Megaspeed , Alibaba unit",
-    "url": "https://ianslive.in/us-curbs-exports-to-megaspeed-alibaba-unit--20261125082403",
-    "domain": "ianslive.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-25T04:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "colmados comerciantes dominican electronica factura piden republic sancionar",
     "type": "sancion",
     "title": "Comerciantes piden no sancionar colmados por la factura electrónica - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
@@ -346,6 +331,21 @@
      "tech"
     ],
     "severity": "media"
+   },
+   {
+    "id": "alibaba curbs exports megaspeed unit",
+    "type": "sancion",
+    "title": "US curbs exports to Megaspeed , Alibaba unit",
+    "url": "https://ianslive.in/us-curbs-exports-to-megaspeed-alibaba-unit--20261125082403",
+    "domain": "ianslive.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-25T04:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "assistance customs kingdom lanka receive technical under united",
@@ -2902,17 +2902,17 @@
    }
   ],
   "partialErrors": [
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: fetch failed",
    "regulacion/spanish: fetch failed",
    "divisa/english: fetch failed",
    "divisa/spanish: fetch failed",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/spanish: fetch failed"
   ]
  }
 }
