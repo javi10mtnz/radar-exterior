@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T20:14:15.161Z",
+ "updatedAt": "2026-11-26T21:33:28.109Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,19 +7,19 @@
  "data": {
   "items": [
    {
-    "id": "economies imposes magazine spotlight tariffs",
+    "id": "arancelaria mexico periodico productiva ventaja ventaja zocalo",
     "type": "arancel",
-    "title": "US imposes new tariffs on 14 economies | New Spotlight Magazine",
-    "url": "https://www.spotlightnepal.com/2026/11/26/us-imposes-new-tariffs-14-economies/",
-    "domain": "spotlightnepal.com",
-    "lang": "en",
-    "sourceCountry": "Nepal",
-    "at": "2026-11-26T19:45:00Z",
+    "title": "México : de la ventaja arancelaria a la ventaja productiva – Periódico Zócalo",
+    "url": "https://www.zocalo.com.mx/mexico-de-la-ventaja-arancelaria-a-la-ventaja-productiva/",
+    "domain": "zocalo.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-26T20:45:00Z",
     "countries": [
-     "US"
+     "MX"
     ],
     "sectors": [],
-    "severity": "media"
+    "severity": "baja"
    },
    {
     "id": "advierte ante arancelaria china nueva ofensiva represalias trump",
@@ -36,6 +36,21 @@
     ],
     "sectors": [],
     "severity": "alta"
+   },
+   {
+    "id": "economies imposes magazine spotlight tariffs",
+    "type": "arancel",
+    "title": "US imposes new tariffs on 14 economies | New Spotlight Magazine",
+    "url": "https://www.spotlightnepal.com/2026/11/26/us-imposes-new-tariffs-14-economies/",
+    "domain": "spotlightnepal.com",
+    "lang": "en",
+    "sourceCountry": "Nepal",
+    "at": "2026-11-26T19:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "additional china china economies firmly opposes other tariffs",
@@ -188,6 +203,55 @@
     "countries": [
      "CN",
      "JP"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "alistando arancelario donald economias esta golpe nuevo trump",
+    "type": "arancel",
+    "title": "Donald Trump está alistando un nuevo golpe arancelario a 14 economías",
+    "url": "https://www.larepublica.co/globoeconomia/donald-trump-esta-alistando-un-nuevo-golpe-arancelario-a-14-economias-4533470",
+    "domain": "larepublica.co",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "acero competir cualquier importado otro pais pero podemos",
+    "type": "arancel",
+    "title": "Podemos competir con el acero importado de cualquier otro país , pero no con el chino",
+    "url": "https://www.larepublica.co/empresas/entrevista-con-marcela-mejia-valencia-gerente-de-sidoc-sobre-el-acero-chino-4532963",
+    "domain": "larepublica.co",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles china economias hasta impuso india otras trump",
+    "type": "arancel",
+    "title": "Trump impuso aranceles de hasta 20 % a China , India y otras 12 economías",
+    "url": "https://www.anroca.com.ar/noticias/2026/11/26/234297-trump-impuso-aranceles-de-hasta-20por_ciento-a-china-india-y-otras-12-economias",
+    "domain": "anroca.com.ar",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
     ],
     "sectors": [],
     "severity": "media"
@@ -387,55 +451,6 @@
     "severity": "alta"
    },
    {
-    "id": "alistando arancelario donald economias esta golpe nuevo trump",
-    "type": "arancel",
-    "title": "Donald Trump está alistando un nuevo golpe arancelario a 14 economías",
-    "url": "https://www.larepublica.co/globoeconomia/donald-trump-esta-alistando-un-nuevo-golpe-arancelario-a-14-economias-4533470",
-    "domain": "larepublica.co",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "acero competir cualquier importado otro pais pero podemos",
-    "type": "arancel",
-    "title": "Podemos competir con el acero importado de cualquier otro país , pero no con el chino",
-    "url": "https://www.larepublica.co/empresas/entrevista-con-marcela-mejia-valencia-gerente-de-sidoc-sobre-el-acero-chino-4532963",
-    "domain": "larepublica.co",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "aranceles china economias hasta impuso india otras trump",
-    "type": "arancel",
-    "title": "Trump impuso aranceles de hasta 20 % a China , India y otras 12 economías",
-    "url": "https://www.anroca.com.ar/noticias/2026/11/26/234297-trump-impuso-aranceles-de-hasta-20por_ciento-a-china-india-y-otras-12-economias",
-    "domain": "anroca.com.ar",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "abandon blockade claims exports forced iran threatens will",
     "type": "sancion",
     "title": "Iran claims US will be forced to abandon blockade , threatens oil exports",
@@ -564,6 +579,55 @@
     "severity": "baja"
    },
    {
+    "id": "aranceles centra china nuevos pekin pero represalias tomara",
+    "type": "arancel",
+    "title": "EE . UU . centra sus nuevos aranceles en China pero Pekín no tomará represalias , según expertos",
+    "url": "https://www.elheraldo.co/mundo/2026/11/26/ee-uu-centra-sus-nuevos-aranceles-en-china-pero-pekin-no-tomara-represalias-segun-expertos/",
+    "domain": "elheraldo.co",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles brasil eeuu expresa inaceptable indignacion nuevos propuesta",
+    "type": "arancel",
+    "title": "Brasil expresa indignación por propuesta inaceptable de nuevos aranceles de EEUU",
+    "url": "https://listindiario.com/economia/20261125/brasil-expresa-indignacion-propuesta-inaceptable-nuevos-aranceles-eeuu_931546.html",
+    "domain": "listindiario.com",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles china comerciales como eeuu nuevos propone socios",
+    "type": "arancel",
+    "title": "EEUU propone nuevos aranceles a socios comerciales como la UE , China y Brasil",
+    "url": "https://listindiario.com/economia/20261125/eeuu-propone-nuevos-aranceles-socios-comerciales-ue-china-brasil_931542.html",
+    "domain": "listindiario.com",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "BR",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "action avoid deal quick seeks trade vietnam vows",
     "type": "arancel",
     "title": "Vietnam vows action , seeks quick trade deal to avoid US tariffs",
@@ -622,55 +686,6 @@
     "countries": [
      "US",
      "CN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "aranceles centra china nuevos pekin pero represalias tomara",
-    "type": "arancel",
-    "title": "EE . UU . centra sus nuevos aranceles en China pero Pekín no tomará represalias , según expertos",
-    "url": "https://www.elheraldo.co/mundo/2026/11/26/ee-uu-centra-sus-nuevos-aranceles-en-china-pero-pekin-no-tomara-represalias-segun-expertos/",
-    "domain": "elheraldo.co",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "aranceles brasil eeuu expresa inaceptable indignacion nuevos propuesta",
-    "type": "arancel",
-    "title": "Brasil expresa indignación por propuesta inaceptable de nuevos aranceles de EEUU",
-    "url": "https://listindiario.com/economia/20261125/brasil-expresa-indignacion-propuesta-inaceptable-nuevos-aranceles-eeuu_931546.html",
-    "domain": "listindiario.com",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "US",
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "aranceles china comerciales como eeuu nuevos propone socios",
-    "type": "arancel",
-    "title": "EEUU propone nuevos aranceles a socios comerciales como la UE , China y Brasil",
-    "url": "https://listindiario.com/economia/20261125/eeuu-propone-nuevos-aranceles-socios-comerciales-ue-china-brasil_931542.html",
-    "domain": "listindiario.com",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "BR",
      "EU"
     ],
     "sectors": [],
@@ -1764,23 +1779,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "asian loom rebound stocks stumbles tariff threats tumble",
-    "type": "arancel",
-    "title": "Asian stocks tumble as AI rebound stumbles , US tariff threats loom",
-    "url": "https://www.business-standard.com/markets/news/asian-stocks-tumble-as-ai-rebound-stumbles-us-tariff-threats-loom-126112500066_1.html",
-    "domain": "business-standard.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-25T05:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
    },
    {
     "id": "chip control export mechanism singapore work",
@@ -3655,13 +3653,15 @@
    }
   ],
   "partialErrors": [
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: fetch failed",
+   "arancel/english: fetch failed",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: fetch failed",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: fetch failed"
   ]
  }
 }
