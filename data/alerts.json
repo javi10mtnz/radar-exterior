@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-26T14:30:12.421Z",
+ "updatedAt": "2026-11-26T15:42:03.410Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "alibaba export imposes megaspeed over restrictions security unit",
+    "type": "sancion",
+    "title": "US Imposes Export Restrictions on Megaspeed and Alibaba Unit Over Security Concerns",
+    "url": "https://www.sentinelassam.com/more-news/international/us-imposes-export-restrictions-on-megaspeed-and-alibaba-unit-over-security-concerns",
+    "domain": "sentinelassam.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T12:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "additional china china economies firmly opposes other tariffs",
     "type": "arancel",
@@ -145,6 +160,73 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "alistando arancelario donald economias esta golpe nuevo trump",
+    "type": "arancel",
+    "title": "Donald Trump está alistando un nuevo golpe arancelario a 14 economías",
+    "url": "https://www.larepublica.co/globoeconomia/donald-trump-esta-alistando-un-nuevo-golpe-arancelario-a-14-economias-4533470",
+    "domain": "larepublica.co",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "acero competir cualquier importado otro pais pero podemos",
+    "type": "arancel",
+    "title": "Podemos competir con el acero importado de cualquier otro país , pero no con el chino",
+    "url": "https://www.larepublica.co/empresas/entrevista-con-marcela-mejia-valencia-gerente-de-sidoc-sobre-el-acero-chino-4532963",
+    "domain": "larepublica.co",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles china economias hasta impuso india otras trump",
+    "type": "arancel",
+    "title": "Trump impuso aranceles de hasta 20 % a China , India y otras 12 economías",
+    "url": "https://www.anroca.com.ar/noticias/2026/11/26/234297-trump-impuso-aranceles-de-hasta-20por_ciento-a-china-india-y-otras-12-economias",
+    "domain": "anroca.com.ar",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "abandon blockade claims exports forced iran threatens will",
+    "type": "sancion",
+    "title": "Iran claims US will be forced to abandon blockade , threatens oil exports",
+    "url": "https://www.israelnationalnews.com/news/437166",
+    "domain": "israelnationalnews.com",
+    "lang": "en",
+    "sourceCountry": "Israel",
+    "at": "2026-11-26T06:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "alta"
    },
    {
     "id": "bargaining calls coercive gtri section tariff tool under",
@@ -341,73 +423,6 @@
     "severity": "alta"
    },
    {
-    "id": "acero competir cualquier importado otro pais pero podemos",
-    "type": "regulacion",
-    "title": "Podemos competir con el acero importado de cualquier otro país , pero no con el chino",
-    "url": "https://www.larepublica.co/empresas/entrevista-con-marcela-mejia-valencia-gerente-de-sidoc-sobre-el-acero-chino-4532963",
-    "domain": "larepublica.co",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "abandon blockade claims exports forced iran threatens will",
-    "type": "geo",
-    "title": "Iran claims US will be forced to abandon blockade , threatens oil exports",
-    "url": "https://www.israelnationalnews.com/news/437166",
-    "domain": "israelnationalnews.com",
-    "lang": "en",
-    "sourceCountry": "Israel",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "severity": "alta"
-   },
-   {
-    "id": "alistando arancelario donald economias esta golpe nuevo trump",
-    "type": "arancel",
-    "title": "Donald Trump está alistando un nuevo golpe arancelario a 14 economías",
-    "url": "https://www.larepublica.co/globoeconomia/donald-trump-esta-alistando-un-nuevo-golpe-arancelario-a-14-economias-4533470",
-    "domain": "larepublica.co",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "aranceles china economias hasta impuso india otras trump",
-    "type": "arancel",
-    "title": "Trump impuso aranceles de hasta 20 % a China , India y otras 12 economías",
-    "url": "https://www.anroca.com.ar/noticias/2026/11/26/234297-trump-impuso-aranceles-de-hasta-20por_ciento-a-china-india-y-otras-12-economias",
-    "domain": "anroca.com.ar",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-26T06:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "deal faces india pact sealed tariff trade without",
     "type": "arancel",
     "title": "India Faces 25 % US Tariff Without Trade Deal , 17 % If Pact Is Sealed",
@@ -516,6 +531,71 @@
      "industria"
     ],
     "severity": "baja"
+   },
+   {
+    "id": "aranceles centra china nuevos pekin pero represalias tomara",
+    "type": "arancel",
+    "title": "EE . UU . centra sus nuevos aranceles en China pero Pekín no tomará represalias , según expertos",
+    "url": "https://www.elheraldo.co/mundo/2026/11/26/ee-uu-centra-sus-nuevos-aranceles-en-china-pero-pekin-no-tomara-represalias-segun-expertos/",
+    "domain": "elheraldo.co",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles brasil eeuu expresa inaceptable indignacion nuevos propuesta",
+    "type": "arancel",
+    "title": "Brasil expresa indignación por propuesta inaceptable de nuevos aranceles de EEUU",
+    "url": "https://listindiario.com/economia/20261125/brasil-expresa-indignacion-propuesta-inaceptable-nuevos-aranceles-eeuu_931546.html",
+    "domain": "listindiario.com",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles china comerciales como eeuu nuevos propone socios",
+    "type": "arancel",
+    "title": "EEUU propone nuevos aranceles a socios comerciales como la UE , China y Brasil",
+    "url": "https://listindiario.com/economia/20261125/eeuu-propone-nuevos-aranceles-socios-comerciales-ue-china-brasil_931542.html",
+    "domain": "listindiario.com",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "BR",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "convicts huawei iran jury sanctions violations",
+    "type": "sancion",
+    "title": "US jury convicts Huawei of Iran sanctions violations",
+    "url": "https://www.prokerala.com/news/articles/a1841204.html",
+    "domain": "prokerala.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T05:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
    },
    {
     "id": "action avoid deal quick seeks trade vietnam vows",
@@ -659,69 +739,22 @@
     "severity": "media"
    },
    {
-    "id": "aranceles centra china nuevos pekin pero represalias tomara",
+    "id": "anuncia aranceles china contra eeuu japon nuevos otras",
     "type": "arancel",
-    "title": "EE . UU . centra sus nuevos aranceles en China pero Pekín no tomará represalias , según expertos",
-    "url": "https://www.elheraldo.co/mundo/2026/11/26/ee-uu-centra-sus-nuevos-aranceles-en-china-pero-pekin-no-tomara-represalias-segun-expertos/",
-    "domain": "elheraldo.co",
+    "title": "EEUU anuncia nuevos aranceles contra China , Japón y la UE y otras 11 economías",
+    "url": "https://www.lostiempos.com/actualidad/mundo/20261125/eeuu-anuncia-nuevos-aranceles-contra-china-japon-ue-otras-11-economias",
+    "domain": "lostiempos.com",
     "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "aranceles brasil eeuu expresa inaceptable indignacion nuevos propuesta",
-    "type": "arancel",
-    "title": "Brasil expresa indignación por propuesta inaceptable de nuevos aranceles de EEUU",
-    "url": "https://listindiario.com/economia/20261125/brasil-expresa-indignacion-propuesta-inaceptable-nuevos-aranceles-eeuu_931546.html",
-    "domain": "listindiario.com",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "US",
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "aranceles china comerciales como eeuu nuevos propone socios",
-    "type": "arancel",
-    "title": "EEUU propone nuevos aranceles a socios comerciales como la UE , China y Brasil",
-    "url": "https://listindiario.com/economia/20261125/eeuu-propone-nuevos-aranceles-socios-comerciales-ue-china-brasil_931542.html",
-    "domain": "listindiario.com",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T05:15:00Z",
+    "sourceCountry": "Bolivia",
+    "at": "2026-11-26T04:45:00Z",
     "countries": [
      "US",
      "CN",
-     "BR",
+     "JP",
      "EU"
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "convicts huawei iran jury sanctions violations",
-    "type": "sancion",
-    "title": "US jury convicts Huawei of Iran sanctions violations",
-    "url": "https://www.prokerala.com/news/articles/a1841204.html",
-    "domain": "prokerala.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [],
-    "severity": "alta"
    },
    {
     "id": "attacks houthis launch ports retaliatory saudi",
@@ -771,18 +804,48 @@
     "severity": "baja"
    },
    {
-    "id": "anuncia aranceles china contra eeuu japon nuevos otras",
+    "id": "advierte aranceles brasil cedera contra eeuu esboza nuevos",
     "type": "arancel",
-    "title": "EEUU anuncia nuevos aranceles contra China , Japón y la UE y otras 11 economías",
-    "url": "https://www.lostiempos.com/actualidad/mundo/20261125/eeuu-anuncia-nuevos-aranceles-contra-china-japon-ue-otras-11-economias",
-    "domain": "lostiempos.com",
+    "title": "EEUU esboza nuevos aranceles contra Brasil , que advierte que no cederá ante este tipo de amenazas",
+    "url": "https://www.notimerica.com/politica/noticia-eeuu-brasil-eeuu-esboza-nuevos-aranceles-contra-brasil-advierte-no-cedera-tipo-amenazas-20261126034418.html",
+    "domain": "notimerica.com",
     "lang": "es",
-    "sourceCountry": "Bolivia",
-    "at": "2026-11-26T04:45:00Z",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-26T04:30:00Z",
     "countries": [
      "US",
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles brasil considera impulsados inaceptable nuevos propuesta trump",
+    "type": "arancel",
+    "title": "Brasil considera inaceptable propuesta de nuevos aranceles impulsados por Trump",
+    "url": "https://laopinion.com/2026/11/25/brasil-considera-inaceptable-propuesta-de-nuevos-aranceles-de-ee-uu/",
+    "domain": "laopinion.com",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china dispara electricos empuja europa exportaciones limitar vehiculos",
+    "type": "arancel",
+    "title": "China dispara sus exportaciones de vehículos eléctricos a Europa y empuja a la UE a limitar las importaciones de híbridos",
+    "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/china-dispara-vehiculos-electricos-europa-ue-limitar-importaciones-hibridos_7065769_0.html",
+    "domain": "20minutos.es",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-26T04:30:00Z",
+    "countries": [
      "CN",
-     "JP",
      "EU"
     ],
     "sectors": [],
@@ -946,72 +1009,6 @@
     "severity": "media"
    },
    {
-    "id": "advierte aranceles brasil cedera contra eeuu esboza nuevos",
-    "type": "arancel",
-    "title": "EEUU esboza nuevos aranceles contra Brasil , que advierte que no cederá ante este tipo de amenazas",
-    "url": "https://www.notimerica.com/politica/noticia-eeuu-brasil-eeuu-esboza-nuevos-aranceles-contra-brasil-advierte-no-cedera-tipo-amenazas-20261126034418.html",
-    "domain": "notimerica.com",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "US",
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "aranceles brasil considera impulsados inaceptable nuevos propuesta trump",
-    "type": "arancel",
-    "title": "Brasil considera inaceptable propuesta de nuevos aranceles impulsados por Trump",
-    "url": "https://laopinion.com/2026/11/25/brasil-considera-inaceptable-propuesta-de-nuevos-aranceles-de-ee-uu/",
-    "domain": "laopinion.com",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "US",
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "china dispara electricos empuja europa exportaciones limitar vehiculos",
-    "type": "arancel",
-    "title": "China dispara sus exportaciones de vehículos eléctricos a Europa y empuja a la UE a limitar las importaciones de híbridos",
-    "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/china-dispara-vehiculos-electricos-europa-ue-limitar-importaciones-hibridos_7065769_0.html",
-    "domain": "20minutos.es",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "CN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "brazil china factories hike others over subsidized tariffs",
-    "type": "geo",
-    "title": "US to hike tariffs on China , EU , Brazil and others over subsidized factories",
-    "url": "https://www.koaa.com/politics/economy/us-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-factories",
-    "domain": "koaa.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T04:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "BR",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "acuerdo aranceles comercial eeuu frenar negocia para vietnam",
     "type": "arancel",
     "title": "Vietnam negocia con EEUU un acuerdo comercial para frenar los aranceles lo antes posible - Mundo",
@@ -1055,6 +1052,24 @@
     "sectors": [
      "tech"
     ],
+    "severity": "media"
+   },
+   {
+    "id": "brazil china factories hike others over subsidized tariffs",
+    "type": "sancion",
+    "title": "US to hike tariffs on China , EU , Brazil and others over subsidized factories",
+    "url": "https://www.koaa.com/politics/economy/us-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-factories",
+    "domain": "koaa.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T04:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "BR",
+     "EU"
+    ],
+    "sectors": [],
     "severity": "media"
    },
    {
@@ -1103,55 +1118,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "agreed capacity excess goods korean proposes tariffs within",
-    "type": "regulacion",
-    "title": "US proposes excess capacity tariffs on Korean goods within agreed 15 % ceiling",
-    "url": "https://www.koreatimes.co.kr/foreignaffairs/20261126/us-proposes-excess-capacity-tariffs-on-korean-goods-within-agreed-15-ceiling",
-    "domain": "koreatimes.co.kr",
-    "lang": "en",
-    "sourceCountry": "South Korea",
-    "at": "2026-11-26T03:15:00Z",
-    "countries": [
-     "US",
-     "KR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "capacity economy excess industrial over tariffs trump unveils",
-    "type": "regulacion",
-    "title": "Trump unveils new tariffs over excess industrial capacity - Economy",
-    "url": "http://www.thejakartapost.com/business/2026/11/26/trump-unveils-new-tariffs-over-excess-industrial-capacity",
-    "domain": "thejakartapost.com",
-    "lang": "en",
-    "sourceCountry": "Indonesia",
-    "at": "2026-11-26T03:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "amid capacity claims excess india rejects tariffs threat",
-    "type": "regulacion",
-    "title": "India Rejects US Excess Capacity Claims Amid Threat of 25 % Tariffs",
-    "url": "https://www.deccanchronicle.com/nation/world/india-rejects-us-excess-capacity-claims-amid-threat-of-25-tariffs-2008061",
-    "domain": "deccanchronicle.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-26T03:15:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "aranceles brasil eeuu inaceptable nuevos propuesta rechaza",
@@ -1204,14 +1170,47 @@
     "severity": "media"
    },
    {
-    "id": "against back capacity excess india pushes sector structural",
+    "id": "agreed capacity excess goods korean proposes tariffs within",
     "type": "regulacion",
-    "title": "No structural excess capacity in any sector : India pushes back against US tariff allegations",
-    "url": "https://www.businesstoday.in/latest/economy/story/no-structural-excess-capacity-in-any-sector-india-pushes-back-against-us-tariff-allegations-569560-2026-11-26",
-    "domain": "businesstoday.in",
+    "title": "US proposes excess capacity tariffs on Korean goods within agreed 15 % ceiling",
+    "url": "https://www.koreatimes.co.kr/foreignaffairs/20261126/us-proposes-excess-capacity-tariffs-on-korean-goods-within-agreed-15-ceiling",
+    "domain": "koreatimes.co.kr",
+    "lang": "en",
+    "sourceCountry": "South Korea",
+    "at": "2026-11-26T03:15:00Z",
+    "countries": [
+     "US",
+     "KR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "capacity economy excess industrial over tariffs trump unveils",
+    "type": "regulacion",
+    "title": "Trump unveils new tariffs over excess industrial capacity - Economy",
+    "url": "http://www.thejakartapost.com/business/2026/11/26/trump-unveils-new-tariffs-over-excess-industrial-capacity",
+    "domain": "thejakartapost.com",
+    "lang": "en",
+    "sourceCountry": "Indonesia",
+    "at": "2026-11-26T03:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "amid capacity claims excess india rejects tariffs threat",
+    "type": "regulacion",
+    "title": "India Rejects US Excess Capacity Claims Amid Threat of 25 % Tariffs",
+    "url": "https://www.deccanchronicle.com/nation/world/india-rejects-us-excess-capacity-claims-amid-threat-of-25-tariffs-2008061",
+    "domain": "deccanchronicle.com",
     "lang": "en",
     "sourceCountry": "India",
-    "at": "2026-11-26T03:00:00Z",
+    "at": "2026-11-26T03:15:00Z",
     "countries": [
      "US",
      "IN"
@@ -1220,14 +1219,14 @@
     "severity": "media"
    },
    {
-    "id": "exempts exposed indian leaves phones proposal tariff textiles",
-    "type": "geo",
-    "title": "US tariff proposal exempts Indian phones , leaves textiles exposed",
-    "url": "https://www.siasat.com/us-tariff-proposal-exempts-indian-phones-leaves-textiles-exposed-3586967/",
-    "domain": "siasat.com",
+    "id": "against back capacity excess india pushes sector structural",
+    "type": "regulacion",
+    "title": "No structural excess capacity in any sector : India pushes back against US tariff allegations",
+    "url": "https://www.businesstoday.in/latest/economy/story/no-structural-excess-capacity-in-any-sector-india-pushes-back-against-us-tariff-allegations-569560-2026-11-26",
+    "domain": "businesstoday.in",
     "lang": "en",
     "sourceCountry": "India",
-    "at": "2026-11-26T02:45:00Z",
+    "at": "2026-11-26T03:00:00Z",
     "countries": [
      "US",
      "IN"
@@ -1252,19 +1251,20 @@
     "severity": "media"
    },
    {
-    "id": "affairs boss demonstrate expert foreign still trump wants",
+    "id": "exempts exposed indian leaves phones proposal tariff textiles",
     "type": "geo",
-    "title": "Trump wants to demonstrate he is still the boss : Foreign affairs expert Sushant Sareen on proposed US tariffs",
-    "url": "http://www.kenyastar.com/news/279454633/trump-wants-to-demonstrate-he-is-still-the-boss-foreign-affairs-expert-sushant-sareen-on-proposed-us-tariffs",
-    "domain": "kenyastar.com",
+    "title": "US tariff proposal exempts Indian phones , leaves textiles exposed",
+    "url": "https://www.siasat.com/us-tariff-proposal-exempts-indian-phones-leaves-textiles-exposed-3586967/",
+    "domain": "siasat.com",
     "lang": "en",
-    "sourceCountry": "Kenya",
-    "at": "2026-11-26T02:30:00Z",
+    "sourceCountry": "India",
+    "at": "2026-11-26T02:45:00Z",
     "countries": [
-     "US"
+     "US",
+     "IN"
     ],
     "sectors": [],
-    "severity": "baja"
+    "severity": "media"
    },
    {
     "id": "ahora arancel libra mexico moneda otro seria trump",
@@ -1294,6 +1294,38 @@
     "countries": [
      "US",
      "BR",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "affairs boss demonstrate expert foreign still trump wants",
+    "type": "geo",
+    "title": "Trump wants to demonstrate he is still the boss : Foreign affairs expert Sushant Sareen on proposed US tariffs",
+    "url": "http://www.kenyastar.com/news/279454633/trump-wants-to-demonstrate-he-is-still-the-boss-foreign-affairs-expert-sushant-sareen-on-proposed-us-tariffs",
+    "domain": "kenyastar.com",
+    "lang": "en",
+    "sourceCountry": "Kenya",
+    "at": "2026-11-26T02:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "ahora aranceles china gravaria libra mexico nuevos socios",
+    "type": "arancel",
+    "title": "México libra por ahora nuevos aranceles de EU ; gravaría a 14 socios , China con la tasa más alta - Entre Líneas",
+    "url": "https://entrelineas.com.mx/mexico-libra-por-ahora-nuevos-aranceles-de-eu-gravaria-a-14-socios-china-con-la-tasa-mas-alta/",
+    "domain": "entrelineas.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-26T02:15:00Z",
+    "countries": [
+     "CN",
+     "MX",
      "EU"
     ],
     "sectors": [],
@@ -1363,23 +1395,6 @@
     "severity": "baja"
    },
    {
-    "id": "ahora aranceles china gravaria libra mexico nuevos socios",
-    "type": "arancel",
-    "title": "México libra por ahora nuevos aranceles de EU ; gravaría a 14 socios , China con la tasa más alta - Entre Líneas",
-    "url": "https://entrelineas.com.mx/mexico-libra-por-ahora-nuevos-aranceles-de-eu-gravaria-a-14-socios-china-con-la-tasa-mas-alta/",
-    "domain": "entrelineas.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-26T02:15:00Z",
-    "countries": [
-     "CN",
-     "MX",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "brasil estados expreso imponer indignacion nuevos propuesta unidos",
     "type": "arancel",
     "title": "Brasil expresó su indignación por la propuesta de Estados Unidos de imponer nuevos aranceles a sus aviones y su azúcar",
@@ -1409,6 +1424,22 @@
     "countries": [
      "US",
      "MX"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "analiza comerciales mexico salva socios tarifas",
+    "type": "arancel",
+    "title": "Analiza EU tarifas a 14 socios comerciales ; México se salva",
+    "url": "https://www.eldiariodechihuahua.mx/estados-unidos/2026/nov/25/analiza-eu-tarifas-a-14-socios-comerciales-mexico-se-salva-860642.html",
+    "domain": "eldiariodechihuahua.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-26T01:15:00Z",
+    "countries": [
+     "MX",
+     "EU"
     ],
     "sectors": [],
     "severity": "media"
@@ -1473,22 +1504,6 @@
     "at": "2026-11-26T01:15:00Z",
     "countries": [
      "US"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "analiza comerciales mexico salva socios tarifas",
-    "type": "arancel",
-    "title": "Analiza EU tarifas a 14 socios comerciales ; México se salva",
-    "url": "https://www.eldiariodechihuahua.mx/estados-unidos/2026/nov/25/analiza-eu-tarifas-a-14-socios-comerciales-mexico-se-salva-860642.html",
-    "domain": "eldiariodechihuahua.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-26T01:15:00Z",
-    "countries": [
-     "MX",
-     "EU"
     ],
     "sectors": [],
     "severity": "media"
@@ -1802,23 +1817,6 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "china others over production ready slap subsidized tariffs",
-    "type": "arancel",
-    "title": "US ready to slap tariffs on China , EU and others over subsidized production , AP sources say",
-    "url": "https://www.khqa.com/news/nation-world/us-ready-to-slap-tariffs-on-china-eu-and-others-over-subsidized-production-ap-sources/article_8a5d2b28-1913-547e-af6b-97ebb15f9c31.html",
-    "domain": "khqa.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-25T05:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "colmados comerciantes dominican electronica factura piden republic sancionar",
@@ -3674,14 +3672,13 @@
    }
   ],
   "partialErrors": [
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed"
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: fetch failed",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
