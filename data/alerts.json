@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T12:40:39.929Z",
+ "updatedAt": "2026-11-27T14:01:41.399Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -64,6 +64,21 @@
      "CO"
     ],
     "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "chief port santos takes tape warns years",
+    "type": "divisa",
+    "title": "Santos Port Chief Warns Red Tape Takes Years",
+    "url": "https://www.riotimesonline.com/santos-brasil-ceo-sepulveda-port-approvals-take-years/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
     "severity": "baja"
    },
    {
@@ -222,21 +237,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "chief port santos takes tape warns years",
-    "type": "divisa",
-    "title": "Santos Port Chief Warns Red Tape Takes Years",
-    "url": "https://www.riotimesonline.com/santos-brasil-ceo-sepulveda-port-approvals-take-years/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
    },
    {
     "id": "adicionales aranceles china china eeuu firmemente opone otras",
@@ -4067,11 +4067,10 @@
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: fetch failed",
+   "geo/english: fetch failed",
    "geo/spanish: fetch failed"
   ]
  }
