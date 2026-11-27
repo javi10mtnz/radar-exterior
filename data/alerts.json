@@ -1,11 +1,57 @@
 {
- "updatedAt": "2026-11-27T09:14:58.011Z",
+ "updatedAt": "2026-11-27T10:38:33.953Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "canada guatemala keeps porras sanctions",
+    "type": "sancion",
+    "title": "Canada Keeps Sanctions on Guatemala Porras",
+    "url": "https://www.riotimesonline.com/guatemala-canada-keeps-porras-sanctions/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "chip decide market power sanctions splitting will wins",
+    "type": "sancion",
+    "title": "Sanctions are splitting the AI chip market in two , and power will decide who wins , by Shayne Heffernan",
+    "url": "https://www.livetradingnews.com/sanctions-are-splitting-the-ai-chip-market-in-two-and-power-will-decide-who-wins",
+    "domain": "livetradingnews.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [],
+    "sectors": [
+     "energia",
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "energy headlines jones middle prices rise traders weigh",
+    "type": "sancion",
+    "title": "Dow Jones Top Energy Headlines at 12 AM ET : Oil Prices Rise as Traders Weigh Middle East Supply Risks , OPEC+ Meeting | OPEC , ...",
+    "url": "https://www.morningstar.com/news/dow-jones/2026112751/dow-jones-top-energy-headlines-at-12-am-et-oil-prices-rise-as-traders-weigh-middle-east-supply-risks-opec-meeting-opec",
+    "domain": "morningstar.com",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "aranceles conversa disminucion estados singapur unidos",
     "type": "arancel",
@@ -209,6 +255,24 @@
     "severity": "baja"
    },
    {
+    "id": "against bill chip dutch export government lobbies",
+    "type": "sancion",
+    "title": "Dutch Government Lobbies Against US Chip Export Bill",
+    "url": "https://www.theepochtimes.com/world/dutch-government-lobbies-against-us-chip-export-bill-6129583",
+    "domain": "theepochtimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T02:15:00Z",
+    "countries": [
+     "US",
+     "NL"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
     "id": "exports india india remains same share times",
     "type": "regulacion",
     "title": "Share of US in India exports remains same - The Times of India",
@@ -259,6 +323,22 @@
     "severity": "alta"
    },
    {
+    "id": "china from global grip prise tariffs trade trump",
+    "type": "sancion",
+    "title": "Trump new tariffs aim to prise global trade from China grip",
+    "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
+    "domain": "asiaone.com",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-27T01:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
     "id": "anade arancel desploman europa ingresos nueva paga shein",
     "type": "arancel",
     "title": "Shein paga el arancel de la UE : sus ingresos se desploman en Europa , que le añade una nueva tasa",
@@ -306,20 +386,36 @@
     "severity": "baja"
    },
    {
-    "id": "china from global grip prise tariffs trade trump",
-    "type": "arancel",
-    "title": "Trump new tariffs aim to prise global trade from China grip",
-    "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
-    "domain": "asiaone.com",
+    "id": "based bypass chinese chip controls export firms owned",
+    "type": "sancion",
+    "title": "U . S .- based Chinese - owned firms bypass AI chip export controls via Southeast Asian hubs",
+    "url": "https://english.pravda.ru/news/world/174586-chinese-owned-us-firms-bypass-ai-chip-exports/",
+    "domain": "english.pravda.ru",
     "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-27T01:15:00Z",
+    "sourceCountry": "Russia",
+    "at": "2026-11-27T00:45:00Z",
     "countries": [
-     "US",
      "CN"
     ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "asian factbox nation status talks trade trump with",
+    "type": "sancion",
+    "title": "FACTBOX - Status of Asian Nation Trade Talks with Trump",
+    "url": "https://english.kontan.co.id/news/factbox-status-of-asian-nations-trade-talks-with-trump",
+    "domain": "english.kontan.co.id",
+    "lang": "en",
+    "sourceCountry": "Indonesia",
+    "at": "2026-11-27T00:45:00Z",
+    "countries": [
+     "US"
+    ],
     "sectors": [],
-    "severity": "alta"
+    "severity": "baja"
    },
    {
     "id": "boost canal city cooperation harnesses maritime port qinzhou",
@@ -337,36 +433,22 @@
     "severity": "baja"
    },
    {
-    "id": "asian factbox nation status talks trade trump with",
-    "type": "arancel",
-    "title": "FACTBOX - Status of Asian Nation Trade Talks with Trump",
-    "url": "https://english.kontan.co.id/news/factbox-status-of-asian-nations-trade-talks-with-trump",
-    "domain": "english.kontan.co.id",
-    "lang": "en",
-    "sourceCountry": "Indonesia",
-    "at": "2026-11-27T00:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "based bypass chinese chip controls export firms owned",
+    "id": "chips cloud controls export grip nvidia threatening tighten",
     "type": "sancion",
-    "title": "U . S .- based Chinese - owned firms bypass AI chip export controls via Southeast Asian hubs",
-    "url": "https://english.pravda.ru/news/world/174586-chinese-owned-us-firms-bypass-ai-chip-exports/",
-    "domain": "english.pravda.ru",
+    "title": "US Export Controls Tighten Grip on Nvidia Chips , Threatening AI Cloud Access for Chinese Firms",
+    "url": "https://slguardian.org/us-export-controls-tighten-grip-on-nvidia-chips-threatening-ai-cloud-access-for-chinese-firms/",
+    "domain": "slguardian.org",
     "lang": "en",
-    "sourceCountry": "Russia",
-    "at": "2026-11-27T00:45:00Z",
+    "sourceCountry": "Sri Lanka",
+    "at": "2026-11-27T00:30:00Z",
     "countries": [
+     "US",
      "CN"
     ],
     "sectors": [
      "tech"
     ],
-    "severity": "baja"
+    "severity": "media"
    },
    {
     "id": "aranceles comerciales estados nuevos para propone socios trump",
@@ -398,24 +480,6 @@
     ],
     "sectors": [],
     "severity": "alta"
-   },
-   {
-    "id": "chips cloud controls export grip nvidia threatening tighten",
-    "type": "sancion",
-    "title": "US Export Controls Tighten Grip on Nvidia Chips , Threatening AI Cloud Access for Chinese Firms",
-    "url": "https://slguardian.org/us-export-controls-tighten-grip-on-nvidia-chips-threatening-ai-cloud-access-for-chinese-firms/",
-    "domain": "slguardian.org",
-    "lang": "en",
-    "sourceCountry": "Sri Lanka",
-    "at": "2026-11-27T00:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "media"
    },
    {
     "id": "acuerdan china crear grupo mexico reduccion sobre trabajo",
@@ -603,8 +667,23 @@
     "severity": "baja"
    },
    {
+    "id": "capital chino comercios consumidor ocho otros sanciona",
+    "type": "sancion",
+    "title": "Pro Consumidor sanciona otros ocho comercios de capital chino",
+    "url": "https://almomento.net/pro-consumidor-sanciona-otros-ocho-comercios-de-capital-chino/",
+    "domain": "almomento.net",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T22:15:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "aranceles china evitar interferencias mexico moderar pide terceros",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "China pide a México moderar aranceles y evitar interferencias de terceros",
     "url": "https://lasillarota.com/nacion/2026/11/26/china-pide-a-mexico-moderar-aranceles-y-evitar-interferencias-de-terceros-539052.html",
     "domain": "lasillarota.com",
@@ -663,21 +742,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "capital chino comercios consumidor ocho otros sanciona",
-    "type": "sancion",
-    "title": "Pro Consumidor sanciona otros ocho comercios de capital chino",
-    "url": "https://almomento.net/pro-consumidor-sanciona-otros-ocho-comercios-de-capital-chino/",
-    "domain": "almomento.net",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T22:15:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "alliance explore global maersk north reported shipping south",
@@ -3968,13 +4032,11 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: fetch failed",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: fetch failed",
    "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
