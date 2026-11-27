@@ -1,11 +1,71 @@
 {
- "updatedAt": "2026-11-27T11:34:01.487Z",
+ "updatedAt": "2026-11-27T12:40:39.929Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "aranceles conversa disminucion estados singapur unidos",
+    "type": "arancel",
+    "title": "Conversa Singapur con Estados Unidos disminución de aranceles",
+    "url": "https://www.prensa-latina.cu/2026/11/27/conversa-singapur-con-estados-unidos-disminucion-de-aranceles/",
+    "domain": "prensa-latina.cu",
+    "lang": "es",
+    "sourceCountry": "Cuba",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aprueba arancel estados productos tailandia unidos",
+    "type": "arancel",
+    "title": "Tailandia aprueba arancel de Estados Unidos a sus productos",
+    "url": "https://www.prensa-latina.cu/2026/11/27/tailandia-aprueba-arancel-de-estados-unidos-a-sus-productos/",
+    "domain": "prensa-latina.cu",
+    "lang": "es",
+    "sourceCountry": "Cuba",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles s02e27 trump",
+    "type": "arancel",
+    "title": "Trump . Aranceles . S02E27",
+    "url": "https://www.sinembargo.mx/4910773/trump-aranceles-s02e27/",
+    "domain": "sinembargo.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "2026 colombia dolar noviembre precio viernes",
+    "type": "arancel",
+    "title": "Precio del dólar hoy en Colombia , viernes 27 de noviembre de 2026",
+    "url": "https://www.colombia.com:443/actualidad/economia/precio-del-dolar-hoy-en-colombia-viernes-27-de-noviembre-de-2026-614422",
+    "domain": "colombia.com",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "announces china faces fresh highest raft rate tariffs",
     "type": "geo",
@@ -81,66 +141,6 @@
     "sectors": [
      "energia"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "aranceles conversa disminucion estados singapur unidos",
-    "type": "arancel",
-    "title": "Conversa Singapur con Estados Unidos disminución de aranceles",
-    "url": "https://www.prensa-latina.cu/2026/11/27/conversa-singapur-con-estados-unidos-disminucion-de-aranceles/",
-    "domain": "prensa-latina.cu",
-    "lang": "es",
-    "sourceCountry": "Cuba",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "aprueba arancel estados productos tailandia unidos",
-    "type": "arancel",
-    "title": "Tailandia aprueba arancel de Estados Unidos a sus productos",
-    "url": "https://www.prensa-latina.cu/2026/11/27/tailandia-aprueba-arancel-de-estados-unidos-a-sus-productos/",
-    "domain": "prensa-latina.cu",
-    "lang": "es",
-    "sourceCountry": "Cuba",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "aranceles s02e27 trump",
-    "type": "arancel",
-    "title": "Trump . Aranceles . S02E27",
-    "url": "https://www.sinembargo.mx/4910773/trump-aranceles-s02e27/",
-    "domain": "sinembargo.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "2026 colombia dolar noviembre precio viernes",
-    "type": "arancel",
-    "title": "Precio del dólar hoy en Colombia , viernes 27 de noviembre de 2026",
-    "url": "https://www.colombia.com:443/actualidad/economia/precio-del-dolar-hoy-en-colombia-viernes-27-de-noviembre-de-2026-614422",
-    "domain": "colombia.com",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "CO"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -354,22 +354,6 @@
     "severity": "alta"
    },
    {
-    "id": "china from global grip prise tariffs trade trump",
-    "type": "geo",
-    "title": "Trump new tariffs aim to prise global trade from China grip",
-    "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
-    "domain": "asiaone.com",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-27T01:15:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
     "id": "anade arancel desploman europa ingresos nueva paga shein",
     "type": "arancel",
     "title": "Shein paga el arancel de la UE : sus ingresos se desploman en Europa , que le añade una nueva tasa",
@@ -399,6 +383,22 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "china from global grip prise tariffs trade trump",
+    "type": "geo",
+    "title": "Trump new tariffs aim to prise global trade from China grip",
+    "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
+    "domain": "asiaone.com",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-27T01:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
    },
    {
     "id": "costs energy exports high hurt inefficient nigerian ports",
@@ -464,6 +464,21 @@
     "severity": "baja"
    },
    {
+    "id": "aranceles comerciales estados nuevos para propone socios trump",
+    "type": "arancel",
+    "title": "Trump propone nuevos aranceles para 14 socios comerciales de Estados Unidos",
+    "url": "https://abriendobrecha.tv/internacionales/trump-propone-nuevos-aranceles-para-14-socios-comerciales-de-estados-unidos/",
+    "domain": "abriendobrecha.tv",
+    "lang": "es",
+    "sourceCountry": "Honduras",
+    "at": "2026-11-27T00:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "chips cloud controls export grip nvidia threatening tighten",
     "type": "sancion",
     "title": "US Export Controls Tighten Grip on Nvidia Chips , Threatening AI Cloud Access for Chinese Firms",
@@ -480,21 +495,6 @@
      "tech"
     ],
     "severity": "media"
-   },
-   {
-    "id": "aranceles comerciales estados nuevos para propone socios trump",
-    "type": "arancel",
-    "title": "Trump propone nuevos aranceles para 14 socios comerciales de Estados Unidos",
-    "url": "https://abriendobrecha.tv/internacionales/trump-propone-nuevos-aranceles-para-14-socios-comerciales-de-estados-unidos/",
-    "domain": "abriendobrecha.tv",
-    "lang": "es",
-    "sourceCountry": "Honduras",
-    "at": "2026-11-27T00:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "back china other partners plans tariff trading trump",
@@ -698,23 +698,8 @@
     "severity": "baja"
    },
    {
-    "id": "capital chino comercios consumidor ocho otros sanciona",
-    "type": "sancion",
-    "title": "Pro Consumidor sanciona otros ocho comercios de capital chino",
-    "url": "https://almomento.net/pro-consumidor-sanciona-otros-ocho-comercios-de-capital-chino/",
-    "domain": "almomento.net",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T22:15:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "aranceles china evitar interferencias mexico moderar pide terceros",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "China pide a México moderar aranceles y evitar interferencias de terceros",
     "url": "https://lasillarota.com/nacion/2026/11/26/china-pide-a-mexico-moderar-aranceles-y-evitar-interferencias-de-terceros-539052.html",
     "domain": "lasillarota.com",
@@ -740,6 +725,21 @@
     "countries": [
      "CN",
      "MX"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "capital chino comercios consumidor ocho otros sanciona",
+    "type": "sancion",
+    "title": "Pro Consumidor sanciona otros ocho comercios de capital chino",
+    "url": "https://almomento.net/pro-consumidor-sanciona-otros-ocho-comercios-de-capital-chino/",
+    "domain": "almomento.net",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T22:15:00Z",
+    "countries": [
+     "CN"
     ],
     "sectors": [],
     "severity": "media"
@@ -4064,16 +4064,15 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: fetch failed",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
