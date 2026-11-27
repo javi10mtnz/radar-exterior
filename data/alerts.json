@@ -1,11 +1,182 @@
 {
- "updatedAt": "2026-11-27T08:05:37.669Z",
+ "updatedAt": "2026-11-27T09:14:58.011Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "aranceles conversa disminucion estados singapur unidos",
+    "type": "arancel",
+    "title": "Conversa Singapur con Estados Unidos disminución de aranceles",
+    "url": "https://www.prensa-latina.cu/2026/11/27/conversa-singapur-con-estados-unidos-disminucion-de-aranceles/",
+    "domain": "prensa-latina.cu",
+    "lang": "es",
+    "sourceCountry": "Cuba",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aprueba arancel estados productos tailandia unidos",
+    "type": "arancel",
+    "title": "Tailandia aprueba arancel de Estados Unidos a sus productos",
+    "url": "https://www.prensa-latina.cu/2026/11/27/tailandia-aprueba-arancel-de-estados-unidos-a-sus-productos/",
+    "domain": "prensa-latina.cu",
+    "lang": "es",
+    "sourceCountry": "Cuba",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles s02e27 trump",
+    "type": "arancel",
+    "title": "Trump . Aranceles . S02E27",
+    "url": "https://www.sinembargo.mx/4910773/trump-aranceles-s02e27/",
+    "domain": "sinembargo.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "2026 colombia dolar noviembre precio viernes",
+    "type": "arancel",
+    "title": "Precio del dólar hoy en Colombia , viernes 27 de noviembre de 2026",
+    "url": "https://www.colombia.com:443/actualidad/economia/precio-del-dolar-hoy-en-colombia-viernes-27-de-noviembre-de-2026-614422",
+    "domain": "colombia.com",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "clouds export india msmes outlook seek tariff threat",
+    "type": "regulacion",
+    "title": "US tariff threat clouds India export outlook ; MSMEs seek relief amid uncertainty over orders",
+    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/us-tariff-threat-clouds-indias-export-outlook-msmes-seek-relief-amid-uncertainty-over-orders/articleshow/136211144.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "bangladesh china edge gets india over tariffs vietnam",
+    "type": "regulacion",
+    "title": "US tariffs : India gets an edge over China , Vietnam , Bangladesh but what must New Delhi do to secure it ?",
+    "url": "https://www.livemint.com/economy/us-tariffs-india-gets-an-edge-over-china-vietnam-bangladesh-but-what-must-new-delhi-do-to-secure-it-11795754423053.html",
+    "domain": "livemint.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "amid completion deal india nears proposed tariff trade",
+    "type": "regulacion",
+    "title": "India - US Trade Deal Nears Completion Amid Proposed 25 % Tariff , Says Piyush Goyal",
+    "url": "https://openthemagazine.com/india/india-us-trade-deal-close-to-culmination-says-goyal-as-washington-proposes-25-tariff",
+    "domain": "openthemagazine.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "advance free goal korea seek south trade uzbekistan",
+    "type": "regulacion",
+    "title": "Uzbekistan , South Korea seek $5B trade goal , advance free trade talks",
+    "url": "https://www.trend.az/casia/uzbekistan/4251252.html",
+    "domain": "trend.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "KR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "deal india india means proposal tariff trade what",
+    "type": "regulacion",
+    "title": "India - US trade deal : What the new US tariff proposal means for India",
+    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-what-the-new-us-tariff-proposal-means-for-india/articleshow/136210536.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "chief port santos takes tape warns years",
+    "type": "divisa",
+    "title": "Santos Port Chief Warns Red Tape Takes Years",
+    "url": "https://www.riotimesonline.com/santos-brasil-ceo-sepulveda-port-approvals-take-years/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "adicionales aranceles china china eeuu firmemente opone otras",
+    "type": "arancel",
+    "title": "China se opone firmemente a aranceles adicionales de EEUU a China y otras economías",
+    "url": "http://spanish.china.org.cn/txt/2026-11/27/content_118791589.htm",
+    "domain": "spanish.china.org.cn",
+    "lang": "es",
+    "sourceCountry": "China",
+    "at": "2026-11-27T05:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "2027 cross despite export india march mark trillion",
     "type": "regulacion",
@@ -54,24 +225,6 @@
     "severity": "media"
    },
    {
-    "id": "beef brazilian calls doped macron weeks",
-    "type": "regulacion",
-    "title": "Macron Calls Brazilian Beef Doped ; EU Ban Is 12 Weeks Old",
-    "url": "https://www.riotimesonline.com/macron-brazilian-beef-doped-eu-ban-mercosur-2026/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-27T01:45:00Z",
-    "countries": [
-     "BR",
-     "EU"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "alta"
-   },
-   {
     "id": "acto aranceles china eeuu responde tipico unilateralismo",
     "type": "arancel",
     "title": "China responde a aranceles de EEUU : Es un típico acto de unilateralismo",
@@ -88,20 +241,22 @@
     "severity": "media"
    },
    {
-    "id": "costs energy exports high hurt inefficient nigerian ports",
+    "id": "beef brazilian calls doped macron weeks",
     "type": "regulacion",
-    "title": "High energy costs , inefficient ports hurt Nigerian exports",
-    "url": "https://punchng.com/high-energy-costs-inefficient-ports-hurting-nigerian-exports-nexim-bank-2/",
-    "domain": "punchng.com",
+    "title": "Macron Calls Brazilian Beef Doped ; EU Ban Is 12 Weeks Old",
+    "url": "https://www.riotimesonline.com/macron-brazilian-beef-doped-eu-ban-mercosur-2026/",
+    "domain": "riotimesonline.com",
     "lang": "en",
-    "sourceCountry": "Nigeria",
-    "at": "2026-11-27T01:15:00Z",
-    "countries": [],
-    "sectors": [
-     "energia",
-     "transporte"
+    "sourceCountry": "Brazil",
+    "at": "2026-11-27T01:45:00Z",
+    "countries": [
+     "BR",
+     "EU"
     ],
-    "severity": "baja"
+    "sectors": [
+     "alim"
+    ],
+    "severity": "alta"
    },
    {
     "id": "anade arancel desploman europa ingresos nueva paga shein",
@@ -133,6 +288,22 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "costs energy exports high hurt inefficient nigerian ports",
+    "type": "regulacion",
+    "title": "High energy costs , inefficient ports hurt Nigerian exports",
+    "url": "https://punchng.com/high-energy-costs-inefficient-ports-hurting-nigerian-exports-nexim-bank-2/",
+    "domain": "punchng.com",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-27T01:15:00Z",
+    "countries": [],
+    "sectors": [
+     "energia",
+     "transporte"
+    ],
+    "severity": "baja"
    },
    {
     "id": "china from global grip prise tariffs trade trump",
@@ -432,38 +603,8 @@
     "severity": "baja"
    },
    {
-    "id": "ahead canadian cobalt congo export journal jumps mining",
-    "type": "regulacion",
-    "title": "Cobalt jumps 33 % ahead of Congo export ban - Canadian Mining Journal",
-    "url": "https://www.canadianminingjournal.com/news/cobalt-jumps-33-ahead-of-congo-export-ban/",
-    "domain": "canadianminingjournal.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-26T22:15:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "back partners push push revives tariff trading washington",
-    "type": "regulacion",
-    "title": "Washington Revives Tariff Push as Trading Partners Push Back and Markets Wobble",
-    "url": "https://www.mumbrella.asia/2026/11/washington-revives-tariff-push-as.html",
-    "domain": "mumbrella.asia",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-26T22:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "aranceles china evitar interferencias mexico moderar pide terceros",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "China pide a México moderar aranceles y evitar interferencias de terceros",
     "url": "https://lasillarota.com/nacion/2026/11/26/china-pide-a-mexico-moderar-aranceles-y-evitar-interferencias-de-terceros-539052.html",
     "domain": "lasillarota.com",
@@ -492,6 +633,36 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "ahead canadian cobalt congo export journal jumps mining",
+    "type": "regulacion",
+    "title": "Cobalt jumps 33 % ahead of Congo export ban - Canadian Mining Journal",
+    "url": "https://www.canadianminingjournal.com/news/cobalt-jumps-33-ahead-of-congo-export-ban/",
+    "domain": "canadianminingjournal.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-26T22:15:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "back partners push push revives tariff trading washington",
+    "type": "regulacion",
+    "title": "Washington Revives Tariff Push as Trading Partners Push Back and Markets Wobble",
+    "url": "https://www.mumbrella.asia/2026/11/washington-revives-tariff-push-as.html",
+    "domain": "mumbrella.asia",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-26T22:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "capital chino comercios consumidor ocho otros sanciona",
@@ -540,7 +711,7 @@
    },
    {
     "id": "advierte ante arancelaria china nueva ofensiva represalias trump",
-    "type": "geo",
+    "type": "arancel",
     "title": "China advierte con represalias ante nueva ofensiva arancelaria de Trump y pone en riesgo la tregua comercial",
     "url": "https://www.df.cl/internacional/ft/china-advierte-con-represalias-ante-nueva-ofensiva-arancelaria-de-trump-y",
     "domain": "df.cl",
@@ -2264,39 +2435,6 @@
     "severity": "media"
    },
    {
-    "id": "calls free mandate reform smmt tariff trade with",
-    "type": "arancel",
-    "title": "SMMT calls for ZEV mandate reform and tariff - free EV trade with EU",
-    "url": "https://www.tyrepress.com/2026/11/smmt-calls-for-zev-mandate-reform-and-tariff-free-ev-trade-with-eu/",
-    "domain": "tyrepress.com",
-    "lang": "en",
-    "sourceCountry": "United Kingdom",
-    "at": "2026-11-25T10:30:00Z",
-    "countries": [
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "china economies excess fresh other readies section tariffs",
-    "type": "arancel",
-    "title": "​US Readies Fresh Section 301 Tariffs on China , EU and 14 Other Economies as Excess - Capacity Probe Nears End ; India Could Face Higher Duties",
-    "url": "https://pragativadi.com/us-readies-fresh-section-301-tariffs-on-china-eu-and-14-other-economies-as-excess-capacity-probe-nears-end-india-could-face-higher-duties/",
-    "domain": "pragativadi.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-25T05:45:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "chip control export mechanism singapore work",
     "type": "sancion",
     "title": "Singapore , US work on mechanism for chip export control",
@@ -3831,15 +3969,13 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: fetch failed",
    "sancion/english: fetch failed",
    "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
