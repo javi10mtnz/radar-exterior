@@ -1,11 +1,73 @@
 {
- "updatedAt": "2026-11-27T04:11:26.044Z",
+ "updatedAt": "2026-11-27T05:20:17.981Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "2025 arroz baratas importaciones",
+    "type": "arancel",
+    "title": "Importaciones de arroz a la UE , un 22 % más baratas que en 2025",
+    "url": "https://www.agrodigital.com/2026/11/27/importaciones-arroz-ue-mercosur-myanmar-camboya/",
+    "domain": "agrodigital.com",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-27T04:30:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "acto aranceles china eeuu responde tipico unilateralismo",
+    "type": "arancel",
+    "title": "China responde a aranceles de EEUU : Es un típico acto de unilateralismo",
+    "url": "https://noticiaslatam.lat/20261127/china-responde-a-aranceles-de-eeuu-es-un-tipico-acto-de-unilateralismo-1176038516.html",
+    "domain": "noticiaslatam.lat",
+    "lang": "es",
+    "sourceCountry": "",
+    "at": "2026-11-27T01:45:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "anade arancel desploman europa ingresos nueva paga shein",
+    "type": "arancel",
+    "title": "Shein paga el arancel de la UE : sus ingresos se desploman en Europa , que le añade una nueva tasa",
+    "url": "https://www.abc.es/economia/cuentas-corrientes/shein-paga-arancel-ue-ingresos-desploman-europa-20261127013453-nt.html",
+    "domain": "abc.es",
+    "lang": "es",
+    "sourceCountry": "Spain",
+    "at": "2026-11-27T01:15:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china importado introduce lamando mexico primer sedan volkswagen",
+    "type": "arancel",
+    "title": "Volkswagen introduce en México el Lamando , su primer sedán importado de China",
+    "url": "https://cincoradio.com.mx/volkswagen-introduce-en-m-xico-el-lamando-su-primer-sed-n-importado-de-china-cr-3eb115c7180ab842712d518eef654b60/",
+    "domain": "cincoradio.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-27T01:15:00Z",
+    "countries": [
+     "CN",
+     "MX"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
    {
     "id": "costs energy exports high hurt inefficient nigerian ports",
     "type": "arancel",
@@ -71,6 +133,21 @@
     "severity": "baja"
    },
    {
+    "id": "aranceles comerciales estados nuevos para propone socios trump",
+    "type": "arancel",
+    "title": "Trump propone nuevos aranceles para 14 socios comerciales de Estados Unidos",
+    "url": "https://abriendobrecha.tv/internacionales/trump-propone-nuevos-aranceles-para-14-socios-comerciales-de-estados-unidos/",
+    "domain": "abriendobrecha.tv",
+    "lang": "es",
+    "sourceCountry": "Honduras",
+    "at": "2026-11-27T00:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "back china other partners plans tariff trading trump",
     "type": "arancel",
     "title": "China and other US trading partners hit back at Trump new tariff plans",
@@ -102,6 +179,22 @@
     "sectors": [
      "tech"
     ],
+    "severity": "media"
+   },
+   {
+    "id": "acuerdan china crear grupo mexico reduccion sobre trabajo",
+    "type": "arancel",
+    "title": "China y México acuerdan crear grupo de trabajo sobre reducción de aranceles",
+    "url": "https://confirmado.net/china-y-mexico-acuerdan-crear-grupo-de-trabajo-sobre-reduccion-de-aranceles/",
+    "domain": "confirmado.net",
+    "lang": "es",
+    "sourceCountry": "Ecuador",
+    "at": "2026-11-27T00:15:00Z",
+    "countries": [
+     "CN",
+     "MX"
+    ],
+    "sectors": [],
     "severity": "media"
    },
    {
@@ -301,6 +394,21 @@
     "countries": [
      "CN",
      "MX"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "capital chino comercios consumidor ocho otros sanciona",
+    "type": "sancion",
+    "title": "Pro Consumidor sanciona otros ocho comercios de capital chino",
+    "url": "https://almomento.net/pro-consumidor-sanciona-otros-ocho-comercios-de-capital-chino/",
+    "domain": "almomento.net",
+    "lang": "es",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T22:15:00Z",
+    "countries": [
+     "CN"
     ],
     "sectors": [],
     "severity": "media"
@@ -3762,35 +3870,18 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "bulk india pact protect reclassification reconsider scotch trade",
-    "type": "regulacion",
-    "title": "Reconsider bulk scotch reclassification to protect India – UK trade pact gains : GTRI",
-    "url": "https://www.moneycontrol.com/news/business/reconsider-bulk-scotch-reclassification-to-protect-india-uk-trade-pact-gains-gtri-14085232.html",
-    "domain": "moneycontrol.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-20T04:30:00Z",
-    "countries": [
-     "GB",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: fetch failed",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: fetch failed",
+   "logistica/english: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
