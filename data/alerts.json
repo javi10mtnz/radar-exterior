@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T06:39:11.069Z",
+ "updatedAt": "2026-11-27T08:05:37.669Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -3827,111 +3827,20 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "banco brasil central dolares frenar millones para vende",
-    "type": "divisa",
-    "title": "El Banco Central de Brasil vende 1 . 000 millones de dólares para frenar la subida de la divisa",
-    "url": "https://es.mercopress.com/2026/11/20/el-banco-central-de-brasil-vende-1.000-millones-de-dolares-para-frenar-la-subida-de-la-divisa",
-    "domain": "es.mercopress.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-20T06:45:00Z",
-    "countries": [
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "freight from geopolitical october peak plunge rates vlcc",
-    "type": "logistica",
-    "title": "VLCC Freight Rates Plunge 64 % from October Peak as Geopolitical Risk Premium Unwinds | Peak Oil News and Message Boards",
-    "url": "https://peakoil.com/production/vlcc-freight-rates-plunge-64-from-october-peak-as-geopolitical-risk-premium-unwinds",
-    "domain": "peakoil.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-20T06:45:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "broader chain chip disruption export from supply warns",
-    "type": "sancion",
-    "title": "Chip supply chain warns of broader disruption from new US export controls",
-    "url": "https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls",
-    "domain": "asia.nikkei.com",
-    "lang": "en",
-    "sourceCountry": "Japan",
-    "at": "2026-11-20T06:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "arab australia countries islamic kingdom sanctions united welcome",
-    "type": "sancion",
-    "title": "15 Arab and Islamic countries welcome united kingdom , Australia sanctions against Israeli settlement activities",
-    "url": "http://www.australianherald.com/news/279444046/15-arab-and-islamic-countries-welcome-uk-australia-sanctions-against-israeli-settlement-activities",
-    "domain": "australianherald.com",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-20T06:45:00Z",
-    "countries": [
-     "GB"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "china concerns export raises seller shares short slide",
-    "type": "sancion",
-    "title": "AMD Shares Slide 7 . 72 % as Short Seller Raises China Export Concerns",
-    "url": "https://slguardian.org/amd-shares-slide-7-72-as-short-seller-raises-china-export-concerns/",
-    "domain": "slguardian.org",
-    "lang": "en",
-    "sourceCountry": "Sri Lanka",
-    "at": "2026-11-20T06:45:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "australian backs israeli kingdom sanctions settlements turkiye united",
-    "type": "sancion",
-    "title": "Türkiye backs united kingdom , Australian sanctions on Israeli settlements",
-    "url": "https://www.hurriyetdailynews.com/turkiye-backs-uk-australian-sanctions-on-israeli-settlements-229627",
-    "domain": "hurriyetdailynews.com",
-    "lang": "en",
-    "sourceCountry": "Turkey",
-    "at": "2026-11-20T06:45:00Z",
-    "countries": [
-     "GB",
-     "TR"
-    ],
-    "sectors": [],
-    "severity": "alta"
    }
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
+   "sancion/english: fetch failed",
+   "sancion/spanish: fetch failed",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: fetch failed",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "geo/english: fetch failed",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
