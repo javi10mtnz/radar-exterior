@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T02:03:11.845Z",
+ "updatedAt": "2026-11-27T04:11:26.044Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -103,6 +103,21 @@
      "tech"
     ],
     "severity": "media"
+   },
+   {
+    "id": "amid dollar exchange government halted intervention rate suspicion",
+    "type": "divisa",
+    "title": "US dollar exchange rate halted amid suspicion of government intervention",
+    "url": "https://buenosairesherald.com/economics/the-dollar-halted-its-upward-streak-but-the-market-suspects-official-intervention",
+    "domain": "buenosairesherald.com",
+    "lang": "en",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-27T00:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "china countermeasures over tariff threatens trade trump warning",
@@ -3763,168 +3778,16 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "progres real reported talks trade trump with",
-    "type": "geo",
-    "title": "No real progres reported in trade talks with Trump",
-    "url": "https://www.therecord.com/politics/federal/donald-trump-s-midterm-drubbing-hasn-t-sped-up-canada-s-trade-talks-sources-say/article_d3822e6c-f43d-5d80-9cd7-32d0a8047d76.html",
-    "domain": "therecord.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T03:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "bulk customs india kingdom reclassification scotch threatens united",
-    "type": "regulacion",
-    "title": "Customs reclassification of bulk Scotch threatens India united kingdom trade pact gains , warns GTRI",
-    "url": "https://www.businesstoday.in/india/story/customs-reclassification-of-bulk-scotch-threatens-india-uk-trade-pact-gains-warns-gtri-568651-2026-11-20",
-    "domain": "businesstoday.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-20T03:45:00Z",
-    "countries": [
-     "GB",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "based drug faction global italy mafia toronto trafficking",
-    "type": "sancion",
-    "title": "Toronto faction of Italy - based global drug trafficking mafia sanctioned by U . S .",
-    "url": "https://www.wellandtribune.ca/news/ontario/toronto-faction-of-italy-based-global-drug-trafficking-mafia-sanctioned-by-u-s/article_0a5cc73f-7e33-59f6-a8c4-49db5ab30303.html",
-    "domain": "wellandtribune.ca",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T03:45:00Z",
-    "countries": [
-     "IT"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "2026 apec barreras china concluye cumbre eliminar llamado",
-    "type": "regulacion",
-    "title": "APEC 2026 : concluye cumbre en China con llamado a eliminar barreras comerciales y fortalecer el multilateralismo - Entre Líneas",
-    "url": "https://entrelineas.com.mx/apec-2026-concluye-cumbre-en-china-con-llamado-a-eliminar-barreras-comerciales-y-fortalecer-el-multilateralismo/",
-    "domain": "entrelineas.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "adhesion argentina nacion patentes sanciono senado tratado",
-    "type": "regulacion",
-    "title": "El Senado de la Nación sancionó la adhesión de Argentina al Tratado de Patentes",
-    "url": "https://urgente24.com/actualidad/el-senado-la-nacion-sanciono-la-adhesion-argentina-al-tratado-patentes-n637160",
-    "domain": "urgente24.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "AR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "accuses adviser arrogance canada donald tariffs trade trump",
-    "type": "geo",
-    "title": "Donald Trump tariffs : U . S . trade adviser accuses Canada of arrogance",
-    "url": "https://www.cp24.com/politics/2026/11/20/trump-trade-adviser-hurls-insults-at-federal-government-as-canada-us-trade-talks-heat-up/",
-    "domain": "cp24.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "US",
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "agenda apec back leaders meets shenzhen trade trump",
-    "type": "regulacion",
-    "title": "APEC leaders back Shenzhen trade agenda as Xi meets Trump and Putin",
-    "url": "https://macaudailytimes.com.mo/apec-leaders-back-shenzhen-trade-agenda-as-xi-meets-trump-and-putin.html",
-    "domain": "macaudailytimes.com.mo",
-    "lang": "en",
-    "sourceCountry": "Macau",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "alleged branch canadian mafia ndrangheta sanctions",
-    "type": "sancion",
-    "title": "U . S . sanctions alleged Canadian branch of Ndrangheta mafia",
-    "url": "https://www.cp24.com/news/canada/2026/11/19/us-sanctions-canadian-branch-of-italian-mafia-australian-biker-gang/",
-    "domain": "cp24.com",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "aussie bikie boss heap pressure sanctions world",
-    "type": "sancion",
-    "title": "US sanctions heap pressure on Aussie bikie world boss",
-    "url": "https://www.sconeadvocate.com.au/story/9395079/us-sanctions-heap-pressure-on-aussie-bikie-world-boss/",
-    "domain": "sconeadvocate.com.au",
-    "lang": "en",
-    "sourceCountry": "Australia",
-    "at": "2026-11-20T03:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "2026 container exceeds ningbo port teus throughput zhoushan",
-    "type": "logistica",
-    "title": "Ningbo - Zhoushan Port container throughput for 2026 exceeds 40M TEUs",
-    "url": "http://www.china.org.cn/2026-11/20/content_118782251.shtml",
-    "domain": "china.org.cn",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-20T02:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: fetch failed",
+   "arancel/spanish: fetch failed",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: fetch failed",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: fetch failed",
    "geo/english: fetch failed",
    "geo/spanish: fetch failed"
