@@ -1,11 +1,156 @@
 {
- "updatedAt": "2026-11-27T00:37:27.550Z",
+ "updatedAt": "2026-11-27T02:03:11.845Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "costs energy exports high hurt inefficient nigerian ports",
+    "type": "arancel",
+    "title": "High energy costs , inefficient ports hurt Nigerian exports",
+    "url": "https://punchng.com/high-energy-costs-inefficient-ports-hurting-nigerian-exports-nexim-bank-2/",
+    "domain": "punchng.com",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-27T01:15:00Z",
+    "countries": [],
+    "sectors": [
+     "energia",
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "china from global grip prise tariffs trade trump",
+    "type": "arancel",
+    "title": "Trump new tariffs aim to prise global trade from China grip",
+    "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
+    "domain": "asiaone.com",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-27T01:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "asian factbox nation status talks trade trump with",
+    "type": "arancel",
+    "title": "FACTBOX - Status of Asian Nation Trade Talks with Trump",
+    "url": "https://english.kontan.co.id/news/factbox-status-of-asian-nations-trade-talks-with-trump",
+    "domain": "english.kontan.co.id",
+    "lang": "en",
+    "sourceCountry": "Indonesia",
+    "at": "2026-11-27T00:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "based bypass chinese chip controls export firms owned",
+    "type": "sancion",
+    "title": "U . S .- based Chinese - owned firms bypass AI chip export controls via Southeast Asian hubs",
+    "url": "https://english.pravda.ru/news/world/174586-chinese-owned-us-firms-bypass-ai-chip-exports/",
+    "domain": "english.pravda.ru",
+    "lang": "en",
+    "sourceCountry": "Russia",
+    "at": "2026-11-27T00:45:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "back china other partners plans tariff trading trump",
+    "type": "arancel",
+    "title": "China and other US trading partners hit back at Trump new tariff plans",
+    "url": "https://krcgtv.com/news/nation-world/china-and-other-us-trading-partners-hit-back-at-trumps-new-tariff-plans",
+    "domain": "krcgtv.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T00:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "chips cloud controls export grip nvidia threatening tighten",
+    "type": "sancion",
+    "title": "US Export Controls Tighten Grip on Nvidia Chips , Threatening AI Cloud Access for Chinese Firms",
+    "url": "https://slguardian.org/us-export-controls-tighten-grip-on-nvidia-chips-threatening-ai-cloud-access-for-chinese-firms/",
+    "domain": "slguardian.org",
+    "lang": "en",
+    "sourceCountry": "Sri Lanka",
+    "at": "2026-11-27T00:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "china countermeasures over tariff threatens trade trump warning",
+    "type": "arancel",
+    "title": "TRADE WARNING : China Threatens Countermeasures Over New Trump Tariff Proposal",
+    "url": "https://www.theyeshivaworld.com/news/general/2628833/trade-warning-china-threatens-countermeasures-over-new-trump-tariff-proposal.html",
+    "domain": "theyeshivaworld.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T00:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "brazil criticizes embraer inflation tariffs travel warns",
+    "type": "arancel",
+    "title": "Brazil Embraer criticizes new US tariffs , warns of air travel inflation",
+    "url": "https://www.spokesman.com/stories/2026/nov/26/brazils-embraer-criticizes-new-us-tariffs-warns-of/",
+    "domain": "spokesman.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T23:45:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "back domestic hoeven loss push sugar tariff touts",
+    "type": "arancel",
+    "title": "Sen . Hoeven touts new sugar tariff to push back on $1 . 8B loss for the domestic sugar industry last year",
+    "url": "https://www.wahpetondailynews.com/news/north-dakota/sen-hoeven-touts-new-sugar-tariff-to-push-back-on-1-8b-loss-for-the-domestic-sugar-industry-last-year",
+    "domain": "wahpetondailynews.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T22:45:00Z",
+    "countries": [],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "2026 amid disruptions global maritime shipping stall trade",
     "type": "logistica",
@@ -66,6 +211,51 @@
     "sectors": [
      "transporte"
     ],
+    "severity": "baja"
+   },
+   {
+    "id": "ahead major partners presses tariffs trading trump with",
+    "type": "arancel",
+    "title": "Trump presses ahead with tariffs on 14 major trading partners",
+    "url": "https://econotimes.com/Trump-presses-ahead-with-tariffs-on-14-major-trading-partners-1780883",
+    "domain": "econotimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T22:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "continuity easing european fears higher leadership stocks tariff",
+    "type": "arancel",
+    "title": "European stocks end higher on easing tariff fears , ECB leadership continuity",
+    "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/european-stocks-end-higher-easing-tariff-fears-ecb-leadership-continuity",
+    "domain": "businesstimes.com.sg",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-26T22:30:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "back partners plans tariff trading trump",
+    "type": "arancel",
+    "title": "US trading partners hit back at Trump tariff plans",
+    "url": "https://www.bostonherald.com/2026/11/26/us-trading-partners-hit-back-at-trumps-tariff-plans/",
+    "domain": "bostonherald.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-26T22:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -192,6 +382,21 @@
     "severity": "media"
    },
    {
+    "id": "alibaba export imposes megaspeed over restrictions security unit",
+    "type": "sancion",
+    "title": "US Imposes Export Restrictions on Megaspeed and Alibaba Unit Over Security Concerns",
+    "url": "https://www.sentinelassam.com/more-news/international/us-imposes-export-restrictions-on-megaspeed-and-alibaba-unit-over-security-concerns",
+    "domain": "sentinelassam.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-26T12:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "china china economic foreign headwinds roundtable trade weathers",
     "type": "regulacion",
     "title": "( China Economic Roundtable ) China foreign trade weathers headwinds via market diversification , product upgrading - Xinhua",
@@ -253,21 +458,6 @@
     "severity": "media"
    },
    {
-    "id": "alibaba export imposes megaspeed over restrictions security unit",
-    "type": "sancion",
-    "title": "US Imposes Export Restrictions on Megaspeed and Alibaba Unit Over Security Concerns",
-    "url": "https://www.sentinelassam.com/more-news/international/us-imposes-export-restrictions-on-megaspeed-and-alibaba-unit-over-security-concerns",
-    "domain": "sentinelassam.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-26T12:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "additional china china economies firmly opposes other tariffs",
     "type": "arancel",
     "title": "China firmly opposes U . S . additional tariffs on China , other economies : commerce ministry - Xinhua",
@@ -281,22 +471,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "back china other partners plans tariff trading trump",
-    "type": "arancel",
-    "title": "China and other U . S . trading partners hit back at Trump new tariff plans",
-    "url": "https://www.kcra.com/article/trump-administration-new-tariffs-china-japan-trade-partners/74540001",
-    "domain": "kcra.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T12:45:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "alta"
    },
    {
     "id": "kaine opposes proposed shares tariffs trump",
@@ -3741,63 +3915,19 @@
      "transporte"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "agricultural china leave over purchases questions talks trade",
-    "type": "regulacion",
-    "title": "U . S .- China Trade Talks Leave Questions Over Agricultural Purchases",
-    "url": "https://www.rfdtv.com/u-s-china-trade-talks-leave-questions-over-agricultural-purchases",
-    "domain": "rfdtv.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-20T01:15:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "canada issue multiple outstanding sources talks trade trade",
-    "type": "regulacion",
-    "title": "Multiple trade issue outstanding in Canada , U . S . trade talks : Sources - National",
-    "url": "https://globalnews.ca/news/12158821/canada-us-trade-talks-outstanding-issues/",
-    "domain": "globalnews.ca",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-20T00:45:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "fair india jason reciprocal ties towards trade working",
-    "type": "regulacion",
-    "title": "India , US Working Towards Fair And Reciprocal Trade Ties : Jason Meeks",
-    "url": "https://www.businessworld.in/article/india-us-working-towards-fair-and-reciprocal-trade-ties-jason-meeks-634420",
-    "domain": "businessworld.in",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-20T00:45:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
+   "divisa/spanish: fetch failed",
+   "geo/english: fetch failed",
+   "geo/spanish: fetch failed"
   ]
  }
 }
