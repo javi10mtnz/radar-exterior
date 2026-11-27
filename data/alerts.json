@@ -1,11 +1,114 @@
 {
- "updatedAt": "2026-11-27T22:37:56.234Z",
+ "updatedAt": "2026-11-27T23:34:14.257Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "another breach disabled military says ship that tried",
+    "type": "geo",
+    "title": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports - WSVN 7News | Miami News , Weather , Sports",
+    "url": "https://wsvn.com/news/us-world/us-military-disables-iranian-blockade-vessel/",
+    "domain": "wsvn.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T22:45:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "disabled gulf headed iranian military oman ports ship",
+    "type": "geo",
+    "title": "US military disabled ship in the Gulf of Oman headed to Iranian ports",
+    "url": "https://www.republicanherald.com/2026/11/27/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports/",
+    "domain": "republicanherald.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T22:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "after another attempt disables gulf military oman ship",
+    "type": "geo",
+    "title": "US military disables another ship in Gulf of Oman after attempt to breach Iranian ports blockade",
+    "url": "https://www.independent.co.uk/news/world/americas/usa-military-gulf-of-oman-ship-iran-blockade-b3093017.html",
+    "domain": "independent.co.uk",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-27T22:15:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "another disabled gulf military oman says ship that",
+    "type": "geo",
+    "title": "US military says it disabled another ship in the Gulf of Oman that tried to breach naval blockade on Iranian ports - Las Vegas Sun News",
+    "url": "https://lasvegassun.com/news/2026/nov/27/us-military-says-it-disabled-another-ship-in-the-g/",
+    "domain": "lasvegassun.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T20:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "alta"
+   },
+   {
+    "id": "canada court quebec religious symbols upholds",
+    "type": "geo",
+    "title": "Canada top court upholds Quebec religious symbols ban",
+    "url": "https://www.queanbeyanage.com.au/story/9399785/canadas-top-court-upholds-quebec-religious-symbols-ban/",
+    "domain": "queanbeyanage.com.au",
+    "lang": "en",
+    "sourceCountry": "Australia",
+    "at": "2026-11-27T20:30:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "attempting breach cargo disables military naval ship watch",
+    "type": "geo",
+    "title": "Watch : US military disables cargo ship attempting to breach naval blockade on Iran",
+    "url": "https://www.israelnationalnews.com/news/437280",
+    "domain": "israelnationalnews.com",
+    "lang": "en",
+    "sourceCountry": "Israel",
+    "at": "2026-11-27T20:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
    {
     "id": "action after against forced global labour urges uyghur",
     "type": "sancion",
@@ -20,6 +123,37 @@
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "against chinese despite dollar edges lower stronger yuan",
+    "type": "geo",
+    "title": "Chinese yuan edges lower against dollar despite stronger PBOC midpoint",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinese-yuan-edges-lower-against-dollar-despite-stronger-pboc-midpoint/articleshow/136211110.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "announces china faces fresh highest raft rate tariffs",
+    "type": "geo",
+    "title": "China faces highest rate as US announces fresh raft of tariffs",
+    "url": "http://www.kenyastar.com/news/279454307/china-faces-highest-rate-as-us-announces-fresh-raft-of-tariffs",
+    "domain": "kenyastar.com",
+    "lang": "en",
+    "sourceCountry": "Kenya",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "canada guatemala keeps porras sanctions",
@@ -66,22 +200,6 @@
      "energia"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "announces china faces fresh highest raft rate tariffs",
-    "type": "arancel",
-    "title": "China faces highest rate as US announces fresh raft of tariffs",
-    "url": "http://www.tucsonpost.com/news/279454307/china-faces-highest-rate-as-us-announces-fresh-raft-of-tariffs",
-    "domain": "tucsonpost.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "clouds export india msmes outlook seek tariff threat",
@@ -131,21 +249,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "against chinese despite dollar edges lower stronger yuan",
-    "type": "arancel",
-    "title": "Chinese yuan edges lower against dollar despite stronger PBOC midpoint",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinese-yuan-edges-lower-against-dollar-despite-stronger-pboc-midpoint/articleshow/136211110.cms",
-    "domain": "economictimes.indiatimes.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "deal india india means proposal tariff trade what",
@@ -366,7 +469,7 @@
    },
    {
     "id": "against bill chip dutch export government lobbies",
-    "type": "sancion",
+    "type": "geo",
     "title": "Dutch Government Lobbies Against US Chip Export Bill",
     "url": "https://www.theepochtimes.com/world/dutch-government-lobbies-against-us-chip-export-bill-6129583",
     "domain": "theepochtimes.com",
@@ -451,7 +554,7 @@
    },
    {
     "id": "china from global grip prise tariffs trade trump",
-    "type": "sancion",
+    "type": "geo",
     "title": "Trump new tariffs aim to prise global trade from China grip",
     "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
     "domain": "asiaone.com",
@@ -3952,14 +4055,14 @@
   ],
   "partialErrors": [
    "arancel/english: fetch failed",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
    "regulacion/english: fetch failed",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
