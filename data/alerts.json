@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-27T17:19:19.300Z",
+ "updatedAt": "2026-11-27T18:29:34.320Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "chief port santos takes tape warns years",
+    "type": "divisa",
+    "title": "Santos Port Chief Warns Red Tape Takes Years",
+    "url": "https://www.riotimesonline.com/santos-brasil-ceo-sepulveda-port-approvals-take-years/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "aranceles conversa disminucion estados singapur unidos",
     "type": "arancel",
@@ -222,21 +237,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "chief port santos takes tape warns years",
-    "type": "divisa",
-    "title": "Santos Port Chief Warns Red Tape Takes Years",
-    "url": "https://www.riotimesonline.com/santos-brasil-ceo-sepulveda-port-approvals-take-years/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
    },
    {
     "id": "adicionales aranceles china china eeuu firmemente opone otras",
@@ -513,6 +513,21 @@
     "severity": "alta"
    },
    {
+    "id": "amid dollar exchange government halted intervention rate suspicion",
+    "type": "divisa",
+    "title": "US dollar exchange rate halted amid suspicion of government intervention",
+    "url": "https://buenosairesherald.com/economics/the-dollar-halted-its-upward-streak-but-the-market-suspects-official-intervention",
+    "domain": "buenosairesherald.com",
+    "lang": "en",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-27T00:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "acuerdan china crear grupo mexico reduccion sobre trabajo",
     "type": "arancel",
     "title": "China y México acuerdan crear grupo de trabajo sobre reducción de aranceles",
@@ -527,21 +542,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "amid dollar exchange government halted intervention rate suspicion",
-    "type": "divisa",
-    "title": "US dollar exchange rate halted amid suspicion of government intervention",
-    "url": "https://buenosairesherald.com/economics/the-dollar-halted-its-upward-streak-but-the-market-suspects-official-intervention",
-    "domain": "buenosairesherald.com",
-    "lang": "en",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-27T00:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "china countermeasures over tariff threatens trade trump warning",
@@ -806,7 +806,7 @@
    },
    {
     "id": "advierte ante arancelaria china nueva ofensiva represalias trump",
-    "type": "arancel",
+    "type": "geo",
     "title": "China advierte con represalias ante nueva ofensiva arancelaria de Trump y pone en riesgo la tregua comercial",
     "url": "https://www.df.cl/internacional/ft/china-advierte-con-represalias-ante-nueva-ofensiva-arancelaria-de-trump-y",
     "domain": "df.cl",
@@ -4064,13 +4064,15 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: fetch failed",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/english: fetch failed",
    "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: fetch failed"
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
