@@ -1,11 +1,57 @@
 {
- "updatedAt": "2026-11-27T14:01:41.399Z",
+ "updatedAt": "2026-11-27T15:04:20.634Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "canada guatemala keeps porras sanctions",
+    "type": "sancion",
+    "title": "Canada Keeps Sanctions on Guatemala Porras",
+    "url": "https://www.riotimesonline.com/guatemala-canada-keeps-porras-sanctions/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "chip decide market power sanctions splitting will wins",
+    "type": "sancion",
+    "title": "Sanctions are splitting the AI chip market in two , and power will decide who wins , by Shayne Heffernan",
+    "url": "https://www.livetradingnews.com/sanctions-are-splitting-the-ai-chip-market-in-two-and-power-will-decide-who-wins",
+    "domain": "livetradingnews.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [],
+    "sectors": [
+     "energia",
+     "tech"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "energy headlines jones middle prices rise traders weigh",
+    "type": "sancion",
+    "title": "Dow Jones Top Energy Headlines at 12 AM ET : Oil Prices Rise as Traders Weigh Middle East Supply Risks , OPEC+ Meeting | OPEC , ...",
+    "url": "https://www.morningstar.com/news/dow-jones/2026112751/dow-jones-top-energy-headlines-at-12-am-et-oil-prices-rise-as-traders-weigh-middle-east-supply-risks-opec-meeting-opec",
+    "domain": "morningstar.com",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "aranceles conversa disminucion estados singapur unidos",
     "type": "arancel",
@@ -110,52 +156,6 @@
      "CN"
     ],
     "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "canada guatemala keeps porras sanctions",
-    "type": "sancion",
-    "title": "Canada Keeps Sanctions on Guatemala Porras",
-    "url": "https://www.riotimesonline.com/guatemala-canada-keeps-porras-sanctions/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "CA"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "chip decide market power sanctions splitting will wins",
-    "type": "sancion",
-    "title": "Sanctions are splitting the AI chip market in two , and power will decide who wins , by Shayne Heffernan",
-    "url": "https://www.livetradingnews.com/sanctions-are-splitting-the-ai-chip-market-in-two-and-power-will-decide-who-wins",
-    "domain": "livetradingnews.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [],
-    "sectors": [
-     "energia",
-     "tech"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "energy headlines jones middle prices rise traders weigh",
-    "type": "sancion",
-    "title": "Dow Jones Top Energy Headlines at 12 AM ET : Oil Prices Rise as Traders Weigh Middle East Supply Risks , OPEC+ Meeting | OPEC , ...",
-    "url": "https://www.morningstar.com/news/dow-jones/2026112751/dow-jones-top-energy-headlines-at-12-am-et-oil-prices-rise-as-traders-weigh-middle-east-supply-risks-opec-meeting-opec",
-    "domain": "morningstar.com",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [],
-    "sectors": [
-     "energia"
-    ],
     "severity": "baja"
    },
    {
@@ -287,7 +287,7 @@
    },
    {
     "id": "against bill chip dutch export government lobbies",
-    "type": "geo",
+    "type": "sancion",
     "title": "Dutch Government Lobbies Against US Chip Export Bill",
     "url": "https://www.theepochtimes.com/world/dutch-government-lobbies-against-us-chip-export-bill-6129583",
     "domain": "theepochtimes.com",
@@ -354,6 +354,22 @@
     "severity": "alta"
    },
    {
+    "id": "china from global grip prise tariffs trade trump",
+    "type": "sancion",
+    "title": "Trump new tariffs aim to prise global trade from China grip",
+    "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
+    "domain": "asiaone.com",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-27T01:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
     "id": "anade arancel desploman europa ingresos nueva paga shein",
     "type": "arancel",
     "title": "Shein paga el arancel de la UE : sus ingresos se desploman en Europa , que le añade una nueva tasa",
@@ -385,22 +401,6 @@
     "severity": "media"
    },
    {
-    "id": "china from global grip prise tariffs trade trump",
-    "type": "geo",
-    "title": "Trump new tariffs aim to prise global trade from China grip",
-    "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
-    "domain": "asiaone.com",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-27T01:15:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
     "id": "costs energy exports high hurt inefficient nigerian ports",
     "type": "regulacion",
     "title": "High energy costs , inefficient ports hurt Nigerian exports",
@@ -414,21 +414,6 @@
      "energia",
      "transporte"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "asian factbox nation status talks trade trump with",
-    "type": "geo",
-    "title": "FACTBOX - Status of Asian Nation Trade Talks with Trump",
-    "url": "https://english.kontan.co.id/news/factbox-status-of-asian-nations-trade-talks-with-trump",
-    "domain": "english.kontan.co.id",
-    "lang": "en",
-    "sourceCountry": "Indonesia",
-    "at": "2026-11-27T00:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -449,6 +434,21 @@
     "severity": "baja"
    },
    {
+    "id": "asian factbox nation status talks trade trump with",
+    "type": "sancion",
+    "title": "FACTBOX - Status of Asian Nation Trade Talks with Trump",
+    "url": "https://english.kontan.co.id/news/factbox-status-of-asian-nations-trade-talks-with-trump",
+    "domain": "english.kontan.co.id",
+    "lang": "en",
+    "sourceCountry": "Indonesia",
+    "at": "2026-11-27T00:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "boost canal city cooperation harnesses maritime port qinzhou",
     "type": "regulacion",
     "title": "Port City Qinzhou Harnesses New Canal to Boost Maritime Cooperation",
@@ -461,21 +461,6 @@
     "sectors": [
      "transporte"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "aranceles comerciales estados nuevos para propone socios trump",
-    "type": "arancel",
-    "title": "Trump propone nuevos aranceles para 14 socios comerciales de Estados Unidos",
-    "url": "https://abriendobrecha.tv/internacionales/trump-propone-nuevos-aranceles-para-14-socios-comerciales-de-estados-unidos/",
-    "domain": "abriendobrecha.tv",
-    "lang": "es",
-    "sourceCountry": "Honduras",
-    "at": "2026-11-27T00:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -495,6 +480,21 @@
      "tech"
     ],
     "severity": "media"
+   },
+   {
+    "id": "aranceles comerciales estados nuevos para propone socios trump",
+    "type": "arancel",
+    "title": "Trump propone nuevos aranceles para 14 socios comerciales de Estados Unidos",
+    "url": "https://abriendobrecha.tv/internacionales/trump-propone-nuevos-aranceles-para-14-socios-comerciales-de-estados-unidos/",
+    "domain": "abriendobrecha.tv",
+    "lang": "es",
+    "sourceCountry": "Honduras",
+    "at": "2026-11-27T00:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "back china other partners plans tariff trading trump",
@@ -4064,13 +4064,15 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: fetch failed",
+   "logistica/english: fetch failed",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
    "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: fetch failed"
   ]
  }
