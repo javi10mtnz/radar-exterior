@@ -1,11 +1,42 @@
 {
- "updatedAt": "2026-11-27T10:38:33.953Z",
+ "updatedAt": "2026-11-27T11:34:01.487Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "announces china faces fresh highest raft rate tariffs",
+    "type": "geo",
+    "title": "China faces highest rate as US announces fresh raft of tariffs",
+    "url": "http://www.tucsonpost.com/news/279454307/china-faces-highest-rate-as-us-announces-fresh-raft-of-tariffs",
+    "domain": "tucsonpost.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "against chinese despite dollar edges lower stronger yuan",
+    "type": "geo",
+    "title": "Chinese yuan edges lower against dollar despite stronger PBOC midpoint",
+    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinese-yuan-edges-lower-against-dollar-despite-stronger-pboc-midpoint/articleshow/136211110.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "canada guatemala keeps porras sanctions",
     "type": "sancion",
@@ -256,7 +287,7 @@
    },
    {
     "id": "against bill chip dutch export government lobbies",
-    "type": "sancion",
+    "type": "geo",
     "title": "Dutch Government Lobbies Against US Chip Export Bill",
     "url": "https://www.theepochtimes.com/world/dutch-government-lobbies-against-us-chip-export-bill-6129583",
     "domain": "theepochtimes.com",
@@ -324,7 +355,7 @@
    },
    {
     "id": "china from global grip prise tariffs trade trump",
-    "type": "sancion",
+    "type": "geo",
     "title": "Trump new tariffs aim to prise global trade from China grip",
     "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
     "domain": "asiaone.com",
@@ -386,6 +417,21 @@
     "severity": "baja"
    },
    {
+    "id": "asian factbox nation status talks trade trump with",
+    "type": "geo",
+    "title": "FACTBOX - Status of Asian Nation Trade Talks with Trump",
+    "url": "https://english.kontan.co.id/news/factbox-status-of-asian-nations-trade-talks-with-trump",
+    "domain": "english.kontan.co.id",
+    "lang": "en",
+    "sourceCountry": "Indonesia",
+    "at": "2026-11-27T00:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "based bypass chinese chip controls export firms owned",
     "type": "sancion",
     "title": "U . S .- based Chinese - owned firms bypass AI chip export controls via Southeast Asian hubs",
@@ -400,21 +446,6 @@
     "sectors": [
      "tech"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "asian factbox nation status talks trade trump with",
-    "type": "sancion",
-    "title": "FACTBOX - Status of Asian Nation Trade Talks with Trump",
-    "url": "https://english.kontan.co.id/news/factbox-status-of-asian-nations-trade-talks-with-trump",
-    "domain": "english.kontan.co.id",
-    "lang": "en",
-    "sourceCountry": "Indonesia",
-    "at": "2026-11-27T00:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -545,6 +576,23 @@
     "severity": "media"
    },
    {
+    "id": "builds china gulf hold loadings steady supply vlcc",
+    "type": "geo",
+    "title": "VLCC Supply Builds as Gulf – China Loadings Hold Steady | Hellenic Shipping News Worldwide",
+    "url": "https://www.hellenicshippingnews.com/vlcc-supply-builds-as-gulf-china-loadings-hold-steady/",
+    "domain": "hellenicshippingnews.com",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-26T22:45:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "back domestic hoeven loss push sugar tariff touts",
     "type": "arancel",
     "title": "Sen . Hoeven touts new sugar tariff to push back on $1 . 8B loss for the domestic sugar industry last year",
@@ -599,23 +647,6 @@
     "sourceCountry": "China",
     "at": "2026-11-26T22:45:00Z",
     "countries": [],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "builds china gulf hold loadings steady supply vlcc",
-    "type": "geo",
-    "title": "VLCC Supply Builds as Gulf – China Loadings Hold Steady | Hellenic Shipping News Worldwide",
-    "url": "https://www.hellenicshippingnews.com/vlcc-supply-builds-as-gulf-china-loadings-hold-steady/",
-    "domain": "hellenicshippingnews.com",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-26T22:45:00Z",
-    "countries": [
-     "CN"
-    ],
     "sectors": [
      "transporte"
     ],
@@ -4032,12 +4063,16 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: fetch failed",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: fetch failed",
    "logistica/english: fetch failed",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
