@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T02:00:03.858Z",
+ "updatedAt": "2026-11-28T03:01:16.870Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,8 +7,116 @@
  "data": {
   "items": [
    {
+    "id": "2027 amplia autos decreto hasta importar mexico para",
+    "type": "arancel",
+    "title": "México amplía hasta 2027 el decreto para importar autos chocolate : requisitos y costos",
+    "url": "https://periodicocorreo.com.mx/nacional/2026/nov/27/mexico-amplia-hasta-2027-el-decreto-para-importar-autos-chocolate-requisitos-y-costos-172576.html",
+    "domain": "periodicocorreo.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-28T02:30:00Z",
+    "countries": [
+     "MX"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles dividen donald paliza partido republicano tras trump",
+    "type": "arancel",
+    "title": "Los aranceles de Donald Trump dividen al Partido Republicano tras la paliza en las elecciones legislativas",
+    "url": "https://www.clarin.com/mundo/aranceles-donald-trump-dividen-partido-republicano-paliza-elecciones-legislativas_0_XQpHPiCAFP.html",
+    "domain": "clarin.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-28T02:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "chapo descarta extradicion isidro negociacion posible sheinbaum vincular",
+    "type": "arancel",
+    "title": "Sheinbaum descarta vincular posible extradición de El Chapo Isidro con negociación arancelaria de México y EU",
+    "url": "https://www.termometroenlinea.com.mx/vernoticiasN.php?artid=135441&cat=254",
+    "domain": "termometroenlinea.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-28T02:30:00Z",
+    "countries": [
+     "MX",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "contribution hellenic membership news shillings shipping worldwide your",
+    "type": "divisa",
+    "title": "Your membership contribution is £5 and 5 shillings … | Hellenic Shipping News Worldwide",
+    "url": "https://www.hellenicshippingnews.com/your-membership-contribution-is-5-and-5-shillings/",
+    "domain": "hellenicshippingnews.com",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-28T02:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "business challenge china dominance international tariffs trade world",
+    "type": "arancel",
+    "title": "International Business : New US tariffs aim to challenge China dominance in world trade",
+    "url": "https://www.gdnonline.com:443/Details/1414178",
+    "domain": "gdnonline.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T01:45:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles china comunidad eeuu empresarial insta propuestos retirar",
+    "type": "arancel",
+    "title": "Comunidad empresarial china insta a EEUU a retirar aranceles propuestos",
+    "url": "http://spanish.peopledaily.com.cn/n3/2026/1128/c31620-20524122.html",
+    "domain": "spanish.peopledaily.com.cn",
+    "lang": "es",
+    "sourceCountry": "China",
+    "at": "2026-11-28T01:45:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "announces coming farmers hochul relief tariff",
+    "type": "arancel",
+    "title": "Hochul announces $23M in tariff relief for farmers ; $2 . 2M coming to WNY",
+    "url": "https://www.lockportjournal.com/news/local_news/hochul-announces-23m-in-tariff-relief-for-farmers-2-2m-coming-to-wny/article_2b7bcca9-daf9-5b48-a930-6d9b06157181.html",
+    "domain": "lockportjournal.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T23:45:00Z",
+    "countries": [],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
+   },
+   {
     "id": "challenge democrats giving opening republicans rethink tariffs trump",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "Republicans rethink tariffs , giving Democrats an opening to challenge Trump",
     "url": "https://www.wccbcharlotte.com/2026/11/27/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump/",
     "domain": "wccbcharlotte.com",
@@ -37,20 +145,19 @@
     "severity": "baja"
    },
    {
-    "id": "chapo descarta extradicion isidro negociacion posible sheinbaum vincular",
+    "id": "close deal finalizing india minister says trade",
     "type": "arancel",
-    "title": "Sheinbaum descarta vincular posible extradición de El Chapo Isidro con negociación arancelaria de México y EU",
-    "url": "https://www.termometroenlinea.com.mx/vernoticiasN.php?artid=135441&cat=255",
-    "domain": "termometroenlinea.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-27T23:45:00Z",
+    "title": "India and U . S . close to finalizing trade deal , minister says",
+    "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/27/india-us-trade-deal-is-nearing-completion-minister-says/",
+    "domain": "bnnbloomberg.ca",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-27T22:45:00Z",
     "countries": [
-     "MX",
-     "EU"
+     "IN"
     ],
     "sectors": [],
-    "severity": "media"
+    "severity": "baja"
    },
    {
     "id": "amenaza arancelaria contra donald lanza mundo otra trump",
@@ -99,6 +206,21 @@
      "transporte"
     ],
     "severity": "alta"
+   },
+   {
+    "id": "industry proposed reacts sugar sugar tariffs",
+    "type": "arancel",
+    "title": "Sugar industry reacts to proposed sugar tariffs",
+    "url": "https://www.agweek.com/news/sugarbeet/sugar-industry-reacts-to-proposed-sugar-tariffs",
+    "domain": "agweek.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T22:30:00Z",
+    "countries": [],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
    },
    {
     "id": "acelera acuerdo comercial congreso llevara milei trump",
@@ -150,6 +272,21 @@
      "transporte"
     ],
     "severity": "alta"
+   },
+   {
+    "id": "businesses carney feel podcast prairie talks trade with",
+    "type": "arancel",
+    "title": "PODCAST : Carney talks trade with Moe as Prairie businesses feel tariff pressures",
+    "url": "https://www.620ckrm.com/2026/11/27/podcast-carney-talks-trade-with-moe-as-prairie-businesses-feel-tariff-pressures/",
+    "domain": "620ckrm.com",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-27T20:30:00Z",
+    "countries": [],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "baja"
    },
    {
     "id": "another disabled gulf military oman says ship that",
@@ -217,7 +354,7 @@
    },
    {
     "id": "bangladesh china edge gets india over tariffs vietnam",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "US tariffs : India gets an edge over China , Vietnam , Bangladesh but what must New Delhi do to secure it ?",
     "url": "https://www.livemint.com/economy/us-tariffs-india-gets-an-edge-over-china-vietnam-bangladesh-but-what-must-new-delhi-do-to-secure-it-11795754423053.html",
     "domain": "livemint.com",
@@ -234,57 +371,10 @@
    },
    {
     "id": "amid completion deal india nears proposed tariff trade",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "India - US Trade Deal Nears Completion Amid Proposed 25 % Tariff , Says Piyush Goyal",
     "url": "https://openthemagazine.com/india/india-us-trade-deal-close-to-culmination-says-goyal-as-washington-proposes-25-tariff",
     "domain": "openthemagazine.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "clouds export india msmes outlook seek tariff threat",
-    "type": "regulacion",
-    "title": "US tariff threat clouds India export outlook ; MSMEs seek relief amid uncertainty over orders",
-    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/us-tariff-threat-clouds-indias-export-outlook-msmes-seek-relief-amid-uncertainty-over-orders/articleshow/136211144.cms",
-    "domain": "economictimes.indiatimes.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "advance free goal korea seek south trade uzbekistan",
-    "type": "regulacion",
-    "title": "Uzbekistan , South Korea seek $5B trade goal , advance free trade talks",
-    "url": "https://www.trend.az/casia/uzbekistan/4251252.html",
-    "domain": "trend.az",
-    "lang": "en",
-    "sourceCountry": "Azerbaijan",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "KR"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "deal india india means proposal tariff trade what",
-    "type": "regulacion",
-    "title": "India - US trade deal : What the new US tariff proposal means for India",
-    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-what-the-new-us-tariff-proposal-means-for-india/articleshow/136210536.cms",
-    "domain": "economictimes.indiatimes.com",
     "lang": "en",
     "sourceCountry": "India",
     "at": "2026-11-27T06:30:00Z",
@@ -354,6 +444,68 @@
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "chief port santos takes tape warns years",
+    "type": "divisa",
+    "title": "Santos Port Chief Warns Red Tape Takes Years",
+    "url": "https://www.riotimesonline.com/santos-brasil-ceo-sepulveda-port-approvals-take-years/",
+    "domain": "riotimesonline.com",
+    "lang": "en",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "clouds export india msmes outlook seek tariff threat",
+    "type": "regulacion",
+    "title": "US tariff threat clouds India export outlook ; MSMEs seek relief amid uncertainty over orders",
+    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/us-tariff-threat-clouds-indias-export-outlook-msmes-seek-relief-amid-uncertainty-over-orders/articleshow/136211144.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "advance free goal korea seek south trade uzbekistan",
+    "type": "regulacion",
+    "title": "Uzbekistan , South Korea seek $5B trade goal , advance free trade talks",
+    "url": "https://www.trend.az/casia/uzbekistan/4251252.html",
+    "domain": "trend.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "KR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "deal india india means proposal tariff trade what",
+    "type": "regulacion",
+    "title": "India - US trade deal : What the new US tariff proposal means for India",
+    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-what-the-new-us-tariff-proposal-means-for-india/articleshow/136210536.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "against chinese despite dollar edges lower stronger yuan",
@@ -449,19 +601,20 @@
     "severity": "media"
    },
    {
-    "id": "chief port santos takes tape warns years",
-    "type": "divisa",
-    "title": "Santos Port Chief Warns Red Tape Takes Years",
-    "url": "https://www.riotimesonline.com/santos-brasil-ceo-sepulveda-port-approvals-take-years/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
+    "id": "adicionales aranceles china china eeuu firmemente opone otras",
+    "type": "arancel",
+    "title": "China se opone firmemente a aranceles adicionales de EEUU a China y otras economías",
+    "url": "http://spanish.china.org.cn/txt/2026-11/27/content_118791589.htm",
+    "domain": "spanish.china.org.cn",
+    "lang": "es",
+    "sourceCountry": "China",
+    "at": "2026-11-27T05:30:00Z",
+    "countries": [
+     "US",
+     "CN"
     ],
-    "severity": "baja"
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "2027 cross despite export india march mark trillion",
@@ -475,22 +628,6 @@
     "countries": [
      "US",
      "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "adicionales aranceles china china eeuu firmemente opone otras",
-    "type": "arancel",
-    "title": "China se opone firmemente a aranceles adicionales de EEUU a China y otras economías",
-    "url": "http://spanish.china.org.cn/txt/2026-11/27/content_118791589.htm",
-    "domain": "spanish.china.org.cn",
-    "lang": "es",
-    "sourceCountry": "China",
-    "at": "2026-11-27T05:30:00Z",
-    "countries": [
-     "US",
-     "CN"
     ],
     "sectors": [],
     "severity": "media"
@@ -2256,22 +2393,6 @@
     "severity": "media"
    },
    {
-    "id": "amenazas ante arancelarias brasil cedera eeuu subraya",
-    "type": "arancel",
-    "title": "Brasil subraya que no cederá ante amenazas arancelarias de EEUU",
-    "url": "http://www.hispantv.com/noticias/brasil/685117/brasil-rechazar-posibles-nuevos-aranceles-eeuu",
-    "domain": "hispantv.com",
-    "lang": "es",
-    "sourceCountry": "Syria",
-    "at": "2026-11-26T03:15:00Z",
-    "countries": [
-     "US",
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "agreed capacity excess goods korean proposes tariffs within",
     "type": "regulacion",
     "title": "US proposes excess capacity tariffs on Korean goods within agreed 15 % ceiling",
@@ -2337,22 +2458,6 @@
     "severity": "media"
    },
    {
-    "id": "aranceles impone nuevos paises trump",
-    "type": "arancel",
-    "title": "Trump impone nuevos aranceles a la UE y 13 países",
-    "url": "https://sintesis.mx/2026/11/25/trump-impone-nuevos-aranceles/",
-    "domain": "sintesis.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-26T02:45:00Z",
-    "countries": [
-     "US",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "exempts exposed indian leaves phones proposal tariff textiles",
     "type": "geo",
     "title": "US tariff proposal exempts Indian phones , leaves textiles exposed",
@@ -2364,39 +2469,6 @@
     "countries": [
      "US",
      "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "ahora arancel libra mexico moneda otro seria trump",
-    "type": "arancel",
-    "title": "México libra por ahora otro arancel de Trump ; sería moneda de cambio para el T - MEC",
-    "url": "https://www.omnia.com.mx/noticia/450910/mexico-libra-por-ahora-otro-arancel-de-trump-seria-moneda-de-cambio-para-el-t-me",
-    "domain": "omnia.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-26T02:30:00Z",
-    "countries": [
-     "US",
-     "MX"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "aranceles brasil europea exigieron nuevos rechazaron trump union",
-    "type": "arancel",
-    "title": "Brasil y la Unión Europea rechazaron los nuevos aranceles de Trump y exigieron respetar los acuerdos comerciales",
-    "url": "https://www.infobae.com/america/mundo/2026/11/26/brasil-y-la-union-europea-rechazaron-los-nuevos-aranceles-de-trump-y-exigieron-respetar-los-acuerdos-comerciales/",
-    "domain": "infobae.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-26T02:30:00Z",
-    "countries": [
-     "US",
-     "BR",
-     "EU"
     ],
     "sectors": [],
     "severity": "media"
@@ -2415,23 +2487,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "ahora aranceles china gravaria libra mexico nuevos socios",
-    "type": "arancel",
-    "title": "México libra por ahora nuevos aranceles de EU ; gravaría a 14 socios , China con la tasa más alta - Entre Líneas",
-    "url": "https://entrelineas.com.mx/mexico-libra-por-ahora-nuevos-aranceles-de-eu-gravaria-a-14-socios-china-con-la-tasa-mas-alta/",
-    "domain": "entrelineas.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-26T02:15:00Z",
-    "countries": [
-     "CN",
-     "MX",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "clarifies deal india reached tariff trade ustr",
@@ -4063,16 +4118,12 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: fetch failed",
+   "geo/english: fetch failed",
+   "geo/spanish: fetch failed"
   ]
  }
 }
