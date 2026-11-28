@@ -1,11 +1,41 @@
 {
- "updatedAt": "2026-11-28T12:31:16.726Z",
+ "updatedAt": "2026-11-28T13:47:17.839Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "deepen denmark economic explore india ties trade ways",
+    "type": "regulacion",
+    "title": "India , Denmark explore ways to deepen trade and economic ties : Piyush Goyal",
+    "url": "https://www.prokerala.com/news/articles/a1842256.html",
+    "domain": "prokerala.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-28T12:45:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "acuerdo comercial controversias rumbo solventadas",
+    "type": "arancel",
+    "title": "Controversias con EU solventadas rumbo a acuerdo comercial",
+    "url": "https://www.razon.com.mx:443/mexico/2026/11/28/controversias-con-eu-solventadas-rumbo-a-acuerdo-comercial/",
+    "domain": "razon.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-28T12:30:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "black bulgaria explore freight kyrgyzstan ports routes",
     "type": "arancel",
@@ -71,7 +101,7 @@
    },
    {
     "id": "access china duty free sought",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "Duty - free access to China sought",
     "url": "https://tribune.com.pk/story/2642706/duty-free-access-to-china-sought",
     "domain": "tribune.com.pk",
@@ -134,7 +164,7 @@
    },
    {
     "id": "baystreet canada excluded from tariffs",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "Baystreet . ca - Canada Excluded From New U . S . Tariffs",
     "url": "https://baystreet.ca/articles/economiccommentary/125643/Canada-Excluded-From-New-US-Tariffs",
     "domain": "baystreet.ca",
@@ -178,6 +208,36 @@
     "severity": "baja"
    },
    {
+    "id": "algunos aranceles bajo impuestos lupa ponen republicanos trump",
+    "type": "arancel",
+    "title": "Republicanos ponen bajo la lupa algunos aranceles impuestos por Trump | GDA – Grupo de Diarios América",
+    "url": "https://gda.com/detalle-de-la-noticia/?article=6242890",
+    "domain": "gda.com",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-28T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "challenge democrats giving opening republicans rethink tariffs trump",
+    "type": "regulacion",
+    "title": "Republicans rethink tariffs , giving Democrats an opening to challenge Trump",
+    "url": "https://www.decaturdaily.com/news/other_news/national/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump/article_051a9c7f-61bc-4343-81da-9d04727e9022.html",
+    "domain": "decaturdaily.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "deficit deteriorates further goods helps imports lift trade",
     "type": "arancel",
     "title": "US goods trade deficit deteriorates further as AI helps to lift imports to record high",
@@ -192,21 +252,6 @@
     "sectors": [
      "tech"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "challenge democrats giving opening republicans rethink tariffs trump",
-    "type": "arancel",
-    "title": "Republicans rethink tariffs , giving Democrats an opening to challenge Trump",
-    "url": "https://www.decaturdaily.com/news/other_news/national/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump/article_051a9c7f-61bc-4343-81da-9d04727e9022.html",
-    "domain": "decaturdaily.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-28T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -243,21 +288,6 @@
      "transporte"
     ],
     "severity": "alta"
-   },
-   {
-    "id": "algunos aranceles bajo impuestos lupa ponen republicanos trump",
-    "type": "arancel",
-    "title": "Republicanos ponen bajo la lupa algunos aranceles impuestos por Trump | GDA – Grupo de Diarios América",
-    "url": "https://gda.com/detalle-de-la-noticia/?article=6242890",
-    "domain": "gda.com",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-28T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "back china other partners plans tariff trading trump",
@@ -343,21 +373,6 @@
     "severity": "media"
    },
    {
-    "id": "aranceles dividen donald paliza partido republicano tras trump",
-    "type": "regulacion",
-    "title": "Los aranceles de Donald Trump dividen al Partido Republicano tras la paliza en las elecciones legislativas",
-    "url": "https://www.clarin.com/mundo/aranceles-donald-trump-dividen-partido-republicano-paliza-elecciones-legislativas_0_XQpHPiCAFP.html",
-    "domain": "clarin.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-28T02:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "chapo descarta extradicion isidro negociacion posible sheinbaum vincular",
     "type": "arancel",
     "title": "Sheinbaum descarta vincular posible extradición de El Chapo Isidro con negociación arancelaria de México y EU",
@@ -384,6 +399,21 @@
     "at": "2026-11-28T02:30:00Z",
     "countries": [
      "MX"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles dividen donald paliza partido republicano tras trump",
+    "type": "arancel",
+    "title": "Los aranceles de Donald Trump dividen al Partido Republicano tras la paliza en las elecciones legislativas",
+    "url": "https://www.clarin.com/mundo/aranceles-donald-trump-dividen-partido-republicano-paliza-elecciones-legislativas_0_XQpHPiCAFP.html",
+    "domain": "clarin.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-28T02:30:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -419,13 +449,13 @@
     "severity": "media"
    },
    {
-    "id": "business challenge china dominance international tariffs trade world",
+    "id": "aranceles china comunidad eeuu empresarial insta propuestos retirar",
     "type": "arancel",
-    "title": "International Business : New US tariffs aim to challenge China dominance in world trade",
-    "url": "https://www.gdnonline.com:443/Details/1414178",
-    "domain": "gdnonline.com",
-    "lang": "en",
-    "sourceCountry": "United States",
+    "title": "Comunidad empresarial china insta a EEUU a retirar aranceles propuestos",
+    "url": "http://spanish.peopledaily.com.cn/n3/2026/1128/c31620-20524122.html",
+    "domain": "spanish.peopledaily.com.cn",
+    "lang": "es",
+    "sourceCountry": "China",
     "at": "2026-11-28T01:45:00Z",
     "countries": [
      "US",
@@ -435,13 +465,13 @@
     "severity": "media"
    },
    {
-    "id": "aranceles china comunidad eeuu empresarial insta propuestos retirar",
+    "id": "business challenge china dominance international tariffs trade world",
     "type": "arancel",
-    "title": "Comunidad empresarial china insta a EEUU a retirar aranceles propuestos",
-    "url": "http://spanish.peopledaily.com.cn/n3/2026/1128/c31620-20524122.html",
-    "domain": "spanish.peopledaily.com.cn",
-    "lang": "es",
-    "sourceCountry": "China",
+    "title": "International Business : New US tariffs aim to challenge China dominance in world trade",
+    "url": "https://www.gdnonline.com:443/Details/1414178",
+    "domain": "gdnonline.com",
+    "lang": "en",
+    "sourceCountry": "United States",
     "at": "2026-11-28T01:45:00Z",
     "countries": [
      "US",
@@ -498,21 +528,6 @@
     "severity": "baja"
    },
    {
-    "id": "aranceles busca cerrar colombia gobierno negociacion",
-    "type": "regulacion",
-    "title": "Aranceles de EE . UU . a Colombia : la negociación que busca cerrar el Gobierno",
-    "url": "https://www.elespectador.com/economia/gobierno-espera-eliminar-en-cuatro-meses-el-arancel-para-productos-colombianos-en-ee-uu/",
-    "domain": "elespectador.com",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-27T22:45:00Z",
-    "countries": [
-     "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "amenaza arancelaria contra donald lanza mundo otra trump",
     "type": "arancel",
     "title": "Lanza Donald Trump otra amenaza arancelaria contra el mundo - Almomento | Noticias , información nacional e internacional",
@@ -523,6 +538,21 @@
     "at": "2026-11-27T22:45:00Z",
     "countries": [
      "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles busca cerrar colombia gobierno negociacion",
+    "type": "arancel",
+    "title": "Aranceles de EE . UU . a Colombia : la negociación que busca cerrar el Gobierno",
+    "url": "https://www.elespectador.com/economia/gobierno-espera-eliminar-en-cuatro-meses-el-arancel-para-productos-colombianos-en-ee-uu/",
+    "domain": "elespectador.com",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-27T22:45:00Z",
+    "countries": [
+     "CO"
     ],
     "sectors": [],
     "severity": "baja"
@@ -4223,13 +4253,15 @@
    }
   ],
   "partialErrors": [
-   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: fetch failed",
+   "divisa/spanish: fetch failed",
    "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
