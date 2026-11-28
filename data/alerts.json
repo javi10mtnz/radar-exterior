@@ -1,11 +1,26 @@
 {
- "updatedAt": "2026-11-28T00:32:53.470Z",
+ "updatedAt": "2026-11-28T02:00:03.858Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "challenge democrats giving opening republicans rethink tariffs trump",
+    "type": "regulacion",
+    "title": "Republicans rethink tariffs , giving Democrats an opening to challenge Trump",
+    "url": "https://www.wccbcharlotte.com/2026/11/27/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump/",
+    "domain": "wccbcharlotte.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T23:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "acuerdo arancel colombia comercial exportaran firmara productos reciproco",
     "type": "arancel",
@@ -201,6 +216,86 @@
     "severity": "baja"
    },
    {
+    "id": "bangladesh china edge gets india over tariffs vietnam",
+    "type": "regulacion",
+    "title": "US tariffs : India gets an edge over China , Vietnam , Bangladesh but what must New Delhi do to secure it ?",
+    "url": "https://www.livemint.com/economy/us-tariffs-india-gets-an-edge-over-china-vietnam-bangladesh-but-what-must-new-delhi-do-to-secure-it-11795754423053.html",
+    "domain": "livemint.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "amid completion deal india nears proposed tariff trade",
+    "type": "regulacion",
+    "title": "India - US Trade Deal Nears Completion Amid Proposed 25 % Tariff , Says Piyush Goyal",
+    "url": "https://openthemagazine.com/india/india-us-trade-deal-close-to-culmination-says-goyal-as-washington-proposes-25-tariff",
+    "domain": "openthemagazine.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "clouds export india msmes outlook seek tariff threat",
+    "type": "regulacion",
+    "title": "US tariff threat clouds India export outlook ; MSMEs seek relief amid uncertainty over orders",
+    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/us-tariff-threat-clouds-indias-export-outlook-msmes-seek-relief-amid-uncertainty-over-orders/articleshow/136211144.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "advance free goal korea seek south trade uzbekistan",
+    "type": "regulacion",
+    "title": "Uzbekistan , South Korea seek $5B trade goal , advance free trade talks",
+    "url": "https://www.trend.az/casia/uzbekistan/4251252.html",
+    "domain": "trend.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "KR"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "deal india india means proposal tariff trade what",
+    "type": "regulacion",
+    "title": "India - US trade deal : What the new US tariff proposal means for India",
+    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-what-the-new-us-tariff-proposal-means-for-india/articleshow/136210536.cms",
+    "domain": "economictimes.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "aranceles s02e27 trump",
     "type": "arancel",
     "title": "Trump . Aranceles . S02E27",
@@ -338,71 +433,6 @@
     "severity": "baja"
    },
    {
-    "id": "clouds export india msmes outlook seek tariff threat",
-    "type": "arancel",
-    "title": "US tariff threat clouds India export outlook ; MSMEs seek relief amid uncertainty over orders",
-    "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/us-tariff-threat-clouds-indias-export-outlook-msmes-seek-relief-amid-uncertainty-over-orders/articleshow/136211144.cms",
-    "domain": "economictimes.indiatimes.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "bangladesh china edge gets india over tariffs vietnam",
-    "type": "arancel",
-    "title": "US tariffs : India gets an edge over China , Vietnam , Bangladesh but what must New Delhi do to secure it ?",
-    "url": "https://www.livemint.com/economy/us-tariffs-india-gets-an-edge-over-china-vietnam-bangladesh-but-what-must-new-delhi-do-to-secure-it-11795754423053.html",
-    "domain": "livemint.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "amid completion deal india nears proposed tariff trade",
-    "type": "arancel",
-    "title": "India - US Trade Deal Nears Completion Amid Proposed 25 % Tariff , Says Piyush Goyal",
-    "url": "https://openthemagazine.com/india/india-us-trade-deal-close-to-culmination-says-goyal-as-washington-proposes-25-tariff",
-    "domain": "openthemagazine.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "deal india india means proposal tariff trade what",
-    "type": "arancel",
-    "title": "India - US trade deal : What the new US tariff proposal means for India",
-    "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-what-the-new-us-tariff-proposal-means-for-india/articleshow/136210536.cms",
-    "domain": "economictimes.indiatimes.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "explainer india pact tariffs trade",
     "type": "arancel",
     "title": "India - US trade pact and tariffs : An explainer",
@@ -434,19 +464,20 @@
     "severity": "baja"
    },
    {
-    "id": "advance free goal korea seek south trade uzbekistan",
+    "id": "2027 cross despite export india march mark trillion",
     "type": "regulacion",
-    "title": "Uzbekistan , South Korea seek $5B trade goal , advance free trade talks",
-    "url": "https://www.trend.az/casia/uzbekistan/4251252.html",
-    "domain": "trend.az",
+    "title": "India to cross $1 trillion export mark by March 2027 despite proposed 25 % US tariff : ASSOCHAM Secretary General",
+    "url": "https://timesofoman.com/article/179644-india-to-cross-1-trillion-export-mark-by-march-2027-despite-proposed-25-us-tariff-assocham-secretary-general",
+    "domain": "timesofoman.com",
     "lang": "en",
-    "sourceCountry": "Azerbaijan",
-    "at": "2026-11-27T06:30:00Z",
+    "sourceCountry": "Oman",
+    "at": "2026-11-27T05:30:00Z",
     "countries": [
-     "KR"
+     "US",
+     "IN"
     ],
     "sectors": [],
-    "severity": "baja"
+    "severity": "media"
    },
    {
     "id": "adicionales aranceles china china eeuu firmemente opone otras",
@@ -460,22 +491,6 @@
     "countries": [
      "US",
      "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "2027 cross despite export india march mark trillion",
-    "type": "arancel",
-    "title": "India to cross $1 trillion export mark by March 2027 despite proposed 25 % US tariff : ASSOCHAM Secretary General",
-    "url": "https://timesofoman.com/article/179644-india-to-cross-1-trillion-export-mark-by-march-2027-despite-proposed-25-us-tariff-assocham-secretary-general",
-    "domain": "timesofoman.com",
-    "lang": "en",
-    "sourceCountry": "Oman",
-    "at": "2026-11-27T05:30:00Z",
-    "countries": [
-     "US",
-     "IN"
     ],
     "sectors": [],
     "severity": "media"
@@ -544,6 +559,22 @@
     "severity": "media"
    },
    {
+    "id": "exports india india remains same share times",
+    "type": "regulacion",
+    "title": "Share of US in India exports remains same - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/business/india-business/share-of-us-in-indias-exports-remains-same/articleshow/136206628.cms",
+    "domain": "timesofindia.indiatimes.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T02:15:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "against bill chip dutch export government lobbies",
     "type": "geo",
     "title": "Dutch Government Lobbies Against US Chip Export Bill",
@@ -577,22 +608,6 @@
      "tech"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "exports india india remains same share times",
-    "type": "arancel",
-    "title": "Share of US in India exports remains same - The Times of India",
-    "url": "https://timesofindia.indiatimes.com/business/india-business/share-of-us-in-indias-exports-remains-same/articleshow/136206628.cms",
-    "domain": "timesofindia.indiatimes.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-27T02:15:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "acto aranceles china eeuu responde tipico unilateralismo",
@@ -4049,14 +4064,15 @@
   ],
   "partialErrors": [
    "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
