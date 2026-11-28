@@ -1,11 +1,249 @@
 {
- "updatedAt": "2026-11-28T10:34:16.281Z",
+ "updatedAt": "2026-11-28T11:30:44.484Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "black bulgaria explore freight kyrgyzstan ports routes",
+    "type": "arancel",
+    "title": "Kyrgyzstan , Bulgaria explore new freight routes via Black Sea ports",
+    "url": "https://www.trend.az/casia/kyrgyzstan/4251795.html",
+    "domain": "trend.az",
+    "lang": "en",
+    "sourceCountry": "Azerbaijan",
+    "at": "2026-11-28T10:45:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "before energy january price should tariff your",
+    "type": "arancel",
+    "title": "Should you fix your energy tariff before January price cap ?",
+    "url": "https://www.gazetteseries.co.uk/news/26768086.fix-energy-tariff-january-price-cap/",
+    "domain": "gazetteseries.co.uk",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-28T10:45:00Z",
+    "countries": [],
+    "sectors": [
+     "energia"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "amid black european high month prices shipping wheat",
+    "type": "sancion",
+    "title": "European wheat prices hit one - month high amid Black Sea shipping disruptions",
+    "url": "https://sana.sy/en/economic/2362458/",
+    "domain": "sana.sy",
+    "lang": "en",
+    "sourceCountry": "Syria",
+    "at": "2026-11-28T10:45:00Z",
+    "countries": [
+     "EU"
+    ],
+    "sectors": [
+     "alim",
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "bills freight hormuz impact import maritime risks strait",
+    "type": "logistica",
+    "title": "Strait of Hormuz risks may impact oil import bills , maritime freight rates : Finance Ministry",
+    "url": "https://ianslive.in/strait-of-hormuz-risks-may-impact-oil-import-bills-maritime-freight-rates-finance-ministry--20261128150848",
+    "domain": "ianslive.in",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-28T10:45:00Z",
+    "countries": [],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "access china duty free sought",
+    "type": "arancel",
+    "title": "Duty - free access to China sought",
+    "url": "https://tribune.com.pk/story/2642706/duty-free-access-to-china-sought",
+    "domain": "tribune.com.pk",
+    "lang": "en",
+    "sourceCountry": "Pakistan",
+    "at": "2026-11-28T10:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "china others proposes tariffs trump",
+    "type": "arancel",
+    "title": "Trump proposes new tariffs on China , EU , 12 others",
+    "url": "https://www.vanguardngr.com/2026/11/trump-proposes-new-tariffs-on-china-eu-12-others/",
+    "domain": "vanguardngr.com",
+    "lang": "en",
+    "sourceCountry": "Nigeria",
+    "at": "2026-11-28T10:15:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "beijing fragile proposal puts tariff trade truce washington",
+    "type": "arancel",
+    "title": "New Us Tariff Proposal Puts the Fragile Washington - Beijing Trade Truce Under Pressure Before January 10",
+    "url": "https://www.latintimes.com/us-proposes-tariffs-chinese-imports-trade-truce-601887",
+    "domain": "latintimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T09:45:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "costs could global hinder proposed raise tariffs trade",
+    "type": "arancel",
+    "title": "Proposed US tariffs could raise costs , hinder global trade : Cambodian experts",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/28/proposed-us-tariffs-could-raise-costs-hinder-global-trade-cambodian-experts",
+    "domain": "thestar.com.my",
+    "lang": "en",
+    "sourceCountry": "Malaysia",
+    "at": "2026-11-28T09:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "baystreet canada excluded from tariffs",
+    "type": "arancel",
+    "title": "Baystreet . ca - Canada Excluded From New U . S . Tariffs",
+    "url": "https://baystreet.ca/articles/economiccommentary/125643/Canada-Excluded-From-New-US-Tariffs",
+    "domain": "baystreet.ca",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-28T08:30:00Z",
+    "countries": [
+     "CA"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "america become business economy have normal tariffs trump",
+    "type": "arancel",
+    "title": "Trump tariffs have become America new normal | Business and Economy",
+    "url": "https://www.aljazeera.com/opinions/2026/11/28/trumps-tariffs-have-become-americas-new-normal",
+    "domain": "aljazeera.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T08:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "business china chinese community proposed tariffs urges withdraw",
+    "type": "arancel",
+    "title": "Chinese business community urges U . S . to withdraw proposed tariffs -- China Economic Net",
+    "url": "http://en.ce.cn/main/latest/202611/t20261128_3311374.shtml",
+    "domain": "en.ce.cn",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-28T07:15:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "deficit deteriorates further goods helps imports lift trade",
+    "type": "arancel",
+    "title": "US goods trade deficit deteriorates further as AI helps to lift imports to record high",
+    "url": "https://www.asiaone.com:443/money/us-goods-trade-deficit-deteriorates-ai-lift-imports-record-high",
+    "domain": "asiaone.com",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-28T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "challenge democrats giving opening republicans rethink tariffs trump",
+    "type": "arancel",
+    "title": "Republicans rethink tariffs , giving Democrats an opening to challenge Trump",
+    "url": "https://www.decaturdaily.com/news/other_news/national/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump/article_051a9c7f-61bc-4343-81da-9d04727e9022.html",
+    "domain": "decaturdaily.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "amid chip engages export firms local singapore tightened",
+    "type": "sancion",
+    "title": "Singapore Engages Local Firms Amid Tightened US AI Chip Export Controls",
+    "url": "https://kenya-today.com/report-singapore-engages-local-firms-amid-tightened-us-ai-chip-export-controls-34423/",
+    "domain": "kenya-today.com",
+    "lang": "en",
+    "sourceCountry": "Kenya",
+    "at": "2026-11-28T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "another breach disabled military says ship that tried",
+    "type": "geo",
+    "title": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+    "url": "https://www.decaturdaily.com/news/other_news/international/us-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian/article_f3a1f7bb-d335-4c80-9aa5-b1073bc61503.html",
+    "domain": "decaturdaily.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T06:30:00Z",
+    "countries": [
+     "US",
+     "IR"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "severity": "alta"
+   },
    {
     "id": "algunos aranceles bajo impuestos lupa ponen republicanos trump",
     "type": "arancel",
@@ -15,6 +253,104 @@
     "lang": "es",
     "sourceCountry": "Mexico",
     "at": "2026-11-28T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "back china other partners plans tariff trading trump",
+    "type": "arancel",
+    "title": "China and other US trading partners hit back at Trump new tariff plans",
+    "url": "https://theweekender.com/business/44460/china-and-other-us-trading-partners-hit-back-at-trumps-new-tariff-plans",
+    "domain": "theweekender.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T05:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "bill control export netherlands opposes roundup semiconductor strongly",
+    "type": "sancion",
+    "title": "Roundup : The Netherlands strongly opposes U . S . semiconductor export control bill - Xinhua",
+    "url": "https://english.news.cn/20261128/8aad794fea4641368fb0dd8e71eb1ac5/c.html",
+    "domain": "english.news.cn",
+    "lang": "en",
+    "sourceCountry": "",
+    "at": "2026-11-28T05:15:00Z",
+    "countries": [
+     "NL"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "aircraft brazil embraer exports proposes sugar tariffs trump",
+    "type": "arancel",
+    "title": "Trump Proposes New 10 % Tariffs on Brazil Aircraft and Sugar Exports ; Embraer Shares Slide",
+    "url": "https://www.latintimes.com/us-proposes-tariff-brazilian-aircraft-embraer-601855",
+    "domain": "latintimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T04:45:00Z",
+    "countries": [
+     "US",
+     "BR"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "face india nations proposes steepest tariffs trump vietnam",
+    "type": "arancel",
+    "title": "Trump Proposes New Tariffs on 14 Nations : Vietnam and India Face the Steepest Rates",
+    "url": "https://www.latintimes.com/trump-proposes-new-tariffs-14-nations-vietnam-india-face-steepest-rates-601879",
+    "domain": "latintimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T04:45:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "alta"
+   },
+   {
+    "id": "business chinese community proposed tariffs urges withdraw",
+    "type": "arancel",
+    "title": "Chinese business community urges US to withdraw proposed tariffs",
+    "url": "http://www.china.org.cn/2026-11/28/content_118792667.shtml",
+    "domain": "china.org.cn",
+    "lang": "en",
+    "sourceCountry": "China",
+    "at": "2026-11-28T04:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "aranceles dividen donald paliza partido republicano tras trump",
+    "type": "regulacion",
+    "title": "Los aranceles de Donald Trump dividen al Partido Republicano tras la paliza en las elecciones legislativas",
+    "url": "https://www.clarin.com/mundo/aranceles-donald-trump-dividen-partido-republicano-paliza-elecciones-legislativas_0_XQpHPiCAFP.html",
+    "domain": "clarin.com",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-28T02:30:00Z",
     "countries": [
      "US"
     ],
@@ -53,21 +389,6 @@
     "severity": "baja"
    },
    {
-    "id": "aranceles dividen donald paliza partido republicano tras trump",
-    "type": "arancel",
-    "title": "Los aranceles de Donald Trump dividen al Partido Republicano tras la paliza en las elecciones legislativas",
-    "url": "https://www.clarin.com/mundo/aranceles-donald-trump-dividen-partido-republicano-paliza-elecciones-legislativas_0_XQpHPiCAFP.html",
-    "domain": "clarin.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-28T02:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "contribution hellenic membership news shillings shipping worldwide your",
     "type": "divisa",
     "title": "Your membership contribution is £5 and 5 shillings … | Hellenic Shipping News Worldwide",
@@ -93,6 +414,22 @@
     "at": "2026-11-28T02:30:00Z",
     "countries": [
      "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "business challenge china dominance international tariffs trade world",
+    "type": "arancel",
+    "title": "International Business : New US tariffs aim to challenge China dominance in world trade",
+    "url": "https://www.gdnonline.com:443/Details/1414178",
+    "domain": "gdnonline.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T01:45:00Z",
+    "countries": [
+     "US",
+     "CN"
     ],
     "sectors": [],
     "severity": "media"
@@ -131,22 +468,6 @@
     "severity": "baja"
    },
    {
-    "id": "business challenge china dominance international tariffs trade world",
-    "type": "sancion",
-    "title": "International Business : New US tariffs aim to challenge China dominance in world trade",
-    "url": "https://www.gdnonline.com:443/Details/1414178",
-    "domain": "gdnonline.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-28T01:45:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "acuerdo arancel colombia comercial exportaran firmara productos reciproco",
     "type": "arancel",
     "title": "Colombia firmará acuerdo comercial recíproco con EE . UU .: productos se exportarán con 0 % de arancel",
@@ -157,21 +478,6 @@
     "at": "2026-11-27T23:45:00Z",
     "countries": [
      "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "challenge democrats giving opening republicans rethink tariffs trump",
-    "type": "regulacion",
-    "title": "Republicans rethink tariffs , giving Democrats an opening to challenge Trump",
-    "url": "https://www.wccbcharlotte.com/2026/11/27/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump/",
-    "domain": "wccbcharlotte.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-27T23:45:00Z",
-    "countries": [
-     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -192,6 +498,21 @@
     "severity": "baja"
    },
    {
+    "id": "aranceles busca cerrar colombia gobierno negociacion",
+    "type": "regulacion",
+    "title": "Aranceles de EE . UU . a Colombia : la negociación que busca cerrar el Gobierno",
+    "url": "https://www.elespectador.com/economia/gobierno-espera-eliminar-en-cuatro-meses-el-arancel-para-productos-colombianos-en-ee-uu/",
+    "domain": "elespectador.com",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-27T22:45:00Z",
+    "countries": [
+     "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "amenaza arancelaria contra donald lanza mundo otra trump",
     "type": "arancel",
     "title": "Lanza Donald Trump otra amenaza arancelaria contra el mundo - Almomento | Noticias , información nacional e internacional",
@@ -202,21 +523,6 @@
     "at": "2026-11-27T22:45:00Z",
     "countries": [
      "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "aranceles busca cerrar colombia gobierno negociacion",
-    "type": "arancel",
-    "title": "Aranceles de EE . UU . a Colombia : la negociación que busca cerrar el Gobierno",
-    "url": "https://www.elespectador.com/economia/gobierno-espera-eliminar-en-cuatro-meses-el-arancel-para-productos-colombianos-en-ee-uu/",
-    "domain": "elespectador.com",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-27T22:45:00Z",
-    "countries": [
-     "CO"
     ],
     "sectors": [],
     "severity": "baja"
@@ -250,24 +556,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "another breach disabled military says ship that tried",
-    "type": "geo",
-    "title": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports - WSVN 7News | Miami News , Weather , Sports",
-    "url": "https://wsvn.com/news/us-world/us-military-disables-iranian-blockade-vessel/",
-    "domain": "wsvn.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-27T22:45:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "severity": "alta"
    },
    {
     "id": "acelera acuerdo comercial congreso llevara milei trump",
@@ -678,22 +966,6 @@
     ],
     "sectors": [],
     "severity": "media"
-   },
-   {
-    "id": "back china other partners plans tariff trading trump",
-    "type": "arancel",
-    "title": "China and other US trading partners hit back at Trump new tariff plans",
-    "url": "https://www.wdio.com/ap-top-news/ap-top-news-business/china-and-other-us-trading-partners-hit-back-at-trumps-new-tariff-plans/",
-    "domain": "wdio.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-27T05:30:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "alta"
    },
    {
     "id": "amid close completion deal fresh goyal india trade",
@@ -2090,54 +2362,6 @@
     "severity": "baja"
    },
    {
-    "id": "advierte aranceles brasil cedera contra eeuu esboza nuevos",
-    "type": "arancel",
-    "title": "EEUU esboza nuevos aranceles contra Brasil , que advierte que no cederá ante este tipo de amenazas",
-    "url": "https://www.notimerica.com/politica/noticia-eeuu-brasil-eeuu-esboza-nuevos-aranceles-contra-brasil-advierte-no-cedera-tipo-amenazas-20261126034418.html",
-    "domain": "notimerica.com",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "US",
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "aranceles brasil considera impulsados inaceptable nuevos propuesta trump",
-    "type": "arancel",
-    "title": "Brasil considera inaceptable propuesta de nuevos aranceles impulsados por Trump",
-    "url": "https://laopinion.com/2026/11/25/brasil-considera-inaceptable-propuesta-de-nuevos-aranceles-de-ee-uu/",
-    "domain": "laopinion.com",
-    "lang": "es",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "US",
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "china dispara electricos empuja europa exportaciones limitar vehiculos",
-    "type": "arancel",
-    "title": "China dispara sus exportaciones de vehículos eléctricos a Europa y empuja a la UE a limitar las importaciones de híbridos",
-    "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/china-dispara-vehiculos-electricos-europa-ue-limitar-importaciones-hibridos_7065769_0.html",
-    "domain": "20minutos.es",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "CN",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "capacity donald excess industrial over tariffs trump unveils",
     "type": "regulacion",
     "title": "Donald Trump unveils new tariffs over excess industrial capacity",
@@ -2248,84 +2472,6 @@
     "severity": "media"
    },
    {
-    "id": "administration capac chair impose meng proposal slams trump",
-    "type": "arancel",
-    "title": "CAPAC Chair Meng slams Trump administration proposal to impose new tariffs on asian nations , says local businesses hit especially hard",
-    "url": "http://www.southeastasiapost.com/news/279454548/capac-chair-meng-slams-trump-administration-proposal-to-impose-new-tariffs-on-asian-nations-says-local-businesses-hit-especially-hard",
-    "domain": "southeastasiapost.com",
-    "lang": "en",
-    "sourceCountry": "Pakistan",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "asian background bounce concerns fresh lurk shares tariffs",
-    "type": "arancel",
-    "title": "Asian shares bounce as AI concerns , fresh US tariffs lurk in background",
-    "url": "https://www.business-standard.com/markets/news/asian-shares-bounce-as-ai-concerns-fresh-us-tariffs-lurk-in-background-126112600046_1.html",
-    "domain": "business-standard.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
-   },
-   {
-    "id": "editors gambit midterm post talk tariff torch trump",
-    "type": "arancel",
-    "title": "WSJ editors torch Trump post - midterm tariff gambit : Talk about not getting the message",
-    "url": "https://www.rawstory.com/wsj-trump-tariffs-2678533596/",
-    "domain": "rawstory.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T04:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "acuerdo aranceles comercial eeuu frenar negocia para vietnam",
-    "type": "arancel",
-    "title": "Vietnam negocia con EEUU un acuerdo comercial para frenar los aranceles lo antes posible - Mundo",
-    "url": "https://www.abc.com.py/internacionales/2026/11/26/vietnam-negocia-con-eeuu-un-acuerdo-comercial-para-frenar-los-aranceles-lo-antes-posible/",
-    "domain": "abc.com.py",
-    "lang": "es",
-    "sourceCountry": "Paraguay",
-    "at": "2026-11-26T04:15:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "aranceles centra china eeuu nuevos pekin pero tomara",
-    "type": "arancel",
-    "title": "EEUU centra sus nuevos aranceles en China pero Pekín no tomará represalias , según expertos - Mundo",
-    "url": "https://www.abc.com.py/internacionales/2026/11/26/eeuu-centra-sus-nuevos-aranceles-en-china-pero-pekin-no-tomara-represalias-segun-expertos/",
-    "domain": "abc.com.py",
-    "lang": "es",
-    "sourceCountry": "Paraguay",
-    "at": "2026-11-26T04:15:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "alta"
-   },
-   {
     "id": "brazil china factories hike others over subsidized tariffs",
     "type": "geo",
     "title": "US to hike tariffs on China , EU , Brazil and others over subsidized factories",
@@ -2404,40 +2550,6 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "aranceles brasil eeuu inaceptable nuevos propuesta rechaza",
-    "type": "arancel",
-    "title": "Brasil rechaza propuesta de nuevos aranceles de EEUU : Es inaceptable",
-    "url": "https://noticiaslatam.lat/20261126/brasil-rechaza-propuesta-de-nuevos-aranceles-de-eeuu-es-inaceptable-1176028978.html",
-    "domain": "noticiaslatam.lat",
-    "lang": "es",
-    "sourceCountry": "",
-    "at": "2026-11-26T03:15:00Z",
-    "countries": [
-     "US",
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "aranceles china comerciales como impone nuevos socios trump",
-    "type": "arancel",
-    "title": "Trump impone nuevos aranceles a China y a socios comerciales de EE . UU . como la UE y Japón",
-    "url": "https://www.cnnchile.com/mundo/trump-impone-nuevos-aranceles-a-china-y-a-socios-comerciales-de-ee-uu-como-la-ue-y-japon/",
-    "domain": "cnnchile.com",
-    "lang": "es",
-    "sourceCountry": "Chile",
-    "at": "2026-11-26T03:15:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "JP",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "agreed capacity excess goods korean proposes tariffs within",
@@ -4108,56 +4220,14 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "corruptos cuatro eeuu funcionarios irani regimen sanciona utilizar",
-    "type": "sancion",
-    "title": "EEUU sanciona a cuatro funcionarios corruptos del régimen iraní por utilizar la venta ilegal de petróleo para financiar al Ejército y el terrorismo",
-    "url": "https://www.vozpopuli.com/internacional/eeuu-sanciona-a-cuatro-funcionarios-corruptos-del-regimen-irani-por-utilizar-la-venta-ilegal-de-petroleo-para-financiar-al-ejercito-y-el-terrorismo.html",
-    "domain": "vozpopuli.com",
-    "lang": "es",
-    "sourceCountry": "Spain",
-    "at": "2026-11-21T11:30:00Z",
-    "countries": [
-     "US",
-     "IR"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "severity": "alta"
-   },
-   {
-    "id": "china governance green initiatives shipping singapore unveils with",
-    "type": "regulacion",
-    "title": "Singapore unveils green shipping , AI governance initiatives with China after PM Wong meets Premier Li Qiang",
-    "url": "https://www.businesstimes.com.sg/singapore/singapore-unveils-green-shipping-ai-governance-initiatives-china-after-pm-wong-meets-premier-li",
-    "domain": "businesstimes.com.sg",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-21T11:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "transporte",
-     "tech"
-    ],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
-   "regulacion/english: fetch failed",
-   "regulacion/spanish: fetch failed",
+   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: fetch failed",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: fetch failed"
   ]
  }
 }
