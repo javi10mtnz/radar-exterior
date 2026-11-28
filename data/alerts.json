@@ -1,11 +1,43 @@
 {
- "updatedAt": "2026-11-28T13:47:17.839Z",
+ "updatedAt": "2026-11-28T14:57:46.077Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "biggest economist labels loser president shreds trade trump",
+    "type": "arancel",
+    "title": "Economist labels Trump the biggest loser of any president as he shreds key trade policy",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-economy-loser-trade-tariffs-peter-schiff-b3093030.html",
+    "domain": "independent.co.uk",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-28T14:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "billionaires doubles down tariffs tech trump",
+    "type": "arancel",
+    "title": "Trump doubles down on tariffs and tech billionaires",
+    "url": "https://www.wdbo.com/news/business/voters-delivered/3OKYANYGZY7LFIYR6WHVNOH6FQ/",
+    "domain": "wdbo.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T13:15:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
    {
     "id": "deepen denmark economic explore india ties trade ways",
     "type": "regulacion",
@@ -17,6 +49,21 @@
     "at": "2026-11-28T12:45:00Z",
     "countries": [
      "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "amazon billions fedex from government issues refunds tariff",
+    "type": "arancel",
+    "title": "From Amazon to FedEx , US Government Issues Billions in Tariff Refunds to Businesses",
+    "url": "https://www.theepochtimes.com/business/from-amazon-to-fedex-us-government-issues-billions-in-tariff-refunds-to-businesses-6129982",
+    "domain": "theepochtimes.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T12:30:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -101,7 +148,7 @@
    },
    {
     "id": "access china duty free sought",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "Duty - free access to China sought",
     "url": "https://tribune.com.pk/story/2642706/duty-free-access-to-china-sought",
     "domain": "tribune.com.pk",
@@ -164,7 +211,7 @@
    },
    {
     "id": "baystreet canada excluded from tariffs",
-    "type": "regulacion",
+    "type": "arancel",
     "title": "Baystreet . ca - Canada Excluded From New U . S . Tariffs",
     "url": "https://baystreet.ca/articles/economiccommentary/125643/Canada-Excluded-From-New-US-Tariffs",
     "domain": "baystreet.ca",
@@ -208,18 +255,20 @@
     "severity": "baja"
    },
    {
-    "id": "algunos aranceles bajo impuestos lupa ponen republicanos trump",
+    "id": "deficit deteriorates further goods helps imports lift trade",
     "type": "arancel",
-    "title": "Republicanos ponen bajo la lupa algunos aranceles impuestos por Trump | GDA – Grupo de Diarios América",
-    "url": "https://gda.com/detalle-de-la-noticia/?article=6242890",
-    "domain": "gda.com",
-    "lang": "es",
-    "sourceCountry": "Mexico",
+    "title": "US goods trade deficit deteriorates further as AI helps to lift imports to record high",
+    "url": "https://www.asiaone.com:443/money/us-goods-trade-deficit-deteriorates-ai-lift-imports-record-high",
+    "domain": "asiaone.com",
+    "lang": "en",
+    "sourceCountry": "Singapore",
     "at": "2026-11-28T06:30:00Z",
     "countries": [
      "US"
     ],
-    "sectors": [],
+    "sectors": [
+     "tech"
+    ],
     "severity": "baja"
    },
    {
@@ -238,20 +287,18 @@
     "severity": "baja"
    },
    {
-    "id": "deficit deteriorates further goods helps imports lift trade",
+    "id": "algunos aranceles bajo impuestos lupa ponen republicanos trump",
     "type": "arancel",
-    "title": "US goods trade deficit deteriorates further as AI helps to lift imports to record high",
-    "url": "https://www.asiaone.com:443/money/us-goods-trade-deficit-deteriorates-ai-lift-imports-record-high",
-    "domain": "asiaone.com",
-    "lang": "en",
-    "sourceCountry": "Singapore",
+    "title": "Republicanos ponen bajo la lupa algunos aranceles impuestos por Trump | GDA – Grupo de Diarios América",
+    "url": "https://gda.com/detalle-de-la-noticia/?article=6242890",
+    "domain": "gda.com",
+    "lang": "es",
+    "sourceCountry": "Mexico",
     "at": "2026-11-28T06:30:00Z",
     "countries": [
      "US"
     ],
-    "sectors": [
-     "tech"
-    ],
+    "sectors": [],
     "severity": "baja"
    },
    {
@@ -2296,55 +2343,6 @@
     "severity": "baja"
    },
    {
-    "id": "brazilian imports proposes tariffs",
-    "type": "arancel",
-    "title": "U . S . proposes new tariffs on Brazilian imports",
-    "url": "http://www.venezuelastar.com/news/279454624/us-proposes-new-tariffs-on-brazilian-imports",
-    "domain": "venezuelastar.com",
-    "lang": "en",
-    "sourceCountry": "Venezuela",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "china plus really surplus tells trade trillion what",
-    "type": "arancel",
-    "title": "What China $Trillion - Plus Trade Surplus REALLY Tells Us",
-    "url": "https://www.theepochtimes.com/opinion/what-chinas-trillion-plus-trade-surplus-really-tells-us-6125771",
-    "domain": "theepochtimes.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-26T05:15:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "anuncia aranceles china contra eeuu japon nuevos otras",
-    "type": "arancel",
-    "title": "EEUU anuncia nuevos aranceles contra China , Japón y la UE y otras 11 economías",
-    "url": "https://www.lostiempos.com/actualidad/mundo/20261125/eeuu-anuncia-nuevos-aranceles-contra-china-japon-ue-otras-11-economias",
-    "domain": "lostiempos.com",
-    "lang": "es",
-    "sourceCountry": "Bolivia",
-    "at": "2026-11-26T04:45:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "JP",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "attacks houthis launch ports retaliatory saudi",
     "type": "geo",
     "title": "Houthis launch retaliatory attacks on two Saudi ports on Red Sea",
@@ -2360,36 +2358,6 @@
      "transporte"
     ],
     "severity": "media"
-   },
-   {
-    "id": "deal door even leaves lower open singapore tariff",
-    "type": "arancel",
-    "title": "US leaves door open to lower Singapore tariff deal even as it proposes new levy",
-    "url": "https://www.straitstimes.com/business/us-proposes-new-tariff-of-up-to-20-on-singapore-but-leaves-the-door-open-to-a-deal",
-    "domain": "straitstimes.com",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-26T04:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "partners responding tariffs trade",
-    "type": "arancel",
-    "title": "US tariffs : How trade partners are responding",
-    "url": "https://www.businesstimes.com.sg/singapore/economy-policy/us-tariffs-how-trade-partners-are-responding",
-    "domain": "businesstimes.com.sg",
-    "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-26T04:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "capacity donald excess industrial over tariffs trump unveils",
@@ -4253,14 +4221,14 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: fetch failed",
-   "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
