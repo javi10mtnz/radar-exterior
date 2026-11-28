@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T03:01:16.870Z",
+ "updatedAt": "2026-11-28T04:03:49.480Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -53,6 +53,21 @@
     "severity": "media"
    },
    {
+    "id": "accused antisemitic attacks iran linked melbourne orchestrating sydney",
+    "type": "sancion",
+    "title": "Men accused of orchestrating Iran - linked antisemitic attacks in Sydney and Melbourne named and sanctioned",
+    "url": "https://www.aol.co.uk/articles/men-accused-orchestrating-iran-linked-015617000.html",
+    "domain": "aol.co.uk",
+    "lang": "en",
+    "sourceCountry": "United Kingdom",
+    "at": "2026-11-28T02:30:00Z",
+    "countries": [
+     "IR"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
     "id": "contribution hellenic membership news shillings shipping worldwide your",
     "type": "divisa",
     "title": "Your membership contribution is £5 and 5 shillings … | Hellenic Shipping News Worldwide",
@@ -66,22 +81,6 @@
      "transporte"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "business challenge china dominance international tariffs trade world",
-    "type": "arancel",
-    "title": "International Business : New US tariffs aim to challenge China dominance in world trade",
-    "url": "https://www.gdnonline.com:443/Details/1414178",
-    "domain": "gdnonline.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-28T01:45:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "media"
    },
    {
     "id": "aranceles china comunidad eeuu empresarial insta propuestos retirar",
@@ -98,6 +97,54 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "chinese conspiracy giant guilty huawei steal tech trade",
+    "type": "sancion",
+    "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets , U . S . jury finds",
+    "url": "https://www.niagarafallsreview.ca/thestar/business/us-jury-find-chinese-tech-giant-huawei-guilty-of-10-counts-including-conspiracy-to-steal-trade-secrets-and-bank-fraud/article_084d77b4-5d89-5b2d-ab70-42b75008100f.html",
+    "domain": "niagarafallsreview.ca",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-28T01:45:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "business challenge china dominance international tariffs trade world",
+    "type": "sancion",
+    "title": "International Business : New US tariffs aim to challenge China dominance in world trade",
+    "url": "https://www.gdnonline.com:443/Details/1414178",
+    "domain": "gdnonline.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T01:45:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "acuerdo arancel colombia comercial exportaran firmara productos reciproco",
+    "type": "arancel",
+    "title": "Colombia firmará acuerdo comercial recíproco con EE . UU .: productos se exportarán con 0 % de arancel",
+    "url": "https://www.elcolombiano.com/negocios/colombia-acuerdo-comercial-estados-unidos-arancel-cero-exportaciones-2027-MG44173294",
+    "domain": "elcolombiano.com",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-27T23:45:00Z",
+    "countries": [
+     "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "announces coming farmers hochul relief tariff",
@@ -125,36 +172,6 @@
     "at": "2026-11-27T23:45:00Z",
     "countries": [
      "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "acuerdo arancel colombia comercial exportaran firmara productos reciproco",
-    "type": "arancel",
-    "title": "Colombia firmará acuerdo comercial recíproco con EE . UU .: productos se exportarán con 0 % de arancel",
-    "url": "https://www.elcolombiano.com/negocios/colombia-acuerdo-comercial-estados-unidos-arancel-cero-exportaciones-2027-MG44173294",
-    "domain": "elcolombiano.com",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-27T23:45:00Z",
-    "countries": [
-     "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "close deal finalizing india minister says trade",
-    "type": "arancel",
-    "title": "India and U . S . close to finalizing trade deal , minister says",
-    "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/27/india-us-trade-deal-is-nearing-completion-minister-says/",
-    "domain": "bnnbloomberg.ca",
-    "lang": "en",
-    "sourceCountry": "Canada",
-    "at": "2026-11-27T22:45:00Z",
-    "countries": [
-     "IN"
     ],
     "sectors": [],
     "severity": "baja"
@@ -190,6 +207,36 @@
     "severity": "baja"
    },
    {
+    "id": "action after against forced global labour urges uyghur",
+    "type": "sancion",
+    "title": "WUC urges global action against Uyghur forced labour after US trade investigation findings",
+    "url": "http://www.iranherald.com/news/279467971/wuc-urges-global-action-against-uyghur-forced-labour-after-us-trade-investigation-findings",
+    "domain": "iranherald.com",
+    "lang": "en",
+    "sourceCountry": "Iran",
+    "at": "2026-11-27T22:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "close deal finalizing india minister says trade",
+    "type": "arancel",
+    "title": "India and U . S . close to finalizing trade deal , minister says",
+    "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/27/india-us-trade-deal-is-nearing-completion-minister-says/",
+    "domain": "bnnbloomberg.ca",
+    "lang": "en",
+    "sourceCountry": "Canada",
+    "at": "2026-11-27T22:45:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "another breach disabled military says ship that tried",
     "type": "geo",
     "title": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports - WSVN 7News | Miami News , Weather , Sports",
@@ -208,21 +255,6 @@
     "severity": "alta"
    },
    {
-    "id": "industry proposed reacts sugar sugar tariffs",
-    "type": "arancel",
-    "title": "Sugar industry reacts to proposed sugar tariffs",
-    "url": "https://www.agweek.com/news/sugarbeet/sugar-industry-reacts-to-proposed-sugar-tariffs",
-    "domain": "agweek.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-27T22:30:00Z",
-    "countries": [],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "baja"
-   },
-   {
     "id": "acelera acuerdo comercial congreso llevara milei trump",
     "type": "arancel",
     "title": "Milei acelera el acuerdo comercial con Trump y lo llevará al Congreso",
@@ -235,6 +267,21 @@
      "US"
     ],
     "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "industry proposed reacts sugar sugar tariffs",
+    "type": "arancel",
+    "title": "Sugar industry reacts to proposed sugar tariffs",
+    "url": "https://www.agweek.com/news/sugarbeet/sugar-industry-reacts-to-proposed-sugar-tariffs",
+    "domain": "agweek.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T22:30:00Z",
+    "countries": [],
+    "sectors": [
+     "alim"
+    ],
     "severity": "baja"
    },
    {
@@ -338,54 +385,6 @@
     "severity": "alta"
    },
    {
-    "id": "action after against forced global labour urges uyghur",
-    "type": "sancion",
-    "title": "WUC urges global action against Uyghur forced labour after US trade investigation findings",
-    "url": "http://www.heraldglobe.com/news/279467971/wuc-urges-global-action-against-uyghur-forced-labour-after-us-trade-investigation-findings",
-    "domain": "heraldglobe.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-27T20:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "bangladesh china edge gets india over tariffs vietnam",
-    "type": "arancel",
-    "title": "US tariffs : India gets an edge over China , Vietnam , Bangladesh but what must New Delhi do to secure it ?",
-    "url": "https://www.livemint.com/economy/us-tariffs-india-gets-an-edge-over-china-vietnam-bangladesh-but-what-must-new-delhi-do-to-secure-it-11795754423053.html",
-    "domain": "livemint.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US",
-     "CN",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "amid completion deal india nears proposed tariff trade",
-    "type": "arancel",
-    "title": "India - US Trade Deal Nears Completion Amid Proposed 25 % Tariff , Says Piyush Goyal",
-    "url": "https://openthemagazine.com/india/india-us-trade-deal-close-to-culmination-says-goyal-as-washington-proposes-25-tariff",
-    "domain": "openthemagazine.com",
-    "lang": "en",
-    "sourceCountry": "India",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US",
-     "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "aranceles s02e27 trump",
     "type": "arancel",
     "title": "Trump . Aranceles . S02E27",
@@ -444,6 +443,39 @@
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "bangladesh china edge gets india over tariffs vietnam",
+    "type": "arancel",
+    "title": "US tariffs : India gets an edge over China , Vietnam , Bangladesh but what must New Delhi do to secure it ?",
+    "url": "https://www.livemint.com/economy/us-tariffs-india-gets-an-edge-over-china-vietnam-bangladesh-but-what-must-new-delhi-do-to-secure-it-11795754423053.html",
+    "domain": "livemint.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "CN",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "amid completion deal india nears proposed tariff trade",
+    "type": "arancel",
+    "title": "India - US Trade Deal Nears Completion Amid Proposed 25 % Tariff , Says Piyush Goyal",
+    "url": "https://openthemagazine.com/india/india-us-trade-deal-close-to-culmination-says-goyal-as-washington-proposes-25-tariff",
+    "domain": "openthemagazine.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US",
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "chief port santos takes tape warns years",
@@ -2824,24 +2856,6 @@
     "severity": "baja"
    },
    {
-    "id": "chinese conspiracy giant guilty huawei steal tech trade",
-    "type": "sancion",
-    "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets , US jury finds",
-    "url": "https://www.erienewsnow.com/news/state/chinese-tech-giant-huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-us-jury-finds/article_fea777a6-8709-5a81-b5e6-9533e0f5db1d.html",
-    "domain": "erienewsnow.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-25T03:45:00Z",
-    "countries": [
-     "US",
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "media"
-   },
-   {
     "id": "approves cabinet cooperation customs kingdom lanka united",
     "type": "regulacion",
     "title": "Cabinet approves united kingdom - Sri Lanka Customs cooperation MoU",
@@ -4118,12 +4132,14 @@
    }
   ],
   "partialErrors": [
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: fetch failed",
+   "regulacion/english: fetch failed",
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
    "divisa/spanish: fetch failed",
-   "geo/english: fetch failed",
-   "geo/spanish: fetch failed"
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
