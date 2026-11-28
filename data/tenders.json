@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T23:34:23.302Z",
+ "updatedAt": "2026-11-28T00:33:02.791Z",
  "file": "tenders.json",
  "source": "TED – Tenders Electronic Daily (Oficina de Publicaciones de la UE)",
  "sourceUrl": "https://ted.europa.eu/",
@@ -8,33 +8,178 @@
   "scanned": 1000,
   "items": [
    {
-    "id": "814716-2026",
-    "title": "Rumanía – Leche UHT – Acord-cadru furnizare produse - lapte UHT, în cadrul ”Programului pentru școli al României în perioada 2023-2029” pentru cele 5 (loturi) zone de distribuție la nivelul județului Timiș",
-    "buyer": "JUDETUL TIMIS",
+    "id": "818190-2026",
+    "title": "Chequia – Productos farmacéuticos – DYNAMICKÝ NÁKUPNÍ SYSTÉM NA DODÁVKY LÉČIVÝCH PŘÍPRAVKŮ, VÝŽIV A VYBRANÝCH ZDRAVOTNICKÝCH PROSTŘEDKŮ",
+    "buyer": "Fakultní nemocnice Bulovka",
+    "country": "CZE",
+    "countryName": "Chequia",
+    "countryIso2": null,
+    "cpv": [
+     "33600000",
+     "33611000",
+     "33612000"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 6075741000,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818190-2026"
+   },
+   {
+    "id": "818350-2026",
+    "title": "Noruega – Alimentos, bebidas, tabaco y productos afines – Delivery agreements for food articles to Kvæfjord, - Ibestad and Tjeldsund municipalities.",
+    "buyer": "Harstad Kommune",
+    "country": "NOR",
+    "countryName": "Noruega",
+    "countryIso2": null,
+    "cpv": [
+     "15000000",
+     "15893000",
+     "15500000"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-07",
+    "value": 50500000,
+    "currency": "NOK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818350-2026"
+   },
+   {
+    "id": "818279-2026",
+    "title": "Rumanía – Alimentos, bebidas, tabaco y productos afines – Furnizare produse agroalimentare",
+    "buyer": "Ministerul Apararii Unitatea Militara 01662 Craiova",
     "country": "ROU",
     "countryName": "Rumanía",
     "countryIso2": null,
     "cpv": [
-     "15511210",
-     "15511210",
-     "15511210"
+     "15000000",
+     "15811100",
+     "15110000"
     ],
     "sectors": [
-     "alim",
-     "transporte"
+     "alim"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 52318000,
+    "value": 30731353.93,
     "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814716-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818279-2026"
    },
    {
-    "id": "815182-2026",
-    "title": "Rumanía – Productos lácteos – Furnizarea și distribuția laptelui și a produselor lactate pentru preşcolarii din grădiniţele cu program normal de 4 ore de stat autorizate/acreditate şi particulare acreditate şi pentru elevii din învăţământul primar şi gimnazial de stat şi particular, precum şi pentru preşcolarii şi elevii incluşi în învăţământul special, pentru anii școlari 2024-2025, 2025-2026 și 2026-2027 – județul Dolj",
-    "buyer": "CONSILIUL JUDETEAN DOLJ",
+    "id": "817871-2026",
+    "title": "Rumanía – Alimentos, bebidas, tabaco y productos afines – Alimente 16 loturi",
+    "buyer": "DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COPILULUI ARAD",
     "country": "ROU",
     "countryName": "Rumanía",
+    "countryIso2": null,
+    "cpv": [
+     "15000000",
+     "03142500",
+     "15131000"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 3357686.36,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817871-2026"
+   },
+   {
+    "id": "818141-2026",
+    "title": "Francia – Productos de panadería – Appel d'offres de fourniture de produits de boulangerie et traiteur pour la ville de La Ciotat (13600)",
+    "buyer": "COMMUNE DE LA CIOTAT",
+    "country": "FRA",
+    "countryName": "Francia",
+    "countryIso2": "FR",
+    "cpv": [
+     "15612500",
+     "55520000",
+     "15612500"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-02-02",
+    "value": 520000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818141-2026"
+   },
+   {
+    "id": "818453-2026",
+    "title": "Eslovaquia – Alimentos, bebidas, tabaco y productos afines – Potraviny 2027",
+    "buyer": "Zariadenie pre seniorov Dubina, m.r.o.",
+    "country": "SVK",
+    "countryName": "Eslovaquia",
+    "countryIso2": null,
+    "cpv": [
+     "15000000",
+     "15110000",
+     "15511000"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-11-30",
+    "value": 360980.55,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818453-2026"
+   },
+   {
+    "id": "817573-2026",
+    "title": "Francia – Productos de origen animal, carne y productos cárnicos – Fourniture de viandes et abats de boucherie autres que surgelés pour le restaurant métropolitain",
+    "buyer": "Métropole de Lyon",
+    "country": "FRA",
+    "countryName": "Francia",
+    "countryIso2": "FR",
+    "cpv": [
+     "15100000",
+     "15110000",
+     "15100000"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-06",
+    "value": 302000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817573-2026"
+   },
+   {
+    "id": "818323-2026",
+    "title": "España – Alimentos preparados para animales de granja y otros animales – Suministro de alimentación para especies animales presentes en los espacios naturales de Patrimonio Nacional",
+    "buyer": "Consejo de Administración del Patrimonio Nacional",
+    "country": "ESP",
+    "countryName": "España",
+    "countryIso2": null,
+    "cpv": [
+     "15710000",
+     "15710000"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-15",
+    "value": 231552,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818323-2026"
+   },
+   {
+    "id": "817741-2026",
+    "title": "Bulgaria – Productos lácteos – „Доставка на хранителни продукти по предварителна заявка – мляко, млечни продукти и яйца за нуждите на Община Смядово и структурите към нея“",
+    "buyer": "ОБЩИНА СМЯДОВО",
+    "country": "BGR",
+    "countryName": "Bulgaria",
     "countryIso2": null,
     "cpv": [
      "15500000",
@@ -43,310 +188,58 @@
     "sectors": [
      "alim"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 25238251.68,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815182-2026"
-   },
-   {
-    "id": "814784-2026",
-    "title": "Rumanía – Materiales de construcción y elementos afines – Materiale necesare desfășurării activității în cadrul S.N.G.N. ROMGAZ S.A.",
-    "buyer": "Societatea Nationala de Gaze Naturale Romgaz S.A.",
-    "country": "ROU",
-    "countryName": "Rumanía",
-    "countryIso2": null,
-    "cpv": [
-     "44100000",
-     "44100000",
-     "03100000"
-    ],
-    "sectors": [
-     "alim",
-     "energia",
-     "transporte",
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 8084167,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814784-2026"
-   },
-   {
-    "id": "814658-2026",
-    "title": "Bulgaria – Tabaco, productos de tabaco y artículos afines – „Доставка на вносни цигари за лавки и бюфети в местата за лишаване от свобода“",
-    "buyer": "ФОНД ЗАТВОРНО ДЕЛО ДП",
-    "country": "BGR",
-    "countryName": "Bulgaria",
-    "countryIso2": null,
-    "cpv": [
-     "15990000",
-     "15990000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 4270463.18,
+    "value": 35664.45,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814658-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817741-2026"
    },
    {
-    "id": "814536-2026",
-    "title": "Rumanía – Alimentos, bebidas, tabaco y productos afines – ACHIZIȚIE ALIMENTE 2025-2027",
-    "buyer": "Spitalul de Pneumoftiziologie Sibiu",
-    "country": "ROU",
-    "countryName": "Rumanía",
+    "id": "817931-2026",
+    "title": "Bélgica – Productos lácteos – Raamovereenkomst voor de levering van zuivelproducten voor een periode van maximum 4 jaar",
+    "buyer": "Openbaar Centrum voor Maatschappelijk Welzijn van Oostende",
+    "country": "BEL",
+    "countryName": "Bélgica",
     "countryIso2": null,
     "cpv": [
-     "15000000",
-     "15000000",
-     "15000000"
+     "15500000",
+     "15500000",
+     "15500000"
     ],
     "sectors": [
      "alim"
     ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 2983900,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814536-2026"
-   },
-   {
-    "id": "814745-2026",
-    "title": "España – Productos de panificación, pasteles y productos de pastelería frescos – Suministro de Pan y Bollería en centros SEPAD de la provincia de Cáceres (por Lotes).",
-    "buyer": "Servicio Extremeño de Promoción de la Autonomía y Atención a la Dependencia (SEPAD).Gerencia Territorial de Cáceres",
-    "country": "ESP",
-    "countryName": "España",
-    "countryIso2": null,
-    "cpv": [
-     "15810000",
-     "15810000",
-     "15810000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-23",
-    "value": 1872818.33,
+    "published": "2026-11-25",
+    "deadline": "2026-12-03",
+    "value": null,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814745-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817931-2026"
    },
    {
-    "id": "814383-2026",
-    "title": "Eslovenia – Alimentos, bebidas, tabaco y productos afines – Sukcesivna dobava konvencionalnih in ekoloških živil",
-    "buyer": "OSNOVNA ŠOLA SEČOVLJE SCUOLA ELEMENTARE SICCIOLE",
-    "country": "SVN",
-    "countryName": "Eslovenia",
-    "countryIso2": null,
-    "cpv": [
-     "15000000",
-     "15000000",
-     "15000000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 1336200,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814383-2026"
-   },
-   {
-    "id": "815238-2026",
-    "title": "Polonia – Productos congelados – Dostawa produktów głęboko mrożonych dla Jednostki Wojskowej Nr 6021.",
-    "buyer": "Jednostka Wojskowa Nr 6021",
+    "id": "818188-2026",
+    "title": "Polonia – Productos farmacéuticos – Dostawa produktów farmaceutycznych i dietetycznych",
+    "buyer": "Samodzielny Publiczny Zakład Opieki Zdrowotnej imienia doktora Kazimierza Hołogi w Nowym Tomyślu",
     "country": "POL",
     "countryName": "Polonia",
     "countryIso2": null,
     "cpv": [
-     "15896000",
-     "15896000"
+     "33600000",
+     "33692500",
+     "33141540"
     ],
     "sectors": [
      "alim"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-16",
-    "value": 1002100.44,
-    "currency": "PLN",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815238-2026"
-   },
-   {
-    "id": "814891-2026",
-    "title": "Francia – Servicios de acuicultura – Marché pour l'approvisionnement de civelles dans le cadre du programme national de repeuplement de l'anguille en france",
-    "buyer": "Comité Régional des Pêches maritimes et des élevages marins des Pays de la Loire",
-    "country": "FRA",
-    "countryName": "Francia",
-    "countryIso2": "FR",
-    "cpv": [
-     "77800000",
-     "60100000",
-     "63120000"
-    ],
-    "sectors": [
-     "alim",
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-18",
-    "value": 520000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814891-2026"
-   },
-   {
-    "id": "814475-2026",
-    "title": "Francia – Productos alimenticios diversos – Fourniture de produits frais destinés aux établissements de la restauration municipale et au C.C.A.S. de Puteaux",
-    "buyer": "Ville de Puteaux",
-    "country": "FRA",
-    "countryName": "Francia",
-    "countryIso2": "FR",
-    "cpv": [
-     "15800000",
-     "15131120",
-     "03310000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-23",
-    "value": 441000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814475-2026"
-   },
-   {
-    "id": "814501-2026",
-    "title": "Croacia – Alimentos, bebidas, tabaco y productos afines – Nabava gotovih paketa s hranom u 2026. godini",
-    "buyer": "CARITAS ZAGREBAČKE NADBISKUPIJE",
-    "country": "HRV",
-    "countryName": "Croacia",
-    "countryIso2": null,
-    "cpv": [
-     "15000000",
-     "15000000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-14",
-    "value": 360000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814501-2026"
-   },
-   {
-    "id": "815018-2026",
-    "title": "España – Leche – Suministro y entrega de leche ecológica en los centros escolares de Castilla La Mancha durante el curso 2026/2027",
-    "buyer": "Dirección General de Producción Agroalimentaria y Cooperativas de la Junta de Comunidades de Castilla-La Mancha",
-    "country": "ESP",
-    "countryName": "España",
-    "countryIso2": null,
-    "cpv": [
-     "15511000",
-     "15511000",
-     "15511000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-09",
-    "value": 297731.7,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815018-2026"
-   },
-   {
-    "id": "814657-2026",
-    "title": "Grecia – Alimentos para animales domésticos – Περισυλλογή και φροντίδα αδέσποτων ζώων συντροφιάς Δήμου Κιλκίς: ΠΡΟΜΗΘΕΙΑ ΤΡΟΦΩΝ ΓΙΑ ΤΑ ΕΤΗ 2026-2030, Αριθμός Μελέτης: ΤΟΑ 8/2026",
-    "buyer": "ΔΗΜΟΣ ΚΙΛΚΙΣ",
-    "country": "GRC",
-    "countryName": "Grecia",
-    "countryIso2": null,
-    "cpv": [
-     "15713000",
-     "15713000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-12",
-    "value": 266000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814657-2026"
-   },
-   {
-    "id": "814407-2026",
-    "title": "Eslovenia – Alimentos, bebidas, tabaco y productos afines – Sukcesivna dobava konvencionalnih in ekoloških živil",
-    "buyer": "DOM STAREJŠIH LOGATEC",
-    "country": "SVN",
-    "countryName": "Eslovenia",
-    "countryIso2": null,
-    "cpv": [
-     "15000000",
-     "15000000",
-     "15000000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-02",
-    "value": null,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814407-2026"
-   },
-   {
-    "id": "815042-2026",
-    "title": "Alemania – Productos de la silvicultura y de la explotación forestal – Rahmenliefervertrag Holzprodukte für das Düsseldorfer Schauspielhaus in drei Losen",
-    "buyer": "Landeshauptstadt Düsseldorf, Der Oberbürgermeister, Amt für Recht, Vergabe und Versicherungen, Zentrale Vergabestelle",
-    "country": "DEU",
-    "countryName": "Alemania",
-    "countryIso2": "DE",
-    "cpv": [
-     "03400000",
-     "03410000",
-     "03410000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "2026-12-07",
     "value": null,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815042-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818188-2026"
    },
    {
-    "id": "814300-2026",
-    "title": "Polonia – Productos de origen animal, carne y productos cárnicos – Sukcesywna dostawa mięsa i produktów mięsnych na potrzeby Miejskiego Centrum Usług Socjalnych we Wrocławiu",
-    "buyer": "Miejskie Centrum Usług Socjalnych we Wrocławiu",
-    "country": "POL",
-    "countryName": "Polonia",
-    "countryIso2": null,
-    "cpv": [
-     "15100000",
-     "15112100",
-     "15111100"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-11",
-    "value": null,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814300-2026"
-   },
-   {
-    "id": "814390-2026",
-    "title": "Eslovenia – Alimentos, bebidas, tabaco y productos afines – Sukcesivna dobava konvencionalnih živil in živil iz shem kakovosti po sklopih za obdobje treh let za potrebe OŠ TONETA ČUFARJA",
-    "buyer": "OSNOVNA ŠOLA TONETA ČUFARJA",
+    "id": "818000-2026",
+    "title": "Eslovenia – Alimentos, bebidas, tabaco y productos afines – Sukcesivna dobava konvencionalnih živil in živil iz shem kakovosti",
+    "buyer": "OSNOVNA ŠOLA DOBROVA",
     "country": "SVN",
     "countryName": "Eslovenia",
     "countryIso2": null,
@@ -358,245 +251,249 @@
     "sectors": [
      "alim"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-18",
+    "published": "2026-11-25",
+    "deadline": "2026-12-16",
     "value": null,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814390-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818000-2026"
    },
    {
-    "id": "814299-2026",
-    "title": "Alemania – Servicios forestales – Vergabe von Leistungen der Erstaufforstung von Ackerflächen im Landkreis Nordwestmecklenburg",
-    "buyer": "Landesforstanstalt Mecklenburg-Vorpommern",
-    "country": "DEU",
-    "countryName": "Alemania",
-    "countryIso2": "DE",
-    "cpv": [
-     "77200000",
-     "77231600",
-     "03450000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": null,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814299-2026"
-   },
-   {
-    "id": "814310-2026",
-    "title": "Finlandia – Alimentos, bebidas, tabaco y productos afines – MRE puurojen hankinta",
-    "buyer": "Leijona Catering Oy",
-    "country": "FIN",
-    "countryName": "Finlandia",
+    "id": "818403-2026",
+    "title": "Eslovenia – Alimentos, bebidas, tabaco y productos afines – Sukcesivna dobava konvencionalnih živil in živil iz shem kakovosti za obdobje 24 mesecev",
+    "buyer": "SREDNJA ŠOLA IZOLA - SCUOLA MEDIA ISOLA",
+    "country": "SVN",
+    "countryName": "Eslovenia",
     "countryIso2": null,
     "cpv": [
+     "15000000",
      "15000000",
      "15000000"
     ],
     "sectors": [
      "alim"
     ],
-    "published": "2026-11-24",
-    "deadline": "",
+    "published": "2026-11-25",
+    "deadline": "2026-12-24",
     "value": null,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814310-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818403-2026"
    },
    {
-    "id": "814392-2026",
-    "title": "Polonia – Bandejas de comida preparada – Dostawa żywności do bieżącego żywienia wojsk w 2027 r. – PRODUKTY GARMAŻERYJNE CHŁODZONE",
-    "buyer": "34. Wojskowy Oddział Gospodarczy",
-    "country": "POL",
-    "countryName": "Polonia",
+    "id": "818020-2026",
+    "title": "Hungría – Productos lácteos – Tejtermékek beszerzése 24 hónapra 5 részben",
+    "buyer": "Büntetés-végrehajtás Országos Parancsnoksága",
+    "country": "HUN",
+    "countryName": "Hungría",
     "countryIso2": null,
     "cpv": [
-     "15894300",
-     "15894300"
+     "15500000",
+     "15500000",
+     "15500000"
     ],
     "sectors": [
      "alim"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
+    "deadline": "2027-01-08",
+    "value": null,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818020-2026"
+   },
+   {
+    "id": "817673-2026",
+    "title": "Estonia – Productos lácteos – Piim ja piimatooted Tartu, Tallinna ja Viru vanglale",
+    "buyer": "Riigi Tugiteenuste Keskus",
+    "country": "EST",
+    "countryName": "Estonia",
+    "countryIso2": null,
+    "cpv": [
+     "15500000",
+     "15550000",
+     "15550000"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-25",
     "deadline": "",
     "value": null,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814392-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817673-2026"
    },
    {
-    "id": "814486-2026",
-    "title": "Finlandia – Alimentos, bebidas, tabaco y productos afines – Pouch-puurot",
-    "buyer": "Leijona Catering Oy",
-    "country": "FIN",
-    "countryName": "Finlandia",
+    "id": "817769-2026",
+    "title": "Francia – Cerveza – Fourniture de boissons alcoolisées et non alcoolisées au profit des clients du dispositif « Vivres Métropole »",
+    "buyer": "ECONOMAT DES ARMEES",
+    "country": "FRA",
+    "countryName": "Francia",
+    "countryIso2": "FR",
+    "cpv": [
+     "15961000",
+     "15910000",
+     "15980000"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": null,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817769-2026"
+   },
+   {
+    "id": "817891-2026",
+    "title": "Lituania – Reactivos químicos – 441 KATEGORIJA. PIPEČIŲ ANTGALIAI-6",
+    "buyer": "Nacionalinis maisto ir veterinarijos rizikos vertinimo institutas (PV)",
+    "country": "LTU",
+    "countryName": "Lituania",
     "countryIso2": null,
     "cpv": [
+     "33696300",
+     "03116000",
+     "09211000"
+    ],
+    "sectors": [
+     "alim",
+     "energia",
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": null,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817891-2026"
+   },
+   {
+    "id": "818077-2026",
+    "title": "Letonia – Alimentos, bebidas, tabaco y productos afines – Pārtikas produktu piegāde Tukuma novada izglītības iestādēm",
+    "buyer": "Tukuma novada pašvaldība",
+    "country": "LVA",
+    "countryName": "Letonia",
+    "countryIso2": null,
+    "cpv": [
+     "15000000",
      "15000000",
      "15000000"
     ],
     "sectors": [
      "alim"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
     "value": null,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814486-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818077-2026"
    },
    {
-    "id": "814641-2026",
-    "title": "Rumanía – Alimentos, bebidas, tabaco y productos afines – Contract subsecvent de furnizare produse nr. 52634/03.11.2026 Lot 3 - Carne de curcan si pasare noiembrie-decembrie",
-    "buyer": "DGASPC Neamt",
+    "id": "818327-2026",
+    "title": "Chequia – Productos enlatados y raciones de campaña – Balené potravinové dávky - individuální - rámcová dohoda 2026-2027",
+    "buyer": "Ministerstvo obrany",
+    "country": "CZE",
+    "countryName": "Chequia",
+    "countryIso2": null,
+    "cpv": [
+     "15897000",
+     "15800000",
+     "15897000"
+    ],
+    "sectors": [
+     "alim"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": null,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818327-2026"
+   },
+   {
+    "id": "817661-2026",
+    "title": "Hungría – Electricidad – Villamos energia beszerzése a BGYH részére_2027",
+    "buyer": "Budapest Gyógyfürdői és Hévizei Zrt.",
+    "country": "HUN",
+    "countryName": "Hungría",
+    "countryIso2": null,
+    "cpv": [
+     "09310000",
+     "09310000"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 1553383000,
+    "currency": "HUF",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817661-2026"
+   },
+   {
+    "id": "818297-2026",
+    "title": "Rumanía – Aparatos de distribución y control de electricidad – Aparate de distributie si control ale energiei electrice - Blocuri de masura si protectie",
+    "buyer": "DISTRIBUȚIE ENERGIE ELECTRICĂ ROMANIA S.A.",
     "country": "ROU",
     "countryName": "Rumanía",
     "countryIso2": null,
     "cpv": [
-     "15000000",
-     "15000000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": null,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814641-2026"
-   },
-   {
-    "id": "814672-2026",
-    "title": "Países Bajos – Alimentos, bebidas, tabaco y productos afines – Cateringproducten",
-    "buyer": "Gemeente Achtkarspelen",
-    "country": "NLD",
-    "countryName": "Países Bajos",
-    "countryIso2": "NL",
-    "cpv": [
-     "15000000",
-     "15000000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": null,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814672-2026"
-   },
-   {
-    "id": "814957-2026",
-    "title": "Polonia – Productos farmacéuticos – Sukcesywne dostawy środków farmaceutycznych do Apteki Zakładowej Szpitala i Ambulatorium Zakładu Karnego w Czarnem",
-    "buyer": "Zakład Karny w Czarnem",
-    "country": "POL",
-    "countryName": "Polonia",
-    "countryIso2": null,
-    "cpv": [
-     "33600000",
-     "33600000",
-     "33600000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": null,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814957-2026"
-   },
-   {
-    "id": "814993-2026",
-    "title": "Eslovaquia – Alimentos, bebidas, tabaco y productos afines – Potraviny",
-    "buyer": "Ústav na výkon trestu odňatia slobody a Ústav na výkon väzby",
-    "country": "SVK",
-    "countryName": "Eslovaquia",
-    "countryIso2": null,
-    "cpv": [
-     "15000000",
-     "15000000"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": null,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814993-2026"
-   },
-   {
-    "id": "814259-2026",
-    "title": "Chequia – Equipos de radio, televisión, comunicaciones y telecomunicaciones y equipos conexos – Dynamický nákupní systém na dodávky náhradních komponentů",
-    "buyer": "ČD - Telematika a.s.",
-    "country": "CZE",
-    "countryName": "Chequia",
-    "countryIso2": null,
-    "cpv": [
-     "32000000",
-     "32352000",
-     "32260000"
-    ],
-    "sectors": [
-     "energia",
-     "industria",
-     "tech"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 100000000,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814259-2026"
-   },
-   {
-    "id": "814349-2026",
-    "title": "Chequia – Equipos de radio, televisión, comunicaciones y telecomunicaciones y equipos conexos – Dynamický nákupní systém na dodávky náhradních komponentů",
-    "buyer": "ČD - Telematika a.s.",
-    "country": "CZE",
-    "countryName": "Chequia",
-    "countryIso2": null,
-    "cpv": [
-     "32000000",
-     "32352000",
-     "32260000"
-    ],
-    "sectors": [
-     "energia",
-     "industria",
-     "tech"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 100000000,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814349-2026"
-   },
-   {
-    "id": "814984-2026",
-    "title": "Países Bajos – Transformadores – Shunt Reactors",
-    "buyer": "Stedin",
-    "country": "NLD",
-    "countryName": "Países Bajos",
-    "countryIso2": "NL",
-    "cpv": [
-     "31170000",
-     "31100000",
+     "31200000",
+     "31200000",
      "31200000"
     ],
     "sectors": [
      "energia"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 70000000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814984-2026"
+    "value": 47427492.11,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818297-2026"
    },
    {
-    "id": "814729-2026",
-    "title": "Chequia – Combustible para motores diésel (EN 590) – Rámcová dohoda na dodávky motorové nafty",
-    "buyer": "Dopravní podnik města Pardubic a.s.",
+    "id": "818186-2026",
+    "title": "Noruega – Servicios de reparación y mantenimiento – Framework agreement fire alarm systems, emergency lights and smoke hatches.",
+    "buyer": "Moss Kommunale Eiendomsselskap KF",
+    "country": "NOR",
+    "countryName": "Noruega",
+    "countryIso2": null,
+    "cpv": [
+     "50000000",
+     "31625200",
+     "45312100"
+    ],
+    "sectors": [
+     "energia",
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 20000000,
+    "currency": "NOK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818186-2026"
+   },
+   {
+    "id": "818099-2026",
+    "title": "Francia – Artículos eléctricos – Accord-Cadre relatif à la fourniture d'électricité pour la SAEM Sports et Tourisme et sa Filiale SELCA",
+    "buyer": "SAEM SPORTS ET TOURISME",
+    "country": "FRA",
+    "countryName": "Francia",
+    "countryIso2": "FR",
+    "cpv": [
+     "31682000",
+     "09310000",
+     "31682000"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-07",
+    "value": 12000000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818099-2026"
+   },
+   {
+    "id": "818470-2026",
+    "title": "Chequia – Combustible para motores diésel (EN 590) – Nafta 2021",
+    "buyer": "Služby města Pardubic a.s.",
     "country": "CZE",
     "countryName": "Chequia",
     "countryIso2": null,
@@ -607,1066 +504,1105 @@
     "sectors": [
      "energia"
     ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-05",
-    "value": 51000000,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814729-2026"
-   },
-   {
-    "id": "814911-2026",
-    "title": "Suecia – Electrodos – EKG elektroder",
-    "buyer": "Västra Götalandsregionen",
-    "country": "SWE",
-    "countryName": "Suecia",
-    "countryIso2": null,
-    "cpv": [
-     "31711140",
-     "31711140"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-29",
-    "value": 27000000,
-    "currency": "SEK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814911-2026"
-   },
-   {
-    "id": "814335-2026",
-    "title": "Rumanía – Servicios de programación de software de aplicación – Servicii soluție informatică integrată în cadrul Proiectului ”Platforma de Servicii Publice Digitale pentru Agenția Națională Anti-Doping\"",
-    "buyer": "AGENTIA NATIONALA ANTI-DOPING",
-    "country": "ROU",
-    "countryName": "Rumanía",
-    "countryIso2": null,
-    "cpv": [
-     "72212000",
-     "72212000",
-     "30213100"
-    ],
-    "sectors": [
-     "energia",
-     "tech"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2027-02-01",
-    "value": 23133371.92,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814335-2026"
-   },
-   {
-    "id": "814967-2026",
-    "title": "Noruega – Aparatos electrodomésticos – Framework agreement, sound and picture, white goods and small electronics.",
-    "buyer": "Indre Østfold kommune",
-    "country": "NOR",
-    "countryName": "Noruega",
-    "countryIso2": null,
-    "cpv": [
-     "39710000",
-     "31000000",
-     "32000000"
-    ],
-    "sectors": [
-     "energia",
-     "tech"
-    ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 21000000,
-    "currency": "NOK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814967-2026"
+    "value": 8600000,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818470-2026"
    },
    {
-    "id": "814763-2026",
-    "title": "Chequia – Cargadores de baterías – Zřízení nabíjecích míst pro nabíjení elektrobusů v areálu vozovny Dukla",
-    "buyer": "Dopravní podnik města Pardubic a.s.",
-    "country": "CZE",
-    "countryName": "Chequia",
-    "countryIso2": null,
+    "id": "818424-2026",
+    "title": "Países Bajos – Servicios de reparación y mantenimiento de instalaciones contra incendios – Levering en onderhoud brandmeld- en brandbeveiligingsinstallaties",
+    "buyer": "Twence B.V.",
+    "country": "NLD",
+    "countryName": "Países Bajos",
+    "countryIso2": "NL",
     "cpv": [
-     "31158100",
-     "31158100"
+     "50413200",
+     "31625000",
+     "35111000"
     ],
     "sectors": [
      "energia"
     ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-04",
-    "value": 15000000,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814763-2026"
+    "published": "2026-11-25",
+    "deadline": "2027-01-22",
+    "value": 8000000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818424-2026"
    },
    {
-    "id": "815150-2026",
-    "title": "Polonia – Electricidad, calefacción, energías solar y nuclear – Policka Grupa Zakupowa. Świadczenie usługi kompleksowej sprzedaży energii elektrycznej oraz usługi dystrybucji w okresie od 01.01.2027 do 31.12.2028",
-    "buyer": "GMINA POLICE",
+    "id": "817894-2026",
+    "title": "Polonia – Trabajos de construcción de inmuebles de viviendas colectivas – Budowa budynku mieszkalnego wielorodzinnego wraz z niezbędną infrastrukturą techniczną przy ul. Narutowicza w Radomsku",
+    "buyer": "TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO W RADOMSKU SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
     "country": "POL",
     "countryName": "Polonia",
     "countryIso2": null,
     "cpv": [
-     "09300000",
-     "09310000",
-     "09310000"
+     "45211340",
+     "45111291",
+     "45100000"
     ],
     "sectors": [
      "energia"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-10",
-    "value": 13624531.46,
+    "published": "2026-11-25",
+    "deadline": "2026-12-16",
+    "value": 6160275.74,
     "currency": "PLN",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815150-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817894-2026"
    },
    {
-    "id": "814773-2026",
-    "title": "Suecia – Lámparas de quirófano – Operationslampor",
-    "buyer": "Region Västerbotten",
-    "country": "SWE",
-    "countryName": "Suecia",
+    "id": "818498-2026",
+    "title": "Chequia – Material electrónico – Elektronické součástky a komponenty pro prototypy",
+    "buyer": "VTSE s.r.o.",
+    "country": "CZE",
+    "countryName": "Chequia",
     "countryIso2": null,
     "cpv": [
-     "31524110",
-     "31524110"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-18",
-    "value": 12000000,
-    "currency": "SEK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814773-2026"
-   },
-   {
-    "id": "814769-2026",
-    "title": "Croacia – Electricidad – OPSKRBA ELEKTRIČNOM ENERGIJOM ZA SUSTAV JAVNE RASVJETE GRADA ZAGREBA",
-    "buyer": "GRAD ZAGREB",
-    "country": "HRV",
-    "countryName": "Croacia",
-    "countryIso2": null,
-    "cpv": [
-     "09310000",
-     "09310000"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-04",
-    "value": 11000000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814769-2026"
-   },
-   {
-    "id": "814545-2026",
-    "title": "Suecia – Máquinas, aparatos, equipo y productos consumibles eléctricos; iluminación – Två (2) batterier för laddning av elmaskiner",
-    "buyer": "Uppsala kommun",
-    "country": "SWE",
-    "countryName": "Suecia",
-    "countryIso2": null,
-    "cpv": [
-     "31000000",
-     "31000000"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-21",
-    "value": 9000000,
-    "currency": "SEK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814545-2026"
-   },
-   {
-    "id": "814344-2026",
-    "title": "Rumanía – Electricidad – Achiziționare energie electrică",
-    "buyer": "Municipiul Sfantu Gheorghe",
-    "country": "ROU",
-    "countryName": "Rumanía",
-    "countryIso2": null,
-    "cpv": [
-     "09310000",
-     "09310000"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 6045815,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814344-2026"
-   },
-   {
-    "id": "814354-2026",
-    "title": "Irlanda – Máquinas herramienta – The Supply, Delivery, Installation and Commissioning of Equipment for Technology/Construction/Engineering/DCG in 6 Lots for Limerick and Clare Education and Training Board",
-    "buyer": "Limerick and Clare Education and Training Board",
-    "country": "IRL",
-    "countryName": "Irlanda",
-    "countryIso2": null,
-    "cpv": [
-     "42600000",
-     "42610000",
-     "42621000"
-    ],
-    "sectors": [
-     "energia",
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-22",
-    "value": 5000000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814354-2026"
-   },
-   {
-    "id": "815008-2026",
-    "title": "Rumanía – Aparatos de aire acondicionado – Furnizare aparate de aer conditionat (inclusiv instalare) si realizare circuite electrice de alimentare, pentru punctele de lucru AIHCB si AIBB-AV",
-    "buyer": "Compania Nationala Aeroporturi Bucuresti SA",
-    "country": "ROU",
-    "countryName": "Rumanía",
-    "countryIso2": null,
-    "cpv": [
-     "39717200",
-     "39717200",
+     "31711000",
+     "31681400",
      "31681300"
     ],
     "sectors": [
      "energia"
     ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 4885138,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815008-2026"
+    "published": "2026-11-25",
+    "deadline": "2026-12-28",
+    "value": 6000000,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818498-2026"
    },
    {
-    "id": "814591-2026",
-    "title": "Polonia – Material médico fungible – Dostawa jednorazowego sprzętu medycznego, środków kontrastowych oraz akcesoriów pomocniczych do wykonywania badań TK dla Brzeskiego Centrum Medycznego w Brzegu. Przedmiotem zamówienia jest sukcesywna dostawa jednorazowego sprzętu medycznego, środków kontrastowych oraz akcesoriów pomocniczych do wykonywania badań TK dla Brzeskiego Centrum Medycznego w Brzegu. Szczegółowy Opis Przedmiotu Zamówienia",
-    "buyer": "Brzeskie Centrum Medyczne",
-    "country": "POL",
-    "countryName": "Polonia",
-    "countryIso2": null,
+    "id": "817834-2026",
+    "title": "Italia – Electricidad, calefacción, energías solar y nuclear – Procedura aperta, ai sensi dell&#8217;art. 71 del d.lgs. n. 36/2023, per l&#8217;affidamento della fornitura di energia elettrica per le sedi di Bari e Foggia per l&#8217;anno 2027-2028",
+    "buyer": "AMIU Puglia S.p.A.",
+    "country": "ITA",
+    "countryName": "Italia",
+    "countryIso2": "IT",
     "cpv": [
-     "33140000",
-     "33141310",
-     "33171000"
-    ],
-    "sectors": [
-     "energia",
-     "transporte",
-     "tech"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-29",
-    "value": 4402221.15,
-    "currency": "PLN",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814591-2026"
-   },
-   {
-    "id": "814401-2026",
-    "title": "Chequia – Equipo de laboratorio, óptico y de precisión (excepto gafas) – PVD depoziční systém",
-    "buyer": "Vysoké učení technické v Brně",
-    "country": "CZE",
-    "countryName": "Chequia",
-    "countryIso2": null,
-    "cpv": [
-     "38000000",
-     "31711421",
-     "38000000"
+     "09300000",
+     "09300000"
     ],
     "sectors": [
      "energia"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-22",
-    "value": 4081500,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814401-2026"
+    "published": "2026-11-25",
+    "deadline": "2026-12-07",
+    "value": 5200000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817834-2026"
    },
    {
-    "id": "814467-2026",
-    "title": "Eslovenia – Combustibles – OSKRBA S POGONSKIM GORIVOM",
-    "buyer": "OSNOVNO ZDRAVSTVO GORENJSKE",
-    "country": "SVN",
-    "countryName": "Eslovenia",
+    "id": "818399-2026",
+    "title": "Rumanía – Combustibles – Combustibili: motorina si benzina fara plumb",
+    "buyer": "Serviciul de administrare a domeniului public al Municipiului Dej",
+    "country": "ROU",
+    "countryName": "Rumanía",
     "countryIso2": null,
     "cpv": [
+     "09100000",
+     "09100000",
+     "09132100"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 3825000,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818399-2026"
+   },
+   {
+    "id": "818462-2026",
+    "title": "Rumanía – Gas natural – Furnizare gaze naturale",
+    "buyer": "Spitalul judetean de urgenta \"Mavromati\"Botosani",
+    "country": "ROU",
+    "countryName": "Rumanía",
+    "countryIso2": null,
+    "cpv": [
+     "09123000",
+     "09123000"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 1847725,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818462-2026"
+   },
+   {
+    "id": "817668-2026",
+    "title": "Eslovaquia – Equipo y material informático – DNS 2/2026 „Nákup výpočtovej techniky a príslušenstva pre UKF v Nitre“",
+    "buyer": "Univerzita Konštantína Filozofa v Nitre",
+    "country": "SVK",
+    "countryName": "Eslovaquia",
+    "countryIso2": null,
+    "cpv": [
+     "30200000",
+     "30121100",
+     "32200000"
+    ],
+    "sectors": [
+     "energia",
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 1453000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817668-2026"
+   },
+   {
+    "id": "817796-2026",
+    "title": "Chequia – Gas natural – Dodávka zemního plynu pro odběr do 630 MWh (plyn – maloodběr) pro rok 2027",
+    "buyer": "Státní úřad pro jadernou bezpečnost",
+    "country": "CZE",
+    "countryName": "Chequia",
+    "countryIso2": null,
+    "cpv": [
+     "09123000",
+     "09123000"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 1367100,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817796-2026"
+   },
+   {
+    "id": "818445-2026",
+    "title": "Bulgaria – Calefacción urbana – \"Доставка на топлинна енергия за сградния фонд на УМБАЛ \"Света Анна\" - София АД",
+    "buyer": "МНОГОПРОФИЛНА БОЛНИЦА ЗА АКТИВНО ЛЕЧЕНИЕ \"СВЕТА АННА\" СОФИЯ АД",
+    "country": "BGR",
+    "countryName": "Bulgaria",
+    "countryIso2": null,
+    "cpv": [
+     "09323000",
+     "09323000"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 1217800,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818445-2026"
+   },
+   {
+    "id": "817693-2026",
+    "title": "Grecia – Artículos y material deportivo – ΔΙΑΚΗΡΥΞΗ",
+    "buyer": "ΔΗΜΟΣ ΛΑΓΚΑΔΑ",
+    "country": "GRC",
+    "countryName": "Grecia",
+    "countryIso2": null,
+    "cpv": [
+     "37400000",
+     "44112200",
+     "31500000"
+    ],
+    "sectors": [
+     "energia",
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-28",
+    "value": 779716.94,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817693-2026"
+   },
+   {
+    "id": "818164-2026",
+    "title": "Croacia – Equipo de subestación – Modernizacija trafostanica lučkog područja Rijeke",
+    "buyer": "Lučka uprava Rijeka",
+    "country": "HRV",
+    "countryName": "Croacia",
+    "countryIso2": null,
+    "cpv": [
+     "31682540",
+     "31682540",
+     "31682540"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-30",
+    "value": 740000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818164-2026"
+   },
+   {
+    "id": "818162-2026",
+    "title": "Grecia – Combustibles – Προμήθεια καυσίμων 2027 και 2028",
+    "buyer": "ΔΗΜΟΣ ΚΑΛΑΒΡΥΤΩΝ",
+    "country": "GRC",
+    "countryName": "Grecia",
+    "countryIso2": null,
+    "cpv": [
+     "09100000",
      "09100000",
      "09100000"
     ],
     "sectors": [
      "energia"
     ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 3341070.48,
+    "published": "2026-11-25",
+    "deadline": "2026-12-09",
+    "value": 642741.93,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814467-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818162-2026"
    },
    {
-    "id": "814531-2026",
-    "title": "Polonia – Electricidad, calefacción, energías solar y nuclear – Zakup energii cieplnej na potrzeby UD Ursus oraz nieruchomości stanowiących zasób komunalny Dzielnicy Ursus.",
-    "buyer": "Miasto Stołeczne Warszawa Dzielnica Ursus",
-    "country": "POL",
-    "countryName": "Polonia",
+    "id": "817916-2026",
+    "title": "Grecia – Radioisótopos – ΓΕΝΝΗΤΡΙΑ ΡΑΔΙΟΣΟΤΟΠΩΝ ΚΑΙ ΡΑΔΙΟΦΑΡΜΑΚΑ",
+    "buyer": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΧΑΝΙΩΝ \"Ο ΑΓ.ΓΕΩΡΓΙΟΣ\"",
+    "country": "GRC",
+    "countryName": "Grecia",
     "countryIso2": null,
     "cpv": [
+     "09344000",
+     "09344000",
+     "09344000"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-04",
+    "value": 311960,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817916-2026"
+   },
+   {
+    "id": "817828-2026",
+    "title": "España – Gasóleos – Contrato administrativo de suministro de Gasóleo “C” para instalaciones de calefacción de edificios municipales",
+    "buyer": "Alcaldía del Ayuntamiento de Ciudad Rodrigo",
+    "country": "ESP",
+    "countryName": "España",
+    "countryIso2": null,
+    "cpv": [
+     "09134000",
+     "09134000"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-24",
+    "value": 291963.84,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817828-2026"
+   },
+   {
+    "id": "818437-2026",
+    "title": "Francia – Gasóleos – Fourniture et livraison en vrac de gasoil pour les véhicules de la Communauté de Communes du Briançonnais",
+    "buyer": "Communauté de Communes du Briançonnais",
+    "country": "FRA",
+    "countryName": "Francia",
+    "countryIso2": "FR",
+    "cpv": [
+     "09134000",
+     "09134000",
+     "09134000"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-05",
+    "value": 210000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818437-2026"
+   },
+   {
+    "id": "818402-2026",
+    "title": "Bulgaria – Gas de red – \"Доставка на природен газ за нуждите на ТД Митница Русе\"",
+    "buyer": "АГЕНЦИЯ \"МИТНИЦИ\"",
+    "country": "BGR",
+    "countryName": "Bulgaria",
+    "countryIso2": null,
+    "cpv": [
+     "09121200",
+     "09121200"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 6135.5,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818402-2026"
+   },
+   {
+    "id": "817905-2026",
+    "title": "Alemania – Electricidad, calefacción, energías solar y nuclear – Stromlieferung für die Stadt Neu-Ulm ab 01.01.2027",
+    "buyer": "Stadt Neu-Ulm",
+    "country": "DEU",
+    "countryName": "Alemania",
+    "countryIso2": "DE",
+    "cpv": [
      "09300000",
-     "65400000",
      "09300000"
     ],
     "sectors": [
      "energia"
     ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 2621495.18,
-    "currency": "PLN",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814531-2026"
-   },
-   {
-    "id": "814730-2026",
-    "title": "Rumanía – Combustible para motores diésel – Furnizare carburanți auto pe bază de carduri pentru parcul auto și utilajele societății SEPSI ÚT-ÉPÍTŐ SRL",
-    "buyer": "SEPSI ÚT-ÉPÍTŐ S.R.L.",
-    "country": "ROU",
-    "countryName": "Rumanía",
-    "countryIso2": null,
-    "cpv": [
-     "09134200",
-     "09134200",
-     "09132100"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-30",
-    "value": 1686840,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814730-2026"
-   },
-   {
-    "id": "814288-2026",
-    "title": "Alemania – Combustible para motores diésel (EN 590) – Beschaffung von Dieselkraftstoff nach DIN EN 590 - Bekanntmachung",
-    "buyer": "Stadt Krefeld - Feuerwehr und Zivilschutz",
-    "country": "DEU",
-    "countryName": "Alemania",
-    "countryIso2": "DE",
-    "cpv": [
-     "09134220",
-     "09134220"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 1446500,
+    "published": "2026-11-25",
+    "deadline": "2026-11-30",
+    "value": null,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814288-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817905-2026"
    },
    {
-    "id": "815094-2026",
-    "title": "Rumanía – Equipo de extinción de incendios, salvamento y seguridad – Furnizare produse in cadrul proiectului “Improving the response to emergency situations through cooperation between Cotnari Commune, Tiganasi Commune, Carbuna Village and Gangura Commune - ROMD00399 - 4SOFT”",
-    "buyer": "UAT Comuna Cotnari",
-    "country": "ROU",
-    "countryName": "Rumanía",
-    "countryIso2": null,
-    "cpv": [
-     "35110000",
-     "35110000",
-     "31121000"
-    ],
-    "sectors": [
-     "energia",
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 1350522.64,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815094-2026"
-   },
-   {
-    "id": "815111-2026",
-    "title": "Croacia – Combustible para motores diésel – EURODIZEL BS",
-    "buyer": "ČISTOĆA d.o.o.",
-    "country": "HRV",
-    "countryName": "Croacia",
-    "countryIso2": null,
-    "cpv": [
-     "09134200",
-     "09134200"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-29",
-    "value": 1300000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815111-2026"
-   },
-   {
-    "id": "814965-2026",
-    "title": "Croacia – Electricidad – Opskrba električnom energijom",
-    "buyer": "VG Vodoopskrba d.o.o.",
-    "country": "HRV",
-    "countryName": "Croacia",
-    "countryIso2": null,
-    "cpv": [
-     "09310000",
-     "09310000"
-    ],
-    "sectors": [
-     "energia"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-28",
-    "value": 920000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814965-2026"
-   },
-   {
-    "id": "814749-2026",
-    "title": "Rumanía – Coches de pasajeros de tranvía – Achiziționarea a 79 tramvaie noi de 36 m în cadrul proiectelor ”Modernizarea sistemului de transport public cu tramvaiul de la nivelul Municipiului București” si ”Extinderea rețelei de tramvai pe artera de circulație Prelungirea Ghencea”",
-    "buyer": "MUNICIPIUL BUCURESTI",
-    "country": "ROU",
-    "countryName": "Rumanía",
-    "countryIso2": null,
-    "cpv": [
-     "34622100",
-     "34622100"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-10",
-    "value": 1404891774.87,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814749-2026"
-   },
-   {
-    "id": "814415-2026",
-    "title": "Finlandia – Servicios de transporte en transbordador – Färjetrafik 2028-2042",
-    "buyer": "Ålands landskapsregering",
-    "country": "FIN",
-    "countryName": "Finlandia",
-    "countryIso2": null,
-    "cpv": [
-     "60610000",
-     "60610000",
-     "60600000"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 340000000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814415-2026"
-   },
-   {
-    "id": "815155-2026",
-    "title": "Chequia – Instalación de señales de tráfico – Dodávka a montáž svislých dopravních značek",
-    "buyer": "Ředitelství silnic a dálnic s. p.",
-    "country": "CZE",
-    "countryName": "Chequia",
-    "countryIso2": null,
-    "cpv": [
-     "45233290",
-     "34992300",
-     "34992100"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 200000000,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815155-2026"
-   },
-   {
-    "id": "814838-2026",
-    "title": "Polonia – Servicios de transporte por la vía pública – Świadczenie usług przewozu regularnego osób, w ramach publicznego transportu zbiorowego na obszarze Gminy Lublin i Gmin sąsiadujących",
-    "buyer": "Zarząd Dróg i Transportu Miejskiego w Lublinie",
+    "id": "818237-2026",
+    "title": "Polonia – Electricidad, calefacción, energías solar y nuclear – Dostawa energii elektrycznej dla Lubelskiego Centrum Innowacji i Technologii oraz dla Lubelskiego Centrum Nieruchomości Sp. z o.o.",
+    "buyer": "Województwo Lubelskie - Lubelskie Centrum Innowacji i Technologii",
     "country": "POL",
     "countryName": "Polonia",
     "countryIso2": null,
     "cpv": [
+     "09300000",
+     "09310000",
+     "09300000"
+    ],
+    "sectors": [
+     "energia"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-03",
+    "value": null,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818237-2026"
+   },
+   {
+    "id": "817888-2026",
+    "title": "Eslovenia – Máquinas, aparatos, equipo y productos consumibles eléctricos; iluminación – Rekonstrukcija mHE Mrzla Rupa",
+    "buyer": "SOŠKE ELEKTRARNE NOVA GORICA d.o.o.",
+    "country": "SVN",
+    "countryName": "Eslovenia",
+    "countryIso2": null,
+    "cpv": [
+     "31000000",
+     "31000000",
+     "31000000"
+    ],
+    "sectors": [
+     "energia",
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-09",
+    "value": null,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817888-2026"
+   },
+   {
+    "id": "817901-2026",
+    "title": "Letonia – Equipo de laboratorio, óptico y de precisión (excepto gafas) – Pētniecības iekārtu un aprīkojuma iegāde mežkopības un meža faunas pētījumiem",
+    "buyer": "Latvijas Valsts mežzinātnes institūts “Silava”",
+    "country": "LVA",
+    "countryName": "Letonia",
+    "countryIso2": null,
+    "cpv": [
+     "38000000",
+     "38400000",
+     "38424000"
+    ],
+    "sectors": [
+     "energia",
+     "transporte",
+     "industria",
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-11",
+    "value": null,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817901-2026"
+   },
+   {
+    "id": "818542-2026",
+    "title": "Rumanía – Servicios de transporte por la vía pública – Delegarea gestiunii serviciului public de transport judeţean de persoane prin curse regulate, în aria teritorială de competență a UAT Județul Maramureș - loturi reluate 3, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 22, 23, 25, 27, 28, 29 și 30",
+    "buyer": "JUDETUL MARAMURES (CONSILIUL JUDETEAN MARAMURES)",
+    "country": "ROU",
+    "countryName": "Rumanía",
+    "countryIso2": null,
+    "cpv": [
+     "60112000",
      "60112000",
      "60112000"
     ],
     "sectors": [
      "transporte"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-11",
-    "value": 165996000,
-    "currency": "PLN",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814838-2026"
+    "published": "2026-11-25",
+    "deadline": "2026-12-28",
+    "value": 83131776,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818542-2026"
    },
    {
-    "id": "814995-2026",
-    "title": "Noruega – Automóviles para pasajeros – Dynamic purchasing system for passenger cars and goods vans.",
-    "buyer": "Innherred anskaffelser",
-    "country": "NOR",
-    "countryName": "Noruega",
-    "countryIso2": null,
-    "cpv": [
-     "34110000",
-     "34330000",
-     "34115300"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 150000000,
-    "currency": "NOK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814995-2026"
-   },
-   {
-    "id": "814645-2026",
-    "title": "Chequia – Equipo para monitorización del tráfico – Modernizace systému preference vozidel MHD",
-    "buyer": "Dopravní podnik města Olomouce, a.s.",
+    "id": "817795-2026",
+    "title": "Chequia – Autobuses de servicio público – Elektrobus MHD Kladno 2026",
+    "buyer": "ARRIVA CITY a.s.",
     "country": "CZE",
     "countryName": "Chequia",
     "countryIso2": null,
     "cpv": [
-     "34970000",
-     "45316213",
-     "48151000"
+     "34121100",
+     "34121400",
+     "34144910"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-07",
+    "value": 57000000,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817795-2026"
+   },
+   {
+    "id": "818417-2026",
+    "title": "Países Bajos – Servicios de estacionamiento – Schiphol Valet Parking",
+    "buyer": "Schiphol Nederland B.V.",
+    "country": "NLD",
+    "countryName": "Países Bajos",
+    "countryIso2": "NL",
+    "cpv": [
+     "63712400",
+     "42900000",
+     "98351000"
+    ],
+    "sectors": [
+     "transporte",
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 56500000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818417-2026"
+   },
+   {
+    "id": "818022-2026",
+    "title": "Suecia – Servicios de taxi – Verksamhetsresor med taxibilar, specialfordon och bussar i olika storlekar",
+    "buyer": "Skellefteå kommun",
+    "country": "SWE",
+    "countryName": "Suecia",
+    "countryIso2": null,
+    "cpv": [
+     "60120000",
+     "60120000",
+     "60120000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 34000000,
+    "currency": "SEK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818022-2026"
+   },
+   {
+    "id": "818087-2026",
+    "title": "Chequia – Barrederas viales automóviles – Obnova zametačů pro SSÚD",
+    "buyer": "Ředitelství silnic a dálnic s. p.",
+    "country": "CZE",
+    "countryName": "Chequia",
+    "countryIso2": null,
+    "cpv": [
+     "34144430",
+     "34144430"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-01",
+    "value": 31200000,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818087-2026"
+   },
+   {
+    "id": "818314-2026",
+    "title": "España – Servicios especiales de transporte de pasajeros por carretera – Transporte escolar para diversos itinerarios, con vehículos de una capacidad superior a nueve plazas, a los centros públicos de enseñanza de la Comunidad Autónoma de Euskadi.",
+    "buyer": "Gobierno Vasco - Educación",
+    "country": "ESP",
+    "countryName": "España",
+    "countryIso2": null,
+    "cpv": [
+     "60130000",
+     "60130000",
+     "60130000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 30365020.8,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818314-2026"
+   },
+   {
+    "id": "818294-2026",
+    "title": "Chequia – Blancos para práctica de tiro – Rámcová dohoda - Polotovar pro kompletaci bezpilotního terče",
+    "buyer": "Vojenský technický ústav, s.p.",
+    "country": "CZE",
+    "countryName": "Chequia",
+    "countryIso2": null,
+    "cpv": [
+     "35210000",
+     "34740000",
+     "35210000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 20000000,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818294-2026"
+   },
+   {
+    "id": "817633-2026",
+    "title": "Suecia – Servicios de carga, descarga y almacenamiento – Bränsle och askhantering Oceanen",
+    "buyer": "Halmstads Energi och Miljö AB",
+    "country": "SWE",
+    "countryName": "Suecia",
+    "countryIso2": null,
+    "cpv": [
+     "63100000",
+     "63100000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 16000000,
+    "currency": "SEK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817633-2026"
+   },
+   {
+    "id": "818008-2026",
+    "title": "Grecia – Autobuses y autocares – Δ.19/26 της ΥΠ/ΠΑ για την Προμήθεια Τριάντα (30) Λεωφορείων Μεταφοράς Προσωπικού Μεγάλου Μεγέθους",
+    "buyer": "ΥΠΗΡΕΣΙΑ ΠΡΟΜΗΘΕΙΩΝ ΠΟΛΕΜΙΚΗΣ ΑΕΡΟΠΟΡΙΑΣ (ΥΠ/ΠΑ)",
+    "country": "GRC",
+    "countryName": "Grecia",
+    "countryIso2": null,
+    "cpv": [
+     "34121000",
+     "34121000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-10",
+    "value": 10609989.3,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818008-2026"
+   },
+   {
+    "id": "818104-2026",
+    "title": "Irlanda – Equipos de transporte y productos auxiliares – Supply on Lease Hire with Maintenance of 2,200 kg−4,250 kg GVW Battery Electric Vehicles (BEV) Panel Vans",
+    "buyer": "Laois County Council",
+    "country": "IRL",
+    "countryName": "Irlanda",
+    "countryIso2": null,
+    "cpv": [
+     "34000000",
+     "50000000",
+     "60000000"
+    ],
+    "sectors": [
+     "transporte",
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-22",
+    "value": 10000000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818104-2026"
+   },
+   {
+    "id": "818381-2026",
+    "title": "Irlanda – Equipos de transporte y productos auxiliares – Supply on Lease Hire with Maintenance of 2,200 kg−4,700 kg GVW Low Emission Diesel HVO Compatible Panel Vans",
+    "buyer": "Laois County Council",
+    "country": "IRL",
+    "countryName": "Irlanda",
+    "countryIso2": null,
+    "cpv": [
+     "34000000",
+     "43000000",
+     "60000000"
+    ],
+    "sectors": [
+     "transporte",
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-22",
+    "value": 10000000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818381-2026"
+   },
+   {
+    "id": "817794-2026",
+    "title": "Suecia – Sal y cloruro de sodio puro – Vägsalt",
+    "buyer": "Telge Inköp AB",
+    "country": "SWE",
+    "countryName": "Suecia",
+    "countryIso2": null,
+    "cpv": [
+     "14400000",
+     "34927100",
+     "14400000"
+    ],
+    "sectors": [
+     "transporte",
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 10000000,
+    "currency": "SEK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817794-2026"
+   },
+   {
+    "id": "818511-2026",
+    "title": "Chequia – Vehículos de motor para el transporte de menos de diez personas – VIP vozidla SUV",
+    "buyer": "Ministerstvo vnitra",
+    "country": "CZE",
+    "countryName": "Chequia",
+    "countryIso2": null,
+    "cpv": [
+     "34115200",
+     "34115200",
+     "34115200"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 5936862.8,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818511-2026"
+   },
+   {
+    "id": "817752-2026",
+    "title": "Rumanía – Servicios de transporte aéreo – TRANSPORT AERIAN",
+    "buyer": "FEDERATIA ROMANA DE RUGBY",
+    "country": "ROU",
+    "countryName": "Rumanía",
+    "countryIso2": null,
+    "cpv": [
+     "60400000",
+     "60400000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 4573650,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817752-2026"
+   },
+   {
+    "id": "818416-2026",
+    "title": "Polonia – Vehículos de extinción de incendios – Zakup pojazdu do ewakuacji osób z wysokości",
+    "buyer": "KOMENDA POWIATOWA PAŃSTWOWEJ STRAŻY POŻARNEJ W JAROSŁAWIU",
+    "country": "POL",
+    "countryName": "Polonia",
+    "countryIso2": null,
+    "cpv": [
+     "34144210",
+     "42413200",
+     "34144210"
+    ],
+    "sectors": [
+     "transporte",
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-09",
+    "value": 3658536.59,
+    "currency": "PLN",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818416-2026"
+   },
+   {
+    "id": "817708-2026",
+    "title": "Países Bajos – Servicios complementarios para transporte por vías navegables – Inhuur bedienaars bruggen en sluizen",
+    "buyer": "Gemeente Gouda",
+    "country": "NLD",
+    "countryName": "Países Bajos",
+    "countryIso2": "NL",
+    "cpv": [
+     "63720000",
+     "63720000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-07",
+    "value": 2500000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817708-2026"
+   },
+   {
+    "id": "817646-2026",
+    "title": "Rumanía – Servicios de desarrollo de software – Achiziție SERVICII DE DEZVOLTARE A SOLUȚIEI PROPUSE ȘI ECHIPAMENTE AFERENTE în cadrul proiectului #ReghinSmart: Oraș Inteligent, Comunitate Conectată - 2 Loturi",
+    "buyer": "PRIMARIA MUNICIPIULUI REGHIN",
+    "country": "ROU",
+    "countryName": "Rumanía",
+    "countryIso2": null,
+    "cpv": [
+     "72262000",
+     "72262000",
+     "72262000"
     ],
     "sectors": [
      "transporte",
      "tech"
     ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 35000000,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814645-2026"
+    "published": "2026-11-25",
+    "deadline": "2027-01-04",
+    "value": 1961904.77,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817646-2026"
    },
    {
-    "id": "814439-2026",
-    "title": "Croacia – Vehículos de extinción de incendios – Nabava vatrogasne autocisterne",
-    "buyer": "HRVATSKA VATROGASNA ZAJEDNICA",
+    "id": "818282-2026",
+    "title": "Italia – Servicios de transporte por carretera – PROCEDURA APERTA AI SENSI DELL’ART. 71 DEL D.LGS. N. 36/2023, AVENTE AD OGGETTO L’AFFIDAMENTO DEL SERVIZIO DI MOVIMENTAZIONE STRUMENTI E MATERIALE MUSICALE DEL TEATRO ALLA SCALA DI MILANO",
+    "buyer": "Fondazione Teatro alla Scala di Milano",
+    "country": "ITA",
+    "countryName": "Italia",
+    "countryIso2": "IT",
+    "cpv": [
+     "60100000",
+     "60100000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 1596000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818282-2026"
+   },
+   {
+    "id": "818518-2026",
+    "title": "España – Servicios de gestión de aparcamientos – Adjudicación y ejecución del servicio de gestión de zona de aparcamiento regulado y del aparcamiento de propiedad municipal sito en plaza de Tejar c/v calle Postas 2 de San Sebastián de los Reyes",
+    "buyer": "Junta de Gobierno del Ayuntamiento de San Sebastián de los Reyes",
+    "country": "ESP",
+    "countryName": "España",
+    "countryIso2": null,
+    "cpv": [
+     "98351000",
+     "34926000",
+     "38730000"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-29",
+    "value": 1413167.08,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818518-2026"
+   },
+   {
+    "id": "818506-2026",
+    "title": "Polonia – Vehículos de extinción de incendios – Zakup i dostawa nowego średniego samochodu ratowniczo – gaśniczego dla jednostki OSP Chlewiska",
+    "buyer": "Gmina Chlewiska",
+    "country": "POL",
+    "countryName": "Polonia",
+    "countryIso2": null,
+    "cpv": [
+     "34144210",
+     "34144200",
+     "34144210"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 1246000,
+    "currency": "PLN",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818506-2026"
+   },
+   {
+    "id": "817576-2026",
+    "title": "Francia – Servicios de fotografía aérea – Prestations de services par drones pour le compte des adhérents de CADI",
+    "buyer": "Centrale d'Achats Durables et Innovants",
+    "country": "FRA",
+    "countryName": "Francia",
+    "countryIso2": "FR",
+    "cpv": [
+     "79961200",
+     "79961200",
+     "79961200"
+    ],
+    "sectors": [
+     "transporte"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-12",
+    "value": 900000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817576-2026"
+   },
+   {
+    "id": "818206-2026",
+    "title": "Croacia – Servicios complementarios para el transporte ferroviario – Usluga rada pomoćnog vlaka",
+    "buyer": "HŽ INFRASTRUKTURA d.o.o.",
     "country": "HRV",
     "countryName": "Croacia",
     "countryIso2": null,
     "cpv": [
-     "34144210",
-     "34144210"
+     "63711000",
+     "63711000"
     ],
     "sectors": [
      "transporte"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 9656000,
+    "value": 718378.2,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814439-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818206-2026"
    },
    {
-    "id": "814523-2026",
-    "title": "Suecia – Servicios de mantenimiento de alumbrado público de calles – Skötsel av offentlig belysning för Lysekils kommun",
-    "buyer": "Lysekils kommun",
-    "country": "SWE",
-    "countryName": "Suecia",
-    "countryIso2": null,
+    "id": "817785-2026",
+    "title": "Francia – Vehículos de motor para el transporte de diez o más personas – ACQUISITION DE 3 + 1 MINICARS HVO POUR L'EXPLOITATION DU RÉSEAU CHAMONIX MOBILITÉ",
+    "buyer": "CC Vallée Chamonix Mont-Blanc",
+    "country": "FRA",
+    "countryName": "Francia",
+    "countryIso2": "FR",
     "cpv": [
-     "50232100",
-     "50232100",
-     "50232000"
+     "34120000",
+     "34120000",
+     "34120000"
     ],
     "sectors": [
      "transporte"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 8000000,
-    "currency": "SEK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814523-2026"
-   },
-   {
-    "id": "814751-2026",
-    "title": "Irlanda – Servicios de transporte (excluido el transporte de residuos) – Provision of four (4) Ryder Cup Passenger Transport Services (Lot 1A, 1B, 1C and 1D) from four (4) Park and Ride sites to the Event Site at Adare Manor",
-    "buyer": "National Transport Authority_1149",
-    "country": "IRL",
-    "countryName": "Irlanda",
-    "countryIso2": null,
-    "cpv": [
-     "60000000",
-     "60100000",
-     "63700000"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-06",
-    "value": 4900000,
+    "value": 600000,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814751-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817785-2026"
    },
    {
-    "id": "814287-2026",
-    "title": "Eslovaquia – Material médico fungible – DNS - Chemikálie a spotrebný laboratórny materiál",
-    "buyer": "Univerzita Pavla Jozefa Šafárika v Košiciach",
-    "country": "SVK",
-    "countryName": "Eslovaquia",
-    "countryIso2": null,
+    "id": "817972-2026",
+    "title": "Alemania – Automóviles para pasajeros – Leasing KKH Fuhrpark",
+    "buyer": "Kaufmännische Krankenkasse - KKH",
+    "country": "DEU",
+    "countryName": "Alemania",
+    "countryIso2": "DE",
     "cpv": [
-     "33140000",
-     "33141625",
-     "33790000"
-    ],
-    "sectors": [
-     "transporte",
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 4048264.28,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814287-2026"
-   },
-   {
-    "id": "814519-2026",
-    "title": "Eslovaquia – Material médico fungible – DNS - Chemikálie a spotrebný laboratórny materiál",
-    "buyer": "Univerzita Pavla Jozefa Šafárika v Košiciach",
-    "country": "SVK",
-    "countryName": "Eslovaquia",
-    "countryIso2": null,
-    "cpv": [
-     "33140000",
-     "33141625",
-     "33790000"
-    ],
-    "sectors": [
-     "transporte",
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 4048264.28,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814519-2026"
-   },
-   {
-    "id": "815039-2026",
-    "title": "Eslovaquia – Material médico fungible – DNS - Chemikálie a spotrebný laboratórny materiál",
-    "buyer": "Univerzita Pavla Jozefa Šafárika v Košiciach",
-    "country": "SVK",
-    "countryName": "Eslovaquia",
-    "countryIso2": null,
-    "cpv": [
-     "33140000",
-     "33141625",
-     "33790000"
-    ],
-    "sectors": [
-     "transporte",
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 4048264.28,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815039-2026"
-   },
-   {
-    "id": "815133-2026",
-    "title": "Eslovaquia – Material médico fungible – DNS - Chemikálie a spotrebný laboratórny materiál",
-    "buyer": "Univerzita Pavla Jozefa Šafárika v Košiciach",
-    "country": "SVK",
-    "countryName": "Eslovaquia",
-    "countryIso2": null,
-    "cpv": [
-     "33140000",
-     "33141625",
-     "33790000"
-    ],
-    "sectors": [
-     "transporte",
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 4048264.28,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815133-2026"
-   },
-   {
-    "id": "814569-2026",
-    "title": "Suecia – Vehículos de lucha contra incendios – Släckfordon",
-    "buyer": "Räddningstjänsten Syd",
-    "country": "SWE",
-    "countryName": "Suecia",
-    "countryIso2": null,
-    "cpv": [
-     "34144213",
-     "34114110",
-     "34144210"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-27",
-    "value": 4000000,
-    "currency": "SEK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814569-2026"
-   },
-   {
-    "id": "814456-2026",
-    "title": "España – Transporte no regular de pasajeros – Acuerdo marco para la homologación de empresas proveedoras de servicios de transporte de deportistas participantes en la Campaña de Deporte Escolar del Territorio Histórico de Álava.",
-    "buyer": "Diputación Foral de Álava - Departamento de Cultura y Deporte",
-    "country": "ESP",
-    "countryName": "España",
-    "countryIso2": null,
-    "cpv": [
-     "60140000",
-     "60140000",
-     "60140000"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 3206400,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814456-2026"
-   },
-   {
-    "id": "814861-2026",
-    "title": "Polonia – Sal para carreteras – Zaopatrzenie w kruszywa do usuwania śliskości dróg gminnych, ciągów pieszych i terenów komunalnych stanowiących własność Gminy Miasto Lębork podczas Akcji Zimowej w sezonach 2026-2029",
-    "buyer": "Gmina Miasto Lębork",
-    "country": "POL",
-    "countryName": "Polonia",
-    "countryIso2": null,
-    "cpv": [
-     "34927100",
-     "14211100",
-     "34927100"
-    ],
-    "sectors": [
-     "transporte",
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 2604750,
-    "currency": "PLN",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814861-2026"
-   },
-   {
-    "id": "814846-2026",
-    "title": "Polonia – Vehículos de emergencia – Dostawa ambulansów typu C z napędem 4x4 wraz z wyposażeniem dla Zespołów Ratownictwa Medycznego Samodzielnego Publicznego Specjalistycznego Zakładu Opieki Zdrowotnej w Lęborku",
-    "buyer": "Powiat Lęborski",
-    "country": "POL",
-    "countryName": "Polonia",
-    "countryIso2": null,
-    "cpv": [
-     "34114100",
-     "33190000",
-     "34114100"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 1743833.02,
-    "currency": "PLN",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814846-2026"
-   },
-   {
-    "id": "814257-2026",
-    "title": "España – Automóviles de policía – Suministro mediante arrendamiento operativo sin opción de compra (Renting) con mantenimiento integral, de una flota de 21 vehículos destinada a los servicios operativos de la Policía Local del Ayuntamiento de Parla, sin lotes a adjudicar por procedimiento abierto.",
-    "buyer": "Junta de Gobierno del Ayuntamiento de Parla",
-    "country": "ESP",
-    "countryName": "España",
-    "countryIso2": null,
-    "cpv": [
-     "34114200",
-     "50110000",
-     "34114200"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-09",
-    "value": 1592040,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814257-2026"
-   },
-   {
-    "id": "814497-2026",
-    "title": "Eslovaquia – Mobiliario – DNS - Nábytok",
-    "buyer": "Univerzita Pavla Jozefa Šafárika v Košiciach",
-    "country": "SVK",
-    "countryName": "Eslovaquia",
-    "countryIso2": null,
-    "cpv": [
-     "39100000",
-     "39110000",
-     "39111100"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 619069.21,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814497-2026"
-   },
-   {
-    "id": "814976-2026",
-    "title": "Eslovaquia – Mobiliario – DNS - Nábytok",
-    "buyer": "Univerzita Pavla Jozefa Šafárika v Košiciach",
-    "country": "SVK",
-    "countryName": "Eslovaquia",
-    "countryIso2": null,
-    "cpv": [
-     "39100000",
-     "39110000",
-     "39111100"
-    ],
-    "sectors": [
-     "transporte"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 619069.21,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814976-2026"
-   },
-   {
-    "id": "815013-2026",
-    "title": "Eslovenia – Automóviles para pasajeros – Javno naročilo za oddajo naročila blaga po odprtem postopku za nakup in dobavo malo rabljenih vozil za potrebe UVZ, št. 430-904/2026",
-    "buyer": "MINISTRSTVO ZA NOTRANJE ZADEVE IN JAVNO UPRAVO",
-    "country": "SVN",
-    "countryName": "Eslovenia",
-    "countryIso2": null,
-    "cpv": [
-     "34110000",
      "34110000",
      "34110000"
     ],
     "sectors": [
      "transporte"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 541563.94,
+    "value": 515000,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815013-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817972-2026"
    },
    {
-    "id": "814462-2026",
-    "title": "Chequia – Aparatos para angiocardiografía – Jednorovinný a dvourovinný angiografický přístroj",
-    "buyer": "Fakultní nemocnice u sv. Anny v Brně",
-    "country": "CZE",
-    "countryName": "Chequia",
+    "id": "817612-2026",
+    "title": "Eslovenia – Piezas de recambio mecánicas, excepto motores y partes de motores – »Investicijsko vzdrževanje CČN za leto 2026 – po sklopih«",
+    "buyer": "MESTNA OBČINA MARIBOR",
+    "country": "SVN",
+    "countryName": "Eslovenia",
     "countryIso2": null,
     "cpv": [
-     "33123220",
-     "45310000",
-     "42500000"
+     "34320000",
+     "34320000",
+     "34320000"
     ],
     "sectors": [
-     "industria"
+     "transporte"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-28",
-    "value": 95000000,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814462-2026"
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 410000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817612-2026"
    },
    {
-    "id": "814728-2026",
-    "title": "Chequia – Cloruros – Nákup 34% roztoku CaCl2 pro potřeby zimní údržby",
+    "id": "818401-2026",
+    "title": "Chequia – Materiales para reparación de carreteras – Dodávky obalované asfaltové směsi pro použití za studena",
     "buyer": "Ředitelství silnic a dálnic s. p.",
     "country": "CZE",
     "countryName": "Chequia",
     "countryIso2": null,
     "cpv": [
-     "24312120",
-     "24312120"
+     "44113700",
+     "44113700"
     ],
     "sectors": [
      "industria"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 50000000,
+    "value": 40000000,
     "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814728-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818401-2026"
    },
    {
-    "id": "814388-2026",
-    "title": "Italia – Máquinas para envolver – 23B37 - Fornitura dei moduli di confezionamento delle linee integrate e acquisizione della relativa manutenzione",
-    "buyer": "Banca d'Italia",
-    "country": "ITA",
-    "countryName": "Italia",
-    "countryIso2": "IT",
-    "cpv": [
-     "42921330",
-     "50530000",
-     "42921330"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-14",
-    "value": 26984180,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814388-2026"
-   },
-   {
-    "id": "814900-2026",
-    "title": "Dinamarca – Rejillas de sumidero – Udbud af rammeaftaler for levering af brøndgods og dæksler",
-    "buyer": "HILLERØD SPILDEVAND A/S",
-    "country": "DNK",
-    "countryName": "Dinamarca",
+    "id": "818397-2026",
+    "title": "Rumanía – Conducciones, canalizaciones, tuberías de revestimiento, tubos y artículos conexos – Materiale și echipamente necesare pentru execuția lucrărilor „Reabilitarea conductei DN700 Bățani-Onești; etapa I – pregătirea pentru transformarea în conductă godevilabilă”, „Reabilitare conductă DN800 Moghioroș – Onești, Zona Bogdănești – Onești” și „Montare robinet de reglare pentru alimentare subsistem Corbu – Turnu Măgurele din NT Corbu Conducta Hurezani–Corbu–Bucuresti Fir 2 Negodevilabil",
+    "buyer": "Societatea Nationala de Transport Gaze Naturale TRANSGAZ SA",
+    "country": "ROU",
+    "countryName": "Rumanía",
     "countryIso2": null,
     "cpv": [
-     "44423750",
-     "44423700",
-     "44423750"
+     "44160000",
+     "44160000",
+     "44167300"
     ],
     "sectors": [
      "industria"
     ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-11",
-    "value": 18000000,
-    "currency": "DKK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814900-2026"
-   },
-   {
-    "id": "814580-2026",
-    "title": "Dinamarca – Productos químicos – EU-udbud af levering af ammoniakvand 24,5 % NH4OH",
-    "buyer": "Kredsløb A/S",
-    "country": "DNK",
-    "countryName": "Dinamarca",
-    "countryIso2": null,
-    "cpv": [
-     "24000000",
-     "24300000",
-     "24310000"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 16800000,
-    "currency": "DKK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814580-2026"
+    "value": 22858225.88,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818397-2026"
    },
    {
-    "id": "814322-2026",
-    "title": "Chequia – Productos de limpieza – Servis mycích linek a dodávky chemických přípravků",
-    "buyer": "Pražské služby, a.s.",
+    "id": "817630-2026",
+    "title": "Polonia – Trabajos de construcción – ZP/CZD/077/26 Modernizacja i doposażenie infrastruktury w IPCZD – Modernizacja i dostosowanie pomieszczeń na potrzeby Oddziału Otolaryngologii, Audiologii i Foniatrii w IPCZD w trybie „zaprojektuj i wybuduj” realizowanych w ramach Funduszu Medycznego.",
+    "buyer": "Instytut \"Pomnik-Centrum Zdrowia Dziecka\"",
+    "country": "POL",
+    "countryName": "Polonia",
+    "countryIso2": null,
+    "cpv": [
+     "45000000",
+     "71320000",
+     "71220000"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 16489937.5,
+    "currency": "PLN",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817630-2026"
+   },
+   {
+    "id": "817598-2026",
+    "title": "Rumanía – Balasto – Acord cadru furnizare piatra sparta de cariera cu transport inclus 2025-DSBC",
+    "buyer": "REGIA NATIONALA A PADURILOR - ROMSILVA RA Directia Silvica Bacau",
+    "country": "ROU",
+    "countryName": "Rumanía",
+    "countryIso2": null,
+    "cpv": [
+     "14212310",
+     "14212310"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 12069936.24,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817598-2026"
+   },
+   {
+    "id": "818126-2026",
+    "title": "Chequia – Abonos y compuestos nitrogenados – Dodávky hnojiv (rámcová dohoda)",
+    "buyer": "Lesy České republiky, s.p.",
     "country": "CZE",
     "countryName": "Chequia",
     "countryIso2": null,
     "cpv": [
-     "39830000",
-     "24957000",
-     "24950000"
+     "24400000",
+     "24410000",
+     "24420000"
     ],
     "sectors": [
      "industria"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "2026-12-29",
-    "value": 7700000,
+    "value": 9489000,
     "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814322-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818126-2026"
    },
    {
-    "id": "814841-2026",
-    "title": "Suecia – Servicios de transporte de desperdicios – Transport av containerflak från återvinningscentral samt hyra av containerflak",
-    "buyer": "Forshaga kommun (Inköpscentral)",
-    "country": "SWE",
-    "countryName": "Suecia",
+    "id": "818367-2026",
+    "title": "Rumanía – Plomo – Plumb 850 tone",
+    "buyer": "REGIA AUTONOMA TEHNOLOGII PENTRU ENERGIA NUCLEARA",
+    "country": "ROU",
+    "countryName": "Rumanía",
     "countryIso2": null,
     "cpv": [
-     "90512000",
-     "90512000",
-     "44613800"
+     "14712000",
+     "14712000"
     ],
     "sectors": [
      "industria"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 6000000,
-    "currency": "SEK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814841-2026"
+    "value": 9316000,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818367-2026"
    },
    {
-    "id": "814389-2026",
-    "title": "Eslovaquia – Bombas para aguas residuales – Čerpadlá pre odpadovú vodu a kaly",
-    "buyer": "Východoslovenská vodárenská spoločnosť, a.s.",
+    "id": "818028-2026",
+    "title": "Eslovaquia – Equipo de laboratorio, óptico y de precisión (excepto gafas) – DNS - Laboratórne prístroje",
+    "buyer": "Univerzita Pavla Jozefa Šafárika v Košiciach",
     "country": "SVK",
     "countryName": "Eslovaquia",
     "countryIso2": null,
     "cpv": [
-     "42122220",
-     "51514110",
-     "42122220"
+     "38000000",
+     "33100000",
+     "38300000"
     ],
     "sectors": [
      "industria"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 3145000,
+    "value": 9259654.89,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814389-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818028-2026"
    },
    {
-    "id": "814332-2026",
-    "title": "Croacia – Máquinas herramienta – ALATNI STROJEVI, ELEKTROMEHANIČKI I PNEUMATSKI RUČNI ALATI",
-    "buyer": "GRAD ZAGREB",
-    "country": "HRV",
-    "countryName": "Croacia",
+    "id": "817658-2026",
+    "title": "Rumanía – Gránulos, gravilla, polvo de piedra, guijarros, grava, piedras partidas y machacadas, mezclas de piedra, mezclas arena-grava y demás agregados – FURNIZARE PIATRA SPARTA SI BALAST IN COMUNA BRANESTI, JUDETUL ILFOV",
+    "buyer": "COMUNA BRANESTI",
+    "country": "ROU",
+    "countryName": "Rumanía",
     "countryIso2": null,
-    "cpv": [
-     "42600000",
-     "42600000"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 2850000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814332-2026"
-   },
-   {
-    "id": "814602-2026",
-    "title": "Francia – Gránulos, gravilla, polvo de piedra, guijarros, grava, piedras partidas y machacadas, mezclas de piedra, mezclas arena-grava y demás agregados – ACHAT DE DIVERS GRANULATS ET DE TERRE VÉGÉTALE POUR LES SERVICES TECHNIQUES - ANNÉE 2027 (MARCHÉ N° 26AO021)",
-    "buyer": "Commune de Saint-Joseph",
-    "country": "FRA",
-    "countryName": "Francia",
-    "countryIso2": "FR",
     "cpv": [
      "14212000",
      "14212000",
@@ -1675,268 +1611,494 @@
     "sectors": [
      "industria"
     ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-12",
-    "value": 2400000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814602-2026"
-   },
-   {
-    "id": "814492-2026",
-    "title": "Italia – Sistema de mando y control – prj_114081",
-    "buyer": "e-distribuzione S.p.A",
-    "country": "ITA",
-    "countryName": "Italia",
-    "countryIso2": "IT",
-    "cpv": [
-     "42961000",
-     "42961000"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 1783088,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814492-2026"
+    "value": 8520000,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817658-2026"
    },
    {
-    "id": "814273-2026",
-    "title": "Italia – Eliminación y tratamiento de desperdicios – Procedura aperta, ai sensi dell'art. 71, d.lgs. 36/2023, articolata in n. 4 lotti, per l'affidamento del Servizio di raccolta, trasporto, smaltimento e/o recupero dei rifiuti speciali prodotti presso gli insediamenti e luoghi di produzione della RAI S.p.A. di Roma, Milano, Napoli e Torino",
-    "buyer": "RAI - Radiotelevisione Italiana S.p.A. - A/MCT/CTD",
-    "country": "ITA",
-    "countryName": "Italia",
-    "countryIso2": "IT",
-    "cpv": [
-     "90510000",
-     "90512000",
-     "90511000"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-11-30",
-    "value": 1696287.88,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814273-2026"
-   },
-   {
-    "id": "815009-2026",
-    "title": "Chequia – Equipos de elevación y de manipulación – Servis a opravy manipulační techniky II.",
-    "buyer": "Česká národní banka",
-    "country": "CZE",
-    "countryName": "Chequia",
+    "id": "818004-2026",
+    "title": "Dinamarca – Productos químicos – Levering af polymer til Svendborg Spildevand",
+    "buyer": "SVENDBORG SPILDEVAND A/S",
+    "country": "DNK",
+    "countryName": "Dinamarca",
     "countryIso2": null,
     "cpv": [
-     "42410000",
-     "50000000",
-     "42410000"
+     "24000000",
+     "24500000",
+     "24000000"
     ],
     "sectors": [
      "industria"
     ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-06",
-    "value": 1591980,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815009-2026"
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 8132000,
+    "currency": "DKK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818004-2026"
    },
    {
-    "id": "815120-2026",
-    "title": "Chequia – Equipo de laboratorio, óptico y de precisión (excepto gafas) – Dodávka vybavení pro diagnostiku bateriových systémů",
-    "buyer": "Vysoká škola báňská - Technická univerzita Ostrava",
-    "country": "CZE",
-    "countryName": "Chequia",
-    "countryIso2": null,
-    "cpv": [
-     "38000000",
-     "38424000",
-     "31710000"
-    ],
-    "sectors": [
-     "energia",
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-21",
-    "value": 636000,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815120-2026"
-   },
-   {
-    "id": "814785-2026",
-    "title": "España – Estructuras y materiales de construcción; productos auxiliares para la construcción (excepto aparatos eléctricos) – Suministro de materiales de construcción para la Delegación de Vías y Obras del Excmo. Ayuntamiento de Barbate",
-    "buyer": "Alcaldía de Ayuntamiento de Barbate",
-    "country": "ESP",
-    "countryName": "España",
-    "countryIso2": null,
-    "cpv": [
-     "44000000",
-     "44000000"
-    ],
-    "sectors": [
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-09",
-    "value": 622024.46,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814785-2026"
-   },
-   {
-    "id": "814506-2026",
-    "title": "Bulgaria – Aceites lubricantes y agentes lubricantes – Доставка на автокозметика и смазочни материали за нуждите на органи на изпълнителната власт и техните администрации",
-    "buyer": "МИНИСТЕРСТВО НА ФИНАНСИТЕ - ЦЕНТРАЛЕН ОРГАН ЗА ПОКУПКИ",
-    "country": "BGR",
-    "countryName": "Bulgaria",
-    "countryIso2": null,
-    "cpv": [
-     "09211000",
-     "09211650",
-     "09211900"
-    ],
-    "sectors": [
-     "energia",
-     "industria"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-07",
-    "value": 600000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814506-2026"
-   },
-   {
-    "id": "814774-2026",
-    "title": "Suecia – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – IT Operations Tjänst",
-    "buyer": "Almi AB",
+    "id": "817562-2026",
+    "title": "Suecia – Trabajos de ebanistería – Specialsnickerier till Spelbomskan 16",
+    "buyer": "Kulturförvaltningen",
     "country": "SWE",
     "countryName": "Suecia",
     "countryIso2": null,
     "cpv": [
-     "72000000",
-     "72000000",
-     "72222300"
+     "45421000",
+     "44220000",
+     "45420000"
     ],
     "sectors": [
-     "tech"
+     "industria"
     ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 150000000,
+    "published": "2026-11-25",
+    "deadline": "2027-01-14",
+    "value": 8000000,
     "currency": "SEK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814774-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817562-2026"
    },
    {
-    "id": "815167-2026",
-    "title": "Noruega – Servicios a empresas: legislación, mercadotecnia, asesoría, selección de personal, imprenta y seguridad – Procurement services for Vestland county.",
-    "buyer": "Vestland fylkeskommune",
-    "country": "NOR",
-    "countryName": "Noruega",
-    "countryIso2": null,
-    "cpv": [
-     "79000000",
-     "72224000",
-     "79100000"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2027-01-15",
-    "value": 40000000,
-    "currency": "NOK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815167-2026"
-   },
-   {
-    "id": "814312-2026",
-    "title": "Rumanía – Servicios profesionales relacionados con la informática – Servicii de închiriere platforme hardware și software de bază în cadrul proiectului privind „Înlocuirea și modernizarea arhitecturii centrale și regionale a sistemului național de emitere a legitimațiilor de călătorie și rezervări locuri în trafic local xSell”",
-    "buyer": "SNTFC \"CFR CALATORI\" S.A.",
+    "id": "817575-2026",
+    "title": "Rumanía – Máquinas herramienta para trabajar vidrio – Achizitie active corporale necesare investiției productive respectiv Dotări – Utilaje necesare procesării sticlei plane",
+    "buyer": "SC BAHM CONSTRUCTII CIVILE SI INDUSTRIALE SRL",
     "country": "ROU",
     "countryName": "Rumanía",
     "countryIso2": null,
     "cpv": [
-     "72590000",
-     "72590000"
+     "42641400",
+     "42641400"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-12",
+    "value": 5696788.64,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817575-2026"
+   },
+   {
+    "id": "818481-2026",
+    "title": "Rumanía – Bombas y compresores – Dotarea cu pompe a stațiilor de pompare ape uzate aferente sistemului de apa si de canalizare din Brașov, Feldioara, Prejmer, Sânpetru, Hărman si Lunca Calnicului",
+    "buyer": "Compania APA Brasov",
+    "country": "ROU",
+    "countryName": "Rumanía",
+    "countryIso2": null,
+    "cpv": [
+     "42120000",
+     "42120000",
+     "42120000"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-14",
+    "value": 4964850,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818481-2026"
+   },
+   {
+    "id": "818385-2026",
+    "title": "Países Bajos – Grúas, pórticos móviles sobre neumáticos y carretillas grúa – A new quayside crane",
+    "buyer": "Ministerie van Defensie",
+    "country": "NLD",
+    "countryName": "Países Bajos",
+    "countryIso2": "NL",
+    "cpv": [
+     "42414000",
+     "42414100",
+     "42414110"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-15",
+    "value": 4958677,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818385-2026"
+   },
+   {
+    "id": "818347-2026",
+    "title": "Rumanía – Pintura para señalización de carreteras – Contract de furnizare vopsea de marcaj şi materiale auxiliare",
+    "buyer": "SC DRUMURI MUNICIPALE TIMISOARA SA",
+    "country": "ROU",
+    "countryName": "Rumanía",
+    "countryIso2": null,
+    "cpv": [
+     "44811000",
+     "44811000"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-15",
+    "value": 4081400,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818347-2026"
+   },
+   {
+    "id": "818463-2026",
+    "title": "Polonia – Productos químicos puros y otros productos químicos – Dostawy do kopalń JSW S.A. preparatów do nawilżania pyłów węglowych z terminem realizacji 12 miesięcy od daty zawarcia umowy.",
+    "buyer": "Jastrzębska Spółka Węglowa S.A. z siedzibą w Jastrzębiu-Zdroju, Zakład Wsparcia Produkcji",
+    "country": "POL",
+    "countryName": "Polonia",
+    "countryIso2": null,
+    "cpv": [
+     "24900000",
+     "24900000",
+     "24900000"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 3643740.1,
+    "currency": "PLN",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818463-2026"
+   },
+   {
+    "id": "818170-2026",
+    "title": "Rumanía – Artículos diversos – Materiale consumabile de laborator 1 - CANTAVAC",
+    "buyer": "Institutul National de Cercetare Dezvoltare Medico Militara Cantacuzino",
+    "country": "ROU",
+    "countryName": "Rumanía",
+    "countryIso2": null,
+    "cpv": [
+     "44423000",
+     "44423000",
+     "42996400"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 2447138.6,
+    "currency": "RON",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818170-2026"
+   },
+   {
+    "id": "818125-2026",
+    "title": "Bélgica – Elementos de sujeción – Bevestigingsartikelen",
+    "buyer": "Fluvius System Operator cv (Speciale Sectoren)",
+    "country": "BEL",
+    "countryName": "Bélgica",
+    "countryIso2": null,
+    "cpv": [
+     "44530000",
+     "44530000",
+     "44530000"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 2280200,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818125-2026"
+   },
+   {
+    "id": "817950-2026",
+    "title": "Italia – Bicarbonato de sodio – Procedura aperta per la fornitura di bicarbonato di sodio per il termovalorizzatore di Valmadrera",
+    "buyer": "Silea S.p.A.",
+    "country": "ITA",
+    "countryName": "Italia",
+    "countryIso2": "IT",
+    "cpv": [
+     "24313320",
+     "24313320"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2027-01-18",
+    "value": 2235600,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817950-2026"
+   },
+   {
+    "id": "817774-2026",
+    "title": "Eslovaquia – Bombas (equipos de bombeo) – Čerpadlá na pitnú vodu",
+    "buyer": "Východoslovenská vodárenská spoločnosť, a.s.",
+    "country": "SVK",
+    "countryName": "Eslovaquia",
+    "countryIso2": null,
+    "cpv": [
+     "42122000",
+     "42122100",
+     "42122130"
+    ],
+    "sectors": [
+     "industria"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 1265000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817774-2026"
+   },
+   {
+    "id": "818446-2026",
+    "title": "Chequia – Infraestructura de red – DNS na dodávky prvků komunikační infrastruktury",
+    "buyer": "Ředitelství silnic a dálnic s. p.",
+    "country": "CZE",
+    "countryName": "Chequia",
+    "countryIso2": null,
+    "cpv": [
+     "32424000",
+     "32424000",
+     "32424000"
     ],
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 26513784,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814312-2026"
+    "value": 290000000,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818446-2026"
    },
    {
-    "id": "814369-2026",
-    "title": "España – Servicios de mantenimiento y reparación de software – Servicio gestionado de una plataforma integral de producción de contenidos audiovisuales",
-    "buyer": "RADIO TELEVISIÓN MADRID, S.A.U.",
+    "id": "818058-2026",
+    "title": "Italia – Servicios de programación de software y de consultoría – Procedura aperta per l’affidamento dei Servizi di Data Management e Data Analytics per le Pubbliche Amministrazioni della Toscana suddivisa in tre lotti",
+    "buyer": "SOGGETTO AGGREGATORE REGIONE TOSCANA - SETTORE SISTEMA INFORMATIVO, ARCHITETTURA APPLICATIVA E CYBER SECURITY",
+    "country": "ITA",
+    "countryName": "Italia",
+    "countryIso2": "IT",
+    "cpv": [
+     "72200000",
+     "72200000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 63217870,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818058-2026"
+   },
+   {
+    "id": "817552-2026",
+    "title": "Suecia – Servicios de correos y telecomunicaciones – RD-net",
+    "buyer": "Region Dalarna",
+    "country": "SWE",
+    "countryName": "Suecia",
+    "countryIso2": null,
+    "cpv": [
+     "64000000",
+     "32400000",
+     "32412000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 30000000,
+    "currency": "SEK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817552-2026"
+   },
+   {
+    "id": "818423-2026",
+    "title": "España – Servicios de gestión relacionados con la informática – Servicios de Atención a Personas Usuarias convergentes 2027",
+    "buyer": "EJIE, S.A. - Sociedad Informática del Gobierno Vasco - EJIE-Sociedad Informática del Gobierno Vasco",
     "country": "ESP",
     "countryName": "España",
     "countryIso2": null,
     "cpv": [
-     "72267000",
-     "72267000"
+     "72510000",
+     "79342320",
+     "79342320"
     ],
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-15",
-    "value": 17203680,
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 29562328,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814369-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818423-2026"
    },
    {
-    "id": "815123-2026",
-    "title": "Chequia – Servicios de desarrollo de software – Rozvoj a technická podpora systému Single Window",
+    "id": "818225-2026",
+    "title": "Chequia – Servicios de suministro de software – DNS – SW licence a související služby pro elektronizaci zdravotnictví",
+    "buyer": "Ministerstvo zdravotnictví",
+    "country": "CZE",
+    "countryName": "Chequia",
+    "countryIso2": null,
+    "cpv": [
+     "72268000",
+     "48000000",
+     "72200000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 21680000,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818225-2026"
+   },
+   {
+    "id": "817758-2026",
+    "title": "Países Bajos – Paquetes de software y sistemas de información – Vendor Management Systeem (VMS) Enexis",
+    "buyer": "Enexis Personeel BV",
+    "country": "NLD",
+    "countryName": "Países Bajos",
+    "countryIso2": "NL",
+    "cpv": [
+     "48000000",
+     "72200000",
+     "48000000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 20250000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817758-2026"
+   },
+   {
+    "id": "817903-2026",
+    "title": "Noruega – Tabletas digitales – Digital notebooks",
+    "buyer": "Norwegian Ministry of Foreign Affairs",
+    "country": "NOR",
+    "countryName": "Noruega",
+    "countryIso2": null,
+    "cpv": [
+     "30213200",
+     "30000000",
+     "30213000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 20000000,
+    "currency": "NOK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817903-2026"
+   },
+   {
+    "id": "817847-2026",
+    "title": "Chequia – Paquetes de software de seguridad – Dodávka maintenance podpory užívaných zařízení Cisco a subscripce užívaných produktů Cisco",
     "buyer": "Generální ředitelství cel",
     "country": "CZE",
     "countryName": "Chequia",
     "countryIso2": null,
     "cpv": [
-     "72262000",
-     "72261000",
-     "72262000"
+     "48730000",
+     "48730000"
     ],
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "2026-12-28",
-    "value": 14576099.18,
+    "value": 7000000,
     "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815123-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817847-2026"
    },
    {
-    "id": "814983-2026",
-    "title": "Chequia – Servicios de desarrollo de software de control del tránsito aéreo – Digitální mapa",
-    "buyer": "Řízení letového provozu České republiky, státní podnik (ŘLP ČR, s.p.)",
+    "id": "818095-2026",
+    "title": "Chequia – Sistemas y servidores de información – Zajištění kybernetické bezpečnosti pro NSVS SMÚL I. (opakované vyhlášení)",
+    "buyer": "Statutární město Ústí nad Labem",
     "country": "CZE",
     "countryName": "Chequia",
     "countryIso2": null,
     "cpv": [
-     "72212121",
-     "48326100",
+     "48800000",
+     "72268000",
+     "72261000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "2026-12-29",
+    "value": 6829500,
+    "currency": "CZK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818095-2026"
+   },
+   {
+    "id": "817851-2026",
+    "title": "Chequia – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Výběr systému CDE a pořízení a implementace CAFM systému - část I - CDE",
+    "buyer": "Karlovarský kraj",
+    "country": "CZE",
+    "countryName": "Chequia",
+    "countryIso2": null,
+    "cpv": [
+     "72000000",
+     "72260000",
      "72263000"
     ],
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 13739200,
+    "value": 5500000,
     "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814983-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817851-2026"
    },
    {
-    "id": "815237-2026",
-    "title": "Eslovaquia – Paquetes de software y sistemas de información – Nákup licencií a súvisiacich služieb štandardnej podpory",
-    "buyer": "Úrad geodézie, kartografie a katastra Slovenskej republiky",
-    "country": "SVK",
-    "countryName": "Eslovaquia",
+    "id": "818223-2026",
+    "title": "Italia – Máquinas procesadoras de datos (hardware) – Fornitura di una piattaforma di analisi delle performance dei servizi di rete e servizi correlati",
+    "buyer": "TERNA S.p.A.",
+    "country": "ITA",
+    "countryName": "Italia",
+    "countryIso2": "IT",
+    "cpv": [
+     "30210000",
+     "30210000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 5362500,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818223-2026"
+   },
+   {
+    "id": "818254-2026",
+    "title": "Italia – Servicios relacionados con datos – GARA EUROPEA A PROCEDURA APERTA PER IL SERVIZIO TRIENNALE DI ELABORAZIONE DATI PER IL SISTEMA DI ESAZIONE PEDAGGIO E PRODOTTI SOFTWARE PER IL CONTROLLO DEL TRAFFICO PER UN PERIODO DI MESI TRENTASEI",
+    "buyer": "Consorzio per le Autostrade Siciliane",
+    "country": "ITA",
+    "countryName": "Italia",
+    "countryIso2": "IT",
+    "cpv": [
+     "72300000",
+     "72300000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 5149345.44,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818254-2026"
+   },
+   {
+    "id": "817864-2026",
+    "title": "Suecia – Paquetes de software y sistemas de información – RFI ledningssystem",
+    "buyer": "Sjöfartsverket",
+    "country": "SWE",
+    "countryName": "Suecia",
     "countryIso2": null,
     "cpv": [
      "48000000",
@@ -1945,78 +2107,16 @@
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 12920000,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815237-2026"
+    "value": 4000000,
+    "currency": "SEK",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817864-2026"
    },
    {
-    "id": "814607-2026",
-    "title": "Chequia – Sistemas de megafonía – Místní rozhlasy v budovách přírodovědecké fakulty",
-    "buyer": "Masarykova univerzita",
-    "country": "CZE",
-    "countryName": "Chequia",
-    "countryIso2": null,
-    "cpv": [
-     "48952000",
-     "48952000"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 11800000,
-    "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814607-2026"
-   },
-   {
-    "id": "814766-2026",
-    "title": "Eslovaquia – Servicios de sistemas y apoyo – Služby konsolidovanej podpory prevádzky informačných systémov ITMS (ITMS II, ITMS2014+ a ITMS21+)",
-    "buyer": "DataCentrum",
-    "country": "SVK",
-    "countryName": "Eslovaquia",
-    "countryIso2": null,
-    "cpv": [
-     "72250000",
-     "72261000",
-     "72212422"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 9857894.4,
-    "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814766-2026"
-   },
-   {
-    "id": "814437-2026",
-    "title": "Noruega – Servicios de desarrollo de software de interconectividad de plataformas – 26/02714 Sharing of journal documents from contract specialists - Norsk helsenett SF",
-    "buyer": "Norsk Helsenett SF",
-    "country": "NOR",
-    "countryName": "Noruega",
-    "countryIso2": null,
-    "cpv": [
-     "72212211",
-     "72212213",
-     "72212215"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 9000000,
-    "currency": "NOK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814437-2026"
-   },
-   {
-    "id": "815209-2026",
-    "title": "Alemania – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Unterstützungs- und Implementierungsleistungen zur Einführung von Employee Central",
-    "buyer": "Die Autobahn GmbH des Bundes",
+    "id": "817945-2026",
+    "title": "Alemania – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Rahmenverträge über Beratungsleistungen zur Informationssicherheit, Los 3",
+    "buyer": "Sächsische Staatskanzlei",
     "country": "DEU",
     "countryName": "Alemania",
     "countryIso2": "DE",
@@ -2027,176 +2127,194 @@
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 8325302.74,
+    "value": 2547610,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815209-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817945-2026"
    },
    {
-    "id": "815230-2026",
-    "title": "Croacia – Equipo y artículos de oficina diversos – UREDSKI MATERIJAL - TONERI I TINTE",
-    "buyer": "Središnji državni ured za središnju javnu nabavu",
-    "country": "HRV",
-    "countryName": "Croacia",
+    "id": "817550-2026",
+    "title": "Eslovaquia – Papel de impresión – Tabelačný a xerografický papier a grafické služby pre stredisko POSTservis Mail & Pack",
+    "buyer": "Slovenská pošta, a.s.",
+    "country": "SVK",
+    "countryName": "Eslovaquia",
     "countryIso2": null,
     "cpv": [
-     "30190000",
-     "30190000",
-     "30190000"
+     "30197630",
+     "30197640",
+     "30197642"
     ],
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
-    "deadline": "",
-    "value": 6800000,
+    "published": "2026-11-25",
+    "deadline": "2027-01-05",
+    "value": 1881763.47,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815230-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817550-2026"
    },
    {
-    "id": "814959-2026",
-    "title": "Polonia – Pantallas de ordenador y consolas – Zakup konsol operatorów numerów alarmowych wraz z dostawą",
-    "buyer": "Ministerstwo Spraw Wewnętrznych i Administracji",
-    "country": "POL",
-    "countryName": "Polonia",
-    "countryIso2": null,
-    "cpv": [
-     "30231000",
-     "30231000"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-09",
-    "value": 6325050,
-    "currency": "PLN",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814959-2026"
-   },
-   {
-    "id": "815196-2026",
-    "title": "Chequia – Memorias DRAM (Dynamic Random Access Memory) – Navýšení výkonu virtuálního prostředí Strakova akademie",
-    "buyer": "Úřad vlády České republiky",
+    "id": "817584-2026",
+    "title": "Chequia – Servidores – RUK – ÚVT – Dynamický nákupní systém na ICT vybavení zahrnující pořízení HW, SW i souvisejících služeb",
+    "buyer": "Univerzita Karlova",
     "country": "CZE",
     "countryName": "Chequia",
     "countryIso2": null,
     "cpv": [
-     "30236111",
-     "30211500",
-     "30236111"
+     "48820000",
+     "48820000"
     ],
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-22",
-    "value": 5060000,
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 1655200,
     "currency": "CZK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815196-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817584-2026"
    },
    {
-    "id": "814797-2026",
-    "title": "Suecia – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Bibliotekssystem",
-    "buyer": "Österåkers kommun",
-    "country": "SWE",
-    "countryName": "Suecia",
-    "countryIso2": null,
+    "id": "817770-2026",
+    "title": "Francia – Servicios de programación de software y de consultoría – Fourniture d’une prestation de support associée aux licences Microsoft",
+    "buyer": "Banque de France - Direction des Achats",
+    "country": "FRA",
+    "countryName": "Francia",
+    "countryIso2": "FR",
+    "cpv": [
+     "72200000",
+     "72200000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 1200000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817770-2026"
+   },
+   {
+    "id": "818204-2026",
+    "title": "Alemania – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – ADLER und VPA (KONSENS)",
+    "buyer": "Land Hessen, vertreten durch die Hessische Zentrale für Datenverarbeitung",
+    "country": "DEU",
+    "countryName": "Alemania",
+    "countryIso2": "DE",
     "cpv": [
      "72000000",
-     "48160000",
      "72000000"
     ],
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-11-30",
-    "value": 5000000,
-    "currency": "SEK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814797-2026"
-   },
-   {
-    "id": "814334-2026",
-    "title": "Irlanda – Servicios de unidad de asistencia y de apoyo – Provision of Computer Assisted Telephone Interviewing (CATI) services and associated services for the Central Statistics Office, Ireland",
-    "buyer": "Central Statistics Office",
-    "country": "IRL",
-    "countryName": "Irlanda",
-    "countryIso2": null,
-    "cpv": [
-     "72253000",
-     "72253100",
-     "75100000"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 5000000,
+    "value": 915200,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814334-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/818204-2026"
    },
    {
-    "id": "815088-2026",
-    "title": "Croacia – Paquetes de software y sistemas de información – Uspostava IT operativne platforme za upravljanje dnevničkim zapisima i izvještavanje",
-    "buyer": "HEP d.d.",
-    "country": "HRV",
-    "countryName": "Croacia",
-    "countryIso2": null,
+    "id": "817625-2026",
+    "title": "Portugal – Equipo de comunicaciones – 2026006353 - Módulos Projetáveis CSI",
+    "buyer": "Estado-Maior-General das Forças Armadas (EMGFA)",
+    "country": "PRT",
+    "countryName": "Portugal",
+    "countryIso2": "PT",
     "cpv": [
-     "48000000",
-     "48000000"
+     "32570000",
+     "32570000"
     ],
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-24",
-    "value": 4500000,
+    "published": "2026-11-25",
+    "deadline": "2027-01-04",
+    "value": 887347,
     "currency": "EUR",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815088-2026"
+    "url": "https://ted.europa.eu/es/notice/-/detail/817625-2026"
    },
    {
-    "id": "814803-2026",
-    "title": "Rumanía – Artículos de papelería y otros artículos – Pachete educaționale pentru derularea anuală a atelierelor pedagogice pentru anul școlar 2025 – 2026, pentru elevii din clasa a XI-a din liceele pedagogice și din clasele de vocațional pedagogic, în scopul organizării și desfășurării activităților proiectului „Sistem Unitar pentru Educație Timpurie Incluzivă și de Calitate” - SUETIC",
-    "buyer": "MINISTERUL EDUCATIEI ȘI CERCETĂRII",
-    "country": "ROU",
-    "countryName": "Rumanía",
-    "countryIso2": null,
+    "id": "818052-2026",
+    "title": "Portugal – Servicios de programación de software y de consultoría – Aquisição de serviços de desenvolvimento aplicacional no âmbito do projeto de ecossistema aplicacional STADAEXPCAU  Manutenção 2027",
+    "buyer": "Autoridade Tributária e Aduaneira",
+    "country": "PRT",
+    "countryName": "Portugal",
+    "countryIso2": "PT",
     "cpv": [
-     "30199000",
-     "30199000"
+     "72200000",
+     "72200000"
     ],
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
+    "published": "2026-11-25",
     "deadline": "",
-    "value": 4317438,
-    "currency": "RON",
-    "url": "https://ted.europa.eu/es/notice/-/detail/814803-2026"
+    "value": 686000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818052-2026"
    },
    {
-    "id": "815079-2026",
-    "title": "Suecia – Paquetes de software de análisis financiero y contabilidad – Sanktionskontroll",
-    "buyer": "Verket för innovationssystem",
-    "country": "SWE",
-    "countryName": "Suecia",
-    "countryIso2": null,
+    "id": "818390-2026",
+    "title": "Países Bajos – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – SIEM-SOC dienstverlening",
+    "buyer": "Senzer",
+    "country": "NLD",
+    "countryName": "Países Bajos",
+    "countryIso2": "NL",
     "cpv": [
-     "48440000",
-     "48441000",
-     "48440000"
+     "72000000",
+     "72212730",
+     "72000000"
     ],
     "sectors": [
      "tech"
     ],
-    "published": "2026-11-24",
-    "deadline": "2026-12-04",
-    "value": 4000000,
-    "currency": "SEK",
-    "url": "https://ted.europa.eu/es/notice/-/detail/815079-2026"
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 680000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818390-2026"
+   },
+   {
+    "id": "818127-2026",
+    "title": "Austria – Servicios de diseño de sitios web www – DÖW – Neugestaltung Website",
+    "buyer": "Stiftung Dokumentationsarchiv des österreichischen Widerstandes",
+    "country": "AUT",
+    "countryName": "Austria",
+    "countryIso2": null,
+    "cpv": [
+     "72413000",
+     "72421000",
+     "72422000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 540000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/818127-2026"
+   },
+   {
+    "id": "817561-2026",
+    "title": "Portugal – Servicios de programación de software y de consultoría – 40/CLPQ/AT/2026 - Aquisição de serviços de desenvolvimento aplicacional no âmbito da Manutenção dos Sistemas de Gestão Declarativa, componente batch e Pilar II",
+    "buyer": "Autoridade Tributária e Aduaneira",
+    "country": "PRT",
+    "countryName": "Portugal",
+    "countryIso2": "PT",
+    "cpv": [
+     "72200000",
+     "72200000"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "published": "2026-11-25",
+    "deadline": "",
+    "value": 475000,
+    "currency": "EUR",
+    "url": "https://ted.europa.eu/es/notice/-/detail/817561-2026"
    }
   ]
  }

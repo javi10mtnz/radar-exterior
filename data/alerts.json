@@ -1,11 +1,72 @@
 {
- "updatedAt": "2026-11-27T23:34:14.257Z",
+ "updatedAt": "2026-11-28T00:32:53.470Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "acuerdo arancel colombia comercial exportaran firmara productos reciproco",
+    "type": "arancel",
+    "title": "Colombia firmará acuerdo comercial recíproco con EE . UU .: productos se exportarán con 0 % de arancel",
+    "url": "https://www.elcolombiano.com/negocios/colombia-acuerdo-comercial-estados-unidos-arancel-cero-exportaciones-2027-MG44173294",
+    "domain": "elcolombiano.com",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-27T23:45:00Z",
+    "countries": [
+     "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "chapo descarta extradicion isidro negociacion posible sheinbaum vincular",
+    "type": "arancel",
+    "title": "Sheinbaum descarta vincular posible extradición de El Chapo Isidro con negociación arancelaria de México y EU",
+    "url": "https://www.termometroenlinea.com.mx/vernoticiasN.php?artid=135441&cat=255",
+    "domain": "termometroenlinea.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-27T23:45:00Z",
+    "countries": [
+     "MX",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "amenaza arancelaria contra donald lanza mundo otra trump",
+    "type": "arancel",
+    "title": "Lanza Donald Trump otra amenaza arancelaria contra el mundo - Almomento | Noticias , información nacional e internacional",
+    "url": "https://almomento.mx/lanza-donald-trump-otra-amenaza-arancelaria-contra-el-mundo/",
+    "domain": "almomento.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-27T22:45:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles busca cerrar colombia gobierno negociacion",
+    "type": "arancel",
+    "title": "Aranceles de EE . UU . a Colombia : la negociación que busca cerrar el Gobierno",
+    "url": "https://www.elespectador.com/economia/gobierno-espera-eliminar-en-cuatro-meses-el-arancel-para-productos-colombianos-en-ee-uu/",
+    "domain": "elespectador.com",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-27T22:45:00Z",
+    "countries": [
+     "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "another breach disabled military says ship that tried",
     "type": "geo",
@@ -23,6 +84,21 @@
      "transporte"
     ],
     "severity": "alta"
+   },
+   {
+    "id": "acelera acuerdo comercial congreso llevara milei trump",
+    "type": "arancel",
+    "title": "Milei acelera el acuerdo comercial con Trump y lo llevará al Congreso",
+    "url": "https://www.elsol.com.ar/el-pais/milei-acelera-el-acuerdo-comercial-con-trump-y-lo-llevara-al-congreso/",
+    "domain": "elsol.com.ar",
+    "lang": "es",
+    "sourceCountry": "Argentina",
+    "at": "2026-11-27T22:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
    },
    {
     "id": "disabled gulf headed iranian military oman ports ship",
@@ -120,6 +196,66 @@
     "at": "2026-11-27T20:30:00Z",
     "countries": [
      "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles s02e27 trump",
+    "type": "arancel",
+    "title": "Trump . Aranceles . S02E27",
+    "url": "https://www.sinembargo.mx/4910773/trump-aranceles-s02e27/",
+    "domain": "sinembargo.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aranceles conversa disminucion estados singapur unidos",
+    "type": "arancel",
+    "title": "Conversa Singapur con Estados Unidos disminución de aranceles",
+    "url": "https://www.prensa-latina.cu/2026/11/27/conversa-singapur-con-estados-unidos-disminucion-de-aranceles/",
+    "domain": "prensa-latina.cu",
+    "lang": "es",
+    "sourceCountry": "Cuba",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "aprueba arancel estados productos tailandia unidos",
+    "type": "arancel",
+    "title": "Tailandia aprueba arancel de Estados Unidos a sus productos",
+    "url": "https://www.prensa-latina.cu/2026/11/27/tailandia-aprueba-arancel-de-estados-unidos-a-sus-productos/",
+    "domain": "prensa-latina.cu",
+    "lang": "es",
+    "sourceCountry": "Cuba",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "2026 colombia dolar noviembre precio viernes",
+    "type": "arancel",
+    "title": "Precio del dólar hoy en Colombia , viernes 27 de noviembre de 2026",
+    "url": "https://www.colombia.com:443/actualidad/economia/precio-del-dolar-hoy-en-colombia-viernes-27-de-noviembre-de-2026-614422",
+    "domain": "colombia.com",
+    "lang": "es",
+    "sourceCountry": "Colombia",
+    "at": "2026-11-27T06:30:00Z",
+    "countries": [
+     "CO"
     ],
     "sectors": [],
     "severity": "baja"
@@ -298,66 +434,6 @@
     "severity": "baja"
    },
    {
-    "id": "aranceles conversa disminucion estados singapur unidos",
-    "type": "arancel",
-    "title": "Conversa Singapur con Estados Unidos disminución de aranceles",
-    "url": "https://www.prensa-latina.cu/2026/11/27/conversa-singapur-con-estados-unidos-disminucion-de-aranceles/",
-    "domain": "prensa-latina.cu",
-    "lang": "es",
-    "sourceCountry": "Cuba",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "aprueba arancel estados productos tailandia unidos",
-    "type": "arancel",
-    "title": "Tailandia aprueba arancel de Estados Unidos a sus productos",
-    "url": "https://www.prensa-latina.cu/2026/11/27/tailandia-aprueba-arancel-de-estados-unidos-a-sus-productos/",
-    "domain": "prensa-latina.cu",
-    "lang": "es",
-    "sourceCountry": "Cuba",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "aranceles s02e27 trump",
-    "type": "arancel",
-    "title": "Trump . Aranceles . S02E27",
-    "url": "https://www.sinembargo.mx/4910773/trump-aranceles-s02e27/",
-    "domain": "sinembargo.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "2026 colombia dolar noviembre precio viernes",
-    "type": "arancel",
-    "title": "Precio del dólar hoy en Colombia , viernes 27 de noviembre de 2026",
-    "url": "https://www.colombia.com:443/actualidad/economia/precio-del-dolar-hoy-en-colombia-viernes-27-de-noviembre-de-2026-614422",
-    "domain": "colombia.com",
-    "lang": "es",
-    "sourceCountry": "Colombia",
-    "at": "2026-11-27T06:30:00Z",
-    "countries": [
-     "CO"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "advance free goal korea seek south trade uzbekistan",
     "type": "regulacion",
     "title": "Uzbekistan , South Korea seek $5B trade goal , advance free trade talks",
@@ -371,6 +447,22 @@
     ],
     "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "adicionales aranceles china china eeuu firmemente opone otras",
+    "type": "arancel",
+    "title": "China se opone firmemente a aranceles adicionales de EEUU a China y otras economías",
+    "url": "http://spanish.china.org.cn/txt/2026-11/27/content_118791589.htm",
+    "domain": "spanish.china.org.cn",
+    "lang": "es",
+    "sourceCountry": "China",
+    "at": "2026-11-27T05:30:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "2027 cross despite export india march mark trillion",
@@ -416,22 +508,6 @@
     "countries": [
      "US",
      "IN"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "adicionales aranceles china china eeuu firmemente opone otras",
-    "type": "arancel",
-    "title": "China se opone firmemente a aranceles adicionales de EEUU a China y otras economías",
-    "url": "http://spanish.china.org.cn/txt/2026-11/27/content_118791589.htm",
-    "domain": "spanish.china.org.cn",
-    "lang": "es",
-    "sourceCountry": "China",
-    "at": "2026-11-27T05:30:00Z",
-    "countries": [
-     "US",
-     "CN"
     ],
     "sectors": [],
     "severity": "media"
@@ -519,24 +595,6 @@
     "severity": "media"
    },
    {
-    "id": "beef brazilian calls doped macron weeks",
-    "type": "arancel",
-    "title": "Macron Calls Brazilian Beef Doped ; EU Ban Is 12 Weeks Old",
-    "url": "https://www.riotimesonline.com/macron-brazilian-beef-doped-eu-ban-mercosur-2026/",
-    "domain": "riotimesonline.com",
-    "lang": "en",
-    "sourceCountry": "Brazil",
-    "at": "2026-11-27T01:45:00Z",
-    "countries": [
-     "BR",
-     "EU"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "alta"
-   },
-   {
     "id": "acto aranceles china eeuu responde tipico unilateralismo",
     "type": "arancel",
     "title": "China responde a aranceles de EEUU : Es un típico acto de unilateralismo",
@@ -553,19 +611,21 @@
     "severity": "media"
    },
    {
-    "id": "china from global grip prise tariffs trade trump",
-    "type": "geo",
-    "title": "Trump new tariffs aim to prise global trade from China grip",
-    "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
-    "domain": "asiaone.com",
+    "id": "beef brazilian calls doped macron weeks",
+    "type": "arancel",
+    "title": "Macron Calls Brazilian Beef Doped ; EU Ban Is 12 Weeks Old",
+    "url": "https://www.riotimesonline.com/macron-brazilian-beef-doped-eu-ban-mercosur-2026/",
+    "domain": "riotimesonline.com",
     "lang": "en",
-    "sourceCountry": "Singapore",
-    "at": "2026-11-27T01:15:00Z",
+    "sourceCountry": "Brazil",
+    "at": "2026-11-27T01:45:00Z",
     "countries": [
-     "US",
-     "CN"
+     "BR",
+     "EU"
     ],
-    "sectors": [],
+    "sectors": [
+     "alim"
+    ],
     "severity": "alta"
    },
    {
@@ -598,6 +658,22 @@
     ],
     "sectors": [],
     "severity": "media"
+   },
+   {
+    "id": "china from global grip prise tariffs trade trump",
+    "type": "geo",
+    "title": "Trump new tariffs aim to prise global trade from China grip",
+    "url": "https://www.asiaone.com:443/world/trumps-new-tariffs-aim-prise-global-trade-chinas-grip",
+    "domain": "asiaone.com",
+    "lang": "en",
+    "sourceCountry": "Singapore",
+    "at": "2026-11-27T01:15:00Z",
+    "countries": [
+     "US",
+     "CN"
+    ],
+    "sectors": [],
+    "severity": "alta"
    },
    {
     "id": "costs energy exports high hurt inefficient nigerian ports",
@@ -663,6 +739,21 @@
     "severity": "baja"
    },
    {
+    "id": "aranceles comerciales estados nuevos para propone socios trump",
+    "type": "arancel",
+    "title": "Trump propone nuevos aranceles para 14 socios comerciales de Estados Unidos",
+    "url": "https://abriendobrecha.tv/internacionales/trump-propone-nuevos-aranceles-para-14-socios-comerciales-de-estados-unidos/",
+    "domain": "abriendobrecha.tv",
+    "lang": "es",
+    "sourceCountry": "Honduras",
+    "at": "2026-11-27T00:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "chips cloud controls export grip nvidia threatening tighten",
     "type": "sancion",
     "title": "US Export Controls Tighten Grip on Nvidia Chips , Threatening AI Cloud Access for Chinese Firms",
@@ -679,21 +770,6 @@
      "tech"
     ],
     "severity": "media"
-   },
-   {
-    "id": "aranceles comerciales estados nuevos para propone socios trump",
-    "type": "arancel",
-    "title": "Trump propone nuevos aranceles para 14 socios comerciales de Estados Unidos",
-    "url": "https://abriendobrecha.tv/internacionales/trump-propone-nuevos-aranceles-para-14-socios-comerciales-de-estados-unidos/",
-    "domain": "abriendobrecha.tv",
-    "lang": "es",
-    "sourceCountry": "Honduras",
-    "at": "2026-11-27T00:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
    },
    {
     "id": "amid dollar exchange government halted intervention rate suspicion",
@@ -2406,56 +2482,6 @@
     "severity": "baja"
    },
    {
-    "id": "brasil estados expreso imponer indignacion nuevos propuesta unidos",
-    "type": "arancel",
-    "title": "Brasil expresó su indignación por la propuesta de Estados Unidos de imponer nuevos aranceles a sus aviones y su azúcar",
-    "url": "https://www.perfil.com/politica/brasil-expreso-su-indignacion-por-la-propuesta-de-estados-unidos-de-imponer-nuevos-aranceles-a-sus-aviones-y-su-azucar-ax04r5v7ZyRY",
-    "domain": "perfil.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-26T01:45:00Z",
-    "countries": [
-     "US",
-     "BR"
-    ],
-    "sectors": [
-     "alim"
-    ],
-    "severity": "media"
-   },
-   {
-    "id": "ahora arancel libra mexico otro podria trump",
-    "type": "arancel",
-    "title": "México libra por ahora otro arancel de Trump ; podría ir en el T - MEC",
-    "url": "https://www.proceso.com.mx/economia/2026/11/25/mexico-libra-por-ahora-otro-arancel-de-trump-podria-ir-en-el-t-mec-384357.html",
-    "domain": "proceso.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-26T01:30:00Z",
-    "countries": [
-     "US",
-     "MX"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
-    "id": "analiza comerciales mexico salva socios tarifas",
-    "type": "arancel",
-    "title": "Analiza EU tarifas a 14 socios comerciales ; México se salva",
-    "url": "https://www.eldiariodechihuahua.mx/estados-unidos/2026/nov/25/analiza-eu-tarifas-a-14-socios-comerciales-mexico-se-salva-860642.html",
-    "domain": "eldiariodechihuahua.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
-    "at": "2026-11-26T01:15:00Z",
-    "countries": [
-     "MX",
-     "EU"
-    ],
-    "sectors": [],
-    "severity": "media"
-   },
-   {
     "id": "asian could india lower secure several tariffs than",
     "type": "regulacion",
     "title": "India could secure lower US tariffs than several Asian competitors if trade deal materialises",
@@ -4019,51 +4045,18 @@
      "tech"
     ],
     "severity": "baja"
-   },
-   {
-    "id": "added bessent china exports needed nvidia restrictions",
-    "type": "sancion",
-    "title": "Bessent : No added restrictions needed for Nvidia exports to China",
-    "url": "https://www.wokv.com/news/business/treasury-secretary/TRQRTZSNFE3OJM6X4KLSGWXTXE/",
-    "domain": "wokv.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-21T00:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
-    "id": "chip further needed nvidia restrictions says secretary treasury",
-    "type": "sancion",
-    "title": "Treasury secretary says no further restrictions are needed for Nvidia chip exports to China",
-    "url": "https://www.clickorlando.com/business/2026/11/20/treasury-secretary-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china/",
-    "domain": "clickorlando.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-21T00:30:00Z",
-    "countries": [
-     "CN"
-    ],
-    "sectors": [
-     "tech"
-    ],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: fetch failed",
    "regulacion/spanish: fetch failed",
    "divisa/english: fetch failed",
-   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "divisa/spanish: fetch failed",
+   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
