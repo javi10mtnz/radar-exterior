@@ -1,11 +1,74 @@
 {
- "updatedAt": "2026-11-28T15:55:41.650Z",
+ "updatedAt": "2026-11-28T16:57:36.688Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
  "refresh": "Cada 15–30 minutos",
  "data": {
   "items": [
+   {
+    "id": "accelerate airlangga deal indonesia says tariffs trade",
+    "type": "regulacion",
+    "title": "US tariffs accelerate Indonesia - EU trade deal , Airlangga says",
+    "url": "https://en.antaranews.com/news/446119/us-tariffs-accelerate-indonesia-eu-trade-deal-airlangga-says",
+    "domain": "en.antaranews.com",
+    "lang": "en",
+    "sourceCountry": "Indonesia",
+    "at": "2026-11-28T15:45:00Z",
+    "countries": [
+     "US",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
+   },
+   {
+    "id": "china chips controls export finds insidious nvidia workarounds",
+    "type": "sancion",
+    "title": "China finds insidious workarounds to export controls on Nvidia chips",
+    "url": "https://nypost.com/2026/11/28/opinion/china-finds-insidious-workarounds-to-export-controls-on-nvidia-chips/",
+    "domain": "nypost.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T15:30:00Z",
+    "countries": [
+     "CN"
+    ],
+    "sectors": [
+     "tech"
+    ],
+    "severity": "baja"
+   },
+   {
+    "id": "chemical combat exports myanmar pollution river thailand",
+    "type": "regulacion",
+    "title": "Thailand to Ban Chemical Exports to Myanmar to Combat River Pollution",
+    "url": "https://dailypioneer.com/world/thailand-to-ban-chemical-exports-to-myanmar-over-toxic-river-pollution",
+    "domain": "dailypioneer.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-28T15:30:00Z",
+    "countries": [],
+    "sectors": [
+     "industria"
+    ],
+    "severity": "media"
+   },
+   {
+    "id": "access expands global india targets trade trillion trillion",
+    "type": "regulacion",
+    "title": "India Expands Global Trade Access to $70 Trillion , Targets $85 Trillion in 18 Months - visionmp . com vision mp - Vision MP – MP Breaking News , Madhya Pradesh News , Live Updates",
+    "url": "https://visionmp.com/national/india-expands-global-trade/",
+    "domain": "visionmp.com",
+    "lang": "en",
+    "sourceCountry": "India",
+    "at": "2026-11-28T15:30:00Z",
+    "countries": [
+     "IN"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
    {
     "id": "against cooperating iran iraq naval trump warns with",
     "type": "geo",
@@ -166,7 +229,7 @@
    },
    {
     "id": "access china duty free sought",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "Duty - free access to China sought",
     "url": "https://tribune.com.pk/story/2642706/duty-free-access-to-china-sought",
     "domain": "tribune.com.pk",
@@ -229,7 +292,7 @@
    },
    {
     "id": "baystreet canada excluded from tariffs",
-    "type": "arancel",
+    "type": "regulacion",
     "title": "Baystreet . ca - Canada Excluded From New U . S . Tariffs",
     "url": "https://baystreet.ca/articles/economiccommentary/125643/Canada-Excluded-From-New-US-Tariffs",
     "domain": "baystreet.ca",
@@ -273,6 +336,21 @@
     "severity": "baja"
    },
    {
+    "id": "challenge democrats giving opening republicans rethink tariffs trump",
+    "type": "regulacion",
+    "title": "Republicans rethink tariffs , giving Democrats an opening to challenge Trump",
+    "url": "https://www.decaturdaily.com/news/other_news/national/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump/article_051a9c7f-61bc-4343-81da-9d04727e9022.html",
+    "domain": "decaturdaily.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-28T06:30:00Z",
+    "countries": [
+     "US"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
     "id": "another breach disabled military says ship that tried",
     "type": "geo",
     "title": "US military says it disabled another ship that tried to breach naval blockade on Iranian ports",
@@ -305,21 +383,6 @@
     "sectors": [
      "tech"
     ],
-    "severity": "baja"
-   },
-   {
-    "id": "challenge democrats giving opening republicans rethink tariffs trump",
-    "type": "regulacion",
-    "title": "Republicans rethink tariffs , giving Democrats an opening to challenge Trump",
-    "url": "https://www.decaturdaily.com/news/other_news/national/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump/article_051a9c7f-61bc-4343-81da-9d04727e9022.html",
-    "domain": "decaturdaily.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-28T06:30:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
     "severity": "baja"
    },
    {
@@ -4221,31 +4284,14 @@
     ],
     "sectors": [],
     "severity": "baja"
-   },
-   {
-    "id": "brasil como devaluacion para post precios quedaron vacaciones",
-    "type": "divisa",
-    "title": "Vacaciones en Brasil post devaluación : cómo quedaron los precios para comer , pasar el día en la playa e ir al súper",
-    "url": "https://www.contextotucuman.com/nota/429033/vacaciones-en-brasil-post-devaluacion-como-quedaron-los-precios-para-comer-pasar-el-dia-en-la-playa-e-ir-al-super.html",
-    "domain": "contextotucuman.com",
-    "lang": "es",
-    "sourceCountry": "Argentina",
-    "at": "2026-11-21T16:30:00Z",
-    "countries": [
-     "BR"
-    ],
-    "sectors": [],
-    "severity": "baja"
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "arancel/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "regulacion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
