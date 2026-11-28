@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T08:37:51.483Z",
+ "updatedAt": "2026-11-28T09:32:47.273Z",
  "file": "alerts.json",
  "source": "GDELT Project (noticias de todo el mundo)",
  "sourceUrl": "https://www.gdeltproject.org/",
@@ -7,19 +7,35 @@
  "data": {
   "items": [
    {
-    "id": "contribution hellenic membership news shillings shipping worldwide your",
-    "type": "divisa",
-    "title": "Your membership contribution is £5 and 5 shillings … | Hellenic Shipping News Worldwide",
-    "url": "https://www.hellenicshippingnews.com/your-membership-contribution-is-5-and-5-shillings/",
-    "domain": "hellenicshippingnews.com",
-    "lang": "en",
-    "sourceCountry": "China",
-    "at": "2026-11-28T02:30:00Z",
-    "countries": [],
-    "sectors": [
-     "transporte"
+    "id": "algunos aranceles bajo impuestos lupa ponen republicanos trump",
+    "type": "arancel",
+    "title": "Republicanos ponen bajo la lupa algunos aranceles impuestos por Trump | GDA – Grupo de Diarios América",
+    "url": "https://gda.com/detalle-de-la-noticia/?article=6242890",
+    "domain": "gda.com",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-28T06:30:00Z",
+    "countries": [
+     "US"
     ],
+    "sectors": [],
     "severity": "baja"
+   },
+   {
+    "id": "chapo descarta extradicion isidro negociacion posible sheinbaum vincular",
+    "type": "arancel",
+    "title": "Sheinbaum descarta vincular posible extradición de El Chapo Isidro con negociación arancelaria de México y EU",
+    "url": "https://www.termometroenlinea.com.mx/vernoticiasN.php?artid=135441&cat=254",
+    "domain": "termometroenlinea.com.mx",
+    "lang": "es",
+    "sourceCountry": "Mexico",
+    "at": "2026-11-28T02:30:00Z",
+    "countries": [
+     "MX",
+     "EU"
+    ],
+    "sectors": [],
+    "severity": "media"
    },
    {
     "id": "2027 amplia autos decreto hasta importar mexico para",
@@ -52,20 +68,19 @@
     "severity": "baja"
    },
    {
-    "id": "chapo descarta extradicion isidro negociacion posible sheinbaum vincular",
-    "type": "arancel",
-    "title": "Sheinbaum descarta vincular posible extradición de El Chapo Isidro con negociación arancelaria de México y EU",
-    "url": "https://www.termometroenlinea.com.mx/vernoticiasN.php?artid=135441&cat=254",
-    "domain": "termometroenlinea.com.mx",
-    "lang": "es",
-    "sourceCountry": "Mexico",
+    "id": "contribution hellenic membership news shillings shipping worldwide your",
+    "type": "divisa",
+    "title": "Your membership contribution is £5 and 5 shillings … | Hellenic Shipping News Worldwide",
+    "url": "https://www.hellenicshippingnews.com/your-membership-contribution-is-5-and-5-shillings/",
+    "domain": "hellenicshippingnews.com",
+    "lang": "en",
+    "sourceCountry": "China",
     "at": "2026-11-28T02:30:00Z",
-    "countries": [
-     "MX",
-     "EU"
+    "countries": [],
+    "sectors": [
+     "transporte"
     ],
-    "sectors": [],
-    "severity": "media"
+    "severity": "baja"
    },
    {
     "id": "accused antisemitic attacks iran linked melbourne orchestrating sydney",
@@ -132,21 +147,6 @@
     "severity": "media"
    },
    {
-    "id": "challenge democrats giving opening republicans rethink tariffs trump",
-    "type": "regulacion",
-    "title": "Republicans rethink tariffs , giving Democrats an opening to challenge Trump",
-    "url": "https://www.wccbcharlotte.com/2026/11/27/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump/",
-    "domain": "wccbcharlotte.com",
-    "lang": "en",
-    "sourceCountry": "United States",
-    "at": "2026-11-27T23:45:00Z",
-    "countries": [
-     "US"
-    ],
-    "sectors": [],
-    "severity": "baja"
-   },
-   {
     "id": "acuerdo arancel colombia comercial exportaran firmara productos reciproco",
     "type": "arancel",
     "title": "Colombia firmará acuerdo comercial recíproco con EE . UU .: productos se exportarán con 0 % de arancel",
@@ -157,6 +157,21 @@
     "at": "2026-11-27T23:45:00Z",
     "countries": [
      "CO"
+    ],
+    "sectors": [],
+    "severity": "baja"
+   },
+   {
+    "id": "challenge democrats giving opening republicans rethink tariffs trump",
+    "type": "regulacion",
+    "title": "Republicans rethink tariffs , giving Democrats an opening to challenge Trump",
+    "url": "https://www.wccbcharlotte.com/2026/11/27/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump/",
+    "domain": "wccbcharlotte.com",
+    "lang": "en",
+    "sourceCountry": "United States",
+    "at": "2026-11-27T23:45:00Z",
+    "countries": [
+     "US"
     ],
     "sectors": [],
     "severity": "baja"
@@ -178,7 +193,7 @@
    },
    {
     "id": "amenaza arancelaria contra donald lanza mundo otra trump",
-    "type": "geo",
+    "type": "arancel",
     "title": "Lanza Donald Trump otra amenaza arancelaria contra el mundo - Almomento | Noticias , información nacional e internacional",
     "url": "https://almomento.mx/lanza-donald-trump-otra-amenaza-arancelaria-contra-el-mundo/",
     "domain": "almomento.mx",
@@ -4132,17 +4147,17 @@
    }
   ],
   "partialErrors": [
-   "arancel/english: fetch failed",
-   "arancel/spanish: fetch failed",
-   "sancion/english: fetch failed",
-   "sancion/spanish: fetch failed",
-   "logistica/english: fetch failed",
-   "logistica/spanish: fetch failed",
+   "arancel/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "sancion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
+   "logistica/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
    "regulacion/english: fetch failed",
-   "regulacion/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "divisa/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the",
-   "geo/english: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
+   "regulacion/spanish: fetch failed",
+   "divisa/english: fetch failed",
+   "divisa/spanish: fetch failed",
+   "geo/english: fetch failed",
+   "geo/spanish: HTTP 429: Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic users should switch to our ngrams dataset: https://blog.gdeltproject.org/using-the"
   ]
  }
 }
